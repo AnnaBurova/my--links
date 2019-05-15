@@ -1,5 +1,8 @@
 # Links
 
+- blog
+  - Anna Burova
+  - Selina Kuinn
 - telegram
   - Deutsch
   - Psychologie
