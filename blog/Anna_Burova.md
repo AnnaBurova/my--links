@@ -18,7 +18,7 @@
 
 ### Telegram - Groups
 
-- [SKAT MUSIC](https://t.me/skat_music) - @skat_music
+- [Anna's MUSIC](https://t.me/annas_music) - @annas_music
 - [SKAT VIDEO](https://t.me/skat_video) - @skat_video
 
 ### Telegram - Chats
