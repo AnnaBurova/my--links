@@ -38,4 +38,4 @@
   - [Hall of Monuments](https://hom.guildwars2.com/en/?#page=welcome) - EN
   - [API List of applications](https://wiki.guildwars2.com/wiki/API:List_of_applications) - EN
   - [Efficiency](https://gw2efficiency.com/) - EN
-  - [Farm Stuff | Timer](http://gw2timer.com/) - EN
+  - [Farm Stuff | Timer](https://gw2timer.com/) - EN
