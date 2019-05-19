@@ -44,5 +44,6 @@
   - [API Key Explorer](http://apps.keeky.net/Guild-Wars-2-API-Explorer/) - EN
   - [Efficiency](https://gw2efficiency.com/) - EN
   - [Efficiency API Git](https://github.com/gw2efficiency) - EN
+  - [Account Viewer](https://mygw2.wvwintel.com/) - EN
   - [Farm Stuff | Timer](https://gw2timer.com/) - EN
   - [Interactive Map of Tyria](http://gw2.mmorpg-life.com/interactive-maps/) - EN
