@@ -20,6 +20,19 @@
   - [Official Wiki](https://wiki.guildwars2.com/wiki/Main_Page) - EN
   - [Statistics of pages](https://wiki.guildwars2.com/wiki/Special:Statistics) - EN
 
+### WvWvW:
+
+  - [World Stats](http://gw2stats.com/eu) - EN
+
+### Trades:
+
+  - [Black Lion Trading Company](https://www.gw2bltc.com/en/) - EN
+
+### Software:
+
+  - [Taco](http://www.gw2taco.com/) - EN
+
 ### Tools:
 
   - [Hall of Monuments](https://hom.guildwars2.com/en/?#page=welcome) - EN
+  - [Efficiency](https://gw2efficiency.com/) - EN
