@@ -4,6 +4,10 @@
 
   - [A Tyrian Odyssey](http://atyrianodyssey.com/gw/) - EN
 
+### News:
+
+  - [Release](https://wiki.guildwars.com/wiki/Guild_Wars) - EN
+
 ### Wiki:
 
   - [Official Wiki](https://wiki.guildwars.com/wiki/Main_Page) - EN
