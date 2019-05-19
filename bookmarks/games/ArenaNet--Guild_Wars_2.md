@@ -7,6 +7,7 @@
   - [A Tyrian Odyssey](http://atyrianodyssey.com/gw2/) - EN
   - [Living World 1](https://gw2zone.net/living-world/living-story-season-1/Rezyumiruya-pervyiy-sezon.html) - RU
   - [История на русском](https://gw2zone.net/) - RU
+  - [Story Journal](https://wiki.guildwars2.com/wiki/Story_Journal) - EN
 
 ### News:
 
