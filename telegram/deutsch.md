@@ -1,7 +1,7 @@
 ## Deutsch
 
 - [(Не) только немецкий](https://t.me/nichtnurdeutsch/1)
-- [Alles klar!](https://t.me/alles_klar/1)
+- [Der Kanal](https://t.me/austriakanal/1)
 - [deutsch lernen](https://t.me/de_lernen/1)
 - [Deutsch_in_a_bottle](https://t.me/deutsch_in_a_bottle/1)
 - [ES Blog](https://t.me/es_blog/1)
@@ -11,7 +11,6 @@
 - [Германия и Право](https://t.me/gratis_recht/1)
 - [Глазами Богдана](https://t.me/bogdandevisu/1)
 - [Жизнь в Германии](https://t.me/lifegermany/1)
-- [Жизнь эмигранта](https://t.me/emigrants_diary/1)
 - [Карьера в Германии](https://t.me/ingermany/1)
 - [Маша из Германии](https://t.me/maria_germany/1)
 - [Мюнхен наш! / Munich is ours! / München ist unser!](https://t.me/munichIsOur/1)
@@ -21,7 +20,5 @@
 - [Немецкий язык](https://t.me/deutschonline/1)
 - [Пейсы и дожди](https://t.me/pasesandsand/1)
 - [Пришелец](https://t.me/rusdeutschland/1)
-- [Чат Мюнхена/Германии не для мальчиков](https://t.me/girlsingermany/1) - chat
-- [Чат серьезных экспатов Мюнхена](https://t.me/muenchentraktor/1) - chat
 - [Что там у немцев?](https://t.me/dwrussian/1)
 - [Шакшука по-немецки](https://t.me/shakshuka_de/1)
