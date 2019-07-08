@@ -1,1 +1,3 @@
+## Психология
+
 - [ПРОГРАММИРОВАНИЕ СОЗНАНИЯ и частица "не"](https://www.youtube.com/watch?v=-XZuofPlbYI)
