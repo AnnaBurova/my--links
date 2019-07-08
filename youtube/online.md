@@ -20,7 +20,6 @@
 - [x] [mmoboom](https://www.youtube.com/channel/UCBLfY10VWpGZ42sjVFVBdLg)
 - [x] [MMORPG.SU. Онлайн игры](https://www.youtube.com/channel/UCxxdTg_nqFdADGrz2eJ6hGA)
 - [x] [Mr.Negative Комиксы](https://www.youtube.com/channel/UCpHqrBKK9QVnSRgDotUMiMQ)
-- [x] [Naur](https://www.youtube.com/channel/UCFYaJYrGQAWuotpzTXWzucg)
 - [x] [NEMAGIA - Music / Музыка для YouTube](https://www.youtube.com/channel/UCkjfcubnou2hvgCK3WVoWMQ)
 - [x] [NEMAGIA](https://www.youtube.com/channel/UCGJLJ7p4jWNwWDY4j9OY8QA)
 - [x] [Noize MC](https://www.youtube.com/channel/UCgzshmpXAc1T30PHQ3Yw2lw)
