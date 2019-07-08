@@ -26,7 +26,6 @@
 - [x] [Plamenev](https://www.youtube.com/channel/UCnkFafRJSVMQrbn4Yd2iXfg)
 - [x] [S7 Airlines](https://www.youtube.com/channel/UCOza7SaIZzRg7sZtRcRsMTw)
 - [x] [SetTheCharge](https://www.youtube.com/channel/UCVfJQD8ocuAD6sPEawZtJsg)
-- [x] [SNAIL PLAY](https://www.youtube.com/channel/UCaZCzzC8SJaWz6VUSBYXtNA)
 - [x] [SNAILKICK](https://www.youtube.com/channel/UCdu1AosJcTPsQYFolNHki8Q)
 - [x] [SNAILPLAY](https://www.youtube.com/channel/UCaZCzzC8SJaWz6VUSBYXtNA)
 - [x] [SNAILQIQ](https://www.youtube.com/channel/UC5jNfUSTix-KC7_hgmcY5UA)
