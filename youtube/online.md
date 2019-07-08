@@ -1,7 +1,7 @@
 ## Online
 
 - [x] [AdamThomasMoran](https://www.youtube.com/channel/UC-27_Szq7BtHDoC0R2U0zxA)
-- [x] [AnthonyVincentMusic](https://www.youtube.com/channel/UC5w58oJse0evWF-S1Ywli6w)
+- [x] [Anthony Vincent](https://www.youtube.com/channel/UC5w58oJse0evWF-S1Ywli6w)
 - [x] [BadComedian](https://www.youtube.com/channel/UC6cqazSR6CnVMClY0bJI0Lg)
 - [x] [Bonya Kuzmich](https://www.youtube.com/channel/UCh0015DMPopo2-_1WsrKf9Q)
 - [x] [CarbotAnimations](https://www.youtube.com/channel/UC1uug_uZrVmylfPVBLBvitQ)
