@@ -29,6 +29,7 @@
 - [x] [SNAILKICK](https://www.youtube.com/channel/UCdu1AosJcTPsQYFolNHki8Q)
 - [x] [SNAILQIQ](https://www.youtube.com/channel/UC5jNfUSTix-KC7_hgmcY5UA)
 - [x] [SokoLoff TV](https://www.youtube.com/channel/UCWvojFEaSodoKG7Z-ZZo96A)
+- [x] [Sony Pictures Entertainment](https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw)
 - [x] [TED на русском языке](https://www.youtube.com/channel/UCkVfFOzvocgJ9srm3lc6Qsw)
 - [x] [Ten Second Songs](https://www.youtube.com/channel/UCm6r_b2K5jn1JGkwDcwJXrQ)
 - [x] [TheBroadwayShow](https://www.youtube.com/channel/UCfWqafyV4h6S_U_QpjT-6Ew)
