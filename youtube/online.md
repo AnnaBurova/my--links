@@ -5,7 +5,6 @@
 - [x] [BadComedian](https://www.youtube.com/channel/UC6cqazSR6CnVMClY0bJI0Lg)
 - [x] [Bonya Kuzmich](https://www.youtube.com/channel/UCh0015DMPopo2-_1WsrKf9Q)
 - [x] [CarbotAnimations](https://www.youtube.com/channel/UC1uug_uZrVmylfPVBLBvitQ)
-- [x] [Chimchira](https://www.youtube.com/channel/UCBvKS2LdzwPPWB5BetqIXeA)
 - [x] [Enjoyker](https://www.youtube.com/channel/UCnCZFLz-8IY4eZBxJDjKHSw)
 - [x] [Enjoykin](https://www.youtube.com/channel/UCIIDymHgUB6wD91-h8wlZdQ)
 - [x] [ExplosmEntertainment](https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw)
