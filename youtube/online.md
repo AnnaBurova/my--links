@@ -63,3 +63,4 @@
 - [x] [ТО «420»](https://www.youtube.com/channel/UCvNby-vCYhCZEp7gGFGNtBg)
 - [x] [Уголок Акра](https://www.youtube.com/channel/UCUFl0SxF14-eZGTxhWuhM8Q)
 - [x] [Уральские Пельмени](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
+- [x] [Sony Pictures Entertainment](https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw)
