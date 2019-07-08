@@ -1,4 +1,3 @@
-https://www.youtube.com/watch?v=-XZuofPlbYI
 https://www.youtube.com/watch?v=03N1jCsPBnE
 https://www.youtube.com/watch?v=04rpYVVeDDI
 https://www.youtube.com/watch?v=05TsKGc3AVw
