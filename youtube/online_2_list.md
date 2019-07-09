@@ -512,7 +512,6 @@ https://www.youtube.com/watch?v=03BIbNSVeY8
 https://www.youtube.com/watch?v=03D6Dkh2OkM
 https://www.youtube.com/watch?v=03dwejB11KA
 https://www.youtube.com/watch?v=03KIG1yCdA8
-https://www.youtube.com/watch?v=03p70dgQd8s
 https://www.youtube.com/watch?v=045JQVkv5vA
 https://www.youtube.com/watch?v=046V4KUr2E4
 https://www.youtube.com/watch?v=04IFBaDKdMw
