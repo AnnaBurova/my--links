@@ -56,6 +56,7 @@
 - [x] [КИСИМЯКА КОМИКСЫ](https://www.youtube.com/channel/UCsKYY7Tt0QGytUUrBNUx_VQ)
 - [x] [КИСИМЯКА](https://www.youtube.com/channel/UCIHGsEilDwDHjM36JZapXZw)
 - [x] [КЛИККЛАК](https://www.youtube.com/channel/UC5sSL56GJWCi4wsMpobTrAw)
+- [x] [Михаил Кшиштовский](https://www.youtube.com/channel/UC1ObG3sGl1ej7Y_-MtVcNgA)
 - [x] [Няшный Путлер](https://www.youtube.com/channel/UCHYmHwKmF8Gjp6_HCJ8x_sg)
 - [x] [Орк-подкастер](https://www.youtube.com/channel/UCedqnsVXjFlao53mKg7mnkQ)
 - [x] [Оркадий П.](https://www.youtube.com/channel/UCPZZring891k7JVnr70dlIw)
