@@ -62,6 +62,7 @@
 - [x] [Оркадий П.](https://www.youtube.com/channel/UCPZZring891k7JVnr70dlIw)
 - [x] [Руслан Усачев](https://www.youtube.com/channel/UCDaIW2zPRWhzQ9Hj7a0QP1w)
 - [x] [Сатья дас](https://www.youtube.com/channel/UCc_-qOw7RU61h7iY4_iremA)
+- [x] [Сталингулаг](https://www.youtube.com/channel/UCkcruN24mw2_ApM-dt8hxig)
 - [x] [ТО «420»](https://www.youtube.com/channel/UCvNby-vCYhCZEp7gGFGNtBg)
 - [x] [Уголок Акра](https://www.youtube.com/channel/UCUFl0SxF14-eZGTxhWuhM8Q)
 - [x] [Уральские Пельмени](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
