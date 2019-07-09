@@ -1,6 +1,6 @@
 ## GuildWars
 
-- [ ] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg)
+- [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg)
 - [ ] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ)
 - [ ] [MightyTeapot](https://www.youtube.com/channel/UCWXo84TV1a6XJZcDOuq6zaQ)
 - [x] [Blladefury](https://www.youtube.com/channel/UC7nUyGEbh_Teg39f_pU-xEg)
