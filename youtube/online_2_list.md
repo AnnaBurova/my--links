@@ -172,7 +172,6 @@ https://www.youtube.com/watch?v=-gazvuOYGlk
 https://www.youtube.com/watch?v=-gcMyNzEzg0
 https://www.youtube.com/watch?v=-giHoFlU_PE
 https://www.youtube.com/watch?v=-GLI76gra2g
-https://www.youtube.com/watch?v=-GlrPkn4M6g
 https://www.youtube.com/watch?v=-GMfeKFk8Co
 https://www.youtube.com/watch?v=-gTOK4hOq-w
 https://www.youtube.com/watch?v=-GxfwFXmj8o
