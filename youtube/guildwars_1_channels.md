@@ -8,6 +8,7 @@
 - [x] [DreamyAbaddon](https://www.youtube.com/channel/UCdBwDo_F1wNOxZmgjn-KxvA)
 - [x] [Guild Wars 2](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA)
 - [x] [Guild Wars 2 zone](https://www.youtube.com/channel/UCbHDzLNUyu_HT7nRSNjriUA)
+- [x] [INKS](https://www.youtube.com/channel/UCbVGUvx_9SuAYrgJOzBYT7Q)
 - [x] [INOY](https://www.youtube.com/channel/UCSoOx7NVJFnolqUwXZ2ghxQ)
 - [x] [Kyosika](https://www.youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg)
 - [x] [Noody](https://www.youtube.com/channel/UC-QH304zT3qOQ2PKrFmngSQ)
