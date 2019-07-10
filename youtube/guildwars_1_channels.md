@@ -1,7 +1,6 @@
 ## GuildWars
 
 - [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg)
-- [ ] [MightyTeapot](https://www.youtube.com/channel/UCWXo84TV1a6XJZcDOuq6zaQ)
 - [x] [Blladefury](https://www.youtube.com/channel/UC7nUyGEbh_Teg39f_pU-xEg)
 - [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ)
 - [x] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ)
@@ -11,6 +10,7 @@
 - [x] [INKS](https://www.youtube.com/channel/UCbVGUvx_9SuAYrgJOzBYT7Q)
 - [x] [INOY](https://www.youtube.com/channel/UCSoOx7NVJFnolqUwXZ2ghxQ)
 - [x] [Kyosika](https://www.youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg)
+- [x] [MightyTeapot](https://www.youtube.com/channel/UCWXo84TV1a6XJZcDOuq6zaQ)
 - [x] [Noody](https://www.youtube.com/channel/UC-QH304zT3qOQ2PKrFmngSQ)
 - [x] [OlafKS - GamesGrail](https://www.youtube.com/channel/UCRn-m-2nlUUWtBkPb4gRdTg)
 - [x] [Tekkit's Workshop](https://www.youtube.com/channel/UC0Feu7AF3QW-WvqRAgs1ycw)
