@@ -48,6 +48,7 @@
 - [x] [Еще Руслан Усачев](https://www.youtube.com/channel/UC_178WGDYraYPAc2U1FXDzg)
 - [x] [Игромания Кино](https://www.youtube.com/channel/UCbaxk35aRh1DfXILkdPGukw)
 - [x] [Игромания](https://www.youtube.com/channel/UC_Q1vhf7wcR_zGlc5ahAg0A)
+- [x] [Институт Б](https://www.youtube.com/channel/UCHNu81l8vpBbyrbeoYJgRIA)
 - [x] [Искатель](https://www.youtube.com/channel/UCyDUYGC9jcx-AMP_dKGTQZA)
 - [x] [Исцеляющие Медитации](https://www.youtube.com/channel/UCQ__rXROBpF6mKjCZ29ij9Q)
 - [x] [Канал Кшиштовского](https://www.youtube.com/channel/UCpuOloQLINtXESATBSDAgOQ)
