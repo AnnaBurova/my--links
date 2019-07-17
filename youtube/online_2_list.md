@@ -1,12 +1,3 @@
-https://www.youtube.com/watch?v=---o9AB0bdk
-https://www.youtube.com/watch?v=--2TtxlrGZk
-https://www.youtube.com/watch?v=--BgKpj0VWw
-https://www.youtube.com/watch?v=--e29F57ff8
-https://www.youtube.com/watch?v=--iSxeiSvLY
-https://www.youtube.com/watch?v=--KwDUJYVTU
-https://www.youtube.com/watch?v=--L1VUab2NY
-https://www.youtube.com/watch?v=--lmnmyIIa0
-https://www.youtube.com/watch?v=--t7NTMvPvA
 https://www.youtube.com/watch?v=--XeaN4cgxA
 https://www.youtube.com/watch?v=-01Pv27I5iM
 https://www.youtube.com/watch?v=-081LdzdPD0
