@@ -14,6 +14,7 @@
 - [x] [Lindsey Stirling](https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g)
 - [x] [LindseyTime](https://www.youtube.com/channel/UCWTD3EHR2SWV4D8WplDWFVg)
 - [x] [Little Big](https://www.youtube.com/channel/UCu7TZ_ATWgjgD9IrNLdnYDA)
+- [x] [Looper Россия](https://www.youtube.com/channel/UCh3EOqa3tAJUrgzB-1rqXrw)
 - [x] [Madeyewlook Twice](https://www.youtube.com/channel/UCI7w8UvDDnGn1IjyxneUqaQ)
 - [x] [Madeyewlook](https://www.youtube.com/channel/UCiXoZHFowJUlDVMuRFAwVAw)
 - [x] [MetalFamily](https://www.youtube.com/channel/UCdARvxgVxVzxvtyPb2CqO-w)
