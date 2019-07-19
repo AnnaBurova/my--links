@@ -22,7 +22,7 @@
 - [Smart Dev — веб-разработка, дизайн, программирование](https://t.me/smart_dev/1)
 - [TechSkills - обучение IT](https://t.me/techskill/1)
 - [THINGS PROGRAMMERS DO](https://t.me/thingsprogrammersdo/1)
-- [Udemy Courses Free](https://t.me/udemycoursesfree/552)
+- [Udemy Courses Free](https://t.me/udemycoursesfree/695)
 - [UdemyGratis](https://t.me/UdemyGratis/1)
 - [Web Design](https://t.me/webdesigndaily/1)
 - [Web Stack — FrontEnd/BackEnd/Design](https://t.me/web_stack/1)
