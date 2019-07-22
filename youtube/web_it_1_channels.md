@@ -2,7 +2,7 @@
 
 - [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
 - [x] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
-- [ ] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
+- [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
 - [ ] [bezbotvy](https://www.youtube.com/channel/UCP4ZkYVW3twRgX9knANWyrg)
 - [ ] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
 - [ ] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
