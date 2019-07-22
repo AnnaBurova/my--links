@@ -1,6 +1,6 @@
 ## Web IT
 
-- [ ] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
+- [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
 - [ ] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
 - [ ] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
 - [ ] [bezbotvy](https://www.youtube.com/channel/UCP4ZkYVW3twRgX9knANWyrg)
