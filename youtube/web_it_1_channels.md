@@ -5,7 +5,7 @@
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
 - [x] [bezbotvy](https://www.youtube.com/channel/UCP4ZkYVW3twRgX9knANWyrg)
 - [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
-- [ ] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
+- [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
 - [ ] [CMTV Грани Hi-Tech](https://www.youtube.com/channel/UC5dqkmvoovlmFsFZ3ACAVTw)
 - [ ] [CodeBabes](https://www.youtube.com/channel/UCVg4DAiKW5WgPKKbQAJ89MA)
 - [ ] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
