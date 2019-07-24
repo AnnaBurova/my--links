@@ -10,7 +10,7 @@
 - [x] [CodeBabes](https://www.youtube.com/channel/UCVg4DAiKW5WgPKKbQAJ89MA)
 - [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
 - [x] [codefestru](https://www.youtube.com/channel/UCH8zwr3rJOcgCApR_5z31cw)
-- [ ] [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [x] [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
 - [ ] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 - [ ] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [ ] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ)
