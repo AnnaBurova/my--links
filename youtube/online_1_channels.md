@@ -1,5 +1,6 @@
 ## Online
 
+- [x] [5-Minute Crafts](https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw)
 - [x] [AdamThomasMoran](https://www.youtube.com/channel/UC-27_Szq7BtHDoC0R2U0zxA)
 - [x] [Anthony Vincent](https://www.youtube.com/channel/UC5w58oJse0evWF-S1Ywli6w)
 - [x] [BadComedian](https://www.youtube.com/channel/UC6cqazSR6CnVMClY0bJI0Lg)
@@ -44,6 +45,7 @@
 - [x] [Агния Огонек](https://www.youtube.com/channel/UCD8cMdbEEcdIJsVtvwm836w)
 - [x] [Александр Пушной](https://www.youtube.com/channel/UCHH3KHUqDJX_CoRbqLy1zNg)
 - [x] [Бар в большом городе](https://www.youtube.com/channel/UCUbJYQmp_gAQWtaZn0ddO1w)
+- [x] [БЕРИ И ДЕЛАЙ](https://www.youtube.com/channel/UCDRVc_LN4TSbD86Rl18l9kQ)
 - [x] [вДудь](https://www.youtube.com/channel/UCMCgOm8GZkHp8zJ6l7_hIuA)
 - [x] [Данила Поперечный](https://www.youtube.com/channel/UCR-Hcwi27-Ee6VnGzmxE1pA)
 - [x] [Еще Руслан Усачев](https://www.youtube.com/channel/UC_178WGDYraYPAc2U1FXDzg)
