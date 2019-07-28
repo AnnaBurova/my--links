@@ -7,6 +7,7 @@
 - [x] [AdiChat/free_knowledge](https://github.com/AdiChat/free_knowledge) - 2017-04-16
 - [x] [AdiChat/Highway](https://github.com/AdiChat/Highway) - 2016-08-16
 - [x] [AdiChat/iq-1](https://github.com/AdiChat/iq-1) - 2019-04-19 (fork - OpenGenus/iq)
+- [x] [AdiChat/Just_A_Paint](https://github.com/AdiChat/Just_A_Paint) - 2015-09-08
 - [x] [AdiChat/web](https://github.com/AdiChat/web) - 2018-06-14 (fork - OpenGenus/web)
 - [x] [OpenGenus/iq](https://github.com/OpenGenus/iq) - 2019-04-19
 - [x] [OpenGenus/web](https://github.com/OpenGenus/web) - 2018-06-28
