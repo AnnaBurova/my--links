@@ -1,6 +1,7 @@
 ## Online
 
 - [x] [5-Minute Crafts FAMILY](https://www.youtube.com/channel/UC63mNFJR8EAb8wAIJwoCmTA)
+- [x] [5-Minute Crafts KIDS](https://www.youtube.com/channel/UC57XAjJ04TY8gNxOWf-Sy0Q)
 - [x] [5-Minute Crafts](https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw)
 - [x] [AdamThomasMoran](https://www.youtube.com/channel/UC-27_Szq7BtHDoC0R2U0zxA)
 - [x] [Anthony Vincent](https://www.youtube.com/channel/UC5w58oJse0evWF-S1Ywli6w)
