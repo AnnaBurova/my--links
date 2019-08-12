@@ -37,6 +37,8 @@
 ### Software:
 
   - [Taco](http://www.gw2taco.com/) - EN
+  - [Taco Addon - ReActif](https://www.heinze.fr/taco/?lang=en) - EN
+  - [Taco Addon - Tekkit's Guides](http://tekkitsworkshop.net/index.php/gw2-taco/download/all) - EN
 
 ### Tools:
 
