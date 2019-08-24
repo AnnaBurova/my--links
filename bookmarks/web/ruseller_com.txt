@@ -1,8 +1,14 @@
+# 00002 | https://ruseller.com/lessons.php?id=2
+# 00013 | https://ruseller.com/adds.php?id=13
+# 00014 | https://ruseller.com/adds.php?id=14
+# 00015 | https://ruseller.com/adds.php?id=15
+# 00016 | https://ruseller.com/adds.php?id=16
+# 99999 | zzz ------------------------------------------------------------------
 00000 | https://ruseller.com/adds.php
-00000 | https://ruseller.com/lessons.php
-00000 | https://ruseller.com/project.php
+00000 | https://ruseller.com/lessons.php (21 Декабря 2007)
+00000 | https://ruseller.com/project.php (10 Октября 2011)
 00000 | https://ruseller.com/service.php
-00002 | https://ruseller.com/lessons.php?id=2
+00000 | zzz --------------------------------------------------------------------
 00002 | https://ruseller.com/project.php?id=2
 00003 | https://ruseller.com/project.php?id=3
 00004 | https://ruseller.com/project.php?id=4
@@ -13,13 +19,9 @@
 00010 | https://ruseller.com/project.php?id=10
 00011 | https://ruseller.com/project.php?id=11
 00012 | https://ruseller.com/project.php?id=12
-00013 | https://ruseller.com/adds.php?id=13
 00013 | https://ruseller.com/project.php?id=13
-00014 | https://ruseller.com/adds.php?id=14
 00014 | https://ruseller.com/project.php?id=14
-00015 | https://ruseller.com/adds.php?id=15
 00015 | https://ruseller.com/project.php?id=15
-00016 | https://ruseller.com/adds.php?id=16
 00016 | https://ruseller.com/project.php?id=16
 00017 | https://ruseller.com/adds.php?id=17
 00017 | https://ruseller.com/project.php?id=17
