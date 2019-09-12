@@ -6,6 +6,6 @@
 - [Zi De Guqin Studio - Electronic Guqin & Handpan & Cajon](https://www.youtube.com/watch?v=fT2y9xmgNIY)
 - [Джордж Карлин - Планета в порядке](https://www.youtube.com/watch?v=H2v72sl76cE)
 - [Зачем за нами следят в соцсетях и кто продает наши данные? Большое интервью про Big Data](https://www.youtube.com/watch?v=LZIpsq1YyBg)
-- [ТО «420» - MMs03ep01 Про Костю [18+]](https://www.youtube.com/watch?v=VktwlnYeowE)
+- [ТО «420» - MMs03ep01 Про Костю 18+](https://www.youtube.com/watch?v=VktwlnYeowE)
 - [Noize MC — Следы на спине](https://www.youtube.com/watch?v=3-SXMJKVXPM)
 - [Noize MC - Говорящие Головы](https://www.youtube.com/watch?v=eUJ25SIprlY)
