@@ -11,7 +11,6 @@
 - [x] [Enjoyker](https://www.youtube.com/channel/UCnCZFLz-8IY4eZBxJDjKHSw)
 - [x] [Enjoykin](https://www.youtube.com/channel/UCIIDymHgUB6wD91-h8wlZdQ)
 - [x] [HD Трейлеры](https://www.youtube.com/channel/UCZuOa_5bjoD1b6PfwzlSXng)
-- [x] [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 - [x] [iLichShow](https://www.youtube.com/channel/UCmb1mMtwPfQ5WC-bVlqdJdg)
 - [x] [kamikadzedead](https://www.youtube.com/channel/UCDbsY8C1eQJ5t6KBv9ds-ag)
 - [x] [Lesllee](https://www.youtube.com/channel/UCBdeLc3WC-BCVWDOpyR6zmw)
@@ -73,3 +72,4 @@
 - [x] [ТО «420»](https://www.youtube.com/channel/UCvNby-vCYhCZEp7gGFGNtBg)
 - [x] [Уголок Акра](https://www.youtube.com/channel/UCUFl0SxF14-eZGTxhWuhM8Q)
 - [x] [Уральские Пельмени](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
+- [ ] [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
