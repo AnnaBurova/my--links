@@ -3,7 +3,7 @@
 - [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg) - 2019.09.13
 - [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ) - 2019.09.13
 - [x] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ) - 2019.09.13
-- [x] [Guild Wars 2](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA)
+- [x] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA) - 2019.09.13
 - [x] [Guild Wars 2 zone](https://www.youtube.com/channel/UCbHDzLNUyu_HT7nRSNjriUA)
 - [x] [INKS](https://www.youtube.com/channel/UCbVGUvx_9SuAYrgJOzBYT7Q)
 - [x] [INOY](https://www.youtube.com/channel/UCSoOx7NVJFnolqUwXZ2ghxQ)
