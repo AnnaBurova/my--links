@@ -73,3 +73,4 @@
 - [x] [Уголок Акра](https://www.youtube.com/channel/UCUFl0SxF14-eZGTxhWuhM8Q)
 - [x] [Уральские Пельмени](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
 - [ ] [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
+- [ ] [Peter PlutaX](https://www.youtube.com/channel/UCbaY6IEY0-pRHBU_qCswoNQ)
