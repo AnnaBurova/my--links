@@ -1,7 +1,6 @@
 ## GuildWars
 
 - [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg) - 2019.09.13
-- [x] [Blladefury](https://www.youtube.com/channel/UC7nUyGEbh_Teg39f_pU-xEg)
 - [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ)
 - [x] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ)
 - [x] [DreamyAbaddon](https://www.youtube.com/channel/UCdBwDo_F1wNOxZmgjn-KxvA)
