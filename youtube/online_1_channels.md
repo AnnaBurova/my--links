@@ -72,5 +72,7 @@
 - [x] [ТО «420»](https://www.youtube.com/channel/UCvNby-vCYhCZEp7gGFGNtBg)
 - [x] [Уголок Акра](https://www.youtube.com/channel/UCUFl0SxF14-eZGTxhWuhM8Q)
 - [x] [Уральские Пельмени](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
+- [ ] [Sheet Music Boss](https://www.youtube.com/channel/UCzTR9iSH-TFC4-ocDS_ll4A)
 - [ ] [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 - [ ] [Peter PlutaX](https://www.youtube.com/channel/UCbaY6IEY0-pRHBU_qCswoNQ)
+- [ ] [Piano Effect](https://www.youtube.com/channel/UCzya_93KXPFLqYoDSK68sWA)
