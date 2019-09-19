@@ -54,7 +54,6 @@
 - [x] [Игромания](https://www.youtube.com/channel/UC_Q1vhf7wcR_zGlc5ahAg0A)
 - [x] [Институт Б](https://www.youtube.com/channel/UCHNu81l8vpBbyrbeoYJgRIA)
 - [x] [Искатель](https://www.youtube.com/channel/UCyDUYGC9jcx-AMP_dKGTQZA)
-- [x] [Исцеляющие Медитации](https://www.youtube.com/channel/UCQ__rXROBpF6mKjCZ29ij9Q)
 - [x] [Канал Кшиштовского](https://www.youtube.com/channel/UCpuOloQLINtXESATBSDAgOQ)
 - [x] [КИНОНАХ](https://www.youtube.com/channel/UCCNFRc-PYX6LSC3wD8FbqIw)
 - [x] [КиноПоиск](https://www.youtube.com/channel/UC4tlrTXCBw6NPZ9nCA3_s9w)
@@ -73,7 +72,8 @@
 - [x] [Уголок Акра](https://www.youtube.com/channel/UCUFl0SxF14-eZGTxhWuhM8Q)
 - [x] [Уральские Пельмени](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
 
-- [ ] [Sheet Music Boss](https://www.youtube.com/channel/UCzTR9iSH-TFC4-ocDS_ll4A)
 - [ ] [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 - [ ] [Peter PlutaX](https://www.youtube.com/channel/UCbaY6IEY0-pRHBU_qCswoNQ)
 - [ ] [Piano Effect](https://www.youtube.com/channel/UCzya_93KXPFLqYoDSK68sWA)
+- [ ] [Sheet Music Boss](https://www.youtube.com/channel/UCzTR9iSH-TFC4-ocDS_ll4A)
+- [ ] [Исцеляющие Медитации](https://www.youtube.com/channel/UCQ__rXROBpF6mKjCZ29ij9Q)
