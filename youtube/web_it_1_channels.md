@@ -3,7 +3,6 @@
 - [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
 - [x] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
-- [x] [bezbotvy](https://www.youtube.com/channel/UCP4ZkYVW3twRgX9knANWyrg)
 - [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
 - [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
 - [x] [CMTV Грани Hi-Tech](https://www.youtube.com/channel/UC5dqkmvoovlmFsFZ3ACAVTw)
