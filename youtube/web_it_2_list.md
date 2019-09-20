@@ -709,7 +709,6 @@ Adam Khoury --- 0708 --- WAPG 7 3D Animation Technologies for Web Browser --- ht
 Adam Khoury --- 0709 --- Custom Checkbox and Radio Buttons Scratch Development Tutorial --- https://www.youtube.com/watch?v=jjRFSVBRrwA
 Adam Khoury --- 0710 --- JavaScript Date Time Object Tutorial --- https://www.youtube.com/watch?v=Kt3AuWZWUQ0
 Adam Khoury --- 0711 --- Analog Clock Development Tutorial JavaScript CSS --- https://www.youtube.com/watch?v=hWVCHcGSS7o
-Brad Hussey --- 0001 --- Little Women - The Weekly Volcano Press --- https://www.youtube.com/watch?v=CvduDhGLDnc
 Brad Hussey --- 0002 --- Little Women - Take a Chance on Me — Brad Hussey --- https://www.youtube.com/watch?v=lRkkM6OYAE4
 Brad Hussey --- 0003 --- Some Things Are Meant To Be --- https://www.youtube.com/watch?v=E-oIysHtX-c
 Brad Hussey --- 0004 --- Here Alone --- https://www.youtube.com/watch?v=cQcFt5fXOp0
