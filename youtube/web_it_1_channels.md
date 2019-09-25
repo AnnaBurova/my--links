@@ -2,14 +2,14 @@
 
 - [x] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
+- [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
+- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
 - [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
 - [x] [CMTV Грани Hi-Tech](https://www.youtube.com/channel/UC5dqkmvoovlmFsFZ3ACAVTw)
 - [x] [CodeBabes](https://www.youtube.com/channel/UCVg4DAiKW5WgPKKbQAJ89MA)
 - [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
 - [x] [codefestru](https://www.youtube.com/channel/UCH8zwr3rJOcgCApR_5z31cw)
 - [x] [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
-- [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - 19.09.2019
-- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) - 19.09.2019
 - [ ] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 - [ ] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [ ] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ)
