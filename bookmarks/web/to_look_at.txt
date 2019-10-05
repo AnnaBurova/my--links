@@ -1,3 +1,5 @@
+-> https://technori.com/2012/05/1693-how-to-make-money-as-a-new-developer/robbieabed/
+-> https://www.webdesignerdepot.com/2013/01/how-to-find-your-niche/
 http://1shoppingcart.com/
 http://1stwebdesigner.com/
 http://2010.dconstruct.org/
@@ -5979,6 +5981,7 @@ https://gist.github.com/
 https://git-scm.com/
 https://github.com/
 https://glyphdiff.yuki.rocks/
+https://gofreelance.ae/
 https://gomockingbird.com/
 https://goo.gl/
 https://google-code-prettify.googlecode.com/
@@ -6179,6 +6182,7 @@ https://understrap.com/
 https://unroll.me/
 https://unsplash.com/
 https://unsplash.it/
+https://upwork.com/
 https://url.spec.whatwg.org/
 https://uru-katsu.com/
 https://valitsus.ee/
@@ -6259,6 +6263,9 @@ https://www.firebase.com/
 https://www.flickr.com/
 https://www.fontsquirrel.com/
 https://www.freehostia.com/
+https://www.freelancer.com.ru/
+https://www.freelancer.com/
+https://www.freshbooks.com/
 https://www.fullbundle.com/
 https://www.gavick.com/
 https://www.geckoboard.com/
@@ -6271,6 +6278,7 @@ https://www.google.ru/
 https://www.googleapis.com/
 https://www.gosquared.com/
 https://www.grovepixels.com/
+https://www.guru.com/
 https://www.happyepargne-lejeu.com/
 https://www.heartinternet.uk/
 https://www.iconfinder.com/
@@ -6303,8 +6311,10 @@ https://www.muicss.com/
 https://www.neuralab.net/
 https://www.npmjs.com/
 https://www.nycpride.org/
+https://www.odeskwork.com/
 https://www.opentest.co/
 https://www.payfriendz.com/
+https://www.peopleperhour.com/
 https://www.photopea.com/
 https://www.photoshop.com/
 https://www.picatic.com/
