@@ -1,6 +1,5 @@
 ## GuildWars
 
-- [x] [Guild Wars 2 zone](https://www.youtube.com/channel/UCbHDzLNUyu_HT7nRSNjriUA) - 4K YT DL
 - [x] [INKS](https://www.youtube.com/channel/UCbVGUvx_9SuAYrgJOzBYT7Q)
 - [x] [INOY](https://www.youtube.com/channel/UCSoOx7NVJFnolqUwXZ2ghxQ)
 - [x] [Kyosika](https://www.youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg)
@@ -14,3 +13,4 @@
 - [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ) - 2019.10.06
 - [x] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ) - 2019.10.06
 - [x] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA) - 2019.10.06
+- [x] [Guild Wars 2 zone](https://www.youtube.com/channel/UCbHDzLNUyu_HT7nRSNjriUA) - 4K YT DL + 2019.10.06
