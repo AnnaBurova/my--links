@@ -1,7 +1,5 @@
 ## GuildWars
 
-- [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg) - 2019.09.13
-- [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ) - 2019.09.13
 - [x] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ) - 2019.09.13
 - [x] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA) - 2019.09.13
 - [x] [Guild Wars 2 zone](https://www.youtube.com/channel/UCbHDzLNUyu_HT7nRSNjriUA) - 4K YT DL
@@ -14,3 +12,5 @@
 - [x] [Tekkit's Workshop](https://www.youtube.com/channel/UC0Feu7AF3QW-WvqRAgs1ycw)
 - [x] [WoodenPotatoes  ](https://www.youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA)
 - [x] [WoodenPotatoes 2](https://www.youtube.com/channel/UC07_U_mN9-gljJkwcGbifcQ)
+- [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg) - 2019.10.06
+- [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ) - 2019.10.06
