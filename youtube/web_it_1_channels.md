@@ -1,9 +1,10 @@
 ## Web IT
 
 - [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - 11.10.2019
+- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) - 11.10.2019
+
 - [x] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
-- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
 - [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
 - [x] [CMTV Грани Hi-Tech](https://www.youtube.com/channel/UC5dqkmvoovlmFsFZ3ACAVTw)
 - [x] [CodeBabes](https://www.youtube.com/channel/UCVg4DAiKW5WgPKKbQAJ89MA)
