@@ -967,6 +967,7 @@ Brad Hussey --- 0255 --- Create an Irresistible Free Offer for Your Target Audie
 Brad Hussey --- 0256 --- The Magic of Automated Email Sequences #OfficeHoursLive #FreelancingFreedom --- https://www.youtube.com/watch?v=0KqaKho3nnM
 Brad Hussey --- 0257 --- Stop learning. Start doing. --- https://www.youtube.com/watch?v=ifAfweJtf_k
 Brad Hussey --- 0258 --- Why you need to charge WAY more for your consulting services --- https://www.youtube.com/watch?v=JAxpijpBV8o
+Brad Hussey --- 0259 --- Low Hanging Fruit SEO Tips to Boost Your Website Rankings --- https://www.youtube.com/watch?v=FjhwiTT2Ijg
 
 Chris Coyier --- 0001 --- Screencast #1: Converting a Photoshop Mockup (part 1 of 3) --- https://www.youtube.com/watch?v=I7qnS_d9idY
 Chris Coyier --- 0002 --- Screencast #4: Forcing Scrollbars: Eliminating "Horizontal Jumps" --- https://www.youtube.com/watch?v=rMU816plAkc
@@ -1228,3 +1229,4 @@ Chris Coyier --- 0257 --- Movable Stacked Card Row in CSS --- https://www.youtub
 Chris Coyier --- 0258 --- Hand-SVGing a Curved Line --- https://www.youtube.com/watch?v=pKMLPHfLN7k
 Chris Coyier --- 0259 --- Ooooops I guess we’re full-stack developers now. --- https://www.youtube.com/watch?v=YiBau30kIjI
 Chris Coyier --- 0260 --- Using Local Overrides in DevTools --- https://www.youtube.com/watch?v=iJYMP0x_EJk
+Chris Coyier --- 0261 --- 7 Things to Know About Webflow --- https://www.youtube.com/watch?v=YwAUdkEOhDg
