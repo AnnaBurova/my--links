@@ -4,12 +4,12 @@
 - [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) - 11.10.2019
 - [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - 11.10.2019
 - [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) - 11.10.2019
+- [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) - 11.10.2019
 
 - [x] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
 - [x] [codefestru](https://www.youtube.com/channel/UCH8zwr3rJOcgCApR_5z31cw)
 - [x] [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
-- [ ] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 - [ ] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [ ] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ)
 - [ ] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A)
