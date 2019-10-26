@@ -1,6 +1,7 @@
 ## Online
 
 - [x] [AdamThomasMoran](https://www.youtube.com/channel/UC-27_Szq7BtHDoC0R2U0zxA)
+- [x] [Adult Swim Deutschland](https://www.youtube.com/channel/UCwKTbeJrQhWaS7EDxxVur3A)
 - [x] [Anthony Vincent](https://www.youtube.com/channel/UC5w58oJse0evWF-S1Ywli6w)
 - [x] [BadComedian](https://www.youtube.com/channel/UC6cqazSR6CnVMClY0bJI0Lg)
 - [x] [Bonya Kuzmich](https://www.youtube.com/channel/UCh0015DMPopo2-_1WsrKf9Q)
@@ -24,9 +25,11 @@
 - [x] [NEMAGIA - Music / Музыка для YouTube](https://www.youtube.com/channel/UCkjfcubnou2hvgCK3WVoWMQ)
 - [x] [NEMAGIA](https://www.youtube.com/channel/UCGJLJ7p4jWNwWDY4j9OY8QA)
 - [x] [Noize MC](https://www.youtube.com/channel/UCgzshmpXAc1T30PHQ3Yw2lw)
+- [x] [Otyken & AndreyMedonos](https://www.youtube.com/channel/UCaesWTz3KTrvpSHIh3EaDRg)
 - [x] [Plamenev](https://www.youtube.com/channel/UCnkFafRJSVMQrbn4Yd2iXfg)
 - [x] [S7 Airlines](https://www.youtube.com/channel/UCOza7SaIZzRg7sZtRcRsMTw)
 - [x] [SetTheCharge](https://www.youtube.com/channel/UCVfJQD8ocuAD6sPEawZtJsg)
+- [x] [Sleepy Skunk](https://www.youtube.com/channel/UCFSGE8-8-fS6L1OUa-rP_kA)
 - [x] [SNAILKICK](https://www.youtube.com/channel/UCdu1AosJcTPsQYFolNHki8Q)
 - [x] [SNAILQIQ](https://www.youtube.com/channel/UC5jNfUSTix-KC7_hgmcY5UA)
 - [x] [SokoLoff TV](https://www.youtube.com/channel/UCWvojFEaSodoKG7Z-ZZo96A)
