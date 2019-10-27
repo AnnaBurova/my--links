@@ -55,11 +55,14 @@
 - [X-men Evolution - Walk on the Wild Side Clip](https://www.youtube.com/watch?v=ewYzkZQio9Q) - 2011
 - [Zi De Guqin Studio - Electronic Guqin & Handpan & Cajon - 'Inception'-Mombasa](https://www.youtube.com/watch?v=fT2y9xmgNIY) - 2019
 - [Александр Пушной - Как нужно делать сэлфи!](https://www.youtube.com/watch?v=BkG1Y4J_fPA) - 2011
+- [Америка Ищет Таланты - Tape Face](https://www.youtube.com/watch?v=YlaWGd1cUms) - 2016
 - [Артур Хачуян - Большое интервью про Big Data](https://www.youtube.com/watch?v=LZIpsq1YyBg) - 2018
 - [Боня и Кузьмич - Русская Баба (клип за 6 секунд)](https://www.youtube.com/watch?v=8ZoLqHZfpSk) - 2018
 - [Данила Поперечный - (Cover) ADELE - HELLO](https://www.youtube.com/watch?v=08Ig7c2t8V8) - 2015
 - [Данила Поперечный - STAND-UP "БЕЗ МАТА"](https://www.youtube.com/watch?v=NlHsQW5TA_8) - 2015
+- [Данила Поперечный - STAND-UP "ГДЕ СМЕЯТЬСЯ?!"](https://www.youtube.com/watch?v=dfglFWjyTLo) - 2017
 - [Данила Поперечный - STAND-UP "НЕЛИЦЕПРИЯТНЫЙ"](https://www.youtube.com/watch?v=IfTlqfHq1d8) - 2018
+- [Данила Поперечный - STAND-UP "Х_Й"](https://www.youtube.com/watch?v=fI28Y4_UqIg) - 2016
 - [Данила Поперечный - STAND-UP в Питере](https://www.youtube.com/watch?v=foAYwD11Ibo) - 2014
 - [Данила Поперечный - ЕБ&ШЬ!](https://www.youtube.com/watch?v=VUj0_rL9VoA) - 2017
 - [Данила Поперечный - МАРСИАНИН](https://www.youtube.com/watch?v=4vajjcwoW_g) - 2015
