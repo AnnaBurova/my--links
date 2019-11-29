@@ -28,6 +28,7 @@
 - [MetalFamily - Сезон 1 Серия 6](https://www.youtube.com/watch?v=ejJy6gpM0sI) - 2019
 - [MetalFamily - Сезон 1 Серия 7](https://www.youtube.com/watch?v=aLRWY2xy0CE) - 2019
 - [MetalFamily - Сезон 1 Серия 8](https://www.youtube.com/watch?v=Or_znPoZLLk) - 2019
+- [MetalFamily - Сезон 1 Серия 9](https://www.youtube.com/watch?v=FZdCQphiYIM) - 2019
 - [Noize MC - Говорящие Головы](https://www.youtube.com/watch?v=eUJ25SIprlY) - 2015
 - [Noize MC - Следы на спине](https://www.youtube.com/watch?v=3-SXMJKVXPM) - 2018
 - [Otyken - Ты нам родной](https://www.youtube.com/watch?v=5JJJ-zs2MiA) - 2019
