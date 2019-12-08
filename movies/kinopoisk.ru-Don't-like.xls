@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>оценки</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+</head>
+<body>
+<table>
+    <tr>
+        <td bgcolor="#f2f2f2" height="40" valign="top"><i>русскоязычное название</i></td>
+        <td bgcolor="#f2f2f2" valign="top"><i>оригинальное название</i></td>
+        <td bgcolor="#f2f2f2" valign="top"><i>год</i></td>
+        <td bgcolor="#f2f2f2" valign="top"><i>моя оценка</i></td>
+        <td bgcolor="#f2f2f2" valign="top"><i>мой комментарий</i></td>
+    </tr>
+    
+    <tr>
+        <td align="left" nowrap><b>Ван Гоги</b></td>
+        <td align="left" nowrap></td>
+        <td align="left">2018</td>
+        <td align="left">2</td>
+        <td align="left" nowrap></td>
+    </tr>
+    
+    <tr>
+        <td align="left" nowrap><b>Певец джаза</b></td>
+        <td align="left" nowrap>The Jazz Singer</td>
+        <td align="left">1927</td>
+        <td align="left">5</td>
+        <td align="left" nowrap></td>
+    </tr>
+    
+</table>
+</body>
+</html>
