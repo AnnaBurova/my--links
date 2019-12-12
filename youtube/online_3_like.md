@@ -40,6 +40,7 @@
 - [Shia LaBeouf - Just Do it! (Auto-tuned)](https://www.youtube.com/watch?v=gJscrxxl_Bg) - 2015
 - [Sleepy Skunk - Movie Trailer Mashup](https://www.youtube.com/watch?v=kBocu91KBUw) - 2018
 - [SNAILKICK - ЧТО ТАКОЕ ARTICLE 13!? И почему это страшно...](https://www.youtube.com/watch?v=Efvm_BMod-M) - 2019
+- [Snake Song Песенка змеи №2](https://www.youtube.com/watch?v=LiE9RC1DrVk) - 2011
 - [TED Talk - Amy Cuddy - Fake it Till You Make it](https://www.youtube.com/watch?v=RVmMeMcGc0Y) - 2016
 - [The Guild - Do You Wanna Date My Avatar](https://www.youtube.com/watch?v=urNyg1ftMIU) - 2009
 - [The Guild - Game On](https://www.youtube.com/watch?v=xMrN3Rh55uM) - 2010
