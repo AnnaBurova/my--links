@@ -76,8 +76,3 @@
 - [ ] [Piano Effect](https://www.youtube.com/channel/UCzya_93KXPFLqYoDSK68sWA)
 - [ ] [Sheet Music Boss](https://www.youtube.com/channel/UCzTR9iSH-TFC4-ocDS_ll4A)
 - [ ] [Исцеляющие Медитации](https://www.youtube.com/channel/UCQ__rXROBpF6mKjCZ29ij9Q)
-
-- [5-Minute Crafts FAMILY](https://www.youtube.com/channel/UC63mNFJR8EAb8wAIJwoCmTA)
-- [5-Minute Crafts KIDS](https://www.youtube.com/channel/UC57XAjJ04TY8gNxOWf-Sy0Q)
-- [5-Minute Crafts](https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw)
-- [БЕРИ И ДЕЛАЙ](https://www.youtube.com/channel/UCDRVc_LN4TSbD86Rl18l9kQ)
