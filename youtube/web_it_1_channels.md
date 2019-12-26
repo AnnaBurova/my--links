@@ -79,3 +79,5 @@
 - [ ] [Учись - программированию - бесплатно](https://www.youtube.com/channel/UCYcOu-hGM8gqcXFU1jnFJtg)
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [ ] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg)
+https://www.youtube.com/user/Weibenfalk/videos
+https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w
