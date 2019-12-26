@@ -41,4 +41,4 @@
 - [ ] [Типичный программист](https://t.me/tproger_official/1)
 - [ ] [Фронтендщик](https://t.me/frontendshik/1)
 - [x] [Udemy Courses Free](https://t.me/udemycoursesfree/832)
-- [x] [UdemyGratis](https://t.me/UdemyGratis/17567)
+- [x] [UdemyGratis](https://t.me/UdemyGratis/18415)
