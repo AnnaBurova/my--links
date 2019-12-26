@@ -40,5 +40,5 @@
 - [ ] [Типичный Верстальщик](https://t.me/tpverstak/1)
 - [ ] [Типичный программист](https://t.me/tproger_official/1)
 - [ ] [Фронтендщик](https://t.me/frontendshik/1)
-- [x] [Udemy Courses Free](https://t.me/udemycoursesfree/832)
+- [x] [Udemy Courses Free](https://t.me/udemycoursesfree/992)
 - [x] [UdemyGratis](https://t.me/UdemyGratis/18415)
