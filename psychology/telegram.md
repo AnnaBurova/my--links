@@ -1,0 +1,15 @@
+## Psychologie
+
+- [ ] [FEDOR BORSHEV](https://t.me/pmdaily/1)
+- [ ] [TrendMedia](https://t.me/TrendMediaChannel/1)
+- [ ] [Авернус](https://t.me/avernuslab/1)
+- [ ] [Бери и Делай!](https://t.me/energia_uspexa/1)
+- [ ] [Дом Саморазвития](https://t.me/domsamorazvitiya/1)
+- [ ] [Идеальный сотрудник](https://t.me/russiaHH/1)
+- [ ] [Маги шутят](https://t.me/bash_mag/1)
+- [ ] [Мистер Заурядность](https://t.me/mrzauryadnost/1)
+- [ ] [Мэверик](https://t.me/freeman365/1)
+- [ ] [Николай Додонов](https://t.me/n_dodonov/1)
+- [ ] [Репутационный маркетинг](https://t.me/prmove/1)
+- [ ] [Роман Досов | Формула успеха](https://t.me/romandosov_blog/1)
+- [ ] [Сказ маркетолога](https://t.me/moj_marketing/1)
