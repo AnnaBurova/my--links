@@ -1,6 +1,5 @@
 ## Web IT
 
-- [ ] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
 - [ ] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
 - [ ] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 - [ ] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
@@ -80,3 +79,4 @@
 - [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - 29.03.2019
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) - 25.01.2011
 - [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) - 14.11.2019
+- [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
