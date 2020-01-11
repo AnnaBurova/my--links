@@ -13,7 +13,9 @@ http://10monkeys.com/us/
 http://1100architect.com/
 http://123freevectors.com/
 http://123freevectors.com/free-vector-download/free-vector-art/
+http://1340.ru/
 http://16personalities.com/ru
+http://1c-answer.ru/
 http://1kbgrid.com/
 http://1lydesign.com/
 http://1popov.ru/disc1/
@@ -42,6 +44,7 @@ http://29digital.net/grid/
 http://2advanced.com/
 http://2f-design.fr/
 http://2f-design.fr/juntos/
+http://301-1.ru/gen-mems/
 http://360slider.com/
 http://365psd.com/
 http://365psd.com/day/3-39/
@@ -92,10 +95,13 @@ http://4pda.ru/
 http://4pda.ru/2011/11/09/49688/
 http://4pda.ru/forum/lofiversion/index.php?t480973.html
 http://4users.info/potreblenie-pamyati-brauzerami/
+http://70378/
 http://7428.net/
 http://7428.net/category/free-vector
 http://8020select.com/
+http://83424.ru/
 http://89bytes.com/
+http://8e9c/
 http://95.213.140.66/
 http://95.213.140.66/freebie/little_cutie.zip
 http://95.213.140.66/freebie/Logawa-Script.zip
@@ -120,6 +126,7 @@ http://9lessons.info/2015/03/audio-recording-with-custom-audio.html
 http://9lessons.info/2015/04/google-charts-with-jquery-ajax.html
 http://9lessons.info/2015/05/custom-audio-player-with-jquery-audio.html
 http://9lessons.info/2016/07/ad-blocker-detector-for-adsense-with.html
+http://a-panov.ru/
 http://a-panov.ru/youtube-api-v3-api-key/
 http://a.singlediv.com/
 http://a2.twimg.com/profile_images/1132696610/securedownload_bigger.jpeg
@@ -175,6 +182,7 @@ http://adengage.com/sell-internet-ads/
 http://adf.ly/
 http://adf.ly/1ZzMkB
 http://adhamdannaway.com/
+http://adik.rurs.net/
 http://aditshukla.com/
 http://adlab.msn.com/
 http://adlab.msn.com/contextSim/Default.aspx
@@ -252,6 +260,7 @@ http://alaska.gov/
 http://albumartcollection.com/
 http://alchourouk.com/
 http://aleksi.su/
+http://aleksmir.ru/
 http://aleqt.com/
 http://alessandroferrini.it/
 http://alessandroferrini.it/lab/jQueryPlugins/ferroSlider/docs/
@@ -274,6 +283,53 @@ http://alexwolfe.github.io/Buttons/
 http://alfredobarron.github.io/
 http://alfredobarron.github.io/smoke/
 http://alfredobarron.github.io/smoke/?ref=jQueryCards.com
+http://ali.pub/0s3o7
+http://ali.pub/17rtfy
+http://ali.pub/1dvij
+http://ali.pub/20jimh
+http://ali.pub/21d7mq
+http://ali.pub/21d7tx
+http://ali.pub/23mqw7
+http://ali.pub/248axz
+http://ali.pub/25nfv9
+http://ali.pub/29n3oa
+http://ali.pub/29n46y
+http://ali.pub/2au859
+http://ali.pub/2b0ksa
+http://ali.pub/2b0lda
+http://ali.pub/2bltpw
+http://ali.pub/2blvw2
+http://ali.pub/2ds1sr
+http://ali.pub/2ds40a
+http://ali.pub/2enua
+http://ali.pub/2iry9
+http://ali.pub/2nvzc
+http://ali.pub/3idsa
+http://ali.pub/4b31u
+http://ali.pub/7ov36
+http://ali.pub/96htf
+http://ali.pub/a0y8j
+http://ali.pub/awgk2
+http://ali.pub/ealmt
+http://ali.pub/esd5g
+http://ali.pub/gjfr0
+http://ali.pub/ilvcq
+http://ali.pub/jw0ts
+http://ali.pub/l8vx3
+http://ali.pub/lfc1g
+http://ali.pub/n9lzm
+http://ali.pub/njhxm
+http://ali.pub/nr6tc
+http://ali.pub/pnxt7
+http://ali.pub/qdhse
+http://ali.pub/rj386
+http://ali.pub/ufj1k
+http://ali.pub/ulyfk
+http://ali.pub/vfbah
+http://ali.pub/vo63t
+http://ali.pub/w7l5b
+http://ali.pub/wpybr
+http://ali.pub/znefm
 http://alibaba.github.io/
 http://alibaba.github.io/weex/
 http://alice-grafixx.com/
@@ -287,6 +343,7 @@ http://alistapart.com/articles/sprites
 http://alizahid.github.io/
 http://alizahid.github.io/jquery-sliding-menu/
 http://aljazeera.net/
+http://alkoraiders.ru/
 http://all-for-vkontakte.ru/
 http://all-free-download.com/
 http://all-free-download.com/free-vector/download/free_damask_seamless_pattern_144529.html
@@ -301,6 +358,7 @@ http://alohaeditor.org/
 http://alovefordesign.com/
 http://alovefordesign.com/5-jquery-must-have-code-snippets/
 http://alriyadh.com/
+http://altersoftonline.com/
 http://alvarotrigo.com/
 http://alvarotrigo.com/fullPage/
 http://alves.im/
@@ -361,6 +419,7 @@ http://anthelios.laroche-posay.ca/
 http://anthelios.laroche-posay.ca/en
 http://antifavicon.com/
 http://antiquepianoshop.com/
+http://anton.shevchuk.name/javascript/jquery-for-beginners-ajax/
 http://antonbolin.se/
 http://antonbolin.se/bajern.zip
 http://antoniojohnson.me/
@@ -506,6 +565,7 @@ http://askapache.com/wordpress/htaccess-password-protect.html
 http://asp.net/
 http://asp.net/ajaxlibrary/CDN.ashx
 http://asphaltgold.de/
+http://astranar.ru/
 http://astuteo.com/
 http://asylummarketing.com/
 http://atebits.com/
@@ -530,6 +590,7 @@ http://audible.com/
 http://audible.com/pap
 http://audiko.net/
 http://audiko.net/404
+http://auromag.ru/
 http://auroraos.org/
 http://aussiebbqlegends.com/
 http://austinbeerworks.com/
@@ -745,6 +806,7 @@ http://backbonejs.com/
 http://backbonejs.org/
 http://badminton-center.com/
 http://bagigia.com/
+http://bahurtsev.ru/
 http://baianat.com/
 http://baianat.com/resources/blobs/
 http://baianat.com/resources/stark/
@@ -879,6 +941,7 @@ http://bit.ly/1gZrOSl
 http://bit.ly/1L22ODL
 http://bit.ly/1ObS09L
 http://bit.ly/1PRXMu2
+http://bit.ly/2HSHntA
 http://bit.ly/404040404
 http://bit.ly/SaaYw5
 http://bit.ly/the-band-psd
@@ -969,9 +1032,11 @@ http://blog.templatemonster.com/2015/06/10/free-minimal-icon-sets/
 http://blog.templatemonster.com/2015/11/16/free-banners-ads-set-holiday-edition/
 http://blog.x-cart.com/
 http://blog.x-cart.com/cloud-search-goes-free-to-replace-instant-search.html
+http://blogap.ru/
 http://blogs.msdn.com/
 http://blogs.techsmith.com/tips-how-tos/camtasia-studio-8-new-audio-tutorials/
 http://blogwhatdesign.com/
+http://blokg.ru/
 http://blokkfont.com/
 http://bloody-hell.pl/
 http://bloomeon.io/
@@ -995,6 +1060,7 @@ http://boag.online/
 http://boag.online/playground/maglev/
 http://bobgalmarini.com/
 http://bobwassermann.me/
+http://bodysays.ru/
 http://boedesign.com/
 http://boedesign.com/blog/2009/10/22/jsquares-for-jquery/
 http://bohemiadesign.co.uk/
@@ -1004,6 +1070,7 @@ http://bohemianalps.com/tools/grid/
 http://bohemiancoding.com/
 http://bohemiancoding.com/fontcase/index.html
 http://boingboing.net/
+http://bomberuss.ru/
 http://bondsy.com/
 http://bonsaijs.org/
 http://bonuscodewot.ru/razdacha-segodnya.html
@@ -1271,6 +1338,7 @@ http://catswhocode.com/blog/php-snippets-to-interact-with-twitter
 http://catswhocode.com/blog/snippets/automatically-creates-variables-with-the-same-name-as-the-key-in-the-post-array
 http://catswhocode.com/blog/snippets/download-save-a-remote-image-on-your-server-using-php
 http://cbssports.com/
+http://cc-s.info/
 http://cc.com/
 http://cdhpartners.com/
 http://cdn.idealo.com/folder/Product/861/4/861485/s1_produktbild_mid/tullamore-dew-irish-whiskey-0-7l-40.jpg
@@ -1291,6 +1359,7 @@ http://cferdinandi.github.io/
 http://cferdinandi.github.io/kraken/
 http://cgispread.com/
 http://chababs.com/
+http://chaik.info/
 http://challonge.com/ru/CWarenatour
 http://champion.gg/
 http://channel4.com/
@@ -3523,12 +3592,14 @@ http://danwebb.net/
 http://dardarkom.com/
 http://daringfireball.net/
 http://darkcrimson.com/
+http://darkghost.pp.ua/
 http://darsa.in/
 http://darsa.in/motio/
 http://darsa.in/sly/
 http://dasselundwagner.com/
 http://dasselundwagner.com/en/
 http://datadrivenlondon.com/
+http://datasheet.com.ua/
 http://datavinci.sk/
 http://datavinci.sk/en/
 http://davatron5000.github.io/
@@ -3569,6 +3640,7 @@ http://dc133.file.qip.ru/download/101843995/faf05375/adds.zip
 http://dcarter.co.uk/
 http://dcovery.com/
 http://de.wikipedia.org/
+http://deadlylaugh.org.ru/
 http://dealjumbo.com/
 http://dealjumbo.com/downloads/3-free-simple-badge-templates-v-1/
 http://dealjumbo.com/downloads/8-simple-badge-templates/
@@ -3687,6 +3759,7 @@ http://demostore.x-cart.com/
 http://demostore.x-cart.com/?cloud&_ga=1.221679000.1088257151.1409686240
 http://dena.com/
 http://dena.com/intl/
+http://denabachin.url.ph/
 http://dendy.com.ua/player/emulator/index.php?rom=/wp-content/uploads/2012/03/Snow_Bros.nes&c=1360936302&fullscreen=1
 http://denisechandler.com/
 http://denisechandler.com/contact.html
@@ -3945,8 +4018,10 @@ http://disney.go.com/
 http://disney.go.com/monsters-university/
 http://disney.go.com/thewizard/
 http://diveintohtml5.info/forms.html
+http://diving-hurghada.ru/
 http://dixso.github.io/
 http://dixso.github.io/custombox/
+http://djager.ru/
 http://djmcloud.danieljmckeown.com/
 http://djmcloud.danieljmckeown.com/portagebay/
 http://dl.dropbox.com/
@@ -3956,8 +4031,10 @@ http://dmitry-ivanov.me/
 http://dmitry-ivanov.me/projects/waterfall/
 http://dmitry.baranovskiy.com/
 http://dmitry.baranovskiy.com/raphael/
+http://dnevnik.ipatov-soft.ru/
 http://dnevniki-vampira.org/online/3-season/14-seria-3-season.html
 http://doabackflip.com/
+http://doblab.ru/
 http://docs.emmet.io/
 http://docs.emmet.io/actions/base64/
 http://docs.emmet.io/actions/update-image-size/
@@ -4366,6 +4443,7 @@ http://english-films.com/
 http://engrofoods.com/
 http://enixel.com/
 http://enjoycss.com/
+http://enoves.ru/
 http://entanglement.gopherwoodstudios.com/
 http://enterrodagata.aaum.pt/
 http://entypo.com/
@@ -4594,6 +4672,7 @@ http://farmhousefare.co.uk/
 http://fashionserved.com/
 http://fashionserved.com/gallery/Fashion/731038
 http://fastcompany.com/
+http://fatcoon.com/
 http://fatdragon.com.au/
 http://fatorcriativo.com.br/
 http://favicon.cc/
@@ -4629,6 +4708,7 @@ http://feeds2.feedburner.com/tympanus
 http://felicegattuso.com/
 http://felicegattuso.com/projects/timedropper/
 http://feltpresence.com/
+http://fermastudio.com/
 http://fevenamenu.com/
 http://fezvrasta.github.io/
 http://fezvrasta.github.io/bootstrap-material-design/
@@ -5116,6 +5196,7 @@ http://gamesisart.ru/pc/Diablo_3_Achievements.html
 http://gamesofdesire.com/quest/elana-champion-of-lust-alpha-3-0/
 http://garant.ru/doc/law/
 http://garde.sylvanas.free.fr/ressources/Guides/Macros-Addons/Wiley-World.of.Warcraft.Programming.A.Guide.and.Reference.for.Creating.WoW.Addons.pdf
+http://garmoni.inf.ua/
 http://garralab.com/
 http://garralab.com/hiddenposition.php
 http://garrettleight.com/
@@ -5275,6 +5356,7 @@ http://gmarwaha.com/
 http://gmarwaha.com/jquery/jcarousellite/
 http://gmbox.ru/hearthstone-heroes-of-warcraft/hearthstone-rukovodstvo-po-prohozhdeniyu-chernoy-gory
 http://gmbox.ru/hearthstone-heroes-warcraft/prohozhdenie-hearthstone-proklyatie-naksramasa
+http://gmpg.org/xfn/11
 http://gnu.org/
 http://gnu.org/licenses/gpl.html
 http://gnu.org/licenses/lgpl.html
@@ -5394,6 +5476,7 @@ http://gosphero.com/
 http://gotmilk.com/
 http://gouvernement.lu/
 http://gov.za/
+http://gphp.ru/
 http://grab.co.id/
 http://grabaperch.com/
 http://gracepointafterfive.com/
@@ -5764,6 +5847,7 @@ http://hosseinkarami.github.io/fastshell/
 http://hosting-ninja.ru/
 http://hosting-ninja.ru/rating/
 http://hosting-ninja.ru/rating/versio/videouroki.html?video=1
+http://hosting/
 http://hosting101.ru/hostinger.ru
 http://hostip.info/
 http://hotdot.pro/
@@ -5845,6 +5929,7 @@ http://htmlpurifier.org/
 http://htmlremix.com/
 http://htmlremix.com/about
 http://htmlremix.com/css/curved-corner-border-radius-cross-browser
+http://http//anlemag.ru%26
 http://httpd.apache.org/
 http://httpd.apache.org/docs/2.0/mod/mod_deflate.html
 http://httpd.apache.org/docs/2.4/
@@ -5916,6 +6001,7 @@ http://ianlunn.github.io/Hover/
 http://ibsensfabrikker.dk/
 http://icalialabs.github.io/
 http://icalialabs.github.io/furatto/index.html
+http://icar-soft.ru/
 http://icblind.com/
 http://iceablethemes.com/
 http://iceablethemes.com/shop/blackoot-lite/
@@ -6001,8 +6087,10 @@ http://ifancyasnog.com/
 http://igloolab.com/
 http://igloolab.com/jquery-html5-uploader/
 http://ignitemotion.com/
+http://igor-ok.ru/post/25/ubuntu_cron_php
 http://iioengine.com/
 http://ikbis.com/
+http://iletyou.ru/
 http://illucolor.fr/
 http://illucolor.fr/illucolor404.html
 http://iloveicons.ru/
@@ -6108,6 +6196,7 @@ http://insurrectionx.deviantart.com/art/damask-wallpaper-2-93054771
 http://insurrectionx.deviantart.com/art/damask-wallpaper-85958835
 http://insymbiosis.com/
 http://intel.com/
+http://inter-activ.ru/
 http://interactivered.com/
 http://interactjs.io/
 http://interiors.davroc.co.uk/
@@ -6135,6 +6224,7 @@ http://ioninteractive.com/
 http://ioninteractive.com/post-click-marketing-blog/2013/11/20/18-mind-blowing-landing-page-stats-infographic
 http://ios10.greatsimple.io/
 http://ipadpeek.com/
+http://ipgeobase.ru/
 http://ipinfo.info/
 http://ipinfo.info/netrenderer/
 http://ipinfo.io/
@@ -6146,6 +6236,7 @@ http://irrland.sonntagskunst.de/
 http://irs.gov/
 http://irs.gov/individuals/index.html
 http://irs.gov/taxpros/index.html
+http://is-all.ru/
 http://is.gd/
 http://ishothim.com/
 http://islreview.com/
@@ -6161,6 +6252,8 @@ http://istockphoto.com/PdUi392Q
 http://isurfbecause.com/
 http://it-ebooks.info/
 http://it-ebooks.info/book/1/
+http://it.ru/
+http://it4u.kz/
 http://italiokitchen.com/
 http://itdumka.com.ua/
 http://itdumka.com.ua/index.php?cmd=shownode&node=17
@@ -6295,6 +6388,7 @@ http://jiko.neoname.eu/
 http://jimbomatic.com/
 http://jimbomatic.com/svg-gradient/
 http://jingproject.com/
+http://jkeks.ru/
 http://joaopereirawd.github.io/
 http://joaopereirawd.github.io/animatedModal.js/
 http://joaopereirawd.github.io/fakeLoader.js/
@@ -6336,6 +6430,7 @@ http://jorgeatgu.github.io/svg-filters/
 http://jorgegera.com/
 http://joshuaraichur.com/
 http://joshuastearns.com/
+http://josvolkers.blogspot.com/2013/09/interpretator-orgelpatch-playnote.html
 http://joy-interactive.com/
 http://joyndaycare.com/
 http://joystiq.com/
@@ -6589,6 +6684,7 @@ http://kevs3d.co.uk/dev/arena5/
 http://keycode.info/
 http://khele.in/
 http://khele.in/pappu-pakia/
+http://kids-tube.ru/mister_max/
 http://kidswb.com/
 http://kihaad.deviantart.com/
 http://kihaad.deviantart.com/gallery/2357340/Pattern
@@ -6640,6 +6736,7 @@ http://kontain.com/
 http://konvajs.github.io/
 http://kopatheme.com/
 http://kopatheme.com/freebies/new-maxx-free-wordpress-blog-theme/
+http://kosiki.ru/
 http://kottke.org/
 http://kovidesign.sk/
 http://kovidesign.sk/en/
@@ -6657,6 +6754,7 @@ http://kriesi.at/wp-content/extra_data/suckerfish_tutorial/step4.html
 http://kriscolvin.com/
 http://kristaganelon.com/
 http://kristianbediiako.com/
+http://kromka.info/
 http://krut.sourceforge.net/
 http://ksylvest.github.io/
 http://ksylvest.github.io/jquery-gridly/
@@ -6672,6 +6770,7 @@ http://kulerthemes.com/
 http://kulerthemes.com/theme/zorka-intuitive-fashion-opencart-theme/
 http://kunkalabs.com/
 http://kunkalabs.com/im/favicon.ico
+http://kupiprodayufa.ru/
 http://kurtnoble.com/
 http://kurtnoble.com/labs/rrssb/
 http://kurufin.ru/html/Name_generator/random_name_english.html
@@ -6699,6 +6798,7 @@ http://lab.smashup.it/
 http://lab.smashup.it/flip/
 http://lab.xms.pl/
 http://lab.xms.pl/css-generator/
+http://labdes.ru/
 http://labnol.org/
 http://labnol.org/internet/light-youtube-embeds/27941/
 http://labs.bigroomstudios.com/
@@ -6729,6 +6829,7 @@ http://lajungle.fr/
 http://lamaddalena.pl/
 http://lamaddalena.pl/index-high.html
 http://lamplighter.io/
+http://landing.center-www.com/
 http://landofcode.com/
 http://landofcode.com/online-code-editor.php
 http://landolakes.com/
@@ -6786,6 +6887,7 @@ http://leaverou.github.com/
 http://leaverou.github.com/prefixfree/
 http://leaverou.me/
 http://leaverou.me/css3patterns/
+http://lebedev-am.ru/
 http://lebronjames.com/
 http://leedsbuildingsociety.co.uk/
 http://leedsbuildingsociety.co.uk/resources/kick-my-habits/
@@ -6831,6 +6933,7 @@ http://lifehacker.ru/2014/10/06/green-smoothies-recipes/
 http://lifeofpix.com/
 http://lifx.co/
 http://lightwing.co/
+http://likemike.ru/
 http://liliaplanet.com/
 http://lily-lily.jp/
 http://limelightnetworks.com/
@@ -6891,8 +6994,10 @@ http://loadergenerator.com/
 http://loc.gov/
 http://loc.gov/marc/bibliographic/
 http://localhost/
+http://localhost/mvc/
 http://localhost/OpencartStore
 http://localhost/OpencartStore/admin
+http://localhost/warr/index.php?id=2
 http://localhost:3000/
 http://localhost:3000/users
 http://localhost:3000/users/1
@@ -7021,6 +7126,7 @@ http://lvivski.com/anima/
 http://lynda.com/
 http://lynda.com/articles/404s-website-error-page-templates
 http://lyndaleparklamb.com.au/
+http://m.advisor4u.ru/
 http://m.kay.com/
 http://m.kay.com/en/kaystore
 http://m.minuteofsilence.com.au/
@@ -7175,6 +7281,7 @@ http://mashable.com/
 http://mashauri.com/
 http://masonjs.com/
 http://masonry.desandro.com/
+http://masterpro.ws/jweather-by-ip-pogoda-po-ip-dlya-joomla
 http://material-ui.com/
 http://materialcolors.com/
 http://materialdesignblog.com/
@@ -7260,6 +7367,8 @@ http://mediarain.com/
 http://mediatemple.com/
 http://mediatraffic.com/
 http://mediatraffic.com/publishers.php
+http://medpost.com.ua/
+http://medtab.com.ua/
 http://meetminiz.com/
 http://meetthepros.org/
 http://meetup.com/
@@ -7285,6 +7394,7 @@ http://mercury.io/
 http://mercury.io/blog/free-ios-9-3-iphone-ui-kit-for-illustrator-and-sketch
 http://merkur.de/lokales/muenchen-lk-nord/garching/
 http://mern.io/
+http://metaenergy.ru/
 http://metalabdesign.com/
 http://metanit.com/java/android/
 http://metanit.com/java/tutorial/
@@ -7409,6 +7519,7 @@ http://mixcloud.com/
 http://mixd.co.uk/
 http://mizko.net/
 http://mkjcreative.com/
+http://mmcparts.ru/
 http://mmenu.frebsite.nl/
 http://mmohelper.ru/guides/gajd-po-redkim-boevym-pitomcam/
 http://mmohelper.ru/wow-dictionary/slovar-professiya/
@@ -7448,6 +7559,7 @@ http://mogotest.com/
 http://moheet.com/
 http://mohi.me/
 http://mohi.me/reset/reset.css
+http://moiradar.ru/
 http://mojs.io/
 http://molanphydesign.com/
 http://mollyandmepecans.com/
@@ -7520,6 +7632,7 @@ http://mozilla.github.io/Fira/
 http://mozilla.github.io/nunjucks/
 http://mozy.com/
 http://mp-architects.com/
+http://mralb.ru/
 http://mrcthms.com/
 http://mrkirkland.com/
 http://mrkirkland.com/internet-explorer-submit-button-horizontal-padding/
@@ -7543,10 +7656,12 @@ http://muellergridsystem.com/
 http://muenzen.eu/euromuenzen-rueckseiten.html
 http://multibrowserviewer.com/
 http://multifarious.co/
+http://multytasker.ru/
 http://mummade.co.nz/
 http://mummade.co.nz/shop
 http://mustgetacard.com/
 http://mutationsltd.com/
+http://mvc.vk-book.ru/
 http://my-debugbar.com/
 http://my-debugbar.com/wiki/IETester/HomePage
 http://my.opera.com/
@@ -7575,6 +7690,7 @@ http://myphotoshoplink.com/
 http://myphotoshoplink.com/wordpress/?p=86
 http://myprovence.fr/
 http://myprovence.fr/snapshots2012/en
+http://myreceptu.ru/
 http://mysocio.ru/app/chat
 http://mysocio.ru/type/jack-london/relation/dreiser/stratievskaya#jack-london/relation/dreiser/stratievskaya
 http://mysocio.ru/vkchat/olejq5dj
@@ -7666,6 +7782,7 @@ http://ndesign-studio.com/wp-themes
 http://ndoherty.com/
 http://ndoherty.com/demos/coda-slider/
 http://ndoherty.com/demos/coda-slider/1.1.1/
+http://ndome.ru/
 http://nealaguna.com/
 http://nealaguna.com/home
 http://nearlyimpossible.org/
@@ -7867,6 +7984,7 @@ http://offscreenmag.com/
 http://ogp.me/
 http://ok-lahhh.com/
 http://oldloft.com/
+http://olegpro.ru/
 http://olin.edu/
 http://ollysorsby.co.uk/
 http://olszanska.pl/
@@ -7915,6 +8033,7 @@ http://oooportal.ru/
 http://oooportal.ru/?cat=article&id=698
 http://open-file.ru/
 http://open-server.ru/
+http://open-server.ru/forum/viewtopic.php?f=1&t=1093
 http://openbeelden.nl/
 http://openbeelden.nl/oiplayer/
 http://opencal.com/
@@ -7933,6 +8052,7 @@ http://opensource.org/licenses/mit-license.php
 http://opensourcetemplates.org/
 http://opentip.org/
 http://openweathermap.org/api
+http://openweathermap.org/faq
 http://openweathermap.org/weather-conditions
 http://openwebdesign.org/
 http://opera.com/
@@ -8006,6 +8126,7 @@ http://owlgraphic.com/
 http://owlgraphic.com/owlcarousel/
 http://owlgraphic.com/owlcarousel/index.html
 http://owltastic.com/
+http://oxy-08.ru/
 http://oxydo.net/
 http://oxydo.net/en/
 http://oxygenna.com/
@@ -8045,6 +8166,7 @@ http://palettable.io/43516C
 http://paletton.com/
 http://palit.com/palit/vgapro.php?id=3083&lang=en&pn=NE62070H20P2-1061G&tab=sp
 http://pampaneo.es/
+http://panerai-luminor.ru/
 http://pangrampangram.com/
 http://pangrampangram.com/pangram.html
 http://panic.com/
@@ -8153,6 +8275,8 @@ http://pgwjs.com/pgwmenu/
 http://phap.landingpage.io/
 http://phdigitallabs.com/
 http://philadelphiaeagles.com/
+http://philatelist.by/
+http://philatelist.by/index.php
 http://philippkemmeter.de/
 http://phir.co/
 http://phizz.biz/
@@ -8160,6 +8284,7 @@ http://phoboslab.org/
 http://phoboslab.org/xtype/
 http://phoenixframework.org/
 http://phorum.org/
+http://photoreporter.ru/
 http://photos.bypeople.com/
 http://photos.bypeople.com/vintage-photos/
 http://photoshop-master.org/
@@ -8503,6 +8628,7 @@ http://plainmade.com/
 http://planetcalc.ru/1321/
 http://planilandia.com/
 http://plasticbcn.com/
+http://plastikovye-okna-pvh.by/
 http://platesphp.com/
 http://platinumpr.com/
 http://play-dot-to.com/
@@ -8511,6 +8637,7 @@ http://play.elevatorsaga.com/
 http://playbiolab.com/
 http://player.vimeo.com/
 http://player.vimeo.com/video/6284199
+http://playground.arduino.cc/Main/LM35HigherResolution
 http://playground.everydayicons.jp/
 http://playground.html5rocks.com/
 http://playgroundinc.com/
@@ -8694,6 +8821,7 @@ http://psdtowordpress.eu/
 http://psilogic.livejournal.com/69742.html
 http://psp.cz/
 http://pspad.com/
+http://psy-ev.ru/
 http://psy-resource.com/
 http://psycheyoga.info/
 http://psychic-vr-lab.com/deepdream/
@@ -8788,6 +8916,7 @@ http://radsoftware.com.au/regexdesigner/
 http://rafeca.com/
 http://rafeca.com/email-templates/
 http://rafirst.ru/
+http://ragma.ru/
 http://rahuldass.deviantart.com/
 http://rahuldass.deviantart.com/art/Minimal-Flat-Galaxy-S4-Mockup-392000803
 http://rain-tree.com/
@@ -8812,6 +8941,7 @@ http://razorjack.net/quicksand/
 http://razorjack.net/quicksand/index.html
 http://razvangarofeanu.com/
 http://rbardalzo.narod.ru/4/gotik.png
+http://rche.ru/1111_razrabotka-sajta-sovmestnyx-pokupok.html
 http://rdio.com/
 http://rdio.com/home/en-gb/
 http://rdio.com/pricing/
@@ -8869,6 +8999,7 @@ http://regaltek.com/docs/NACHA%20Format.pdf
 http://regexpal.com/
 http://regexper.com/
 http://regexr.com/
+http://regid.biz/
 http://regl.party/
 http://regoapp.com/
 http://regular-expressions.info/
@@ -8912,6 +9043,7 @@ http://reunitetheriver.com/
 http://reviewsapex.com/
 http://reviewsapex.com/magazine-cover-mockup
 http://rexv.org/
+http://rghost.ru/private/7cRPyl8SW/c9ad4778dd60a37e7d05d4214024c06b/image.png
 http://riccardoscalco.github.io/
 http://riccardoscalco.github.io/textures/
 http://richard-hill.org.uk/
@@ -8954,6 +9086,7 @@ http://rog.ie/blog/dugjs-a-jsonp-to-html-script
 http://rollerrally.com/
 http://roltrol.by/
 http://romainbriaux.fr/
+http://romanzhivo.com/
 http://romeodallaire.com/
 http://romeolight.com/
 http://romeolight.com/products/gifmicro/
@@ -8979,10 +9112,12 @@ http://ru.html.net/tutorials/php/
 http://ru.learnlayout.com/
 http://ru.php.net/
 http://ru.php.net/manual/ru/book.pdo.php
+http://ru.smart-ip.net/geoip-json/127.0.0.1
 http://ru.stackoverflow.com/
 http://ru.wargaming.net/clans/34618/
 http://ru.wikipedia.org/
 http://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82
+http://ru.wikipedia.org/wiki/Chmod
 http://ru.wow.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F
 http://ru.wowhead.com/
 http://ru.wowhead.com/maps=148:387446581207563266529312449366430578433774358854387867
@@ -9043,6 +9178,7 @@ http://s3.amazonaws.com/nettuts/682_htmlDom/nextpage.png
 http://sabq.org/
 http://sachinchoolur.github.io/
 http://sachinchoolur.github.io/lightslider/?utm_source=jquer.in&utm_medium=website&utm_campaign=content-curation
+http://sadeb.ru/
 http://saeedalipoor.github.io/
 http://saeedalipoor.github.io/icono/
 http://saemuenchen.de/zengarden/
@@ -9050,10 +9186,14 @@ http://safe.mn/
 http://saganipsum.com/
 http://sagarimran.deviantart.com/
 http://sagarimran.deviantart.com/art/Focus-Dashboard-584610964
+http://sait.ru/category/?id=1
+http://sait.ru/category/?id=categoryone
+http://sait.ru/category/categoryone
 http://saizenmedia.com/
 http://saizenmedia.com/keepersgame/
 http://sakurain.co.jp/
 http://sakurain.co.jp/contents_english/
+http://sale-fast.ru/
 http://salomontrailtour.com/
 http://sammarkiewi.cz/
 http://sampulator.com/
@@ -9089,6 +9229,7 @@ http://sbsalsa.com/
 http://scaffy.railsware.com/
 http://scaffy.railsware.com/futurico/
 http://scalablegfx.com/
+http://scanit.ml/
 http://scans.library.utoronto.ca/pdf/5/12/geschichtedessat00leca/geschichtedessat00leca.pdf
 http://schema.org/
 http://schema.org/BlogPosting
@@ -9161,9 +9302,11 @@ http://seegatesite.com/create-your-own-twitter-bot-in-php/
 http://seeklogo.com/
 http://seeklogo.com/summer-olympics-2016-pictograms-logo-266492.html
 http://seenjs.io/
+http://seismo.kg/
 http://seld.be/
 http://seld.be/notes/php-console-in-your-browser
 http://selectivizr.com/
+http://selena-luna.ru/
 http://sellected.com/
 http://semantic-ui.com/
 http://semantic.gs/
@@ -9241,6 +9384,8 @@ http://shouldiprefix.com/
 http://shredplates.com/
 http://shrinkpictures.com/
 http://shturval.me/
+http://shuffle.in.ua/
+http://shumikua.zzz.com.ua/
 http://shyp.com/
 http://sibsocionic.ru/
 http://sidigital.co/
@@ -9282,6 +9427,7 @@ http://siolon.com/
 http://siolon.com/blog/browser-reset-css/
 http://sirjohnaday.com/
 http://site-229550.mozfiles.com/files/229550/Amatorica.pdf
+http://site1.ru/robots.txt
 http://siteleaf.com/
 http://sitemaps.org/
 http://sitemaps.org/protocol.php
@@ -9561,6 +9707,7 @@ http://sociotime.ru/
 http://sociotype.com/socionics/types/ESI-ISFj/
 http://sociovk.herokuapp.com/json/types
 http://socket.io/
+http://soft-arhiv.com/
 http://softobase.com/ru/article/smayliki-dlya-vkontakte
 http://software-testing.ru/trainings/schedule?&task=3&cid=240
 http://softwaremaniacs.org/
@@ -9594,6 +9741,7 @@ http://sonypictures.com/movies/hoteltransylvania/
 http://sorgalla.com/
 http://sorgalla.com/projects/jcarousel/
 http://sosnovskij.ru/google-adsense-secrety-uspeha/
+http://soundaround.me/
 http://soupagency.it/
 http://sourcebits.com/
 http://sourcebits.com/nerve/
@@ -9998,6 +10146,7 @@ http://tapbots.com/
 http://tappcandy.com/
 http://tappe.com/
 http://tapped.com/
+http://taqs.ru/
 http://targetmap.com/
 http://targetscope.com/
 http://tastecreative.com/
@@ -10124,6 +10273,8 @@ http://tenxer.github.io/
 http://tenxer.github.io/xcharts/
 http://terrymun.github.io/
 http://terrymun.github.io/Fluidbox/
+http://tessellastudio.com/
+http://test.airweb.kz/pp/
 http://tests.pp.ru/popular/
 http://text-image.com/
 http://text.num2word.ru/
@@ -10195,6 +10346,7 @@ http://themeforest.net/item/crea-wp/full_screen_preview/424783
 http://themeforest.net/item/fluxus-portfolio-theme-for-photographers/full_screen_preview/3854385
 http://themeforest.net/item/folioblogfolioshop-cmsportfolioblogshop/33729?ref=4night
 http://themeforest.net/item/horizzon-unique-wordpress-theme/full_screen_preview/1206269
+http://themeforest.net/item/kids-store-responsive-prestashop-centrikids/full_screen_preview/6909610%26
 http://themeforest.net/item/modern-metro-responsive-wordpress-theme/full_screen_preview/4203726
 http://themeforest.net/item/montana-theme-wp-horizontal-portfolio-theme/full_screen_preview/149453
 http://themeforest.net/item/parkour-unique-horizontal-layout-with-options/full_screen_preview/4048140
@@ -10278,6 +10430,7 @@ http://theretrovert.com/
 http://therussianstore.com/
 http://therussianstore.com/Amber-Turquoise-Russian-Jewelry.html
 http://thesassway.com/
+http://thesaurus.wallst.ru/
 http://thesearethings.com/
 http://theskywaspink.es/
 http://thesocialagency.ca/
@@ -10382,6 +10535,7 @@ http://timflach.com/
 http://timmytompkinsapp.com/
 http://timseverien.nl/
 http://timseverien.nl/projects/passy/
+http://timures.blogspot.com/
 http://tinagauff.de/
 http://tinkov.info/
 http://tinkov.info/qanelas-soft.html
@@ -10503,6 +10657,7 @@ http://tsvensen.github.com/equalize.js/
 http://tuktuk.tapquo.com/
 http://tumblr.com/
 http://tumblr.com/directory/developers
+http://tunaudi.ru/
 http://turnjs.com/
 http://turtlediary.com/
 http://tusharmerwanji.co.uk/
@@ -10544,6 +10699,7 @@ http://tutorialzine.com/projects/testify/
 http://tutsplus.com/
 http://tutsplus.com/courses
 http://tutsplus.com/tutorials
+http://tvserie.ru/
 http://tweetgt.funkymongoose.com/
 http://tweetmypc.codeplex.com/
 http://twig.sensiolabs.org/
@@ -10845,6 +11001,7 @@ http://ua1.php.net/manual/ru/function.highlight-string.php
 http://uark.edu/
 http://ubilabs.github.io/
 http://ubilabs.github.io/geocomplete/
+http://uboh/
 http://uchicago.edu/
 http://ucla.edu/
 http://udallas.edu/
@@ -10870,6 +11027,7 @@ http://uie.com/brainsparks/2005/09/29/is-home-page-design-relevant-anymore/
 http://uifest.com/
 http://uifest.com/product/designer-naut-ui-kit
 http://uigstudio.com/
+http://uilim.ru/
 http://uipixels.com/
 http://uipixels.com/24-flat-mockups-free/
 http://uipixels.com/apollo-ui-kit-free/
@@ -11160,11 +11318,14 @@ http://volkside.com/tools/wirify/
 http://voltagead.com/
 http://volusion.com/
 http://vorabota.ru/voice.html
+http://vort.com.ua/
+http://vortexweb.net/
 http://vpthemes.com/
 http://vpthemes.com/portfolio/modality/
 http://vpthemes.com/portfolio/simpleo/
 http://vremenno.net/
 http://vsezakoni-rf.ru/
+http://vshokolade.kz/
 http://vtcreative.fr/
 http://vvord.ru/tekst-filma/Dogma/
 http://w3.org/
@@ -11314,6 +11475,7 @@ http://web2generators.com/html-based-tools/online-html-entities-encoder-and-deco
 http://web2generators.com/text-related-tools/write-upside-down
 http://web2pdfconvert.com/
 http://web2py.com/
+http://web4myself.ru/
 http://webappers.com/
 http://webappers.com/2013/03/20/paragraph-word-character-counting-with-countable-js/
 http://webappers.com/2013/03/26/icheck-super-customized-checkboxes-radio-buttons/
@@ -11429,6 +11591,7 @@ http://webdesignledger.com/wi-fi-connection-icons/
 http://webdesignrecipes.com/
 http://webdevchecklist.com/
 http://webdiscover.ru/177677.html
+http://webdiz.com.ua/
 http://webdonut.net/
 http://webdonut.net/personal.html
 http://webfactor.cz/
@@ -11570,6 +11733,7 @@ http://winshape.org/
 http://winshape.org/camps/
 http://wireandtwine.com/
 http://wireandtwine.com/store/
+http://wisell.ru/
 http://wisembly.github.io/
 http://wisembly.github.io/basil.js/
 http://wistia.com/
@@ -11621,6 +11785,7 @@ http://wowtut.ru/load/8
 http://wowwiki.com/Lua
 http://wp-cli.org/
 http://wp-cli.org/docs/
+http://wp-plus.ru/
 http://wp.smashingmagazine.com/
 http://wp.smashingmagazine.com/2009/07/14/5-useful-and-creative-ways-to-use-wordpress-widgets/
 http://wp.smashingmagazine.com/2011/12/07/10-tips-optimize-wordpress-theme/
@@ -11636,6 +11801,7 @@ http://wpxtreme.github.io/wpdk/
 http://wpzoom.com/
 http://wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 http://ws-interactive.fr/
+http://wskvair.ru/
 http://wt-cm.com/
 http://wufoo.com/
 http://wufoo.com/404/
@@ -11645,6 +11811,26 @@ http://ww.2210media.com/
 http://wwe.com/
 http://www-01.ibm.com/
 http://www-01.ibm.com/software/data/db2/
+http://www.anlemag.ru/11.php
+http://www.codelobster.com/
+http://www.dopinform.ru/
+http://www.google.com/
+http://www.liga56.ru/
+http://www.max-info.by/
+http://www.medpost.com.ua/
+http://www.metal-souvenir.ru/
+http://www.mnogo-pokupok.ru/
+http://www.mysite.ru/lk/user/1
+http://www.mysite.ru/lk/user/?id=1
+http://www.pervayastupen.ru/
+http://www.php.net/manual/ru/intro.pdo.php
+http://www.rockmusic63.ru/
+http://www.site.ru/
+http://www.swan.kz/
+http://www.unibix.ru/
+http://www.vodnikinet.ru/
+http://www.web-astral.net/
+http://www.альбом.укр/
 http://wwwhere.io/
 http://wymeditor.org/
 http://x-cart.com/
@@ -11669,6 +11855,7 @@ http://xmbforum.com/
 http://xmlforasp.net/
 http://xmlforasp.net/JSCompressor.aspx
 http://xmlhttprequest.ru/
+http://xn--80ac3afj6f.xn--j1amh/Leuchtturm.html
 http://xn--80ad1e.xn--80aswg/
 http://xn--80ad1e.xn--80aswg/administrator
 http://xn--h1aaracmczf9h.com/otnoshenia_tips/vlef-fvle.html
@@ -11684,10 +11871,12 @@ http://xto6.js.org/
 http://xtrememac.com/
 http://xtrememac.com/en/
 http://xuijs.com/
+http://xvideos.com/
 http://y.co/
 http://ya-rukodelnitsa.ru/
 http://yahoo.com/
 http://yaml.de/
+http://yandex.ru/
 http://yatatoy.com/
 http://yconst.com/
 http://yconst.com/web/freetile
@@ -11753,6 +11942,7 @@ http://youtube.com/watch?v=8JRICTFnViM
 http://youtube.com/watch?v=e4Is32W-ppk
 http://youtube.com/watch?v=Nepysk5rOf4
 http://youtube.com/watch?v=vnBFF8QmEgo
+http://yssr/
 http://yui.yahooapis.com/
 http://yui.yahooapis.com/2.7.0/build/reset/reset-min.css
 http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css
@@ -11764,6 +11954,7 @@ http://yumaki.com/
 http://yumaki.com/homepage.html
 http://yumecolabo.jp/
 http://yummygum.com/
+http://yurist24online.ru/
 http://yvesrenard.be/
 http://yvesrenard.be/summer-2013/
 http://yvoschaap.com/
@@ -11783,6 +11974,7 @@ http://zandog.deviantart.com/art/Apple-iPhone-4G-PSD-161681253
 http://zandog.deviantart.com/art/HTC-Dream-Android-PSD-152512050
 http://zandog.deviantart.com/art/Motorola-Droid-PSD-152356162
 http://zandog.deviantart.com/art/Nexus-One-by-Google-PSD-152032149
+http://zarabotnik.ru/
 http://zaum.co.uk/
 http://zdnet.com/
 http://zdnet.com/blog/security/inside-indias-captcha-solving-economy/1835
@@ -11830,6 +12022,7 @@ http://zippypixels.com/product/print/brand-books/cool-blue-free-brand-guidelines
 http://zippypixels.com/products/graphics/infographics/free-technology-infographic-templates/
 http://zokidesign.com/
 http://zokidesign.com/portfolio/moderan-font/
+http://zozh-lekar.ru/
 http://zqsmm.qiniucdn.com/
 http://zqsmm.qiniucdn.com/data/20130820202529/index.html
 http://zserge.wordpress.com/2012/02/23/lua-%D0%B7%D0%B0-60-%D0%BC%D0%B8%D0%BD%D1%83%D1%82/
@@ -11845,6 +12038,9 @@ http://zurb.com/playground/wrangle-jquery-plugin
 http://zurb.com/university
 http://zvon.org/
 http://zvon.org/xxl/XSLTreference/Output/index.html
+http://альбом.укр/
+http://белолипская.рф/
+http://остекление-балконов-краснодар.рф/
 https://10fastfingers.com/
 https://180.211.99.162/
 https://180.211.99.162/design/dribbble/free_voyage_template.zip
@@ -11852,6 +12048,7 @@ https://1popov.ru/
 https://1popov.ru/bonuscourse/domenform/
 https://1popov.ru/bonuscourse/htmlform/step4.php
 https://1q.su/otvety/chto-oznachajut-smajliki.html
+https://212d.ru/sender/SendMailSmtpClass.php.zip
 https://29a.ch/sandbox/2011/neonflames/
 https://5gbfree.com/
 https://85ideas.com/
@@ -11964,6 +12161,7 @@ https://avocode.com/guacamole/
 https://avocode.com/guacamole/share/
 https://awardspace.com/
 https://awesomatic.com/
+https://awmproxy.com/freeproxy.php
 https://aws.amazon.com/
 https://aws.amazon.com/ru/ses/
 https://awwwards.com/websites/sites_of_the_day/
@@ -11972,6 +12170,7 @@ https://banking.postbank.de/rai/login
 https://barkbox.com/
 https://barkbox.com/subscribe/yip
 https://baywa-baumarkt.de/Bad-Kueche/Sanitaerinstallation/Siphons-Ventile/Kombi-Eckventil.html
+https://beget.com/p166022
 https://behance.net/
 https://behance.net/emptypagestudio
 https://behance.net/gallery/10231891/Dense-typeface
@@ -12289,10 +12488,12 @@ https://campaignmonitor.com/css/
 https://campaignmonitor.com/email-templates/all/
 https://canarddemo.wordpress.com/
 https://canva.com/
+https://cards-dev.twitter.com/validator
 https://carrois.com/
 https://carrois.com/projects/Fira/
 https://cdn.jsdelivr.net/
 https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js
+https://cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/e523ccf083e42dbda1d0c0d709c71559_1.js
 https://cdnd.icons8.com/
 https://cdnd.icons8.com/download/200_icons_for_codrops.zip
 https://cdnjs.cloudflare.com/
@@ -12538,6 +12739,7 @@ https://danpalmer.me/
 https://danpalmer.me/jquery-complexify
 https://dasauge.de/jobs/
 https://db.dulfy.net/recipes/artificer
+https://deadlylaugh.org.ru/
 https://design.google.com/
 https://design.google.com/articles/introducing-resizer/
 https://design.tutsplus.com/articles/how-to-create-to-mailbox-alert-icon-in-adobe-illustrator--vector-6176
@@ -12653,6 +12855,7 @@ https://developers.facebook.com/
 https://developers.facebook.com/apps
 https://developers.facebook.com/blog/post/2012/01/24/device-experiences---responsive-design/
 https://developers.facebook.com/tools/debug
+https://developers.facebook.com/tools/debug/
 https://developers.google.com/
 https://developers.google.com/accounts/docs/OAuth2Login
 https://developers.google.com/analytics/devguides/collection/protocol/v1/
@@ -13322,6 +13525,7 @@ https://elastic.co/
 https://elastic.co/downloads/elasticsearch
 https://elastic.co/products/elasticsearch
 https://elims.org.ua/blog/powershell-avtootvetchik-boltun-dlya-vkontakte/
+https://emojipedia.org/symbols/
 https://en.wikibooks.org/
 https://en.wikibooks.org/wiki/Basic_Algebra/Lines_(Linear_Functions)/Find_the_Equation_of_the_Line_Using_Two_Points
 https://en.wikipedia.org/
@@ -13552,6 +13756,7 @@ https://fontsquirrel.com/fonts/liberation-mono
 https://foren.germany.ru/arch/bruecke/f/10650469.html
 https://formfillerjs.com/
 https://formfillerjs.com/?utm_source=designernews
+https://formfor.site/
 https://fornex.com/
 https://fortunate.shivtr.com/
 https://forum.antichat.ru/threads/168558/
@@ -13610,6 +13815,8 @@ https://gftp.org/
 https://gismeteo.com/
 https://gist.github.com/
 https://gist.github.com/935783/
+https://gist.github.com/ARMADAIX/580a1ac192ea17e141d64b868c8ec2c6
+https://gist.github.com/Jakobuz/2073d70f073684a8a14528705fd67a67
 https://gist.github.com/paulirish/1579671
 https://git-scm.com/
 https://git-scm.com/book/ru/v1/
@@ -13774,6 +13981,7 @@ https://github.com/fabpot/Twig/archive/master.zip
 https://github.com/facelessuser/BracketHighlighter/
 https://github.com/falkeyn/modulizer
 https://github.com/FallibleInc/security-guide-for-developers
+https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 https://github.com/felicegattuso/datedropper/
 https://github.com/fjsantosb/Molecule
 https://github.com/flesler/jquery.scrollTo
@@ -13818,6 +14026,10 @@ https://github.com/inorganik/CountUp.js
 https://github.com/InterNations/antwort
 https://github.com/intridea/sketch.js
 https://github.com/IonDen/ion.sound
+https://github.com/Ipatov/example-blog
+https://github.com/Ipatov/image360
+https://github.com/Ipatov/SendMailSmtpClass
+https://github.com/Ipatov/share_btns
 https://github.com/iRaul/pushy-buttons
 https://github.com/Iriskin0/Chat-Wars-Bot
 https://github.com/iserdmi/card-info/archive/master.zip
@@ -13893,6 +14105,7 @@ https://github.com/mailcheck/mailcheck
 https://github.com/mailchimp/ChimpKit2
 https://github.com/mailchimp/Email-Blueprints
 https://github.com/mailgun/transactional-email-templates
+https://github.com/maniacbug/RF24
 https://github.com/marcisme/sketch-preview
 https://github.com/marcolago/flowtime.js
 https://github.com/marcuswestin/store.js
@@ -13958,6 +14171,7 @@ https://github.com/pasqualevitiello/Tumblr-Style-Cog-Spinners
 https://github.com/PatrickGeyer/menuitems/
 https://github.com/patrickkunka/easydropdown
 https://github.com/patrickkunka/easydropdown/archive/master.zip
+https://github.com/PaulStoffregen/OneWire
 https://github.com/pazguille/horwheel
 https://github.com/peachananr/flat-shadow
 https://github.com/peachananr/label_better
@@ -14108,6 +14322,8 @@ https://github.com/VodkaBears/Remodal
 https://github.com/VodkaBears/Vide
 https://github.com/VodkaBears/Vide/releases/latest
 https://github.com/vonKristoff/conveyor
+https://github.com/WahaWaher/
+https://github.com/WahaWaher/sendmail-js
 https://github.com/web-design-weekly/WDW-Email-Template
 https://github.com/webmozart/console
 https://github.com/wendzhue/wz_wireframe_kit_sketch
@@ -14127,6 +14343,7 @@ https://github.com/yamartino/pressure
 https://github.com/yuanhao/Simple-Player
 https://github.com/yuanqing/charming
 https://github.com/z00k/vkbotphp
+https://github.com/z3t0/Arduino-IRremote
 https://github.com/zendframework/zend-filter/releases/release-2.7.2
 https://github.com/zendframework/zend-form/releases/release-2.10.2
 https://github.com/zendframework/zend-hydrator/releases/2.2.2
@@ -14611,6 +14828,7 @@ https://iconstore.co/icons/communication-icons/
 https://iconstore.co/icons/free-music-icons/
 https://ihatetomatoes.net/create-custom-preloading-screen/
 https://ihc.ru/hosting.html
+https://iklife.ru/
 https://illuzzzion.com/
 https://ilovepdf.com/
 https://imageoptim.com/
@@ -14764,6 +14982,7 @@ https://macarthur.me/typeit/docs/
 https://madeinhaus.com/
 https://mail.google.com/
 https://mail.ru/
+https://mail666.ru/
 https://mailgun.com/
 https://mailinabox.email/
 https://mailinator.com/
@@ -14794,6 +15013,7 @@ https://matthewlein.com/
 https://matthewlein.com/ceaser/
 https://maurice-web.de/html5days-grid-1803/
 https://mc.yandex.ru/
+https://mc.yandex.ru/watch/21656917
 https://mc.yandex.ru/watch/3946864
 https://media.professionali.ru/processor/topics/original/2013/12/09/1.png
 https://mediafire.com/
@@ -14817,6 +15037,7 @@ https://mindsnacks.com/
 https://mixpanel.com/
 https://mixpanel.com/about/
 https://mixpanel.com/pricing/
+https://mobiappsystems.ru/
 https://mobirise.com/
 https://mockupworld.co/
 https://mockupworld.co/free/black-iphone-7-on-desk-mockup/
@@ -14855,6 +15076,7 @@ https://my.ihc.ru/
 https://myrusakov.ru/php-api-vk.html
 https://myrusakov.ru/sublime-text-plugins.html
 https://mysocio.ru/
+https://nabiullin.com/
 https://nest.com/
 https://netdna.bootstrapcdn.com/
 https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css
@@ -14892,6 +15114,7 @@ https://octobercms.com/plugin/rainlab-blog
 https://odeskwork.com/
 https://ohshitgit.com/
 https://online-convert.com/ru
+https://online.petrolplus.ru/public-api/v1/transaction-list
 https://onsen.io/
 https://opentest.co/
 https://originalmockups.com/
@@ -14927,6 +15150,7 @@ https://photos.shutterfly.com/
 https://photoshop-master.ru/
 https://photoshop-master.ru/favicon.ico
 https://photoshop.com/
+https://phpjs.ru/2017/03/06/mvc-приложение-на-php-часть-6-crud-mapping/
 https://phpunit.de/
 https://phpunit.de/manual/3.7/en/fixtures.html
 https://phpunit.de/manual/current/en/test-doubles.html
@@ -15025,6 +15249,7 @@ https://pramp.com/#/
 https://prepros.io/
 https://privacy.com/
 https://privytalks.com/
+https://prnt.sc/kav90s
 https://proaction.pro/?ref=gmngqqhp
 https://projects.invisionapp.com/
 https://projects.invisionapp.com/boards/GHF8R9KYS8TN
@@ -15088,8 +15313,11 @@ https://ru.todoist.com/
 https://ru.wargaming.net/shop/bonus/
 https://ru.wikipedia.org/
 https://ru.wikipedia.org/wiki/My_Youth_Romantic_Comedy_Is_Wrong,_As_I_Expected
+https://ru.wikipedia.org/wiki/RC-%D1%86%D0%B5%D0%BF%D1%8C
+https://ru.wikipedia.org/wiki/Эмотиконы_(блок_Юникода)
 https://ru.wordpress.org/
 https://russia.tv/video/show/brand_id/3965/episode_id/93419/
+https://s.w.org/
 https://s3-us-west-1.amazonaws.com/
 https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Facebook+Devices.zip
 https://s3.amazonaws.com/
@@ -15102,6 +15330,7 @@ https://scotch.io/
 https://scotch.io/tutorials/getting-started-with-redis-in-php
 https://scotch.io/tutorials/implementing-smart-search-with-laravel-and-typeahead-js
 https://scrollrevealjs.org/
+https://search.google.com/structured-data/testing-tool
 https://search.google.com/structured-data/testing-tool#
 https://sellfy.com/
 https://sellfy.com/p/Ayu7/
@@ -15111,6 +15340,7 @@ https://sendgrid.com/
 https://sendinblue.com/
 https://sendwithus.com/
 https://sendwithus.com/resources/templates
+https://seozp.ru/
 https://serials.be/serial/Sublime_SFTP_68616066.html
 https://shapebootstrap.net/
 https://shapebootstrap.net/item/1524918-elegance-responsive-one-page-html-template
@@ -15182,6 +15412,7 @@ https://smashingmagazine.com/2016/09/freebie-flat-line-ux-and-e-commerce-icon-se
 https://smashingmagazine.com/tag/vectors/
 https://smcmurray.github.io/
 https://smcmurray.github.io/kata/
+https://smtp.bz/
 https://snatches-of-crazy-mind.ru/
 https://snipcart.com/
 https://snipt.net/
@@ -15217,6 +15448,7 @@ https://speckyboy.com/freebie-colored-food-drink-icon-set/
 https://speckyboy.com/freebie-musical-instrument-icon-set/
 https://speechpad.ru/
 https://spiritjs.io/
+https://spisok-del.ru/
 https://spotify.com/
 https://spotify.com/us/
 https://spreadsheets.google.com/
@@ -15250,6 +15482,7 @@ https://store.ramotion.com/product/iphone-6-mockups
 https://storyandheart.com/
 https://streamlabs.com/dashboard#/twitch
 https://studiorotate.com/
+https://studizba.com/
 https://sublimetext.com/
 https://sumall.com/
 https://support.google.com/
@@ -15276,6 +15509,7 @@ https://symu.co/freebies/templates-4/merkury-dashboard-psd-template/
 https://symu.co/freebies/templates-4/pilumnus-psd-template-6/
 https://symufa.com/
 https://symufa.com/downloads/yunus-handwriting-free-font/
+https://t.me/vk_book
 https://taboola.com/
 https://taboola.com/monetize-content
 https://tabrisjs.com/
@@ -15285,6 +15519,8 @@ https://tchannels.me/
 https://teamnewme.de/impressum
 https://teamtreehouse.com/
 https://teamtreehouse.com/subscribe/plans
+https://tech.yandex.ru/maps/commercial/
+https://tech.yandex.ru/maps/doc/geocoder/desc/concepts/input_params-docpage/
 https://technori.com/2012/05/1693-how-to-make-money-as-a-new-developer/robbieabed/
 https://techopedia.com/
 https://techopedia.com/definition/18091/brute-force-attack
@@ -15482,8 +15718,10 @@ https://vital-monitor.com/
 https://vital-monitor.com/application/endurance/
 https://vk.com/
 https://vk.com/@cooktech-tinder
+https://vk.com/app_tester
 https://vk.com/blog?act=archive
 https://vk.com/catalog.php
+https://vk.com/club63754839
 https://vk.com/dev
 https://vk.com/dev/apps.get
 https://vk.com/dev/apps.getCatalog
@@ -15495,6 +15733,7 @@ https://vk.com/dev/messages.send
 https://vk.com/dev/messages.setActivity
 https://vk.com/dev/need_validation
 https://vk.com/dev/newsfeed.get
+https://vk.com/dev/pages.clearCache
 https://vk.com/dev/photo
 https://vk.com/dev/upload_files?f=Загрузка фотографии в личное сообщение
 https://vk.com/dev/wall.get
@@ -15591,6 +15830,26 @@ https://wordpress.com/
 https://wordpress.org/
 https://wrike.com/
 https://wrike.com/ru/
+https://www.arduino.cc/en/Reference/Servo
+https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard
+https://www.google.com/settings/security/lesssecureapps
+https://www.parallax.com/downloads/plx-daq
+https://www.pochta.ru/parcels
+https://www.youtube.com/embed/2S3ZIXQWb0E
+https://www.youtube.com/embed/9vwHQZ8R4ro
+https://www.youtube.com/embed/CRx3zbNkHQ0
+https://www.youtube.com/embed/cYM0KivufOA
+https://www.youtube.com/embed/FntWu8iimoQ
+https://www.youtube.com/embed/h5serEq3phY
+https://www.youtube.com/embed/jVUasxSgmaM
+https://www.youtube.com/embed/lVcsxPr3Aw0
+https://www.youtube.com/embed/ms0lmE21Yzs
+https://www.youtube.com/embed/O2C3DF1S6NA
+https://www.youtube.com/embed/o8yROqKlRQQ
+https://www.youtube.com/embed/plYpmrFtZhs
+https://www.youtube.com/embed/tB5hSoZ6iyU
+https://www.youtube.com/embed/tVHCnsEQHG0
+https://www.youtube.com/embed/y64wdYGeEco
 https://xing.com/
 https://xing.github.com/
 https://xing.github.com/wysihtml5/
@@ -15608,6 +15867,7 @@ https://yourkarma.com/pricing
 https://yourporn.sexy/photo/o-81473492-211629427/arcturus-art/0.html
 https://youtrack.jetbrains.com/
 https://youtrack.jetbrains.com/issue/WI-22674
+https://youtu.be/8b-9drmBPTY
 https://youtube.com/
 https://youtube.com/c/ProDevZone?sub_confirmation=1
 https://youtube.com/embed/HiN6Ag5-DrU?VQ=HD720
