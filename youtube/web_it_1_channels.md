@@ -1,14 +1,10 @@
 ## Web IT
-
-- [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - 11.10.2019
-- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) - 11.10.2019
-- [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - 11.10.2019
-- [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) - 11.10.2019
-- [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) - 11.10.2019
-- [x] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w) - 11.10.2019
-
-- [x] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
-- [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
+- [ ] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
+- [ ] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
+- [ ] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
+- [ ] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
+- [ ] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
+- [ ] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 - [ ] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [ ] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ)
 - [ ] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A)
@@ -57,14 +53,17 @@
 - [ ] [TheZorgHak | Hackers Time](https://www.youtube.com/channel/UCLjT3EDaFM5XC8-i1TpTS5g)
 - [ ] [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [ ] [Tuts+ Code](https://www.youtube.com/channel/UCd-EhXGbXSozuzsAAdPIn3A)
+- [ ] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ)
 - [ ] [Victor Melnik](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg)
 - [ ] [Victor Zinchenko](https://www.youtube.com/channel/UCQTlLk8CI8GDUPsz21uwjOQ)
 - [ ] [WEB iT xaver.ru Зарабатывай мозгами!](https://www.youtube.com/channel/UC4vsJ5PMS3qNN61ORVL05og)
 - [ ] [Webcamp курсы программирования](https://www.youtube.com/channel/UCc2xLoUejv78It0Tq61duaA)
 - [ ] [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg)
+- [ ] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w)
 - [ ] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 - [ ] [Webslesson](https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw)
 - [ ] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw)
+- [ ] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
 - [ ] [Блог дизайнера фрилансера](https://www.youtube.com/channel/UCiF0YY5d84iFZrLrDsP7xRQ)
 - [ ] [Видеокурсы](https://www.youtube.com/channel/UCpRlxyP9_s0QJ8TdOMj3aRA)
 - [ ] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g)
@@ -79,5 +78,5 @@
 - [ ] [Учись - программированию - бесплатно](https://www.youtube.com/channel/UCYcOu-hGM8gqcXFU1jnFJtg)
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [ ] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg)
-https://www.youtube.com/user/Weibenfalk/videos
-https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w
+- [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) - 08.01.2020
+- [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - 29.03.2019
