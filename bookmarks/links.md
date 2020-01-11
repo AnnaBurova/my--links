@@ -1,7 +1,6 @@
 chrome-extension://aipponleffijlkmflgnaheobjbpicfkc/sociovk.js
 chrome://apps/
 chrome://bookmarks/
-http://(ваш сайт).com/
 http://1001freedownloads.com/
 http://1001freedownloads.com/free-vector/barker-icon-set
 http://1001freedownloads.com/free-vector/lynny-icons-full
