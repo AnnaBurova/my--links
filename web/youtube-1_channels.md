@@ -1,7 +1,5 @@
 ## Web IT
 
-- [ ] [Andrew Mensky](https://www.youtube.com/channel/UCRoOYRhC4vpPWpeZ8GFMm6A)
-- [ ] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
 - [ ] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
 - [ ] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
 - [ ] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
@@ -81,3 +79,4 @@
 - [ ] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg)
 - [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) - 08.01.2020
 - [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - 29.03.2019
+- [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) - 25.01.2011
