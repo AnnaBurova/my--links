@@ -1,5 +1,6 @@
 ## GuildWars
 
+- [ ] [GramBezKo](https://www.youtube.com/channel/UCvVWKyIfDQytP4E59A3UXUg)
 - [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg) - 06.10.2019
 - [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ) - 06.10.2019
 - [x] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ) - 06.10.2019
