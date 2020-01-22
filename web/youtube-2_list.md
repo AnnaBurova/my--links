@@ -3180,6 +3180,7 @@ Codecourse --- 1213 --- https://www.youtube.com/watch?v=1UiobxBcops --- The Blac
 Codecourse --- 1214 --- https://www.youtube.com/watch?v=tJYDYfeEJic --- Build snippets.codecourse.com with me! New big course.
 Codecourse --- 1215 --- https://www.youtube.com/watch?v=Rmbk725NndE --- Using Tailwind in Vue
 Codecourse --- 1216 --- https://www.youtube.com/watch?v=alZa7D1p5vs --- Laravel Automatic Password Hashing
+Codecourse --- 1217 --- https://www.youtube.com/watch?v=gNK0RzA27M0 --- Using Whoops with Slim 4
 DesignCourse --- 0001 --- https://www.youtube.com/watch?v=WMXj5ceYkfQ --- Photoshop Pen Tool Tutorial (Tattoo Design)
 DesignCourse --- 0002 --- https://www.youtube.com/watch?v=M-G6btr0w60 --- How to Design the Microsoft Logo in Photoshop
 DesignCourse --- 0003 --- https://www.youtube.com/watch?v=klDXWTUHlY4 --- Photoshop Gradients Video Tutorial
