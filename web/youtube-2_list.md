@@ -571,6 +571,7 @@ Academind --- 0570 --- https://www.youtube.com/watch?v=ST8YiR-j1pg --- 48 Hours 
 Academind --- 0571 --- https://www.youtube.com/watch?v=aoE-92Ac4zE --- Functional, Procedural & Object-oriented Programming - An Overview
 Academind --- 0572 --- https://www.youtube.com/watch?v=T4JwmC9E0dM --- Merry Christmas!
 Academind --- 0573 --- https://www.youtube.com/watch?v=ZNfy4glIO5c --- My 2020 Goals (& why you shouldn't just set professional goals)
+Academind --- 0574 --- https://www.youtube.com/watch?v=BwuLxPH8IDs --- TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!
 Adam Khoury --- 0001 --- https://www.youtube.com/watch?v=llcgABOHcCI --- Flash CS3 Actionscript 3 Progress Preloader Video Tutorial
 Adam Khoury --- 0002 --- https://www.youtube.com/watch?v=doKf9xoudmE --- Flash CS3 AS3 Progress Preloader Tutorial - Part 2 ActionScript 3.0
 Adam Khoury --- 0003 --- https://www.youtube.com/watch?v=HlvRABzXA-A --- Flash CS3 mp3 sound amplitude player tutorial ActionScript 3

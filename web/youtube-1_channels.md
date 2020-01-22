@@ -73,7 +73,7 @@
 - [ ] [Учись - программированию - бесплатно](https://www.youtube.com/channel/UCYcOu-hGM8gqcXFU1jnFJtg)
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [ ] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg)
-- [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) - 08.01.2020
+- [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) --- 21.01.2020
 - [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - 29.03.2019
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) - 25.01.2011
 - [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) - 14.11.2019
