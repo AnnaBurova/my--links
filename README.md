@@ -1,14 +1,24 @@
 # Links
 
-- blog
-  - Anna Burova
-  - Selina Kuinn
-- github
-- telegram
-  - Deutsch
-  - Psychologie
-  - Web IT
-- youtube
-  - GuildWars
-  - Online
-  - Web IT
+- my blog links
+  - Anna
+  - Selina
+- bookmarks
+  - internet
+  - youtube channels
+  - vkontakte
+- games
+  - guild wars 1
+  - guild wars 2
+  - guild wars - youtube channels
+- live blogs
+  - telegram
+- psychology
+  - telegram
+- web
+  - telegram
+  - udemy courses
+  - youtube channels
+  - myrusakov.ru
+  - ruseller.com
+  - vk-book.ru
