@@ -75,4 +75,4 @@
 - [ ] [Peter PlutaX](https://www.youtube.com/channel/UCbaY6IEY0-pRHBU_qCswoNQ)
 - [ ] [Piano Effect](https://www.youtube.com/channel/UCzya_93KXPFLqYoDSK68sWA)
 - [ ] [Sheet Music Boss](https://www.youtube.com/channel/UCzTR9iSH-TFC4-ocDS_ll4A)
-- [ ] [Исцеляющие Медитации](https://www.youtube.com/channel/UCQ__rXROBpF6mKjCZ29ij9Q)
+- [ ] [Исцеляющие Медитации](https://www.youtube.com/channel/UCQ__rXROBpF6mKjCZ29ij9Q) - 4K YT
