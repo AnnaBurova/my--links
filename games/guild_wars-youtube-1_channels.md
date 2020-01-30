@@ -11,7 +11,7 @@
 - [ ] [Noody](https://www.youtube.com/channel/UC-QH304zT3qOQ2PKrFmngSQ)
 - [ ] [OlafKS - GamesGrail](https://www.youtube.com/channel/UCRn-m-2nlUUWtBkPb4gRdTg)
 - [ ] [Tekkit's Workshop](https://www.youtube.com/channel/UC0Feu7AF3QW-WvqRAgs1ycw)
-- [ ] [WoodenPotatoes  ](https://www.youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA)
 - [ ] [WoodenPotatoes 2](https://www.youtube.com/channel/UC07_U_mN9-gljJkwcGbifcQ)
 - [x] [GramBezKo](https://www.youtube.com/channel/UCvVWKyIfDQytP4E59A3UXUg) --- 30 янв. 2020 г.
 - [x] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA) --- 30 янв. 2020 г.
+- [x] [WoodenPotatoes  ](https://www.youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA) --- 29 янв. 2020 г.
