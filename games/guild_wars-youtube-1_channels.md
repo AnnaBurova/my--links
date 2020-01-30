@@ -14,4 +14,4 @@
 - [ ] [WoodenPotatoes  ](https://www.youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA)
 - [ ] [WoodenPotatoes 2](https://www.youtube.com/channel/UC07_U_mN9-gljJkwcGbifcQ)
 - [x] [GramBezKo](https://www.youtube.com/channel/UCvVWKyIfDQytP4E59A3UXUg) --- 30 янв. 2020 г.
-- [x] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA)
+- [x] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA) --- 30 янв. 2020 г.
