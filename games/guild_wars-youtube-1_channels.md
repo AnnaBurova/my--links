@@ -3,7 +3,6 @@
 - [ ] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg)
 - [ ] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ)
 - [ ] [briggah](https://www.youtube.com/channel/UCwtjGb3GIIiQFqh6qSjCLQQ)
-- [ ] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA)
 - [ ] [Guild Wars 2 zone](https://www.youtube.com/channel/UCbHDzLNUyu_HT7nRSNjriUA)
 - [ ] [INKS](https://www.youtube.com/channel/UCbVGUvx_9SuAYrgJOzBYT7Q)
 - [ ] [INOY](https://www.youtube.com/channel/UCSoOx7NVJFnolqUwXZ2ghxQ)
@@ -15,3 +14,4 @@
 - [ ] [WoodenPotatoes  ](https://www.youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA)
 - [ ] [WoodenPotatoes 2](https://www.youtube.com/channel/UC07_U_mN9-gljJkwcGbifcQ)
 - [x] [GramBezKo](https://www.youtube.com/channel/UCvVWKyIfDQytP4E59A3UXUg) --- 30 янв. 2020 г.
+- [x] [Guild Wars 2  ](https://www.youtube.com/channel/UCP_FgMqOxp_VsM0UfrL-DxA)
