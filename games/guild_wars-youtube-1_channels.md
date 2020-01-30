@@ -1,6 +1,5 @@
 ## GuildWars
 
-- [ ] [MightyTeapot](https://www.youtube.com/channel/UCWXo84TV1a6XJZcDOuq6zaQ)
 - [ ] [Noody](https://www.youtube.com/channel/UC-QH304zT3qOQ2PKrFmngSQ)
 - [x] [AuroraPeachy](https://www.youtube.com/channel/UCrzoluANZlhi24mlQVouTmg) --- 21 янв. 2020 г.
 - [x] [Bog Otter](https://www.youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ) --- 21 янв. 2020 г.
@@ -11,6 +10,7 @@
 - [x] [INKS](https://www.youtube.com/channel/UCbVGUvx_9SuAYrgJOzBYT7Q) --- 18 янв. 2020 г.
 - [x] [INOY](https://www.youtube.com/channel/UCSoOx7NVJFnolqUwXZ2ghxQ) --- 22 янв. 2020 г.
 - [x] [Kyosika](https://www.youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg) --- 14 янв. 2020 г.
+- [x] [MightyTeapot](https://www.youtube.com/channel/UCWXo84TV1a6XJZcDOuq6zaQ) --- 25 янв. 2020 г.
 - [x] [OlafKS - GamesGrail](https://www.youtube.com/channel/UCRn-m-2nlUUWtBkPb4gRdTg) --- 29 янв. 2020 г.
 - [x] [Tekkit's Workshop](https://www.youtube.com/channel/UC0Feu7AF3QW-WvqRAgs1ycw) --- 21 янв. 2020 г.
 - [x] [WoodenPotatoes  ](https://www.youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA) --- 29 янв. 2020 г.
