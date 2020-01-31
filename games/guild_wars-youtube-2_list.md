@@ -216,14 +216,11 @@ AuroraPeachy --- KEEPSAKE Weapon Skins ● Guild Wars 2 --- https://www.youtube.
 AuroraPeachy --- KINGDOM HEARTS III RE:MIND TRAILER REACTION --- https://www.youtube.com/watch?v=oeFrtXvRLyc
 AuroraPeachy --- Let's Play Barbie Super Model (alpha test) --- https://www.youtube.com/watch?v=fs5YY7PYubM
 AuroraPeachy --- Let's Play Guild Wars 2 Beta (Asura) --- https://www.youtube.com/watch?v=33nuDdmywW4
-AuroraPeachy --- Let's Play The Magical Quest starring Mickey Mouse (alpha test) --- https://www.youtube.com/watch?v=nb1xWnV4Ltk
 AuroraPeachy --- LIVE REACTION to Guild Wars 2 Heart of Thorns Reveal --- https://www.youtube.com/watch?v=1F2sGIrCUrE
 AuroraPeachy --- LONG LIVE THE LICH Trailer Reaction | Guild Wars 2 --- https://www.youtube.com/watch?v=ax5Eun2dzRM
 AuroraPeachy --- Lovey Dovey Weapons --- https://www.youtube.com/watch?v=mvQno4Drh7w
 AuroraPeachy --- LUMINOUS Weapon Set | Guild Wars 2 5th Anniversary --- https://www.youtube.com/watch?v=3OFaqCe2drI
 AuroraPeachy --- Mad Realm Weapon Skins ● Guild Wars 2 --- https://www.youtube.com/watch?v=0NHYqktR3n4
-AuroraPeachy --- Madoka Magica Rebellion part 1 ♥ PEACHY REACTS --- https://www.youtube.com/watch?v=lbjfragFj-Y
-AuroraPeachy --- Madoka Magica Rebellion part 2 ♥ PEACHY REACTS --- https://www.youtube.com/watch?v=0Z0QDrz5e24
 AuroraPeachy --- Making of my Rock the Nightmare Music Video --- https://www.youtube.com/watch?v=PvFtpSGlhqc
 AuroraPeachy --- Mordremoth Rising ♥ PEACHY REACTS --- https://www.youtube.com/watch?v=_T5tZNN--Yg
 AuroraPeachy --- My 33rd Birthday - Thank you ♥ --- https://www.youtube.com/watch?v=QUHAS0Wbjlg
