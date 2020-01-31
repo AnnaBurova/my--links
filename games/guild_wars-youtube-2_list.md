@@ -229,10 +229,6 @@ AuroraPeachy --- Mordremoth Rising ♥ PEACHY REACTS --- https://www.youtube.com
 AuroraPeachy --- My 33rd Birthday - Thank you ♥ --- https://www.youtube.com/watch?v=QUHAS0Wbjlg
 AuroraPeachy --- My Adventures at PAX South 2015 (Guild Wars 2, ArenaNet, Friends & FEELS!) --- https://www.youtube.com/watch?v=sAjfmIE3J2g
 AuroraPeachy --- My GameCube Crashed! --- https://www.youtube.com/watch?v=kWqyRjUnBPk
-AuroraPeachy --- My Sailormoon Collection - part 1 - RP Toys, Dolls, Gashapon, Models --- https://www.youtube.com/watch?v=KCtVsedun6U
-AuroraPeachy --- My Sailormoon Collection - part 2 - CDs, DVDs & Manga --- https://www.youtube.com/watch?v=njz3Agv6Cfk
-AuroraPeachy --- My Sailormoon Collection - part 3 - More Dolls, Cards and Books --- https://www.youtube.com/watch?v=zdMR_J3Wu4Y
-AuroraPeachy --- My Sailormoon Collection - part 4 - Dolls, SeraMyu, Video Games, Misc. --- https://www.youtube.com/watch?v=GfEZspuZYpE
 AuroraPeachy --- My Trip to ArenaNet --- https://www.youtube.com/watch?v=4yVfjWvGKxw
 AuroraPeachy --- My Trip to ArenaNet! --- https://www.youtube.com/watch?v=wbXuDvSIWQM
 AuroraPeachy --- Neptune and Uranus Figuarts ZERO CHOUETTE Unboxing & Review --- https://www.youtube.com/watch?v=0w-fCtP4Du0
