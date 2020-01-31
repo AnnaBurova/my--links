@@ -511,11 +511,6 @@ Bog Otter --- Bloodstone Weapons Set Preview ► Guild Wars 2 --- https://www.yo
 Bog Otter --- Bloopers & Funny Moments ► Twitch Highlights May 2016 --- https://www.youtube.com/watch?v=tuS65LpPDGY
 Bog Otter --- Bloopers! ► The Bog & the Peach ► Guild Wars 2 --- https://www.youtube.com/watch?v=2FRcZjB3P5U
 Bog Otter --- Bog Otter takes the ALS Ice Bucket Challenge --- https://www.youtube.com/watch?v=Kz0GVAs7DEc
-Bog Otter --- Bog Otter's Skyrim Walkthrough Part 1 --- https://www.youtube.com/watch?v=0ZamrJCPB_s
-Bog Otter --- Bog Otter's Skyrim Walkthrough Part 2 --- https://www.youtube.com/watch?v=461n557bFf4
-Bog Otter --- Bog Otter's Skyrim Walkthrough Part 3 --- https://www.youtube.com/watch?v=haYSWrA_tzo
-Bog Otter --- Bog Otter's Skyrim Walkthrough Part 4 --- https://www.youtube.com/watch?v=9KfeD2td1GU
-Bog Otter --- Bog Otter's Skyrim Walkthrough Part 5 --- https://www.youtube.com/watch?v=j_hAMHOmTns
 Bog Otter --- Bog Reacts to the Otterman Empire Happy Birthday Video --- https://www.youtube.com/watch?v=zituxg7ike0
 Bog Otter --- Bog Vlog - And Now For Something Completely Different --- https://www.youtube.com/watch?v=ToDI0P58LPE
 Bog Otter --- Bog Vlog ► September 2014 Channel Update ► Patreon Shoutouts! --- https://www.youtube.com/watch?v=8bGV5SCrSWo
@@ -6656,7 +6651,6 @@ Kyosika --- How to farm Volatile Magic - Guild Wars 2 Guide | DOMAIN OF ISTAN FA
 Kyosika --- How to INFUSE and ATTUNE Ascended Rings - Guild Wars 2 Guide | GIVEAWAY WINNERS --- https://www.youtube.com/watch?v=HEoXkVafKKE
 Kyosika --- How to make gold (money) in Guild Wars 2 | Works in 2018 | CLASS TIPS | WINTERBERRIES --- https://www.youtube.com/watch?v=Czc8TWgSRsI
 Kyosika --- I got High Hopes for the Icebrood Saga! | Guild Wars 2: Bound by Blood Review --- https://www.youtube.com/watch?v=l4vKUUQOHjs
-Kyosika --- Johakimm (Dovahkiin in Skyrim) in Magicka 2 [1080P] --- https://www.youtube.com/watch?v=BsKS20T92rw
 Kyosika --- Jon Snow at ''The Wall'' in Magicka 2 [1080P/HD] --- https://www.youtube.com/watch?v=RWzTD82uxcc
 Kyosika --- Jon Snow in Magicka 2 [1080P] --- https://www.youtube.com/watch?v=W8FZpnmdYXw
 Kyosika --- New Lion's Arch Opening Cinematic --- https://www.youtube.com/watch?v=qwGbUZ41640
