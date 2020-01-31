@@ -480,11 +480,6 @@ Bog Otter --- Abaddon Weapons Set Preview ► Guild Wars 2 --- https://www.youtu
 Bog Otter --- Abandoned Eldan Test Lab Expedition (Housing Dungeon) - WildStar --- https://www.youtube.com/watch?v=BmOuWif_WMU
 Bog Otter --- Aftermath Story Instance - Guild Wars 2 --- https://www.youtube.com/watch?v=vHDmZKpxpnM
 Bog Otter --- AHHHHHHHH! | Twitch Highlights (Sekiro, Apex Legends, Ring of Elysium, Limbo) --- https://www.youtube.com/watch?v=VizwOVju3H0
-Bog Otter --- Albion Online - Ep 1 - Choppin' Wood in My Undies --- https://www.youtube.com/watch?v=cSpGg5rMg5Y
-Bog Otter --- Albion Online - Ep 2 - Axes & Oxen --- https://www.youtube.com/watch?v=yXff_WJnBu4
-Bog Otter --- Albion Online ► Dungeon Gameplay ► Group Content Feedback --- https://www.youtube.com/watch?v=t14p3y8A2Ik
-Bog Otter --- Albion Online ► Mage in a Cave ► Winter Alpha Event #2 --- https://www.youtube.com/watch?v=A7icQyopTDY
-Bog Otter --- Albion Online ► Winter Alpha Event ► Sandbox MMO --- https://www.youtube.com/watch?v=nG9BkWNDJ0s
 Bog Otter --- All or Nothing - Living World Season 4 Episode 5 - Guild Wars 2 --- https://www.youtube.com/watch?v=88WRt-BoBn4
 Bog Otter --- Amnesia: The Dark Descent ► Scream Stream Highlights --- https://www.youtube.com/watch?v=Fy7demgtNbY
 Bog Otter --- Amnesia: The Dark Descent ► Scream Stream Highlights Part 2 --- https://www.youtube.com/watch?v=drQZEo7UPUc
@@ -5986,7 +5981,6 @@ INOY --- -=INOY NEWS=- Изменения в LOST ARK. Подробности su
 INOY --- -=INOY NEWS=-. Восставший труп АЛЛОДОВ и предзагрузка LOST ARK!!! --- https://www.youtube.com/watch?v=GQST9JDyaRE
 INOY --- ....и все, кто ищет СВЕТ, потеряли СВОЙ! --- https://www.youtube.com/watch?v=ku28dWQauDQ
 INOY --- 15 ПРАВИЛ ПОВЕДЕНИЯ НА СТРИМЕ. Как получить модератора? --- https://www.youtube.com/watch?v=R-mbjTLIzAw
-INOY --- [Fractured] Динамическая ММО в стиле Albion Online (АЛЬФА-2). --- https://www.youtube.com/watch?v=u3GxdyLyJ7s
 INOY --- [INOY NEWS] Lost Ark/ Path of Exile 2/ Astellia Online/ World of Warcraft/ Crimson Desert. --- https://www.youtube.com/watch?v=OqWwS0G8sPw
 INOY --- [Radio INOY] ИГРЫ В 40. ИНОЛАЙТЫ. КРИЗИС. ☕ --- https://www.youtube.com/watch?v=fIzbxUvxSgI
 INOY --- [RU] Guild Wars 2. Гильдия "Russian DOGMA". Побег крабов от крабов! :) --- https://www.youtube.com/watch?v=HpT_QsUMYmQ
@@ -5999,7 +5993,6 @@ INOY --- [РУССКИЙ ТРЕЙЛЕР] Guild Wars 2. Shadow in the Ice. Episod
 INOY --- AI:R. Warlord 🎲 Данжи. Фракционки. Мировые квесты. --- https://www.youtube.com/watch?v=Vqn7EW2tYJw
 INOY --- AION. Играющие ГМ-ы, страйки каналов, донаты в 1.5кк! --- https://www.youtube.com/watch?v=hVfv607TU0g
 INOY --- AION. Подкаст об УЖАСАХ ИГРЫ в 2019! --- https://www.youtube.com/watch?v=GrO17Us8vxU
-INOY --- ALBION ONLINE. Иной взгляд. --- https://www.youtube.com/watch?v=iguyJRXyWlo
 INOY --- Albion на free-to-play. ДОБРО ИЛИ ЗЛО? --- https://www.youtube.com/watch?v=KbkqfBncPoo
 INOY --- Apex Legends. DANIK, INOY и TRAMADEX. ВЫСАДКУ РАЗРЕШАЕМ! --- https://www.youtube.com/watch?v=fmCgB7kz4ng
 INOY --- Apex Legends. БЫСТРЫЙ ОБЗОР! --- https://www.youtube.com/watch?v=vDiJm6zf6xs
