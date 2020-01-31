@@ -214,11 +214,6 @@ AuroraPeachy --- Interview with COLIN JOHANSON ● Guild Wars 2 Heart of Thorns 
 AuroraPeachy --- Interview with Rubi Bayer & Elisabeth Kerstein ● Guild Wars 2 Heart of Thorns --- https://www.youtube.com/watch?v=1q6KYexq8wM
 AuroraPeachy --- KEEPSAKE Weapon Skins ● Guild Wars 2 --- https://www.youtube.com/watch?v=vpfJdTncNBo
 AuroraPeachy --- KINGDOM HEARTS III RE:MIND TRAILER REACTION --- https://www.youtube.com/watch?v=oeFrtXvRLyc
-AuroraPeachy --- Let's Play Aladdin - #01 - Riff Raff Street Rat --- https://www.youtube.com/watch?v=cRlSgTrswYU
-AuroraPeachy --- Let's Play Aladdin - #02 - The Cave of Wonders --- https://www.youtube.com/watch?v=Mse73dvetcw
-AuroraPeachy --- Let's Play Aladdin - #03 - Genie's Bachelor Pad --- https://www.youtube.com/watch?v=JbPvKsZoG-k
-AuroraPeachy --- Let's Play Aladdin - #04 - Iago, the Bringer of Death --- https://www.youtube.com/watch?v=9B7b1Uuw7IY
-AuroraPeachy --- Let's Play Aladdin - #05 - Oooooh it's a Snaaaake! --- https://www.youtube.com/watch?v=kyZzuKXQ7DI
 AuroraPeachy --- Let's Play Barbie Super Model (alpha test) --- https://www.youtube.com/watch?v=fs5YY7PYubM
 AuroraPeachy --- Let's Play Guild Wars 2 Beta (Asura) --- https://www.youtube.com/watch?v=33nuDdmywW4
 AuroraPeachy --- Let's Play The Magical Quest starring Mickey Mouse (alpha test) --- https://www.youtube.com/watch?v=nb1xWnV4Ltk
