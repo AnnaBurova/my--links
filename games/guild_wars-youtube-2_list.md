@@ -2267,7 +2267,6 @@ GramBezKo --- @Heroes of the Storm@ Zagara Best Build (Li-Ming Patch) - Ranked M
 GramBezKo --- A PLAGUE TALE INNOCENCE PL #1 (NAPISY) PREMIERA MROCZNA GRA | PRZYGODÓWKA GAMEPLAY --- https://www.youtube.com/watch?v=iiY72fpkJg0
 GramBezKo --- A PLAGUE TALE INNOCENCE PL #2 (NAPISY) ODWET I UCZEŃ | PRZYGODÓWKA GAMEPLAY --- https://www.youtube.com/watch?v=UFvBTwWonrE
 GramBezKo --- A PLAGUE TALE INNOCENCE PL #3 (NAPISY) CZAS KRUKÓW I POJMANIE | PRZYGODÓWKA GAMEPLAY --- https://www.youtube.com/watch?v=AADXjM_pd9Y
-GramBezKo --- Abode of Ignominy Delve | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=Q_AAPZP2uxs
 GramBezKo --- Age Of Empires Castle Siege - Windows 10 Xbox Live First Look Gameplay --- https://www.youtube.com/watch?v=xr7MQVJZqaI
 GramBezKo --- Aion 5.5 Immortal - Flower of Ice - New Update Expansion Cinematic Trailer 2017 --- https://www.youtube.com/watch?v=R4P8beBTg7M
 GramBezKo --- Akt 2 Boss | GEARS 5 PL Gameplay Po Polsku | Cała Kampania Fabularna XBOX ONE X - Bez Komentarza --- https://www.youtube.com/watch?v=3xhHARnHflw
@@ -2293,7 +2292,6 @@ GramBezKo --- Arena 3v3 Resto Druid Warrior Warlock - WoW Legion PVP Gameplay --
 GramBezKo --- ARENA 3v3 SEZON 5 | WOW Legion 7.3 PVP Gameplay PL | Resto Druid (Shadow Of Argus) --- https://www.youtube.com/watch?v=YWx6-z_vWcQ
 GramBezKo --- Arena Skirmishes Bonus Event February 2017 - Resto Druid Gameplay With Randoms - WOW Legion 7.1.5 --- https://www.youtube.com/watch?v=a_P2yBfkS3k
 GramBezKo --- ARGUS MAC'AREE | WOW LEGION 7.3 Gameplay Part 3 - Argus Storyline --- https://www.youtube.com/watch?v=y_ejlyGuYAY
-GramBezKo --- Arx Corinium Dungeon | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=VlqNS0gWGJE
 GramBezKo --- As Strong As Our Will - Insurrection Suramar Campaign 7.1 Gameplay Walkthrough - WoW Legion --- https://www.youtube.com/watch?v=3Nf_EmisEPw
 GramBezKo --- Ashenvale Hunt | WOW CLASSIC Full Gameplay Walkthrough #9 | Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=UmSsH29o3lo
 GramBezKo --- ASSASSIN'S CREED CHRONICLES RUSSIA Gameplay Walkthrough GAMES WITH GOLD JUNE 2018 --- https://www.youtube.com/watch?v=vBpXxtVBAgU
@@ -2328,7 +2326,6 @@ GramBezKo --- Back to the Future: The Game - Episode 5: OUTATIME Gameplay Part 1
 GramBezKo --- Back to the Future: The Game - Episode 5: OUTATIME Gameplay Part 2 No Commentary --- https://www.youtube.com/watch?v=xYYjAqWUmKQ
 GramBezKo --- Baldur's Gate EE - Intro & Character Creation --- https://www.youtube.com/watch?v=o-nkRig892o
 GramBezKo --- Baldur's Gate EE - Prologue Candlekeep --- https://www.youtube.com/watch?v=7olTdK3HQ0E
-GramBezKo --- Banished Cells I | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=zgE3ykRdfOg
 GramBezKo --- Barradin's Vault (Plains of Ashford) and Point of Interest in Guild Wars 2 --- https://www.youtube.com/watch?v=CETnKQcNcTc
 GramBezKo --- BATMAN Episode 2 Children of Arkham The Telltale Games Series Gameplay - Chapter 1 Broken Memories --- https://www.youtube.com/watch?v=KZxvoN7zSKw
 GramBezKo --- BATMAN Episode 2 Children of Arkham The Telltale Games Series Gameplay - Chapter 2 The Children --- https://www.youtube.com/watch?v=SDIblbit0xA
@@ -2370,7 +2367,6 @@ GramBezKo --- Black Desert Wizard Gameplay #4 - Questing Level 12-14 Horse Final
 GramBezKo --- Black Desert Wizard Gameplay #5 Questing Level 14-17 Heidel --- https://www.youtube.com/watch?v=JQhMUzI9B1I
 GramBezKo --- Black Rook Hold Walkthrough - Resto Druid Gameplay | WoW LEGION --- https://www.youtube.com/watch?v=e7XztKjIkrw
 GramBezKo --- Blackfathom Deeps & Gnomeregan - WOW BATTLE FOR AZEROTH 1-120 Gameplay Walkthrough | VANILLA #4 --- https://www.youtube.com/watch?v=DMV90TE_M88
-GramBezKo --- Blackheart Haven Dungeon | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=P-rweQE-0RU
 GramBezKo --- Bladestorm Nightmare First Look HD --- https://www.youtube.com/watch?v=3GWrYJN9Owo
 GramBezKo --- BLESS ONLINE Gameplay Walkthrough FIRST LOOK Paladin Healer (No Commentary) Part 1 --- https://www.youtube.com/watch?v=xZ-zY1Hh91E
 GramBezKo --- BLESS ONLINE Gameplay Walkthrough PALADIN HEALER LEVELING (No Commentary) Part 2 --- https://www.youtube.com/watch?v=D4OjbxeUIQY
@@ -2393,7 +2389,6 @@ GramBezKo --- Breaking The Nighthold - Suramar Campaign 7.1 Insurrection Ending 
 GramBezKo --- Buried Crossroads - Changing God Hidden Sanctuary - Torment: Tides of Numenera Walkthrough Part 8 --- https://www.youtube.com/watch?v=T_jT7oMsiQ4
 GramBezKo --- CALL OF DUTY WW2 Gameplay PL PREMIERA - Intro i Pierwsza Misja D-DAY --- https://www.youtube.com/watch?v=tPYDF6N8iQc
 GramBezKo --- Call of the Scarab - Micro-holidays Event 2017 - World of Warcraft Legion 7.1.5 --- https://www.youtube.com/watch?v=y_BSSBpv560
-GramBezKo --- Capture the Relic Close Game | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=p7mjvstmc84
 GramBezKo --- CARS 2 Gameplay Walkthrough Part 1 | Games With Gold APRIL 2018 (No Commentary) --- https://www.youtube.com/watch?v=lwIt5A790wI
 GramBezKo --- CastleStorm Xbox One Game With Gold May 2015 First Look --- https://www.youtube.com/watch?v=FNkoHocWbTw
 GramBezKo --- Cała Gra | GEARS 5 PO POLSKU Pełna Kampania Fabularna - Kompletna Historia Z Gry --- https://www.youtube.com/watch?v=PCwIGynLo1s
@@ -2405,13 +2400,11 @@ GramBezKo --- CENTRUM KOMUNIKACYJNE - LEGO JURASSIC WORLD PL #5 (NAPISY) | LEGO 
 GramBezKo --- CHAMPION CITY | MINECRAFT STORY MODE SEASON 2 EPISODE 1 Gameplay Part 2 (HD 60FPS) No commentary --- https://www.youtube.com/watch?v=5iJA4rQNW-c
 GramBezKo --- Chaos na Hellicarrierze LEGO MARVEL AVENGERS PL GAMEPLAY WALKTHROUGH Statek Shield #5 (Xbox One X) --- https://www.youtube.com/watch?v=aO70YeKx46s
 GramBezKo --- Circles in Red Quest - Torment: Tides of Numenera Gameplay Walkthrough Part 10 --- https://www.youtube.com/watch?v=_gSztqvVm-4
-GramBezKo --- City of Ash I | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=35eyfWRkdyg
 GramBezKo --- City of Hope - GW2 Heart of Thorns Full Story - Act 2 Part 2 (Chapter 8) --- https://www.youtube.com/watch?v=Og0ynEoqpzo
 GramBezKo --- Cloud Pirates Gameplay - First Look Closed Beta - From Allods Team --- https://www.youtube.com/watch?v=z0walkxsTAc
 GramBezKo --- Commandos: Beyond the Call of Duty - Mission 01: Dying Light --- https://www.youtube.com/watch?v=CnX2qRaUiNg
 GramBezKo --- Conan Exiles - Xbox One/PC Announcement Trailer 2017 | Open World Survival --- https://www.youtube.com/watch?v=xojjC2pX6CM
 GramBezKo --- Crafting War Insurrection Suramar Campaign Gameplay Walkthrough Karazkhan Patch (7.1) --- https://www.youtube.com/watch?v=uctDuQdMeAs
-GramBezKo --- Crypt of Hearts I | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=zjAH1BuiJh4
 GramBezKo --- D4 Dark Dreams Don't Die Gameplay Walkthrough - Episode 1- Xbox One - No Commentary --- https://www.youtube.com/watch?v=4K5sfrSsaP4
 GramBezKo --- D4 Dark Dreams Don't Die Gameplay Walkthrough - Episode 2 - Xbox One - No Commentary --- https://www.youtube.com/watch?v=-2ygBtxR2mY
 GramBezKo --- D4 Dark Dreams Don't Die Gameplay Walkthrough Part 1 - Prologue - Xbox One - No Commentary --- https://www.youtube.com/watch?v=EOp0JybF4uY
@@ -2432,7 +2425,6 @@ GramBezKo --- Defender Of The Broken Isle - Battle For Val'sharah - World of War
 GramBezKo --- Demonslaying Order Daily Token - Revelation Online Gameplay Walkthrough --- https://www.youtube.com/watch?v=i0rlLRGKTTY
 GramBezKo --- Despicable Me: Minion Rush - Windows 10 Game for Kids --- https://www.youtube.com/watch?v=bmaYrIvHePk
 GramBezKo --- Dire Maul & Stratholme - WOW BATTLE FOR AZEROTH 1-120 Gameplay Walkthrough | VANILLA #11 --- https://www.youtube.com/watch?v=YS19j_sg0o0
-GramBezKo --- Direfrost Keep Dungeon | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=-AeXrKhSfX4
 GramBezKo --- Disney Games - Frozen Free Fall Snowball Fight Gameplay Steam f2p --- https://www.youtube.com/watch?v=nWNcBXgDNTQ
 GramBezKo --- DISNEYLAND ADVENTURES Gameplay Walktrough - GAME PASS JUNE 2018 - Xbox One X (Kids Game) --- https://www.youtube.com/watch?v=cLKqvRpfaMk
 GramBezKo --- DIVINITY ORIGINAL SIN 2 Cinematic Citscenes GAME MOVIE FULL --- https://www.youtube.com/watch?v=S4Goj2hlx2s
@@ -2481,7 +2473,6 @@ GramBezKo --- Dreadnought Beta Gameplay - Dreadnought Multiplayer Gameplay (PC /
 GramBezKo --- Druid Leveling - WOW BATTLE FOR AZEROTH 1-120 Gameplay Walkthrough | VANILLA #2 --- https://www.youtube.com/watch?v=T6ZX5AbtJmo
 GramBezKo --- DUNGEONS 110-120 MONK HEALER - WOW BATTLE FOR AZEROTH | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=j-4FZGZwXZ0
 GramBezKo --- Earthlock: Festival of Magic First Look - Xbox One Gameplay (Games With Gold) --- https://www.youtube.com/watch?v=j6pXcqbtjGE
-GramBezKo --- Elden Hollow I | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=c8UOrae6OXU
 GramBezKo --- ELEX Gameplay Walkthrough PART 1 First Look CHAPTER 1 SURVIVE --- https://www.youtube.com/watch?v=HE9Q9cZKdMg
 GramBezKo --- EPISODE 1 - Darkshore Adventures | WORLD OF WARCRAFT VANILLA - Night Elf Druid Gampelay --- https://www.youtube.com/watch?v=JsTqj1GJrLQ
 GramBezKo --- EPISODE 2- Healing Dungeons | WORLD OF WARCRAFT VANILLA - Night Elf Druid Gampelay --- https://www.youtube.com/watch?v=TGoCujYait8
@@ -2489,27 +2480,6 @@ GramBezKo --- EPIZOD 1 CAŁY | Life Is Strange Before The Storm PL (Gameplay PL 
 GramBezKo --- EPIZOD 1 | LEGO WORLDS Minecraft W Świecie Lego | XBOX ONE - TWITCH Gameplay | SERIA DZIECIAKI GRAJĄ --- https://www.youtube.com/watch?v=EX9umU0EXz4
 GramBezKo --- EPIZOD 2 | LEGO WORLDS Sanie Świętego Mikolaja | XBOX ONE X TWITCH Gameplay | SERIA DZIECIAKI GRAJĄ --- https://www.youtube.com/watch?v=gylAmuJD_RE
 GramBezKo --- EPIZOD 3 | LEGO WORLDS Budujemy Dalej | XBOX ONE - TWITCH Gameplay | SERIA DZIECIAKI GRAJĄ --- https://www.youtube.com/watch?v=soI61hXPxp0
-GramBezKo --- ESO - Sorcerer Healer Gameplay - Fighter’s Guild: Anchors from the Harbour Quest Walkthrough --- https://www.youtube.com/watch?v=_bIKLu9pKFo
-GramBezKo --- ESO - Sorcerer Healer Gameplay Walkthrough - Mage’s Guild Quest Long Lost Lore --- https://www.youtube.com/watch?v=TP1LLP61GRo
-GramBezKo --- ESO ELSWEYR NECROMANCER WALKTHROUGH #3 (FULL DIALOGUES) ASHEN SCAR | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=TVDzktsMAaM
-GramBezKo --- ESO ELSWEYR NECROMANCER WALKTHROUGH #4 (FULL DIALOGUES) DUNGEONS BG FAST LEVELING | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=BpzggOpQJE0
-GramBezKo --- ESO ELSWEYR NECROMANCER WALKTHROUGH #5 (FULL DIALOGUES) ANEQUINA AQUEDUCT | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=YdBxGXYwfeo
-GramBezKo --- ESO ELSWEYR NECROMANCER WALKTHROUGH #6 - TEMPEST ISLAND DUNGEON | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=UEBxMr0DMdM
-GramBezKo --- ESO ELSWEYR NECROMANCER WALKTHROUGH #7 - BLACKHEART HAVEN DUNGEON | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=zh3ZCxkboXQ
-GramBezKo --- ESO ELSWEYR WALKTHROUGH #1 (FULL DIALOGUES) NECROMANCER START | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=toob_OOtMpQ
-GramBezKo --- ESO ELSWEYR WALKTHROUGH #2 (FULL DIALOGUES) NECROMANCER LEVELING | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=6ROKWLL8F5k
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER Fresh Start XBOX ONE X (No Commentary) #1 --- https://www.youtube.com/watch?v=D_FpjPY5F1g
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER LEVEL 30+ (No Commentary) #9 --- https://www.youtube.com/watch?v=qm9yLSCQCIQ
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER LEVEL 33+ (No Commentary) #10 --- https://www.youtube.com/watch?v=88SCpY_M49U
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER LEVEL 35+ (No Commentary) #11 --- https://www.youtube.com/watch?v=XWtv8WMW8N8
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER LEVEL 37+ (No Commentary) #12 --- https://www.youtube.com/watch?v=2TaL5T0E7U4
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER LEVEL 40+ (No Commentary) #13 --- https://www.youtube.com/watch?v=HXd300dg5C4
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER Leveling XBOX ONE X (No Commentary) #4 --- https://www.youtube.com/watch?v=dwryvu-iaVQ
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER Story Continues XBOX ONE X (No Commentary) #3 --- https://www.youtube.com/watch?v=RuoJ41Eavjs
-GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER Story Questing XBOX ONE X (No Commentary) #2 --- https://www.youtube.com/watch?v=UgDNSJsgcwM
-GramBezKo --- ESO SUMMERSET Gameplay WARDEN HEALER Level 10+ XBOX ONE X (No Commentary) #5 --- https://www.youtube.com/watch?v=Drjb_dcIxgc
-GramBezKo --- ESO SUMMERSET Gameplay WARDEN HEALER Level 15+ XBOX ONE X (No Commentary) #6 --- https://www.youtube.com/watch?v=MuAEVjw--ho
-GramBezKo --- ESO SUMMERSET Gameplay WARDEN HEALER Leveling Free Eso Plus | XBOX ONE X (No Commentary) #7 --- https://www.youtube.com/watch?v=XN0hQ-mjI7c
 GramBezKo --- Eye of Storm RBG - Close Fight Win - Wow Legion PVP 7.1.5 - Resto Druid POV 1.9 MMR --- https://www.youtube.com/watch?v=pBOZ65361Ro
 GramBezKo --- Fabianek dancing --- https://www.youtube.com/watch?v=36L6VZH2_bQ
 GramBezKo --- Fallout 4 - Official Trailer & Gameplay Trailer 2015 (PC/Xbox One/PS4) --- https://www.youtube.com/watch?v=me1sK0_JBjU
@@ -2537,10 +2507,8 @@ GramBezKo --- For Honor Gameplay Trailer - Character Breakdown and Elimination M
 GramBezKo --- For Honor Official Beta Cinematic Trailer (Xbox One PS4 PC) January 2017 --- https://www.youtube.com/watch?v=hZL69wlEwNE
 GramBezKo --- For The Horde PVP | WOW BATTLE FOR AZEROTH Gameplay Walkthrough #4 | Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=ZKswOrMG5Ec
 GramBezKo --- Free Games With Gold Xbox Live - September 2015 (Trailers) --- https://www.youtube.com/watch?v=Fmqr4_m2dms
-GramBezKo --- Full Cadwell Story | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Cadwell the Betrayer --- https://www.youtube.com/watch?v=vNehFjMzNRo
 GramBezKo --- FULL GAME | MINECRAFT STORY MODE SEASON 2 EPISODE 1 Gameplay (HD 60FPS) No commentary --- https://www.youtube.com/watch?v=7WZ_MFUr4cI
 GramBezKo --- FULL GAME | MINECRAFT STORY MODE SEASON 2 EPISODE 2 Gameplay (HD 60FPS) No commentary --- https://www.youtube.com/watch?v=0ez-Tkwb-0o
-GramBezKo --- Fungal Grotto 1 | Speed Run ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=bJp1PoAtupw
 GramBezKo --- Funny Dancing Son Fabian --- https://www.youtube.com/watch?v=fgWNCI1WOK8
 GramBezKo --- GAMES FOR KIDS: LEGO Movie Video Game Part 7 - Attack on Cloud Cuckoo Land Xbox One --- https://www.youtube.com/watch?v=-oKgP8bsSIk
 GramBezKo --- GAMES FOR KIDS: LEGO Movie Video Game Part 9 - The Depths | Xbox One --- https://www.youtube.com/watch?v=PP4Jq5R2JCw
@@ -2848,7 +2816,6 @@ GramBezKo --- Heroes of The Strom: Kharazim Ranked Gameplay | Win With 3 Tanks -
 GramBezKo --- HORDE ASSAULTS ALL SIX - WOW BATTLE FOR AZEROTH | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=fYp49lLAfYo
 GramBezKo --- HOTs Quick Match - Rehgar vs Li Li --- https://www.youtube.com/watch?v=4EbvnrOOGyU
 GramBezKo --- HOTS: Hero League | The Fastest Win I Ever Played | Kharazim Gameplay --- https://www.youtube.com/watch?v=jYqclM8hbr4
-GramBezKo --- How to Win Crazy King Battleground | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden PVP --- https://www.youtube.com/watch?v=iKrT_STLbAA
 GramBezKo --- Humongris World Boss - World of Warcraft Legion Gameplay --- https://www.youtube.com/watch?v=GXHnY9GuEp8
 GramBezKo --- ILLIDAN AGAIN??? | WOW LEGION 7.3 Gameplay Part 2 - Argus Storyline --- https://www.youtube.com/watch?v=2cvBJqUM2gk
 GramBezKo --- In The Caves | WOW CLASSIC Gameplay Walkthrough #6 | Night Elf Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=HjpvQEHhWp8
@@ -2858,7 +2825,6 @@ GramBezKo --- ISLAND EXPEDITIONS - WOW BATTLE FOR AZEROTH | MMORPG GAMEPLAY --- 
 GramBezKo --- Jimmy Lightning Multiball *PEGGLE* Gameplay #2 Xbox One - Family Game Nights --- https://www.youtube.com/watch?v=0MKclZs3uhQ
 GramBezKo --- JURASSIC WORLD EVOLUTION TRAILER Jeff Goldblum As Dr Ian Malcolm UPCOMING GAME 2018 --- https://www.youtube.com/watch?v=K_v4lMwZxTw
 GramBezKo --- Just Cause 3 - Gameplay Reveal Trailer 2015 --- https://www.youtube.com/watch?v=cNFuGAgAK40
-GramBezKo --- Khamira the Queen ESO ELSWEYR GAMEPLAY WALKTHROUGH Full Main Story #2 --- https://www.youtube.com/watch?v=QXd9uMr0vss
 GramBezKo --- Kharazim Mayhem Ranked - No Tower Destroyed | Heroes of the Storm --- https://www.youtube.com/watch?v=3yooWXyL-8Q
 GramBezKo --- KID GAMING: LEGO Movie Video Game Part 8 --- https://www.youtube.com/watch?v=voOSur3LOdM
 GramBezKo --- KID GAMING: The Lego Movie Video Game Part 2 - Escape From Bricksburg Xbox One --- https://www.youtube.com/watch?v=VH6L2i7Ch2I
@@ -2904,7 +2870,6 @@ GramBezKo --- LATE SHIFT Gameplay Walkthrough NEW FREE GAME PASS GAME APRIL 2018
 GramBezKo --- LawBreakers Beta Gameplay First Look - New FPS Game From Nexon 2017 --- https://www.youtube.com/watch?v=RAvO_JS1-cI
 GramBezKo --- Leaving Mulgore | WOW CLASSIC Full Gameplay Walkthrough #2 | Tauren Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=Bu6QIm6wPP8
 GramBezKo --- Leaving Teldrassil | WOW CLASSIC Gameplay Walkthrough #3 | Night Elf Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=uq0XNjavwQQ
-GramBezKo --- Legacy of Baelborne Rock Quest - ESO Sorcerer Gameplay Walkthrough --- https://www.youtube.com/watch?v=7Y8XUrQCo-Q
 GramBezKo --- Legionfall Campaign Walkthrough Part 1 - Assault On Broken Shore - WoW Legion 7.2 --- https://www.youtube.com/watch?v=s5uaMtaLkQo
 GramBezKo --- Legionfall Campaign Walkthrough Part 2 - Power Unbound (Druid New Artifact Traits) - WoW Legion 7.2 --- https://www.youtube.com/watch?v=_bQ851GIeIQ
 GramBezKo --- Legionfall Campaign Walkthrough Part 3 - Champions Of Legionfall (New Follower) - WoW Legion 7.2 --- https://www.youtube.com/watch?v=r0yMYwEQqvY
@@ -3029,7 +2994,6 @@ GramBezKo --- Live Another Life - My First Mere (Matkina) - Torment: Tides of Nu
 GramBezKo --- LLEGO JURASSIC WORLD Gameplay Walkthrough | WELCOME TO JURASSIC PARK Part 2 --- https://www.youtube.com/watch?v=BAMyVZgP92A
 GramBezKo --- Loki, Pierwsze Kroki LEGO MARVEL AVENGERS PL GAMEPLAY WALKTHROUGH Loki vs Shield #2 (Xbox One X) --- https://www.youtube.com/watch?v=tOO3zaH4_XU
 GramBezKo --- Lords Of The Fallen Xbox One Intro And Gameplay --- https://www.youtube.com/watch?v=bz_34qRj2co
-GramBezKo --- Love and Guar | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Leveling --- https://www.youtube.com/watch?v=GQRxRdyjCMg
 GramBezKo --- Magic Duels Story Mode - Gideon Campaign - Last Mission --- https://www.youtube.com/watch?v=KaEqXFp3i8c
 GramBezKo --- Magic Duels Story Mode - Gideon Campaign Kytheon Iora of Akros - Mission 1 --- https://www.youtube.com/watch?v=k39_3XJQ06c
 GramBezKo --- Magic Duels Story Mode Gideon Campaign Kytheon Iora of Akros Mission 2 --- https://www.youtube.com/watch?v=g73zi3MhSn8
@@ -3115,13 +3079,11 @@ GramBezKo --- MONSTER HUNTER WORLD Po Polsku - Odc 8 Elekryczny Potworek | XBOX 
 GramBezKo --- MONSTER HUNTER WORLD Po Polsku - Odc 9 Wielki Dinozaur | XBOX ONE X Gameplay PL (Napisy) --- https://www.youtube.com/watch?v=oH6gKzTiOd4
 GramBezKo --- MU Legend First Look - Intro Character Creation War Mage Gameplay Beta --- https://www.youtube.com/watch?v=LZ7nR8T8E8I
 GramBezKo --- MU LEGEND Gameplay PL PREMIERA - Intro / Pierwsze Zadania | Mag Wojenny (Napisy PL) --- https://www.youtube.com/watch?v=BKax-Sgpf44
-GramBezKo --- Mulaamnir Dragon Fight ESO ELSWEYR GAMEPLAY WALKTHROUGH Full Main Story Ending --- https://www.youtube.com/watch?v=7PZuNf947Ho
 GramBezKo --- Mulgore Part 1 | WOW CLASSIC Full Gameplay Walkthrough | Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=E9ku9gukoD8
 GramBezKo --- Mulgore Part 2 | WOW CLASSIC Full Gameplay Walkthrough | Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=6erngQO9o3Q
 GramBezKo --- Mulgore Part 3 | WOW CLASSIC Full Gameplay Walkthrough | Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=znJtyIJfViE
 GramBezKo --- Mulgore Part 4 | WOW CLASSIC Full Gameplay Walkthrough | Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=3m1DqZtZ09k
 GramBezKo --- MXM (Master X Master) Gameplay - Alpha Test First Look - Story & Arena Mission --- https://www.youtube.com/watch?v=e5RjMEvQXu8
-GramBezKo --- My First Chaos Ball Game | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer PVP --- https://www.youtube.com/watch?v=R865Sml_ObU
 GramBezKo --- My little daughter dancing --- https://www.youtube.com/watch?v=kq96ZMxDraw
 GramBezKo --- Na'zak the Fiend World Boss - WoW Legion Resto Druid Gameplay --- https://www.youtube.com/watch?v=39S2Sd6k7u8
 GramBezKo --- NATALIA Gra W PALADINS | XBOX ONE X - TWITCH Gameplay --- https://www.youtube.com/watch?v=EUsJQ9dCbFo
@@ -3347,7 +3309,6 @@ GramBezKo --- SPELLFORCE 3 Po Polsku PREMIERA - Pierwsza Misja, Tworzenie Postac
 GramBezKo --- SPELLFORCE 3 Po Polsku SZARA TWIERDZA - Ucieczka Z Więzienia #4 (Napisy PL) --- https://www.youtube.com/watch?v=NdBbpDdqmtA
 GramBezKo --- SPELLFORCE 3 Po Polsku SZARA TWIERDZA - Wilcza Straż #2 (Napisy PL) --- https://www.youtube.com/watch?v=l-uP7g_YG-U
 GramBezKo --- SPELLFORCE 3 Po Polsku UCHODŹCY Farlornowa Nadzieja #8 (Napisy PL) --- https://www.youtube.com/watch?v=l0HjceF7GYk
-GramBezKo --- Spindleclutch I | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=eYe73lh2I8Y
 GramBezKo --- Star Wars The Old Republic All Hutta Datacrons --- https://www.youtube.com/watch?v=MSHud5LxQvg
 GramBezKo --- STAR WARS The Old Republic PVE - Imperial Agent Gameplay - The Red Reaper Flashpoint --- https://www.youtube.com/watch?v=qVgV0E-Xep0
 GramBezKo --- STAR WARS The Old Republic PVP - Imperial Agent Gameplay - My First Arena Best Healing --- https://www.youtube.com/watch?v=Fmub2UhMILc
@@ -3394,7 +3355,6 @@ GramBezKo --- Star Wars: The Old Republic Walkthrough Part 7 - Jedi Consular Gam
 GramBezKo --- STAR WARS: TOR - Imperial Agent Gameplay - Chapter 1 Heart of Terror - Balmorra #1 HD 60 FPS --- https://www.youtube.com/watch?v=grTilGZ8IsY
 GramBezKo --- STAR WARS: TOR - Imperial Agent Gameplay - Chapter 1 Heart of Terror Alderaan (#1) --- https://www.youtube.com/watch?v=G4hOEhYvE70
 GramBezKo --- STAR WARS: TOR - Imperial Agent Gameplay - Chapter 1 Heart of Terror Balmorra #2 --- https://www.youtube.com/watch?v=bKCXETAkYz8
-GramBezKo --- Start of Adventure ESO ELSWEYR GAMEPLAY WALKTHROUGH Full Main Story #1 --- https://www.youtube.com/watch?v=ToLT-UdC98E
 GramBezKo --- Starting Zone | WOW CLASSIC Full Gameplay Walkthrough #1 | Night Elf Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=bOtPWNea4Rs
 GramBezKo --- STATE OF DECAY 2 Gameplay Walkthrough FIRST LOOK Xbox One X (No Commentary) --- https://www.youtube.com/watch?v=DJWDvB933sQ
 GramBezKo --- Steep Open Beta First Look Xbox One Gameplay --- https://www.youtube.com/watch?v=UTrw-zWfVXs
@@ -3408,7 +3368,6 @@ GramBezKo --- STREET FIGHTER V Po Polsku (Arcade Edition) GŁÓWNA FABUŁA Akt 2
 GramBezKo --- STREET FIGHTER V Po Polsku (Arcade Edition) GŁÓWNA FABUŁA Akt 3 Gorące Starcie (Napisy PL) --- https://www.youtube.com/watch?v=eKU0MjqpVdM
 GramBezKo --- STREET FIGHTER V Po Polsku (Arcade Edition) GŁÓWNA FABUŁA Akt 4 Ważne Decyzje (Napisy PL) --- https://www.youtube.com/watch?v=bTAG0Ub5-m4
 GramBezKo --- STREET FIGHTER V Po Polsku (Arcade Edition) GŁÓWNA FABUŁA Akt 5 Zakończenie / Finał (Napisy PL) --- https://www.youtube.com/watch?v=w82sAVqmgi8
-GramBezKo --- Stros M'kai Skyshards Location - ESO Sorcerer Healer Gameplay --- https://www.youtube.com/watch?v=zRMDSmiONTc
 GramBezKo --- Styx: Master Of Shadows First Look - Free Game With Gold February 2016 Xbox One --- https://www.youtube.com/watch?v=QYl1EPN5vLI
 GramBezKo --- SUMMER FINALS DAY 1 - World Of Warcraft | WoW Arena Championship FIRST ROUND --- https://www.youtube.com/watch?v=UbQ3HF-HTAQ
 GramBezKo --- SUPER HOT Gameplay PL | GAMES WITH GOLD MARZEC 2018 Jak Matrix (Bez Komentarza) --- https://www.youtube.com/watch?v=fKuAFOKAM-o
@@ -3519,8 +3478,6 @@ GramBezKo --- THE MOVE DESTROYS STORM Wow Arena Chamionship Summer #3 2019 --- h
 GramBezKo --- The Nighthold Raid - High Botanist Tel'arn and Tichondrius - Resto Druid Gameplay --- https://www.youtube.com/watch?v=yYLDHq8Q3tw
 GramBezKo --- The Nighthold Raid - Skorpyron Torm the Brute Chronomatic Anomaly Trilliax - Resto Druid Gameplay --- https://www.youtube.com/watch?v=acVdz6kQMUc
 GramBezKo --- The Predator's Path - GW2 Heart of Thorns Full Story - Act 2 (Chapter 9) --- https://www.youtube.com/watch?v=MIRliB4kVeU
-GramBezKo --- The Prowl | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Leveling --- https://www.youtube.com/watch?v=izSqkBFk5Ig
-GramBezKo --- The Riverhold Abduction | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Mizzik Thunderboots Full Quest --- https://www.youtube.com/watch?v=CDqL1TxuRq8
 GramBezKo --- The Sanctuary of Miel Avest - Torment Tides of Numenera Gameplay Walkthrough Part 16 --- https://www.youtube.com/watch?v=Nk3YSGvV_ow
 GramBezKo --- The Simpsons - LEGO Dimensions Walkthrough Gameplay Part 3 - Lord Business & Joker --- https://www.youtube.com/watch?v=m8alQN5Yf-s
 GramBezKo --- The Sorrow's Prey Quest - Torment: Tides of Numenera Gameplay Walkthrough Part 7 --- https://www.youtube.com/watch?v=v-oZbXjmD3k
@@ -3591,7 +3548,6 @@ GramBezKo --- Tidal Surge Affinity Skill - Torment: Tides of Numenera Gameplay W
 GramBezKo --- Timewalking Dungeon Wrath of the Lich King Gundrak - WoW Legion Resto Druid Gameplay --- https://www.youtube.com/watch?v=oeoQiLHfY30
 GramBezKo --- Timewalking Dungeon: Wrath of the Lick King - Utgarde Pinnacle - WoW Legion Resto Druid Gameplay --- https://www.youtube.com/watch?v=AM1bpcH3-_g
 GramBezKo --- Titanfall Gameplay HD --- https://www.youtube.com/watch?v=kNQNrG-Vnvc
-GramBezKo --- Tomb of the Serpents Delve | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden --- https://www.youtube.com/watch?v=Y_bjuvwRT7k
 GramBezKo --- TOMB RAIDER UNDERWORLD - Xbox Live Gold Styczeń 2018 | XBOX ONE X --- https://www.youtube.com/watch?v=snFDe-0nDkg
 GramBezKo --- TOP 10 New Upcoming Next-Gen Games 2015-2016 (PC/Xbox One/PS4) --- https://www.youtube.com/watch?v=blYdDinM4LI
 GramBezKo --- Top Upcoming Games February 2017 For PC Xbox One PS4 - List Release Dates & For Honor Trailer --- https://www.youtube.com/watch?v=lIJ580HV9ZU
@@ -3631,8 +3587,6 @@ GramBezKo --- Warsong Gulch RBG 1.9 MMR - WOW Legion PVP 7.1.5 - Resto Druid Gam
 GramBezKo --- WARSONG GULCH RBG SEASON 5 | WOW Legion 7.3 PVP Gameplay PL | Resto Druid (Shadow Of Argus) --- https://www.youtube.com/watch?v=zEgkxeS_8YI
 GramBezKo --- Warsong Gulch | WOW CLASSIC Gameplay Walkthrough #7 Night Elf Druid Leveling (No Commentary) --- https://www.youtube.com/watch?v=qLT7l_VDD6I
 GramBezKo --- Watch Dogs 2 - Play For Free Demo Trailer - Xbox One / PS4 2017 --- https://www.youtube.com/watch?v=MnG50p135hw
-GramBezKo --- Wayrest Sewers 2 Dungeon | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=M_OOa9NkYW0
-GramBezKo --- Wayrest Sewers I | Dungeon ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=tg9yT6iNT-w
 GramBezKo --- WE HAPPY FEW Gameplay Walkthrough ACT 1 ARTHUR PART 1 First Look #1 --- https://www.youtube.com/watch?v=N0D1r5mp49k
 GramBezKo --- WildStar - Shiphand Deep Space Exploration - Medic Gameplay (F2P MMORPG) --- https://www.youtube.com/watch?v=IFcR27z4iCg
 GramBezKo --- WildStar 2017 - World Story - The Vault Of The Archon Walkthrough - Medic Gameplay --- https://www.youtube.com/watch?v=EwoFqQ9Kw5Y
