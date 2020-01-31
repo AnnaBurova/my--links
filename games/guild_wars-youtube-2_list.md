@@ -18,14 +18,6 @@ AuroraPeachy --- ASIAN SNACK TASTING ♥ --- https://www.youtube.com/watch?v=prJ
 AuroraPeachy --- BEASTSLAYER Weapon Skins ● Guild Wars 2 --- https://www.youtube.com/watch?v=4dcY3WBYPOM
 AuroraPeachy --- Best of Bog & the Peach 2016 | Twitch Clip Compilation --- https://www.youtube.com/watch?v=wzzCeJgwK7c
 AuroraPeachy --- Bioluminescent Weapon Skins ● Guild Wars 2 --- https://www.youtube.com/watch?v=rl012JiVUls
-AuroraPeachy --- Blade & Soul Best Moments --- https://www.youtube.com/watch?v=YBVP9uk-kkw
-AuroraPeachy --- Blade & Soul Dungeon Boss ● Ape King Ogong ● Summoner Gameplay --- https://www.youtube.com/watch?v=J0Y3A00rZSs
-AuroraPeachy --- Blade & Soul New Warlock Class Highlights #1 --- https://www.youtube.com/watch?v=ccAQqjYzvOM
-AuroraPeachy --- Blade & Soul Story Playthrough HIGHLIGHTS #2 --- https://www.youtube.com/watch?v=Y4iQamzWeuY
-AuroraPeachy --- Blade & Soul Story Playthrough HIGHLIGHTS! --- https://www.youtube.com/watch?v=9O6hZge2JbA
-AuroraPeachy --- Blade & Soul ● Creating Chibi Usagi ● Lyn Character Creation --- https://www.youtube.com/watch?v=1Hw_B9mBhBI
-AuroraPeachy --- Blade & Soul ● Intro, Races and Classes [Twitch Highlight] --- https://www.youtube.com/watch?v=b9Ys8tDpzhs
-AuroraPeachy --- Blade & Soul ● Silverfrost Mountains Expansion Highlights (ft. Foul-Mouthed Granny!) --- https://www.youtube.com/watch?v=I0RPjmRYvCM
 AuroraPeachy --- Blade and Soul ● How do Soul Shields Work? --- https://www.youtube.com/watch?v=qplGm5TIRB4
 AuroraPeachy --- Bladescale Naga King - BnS Expansion Dungeon Boss --- https://www.youtube.com/watch?v=6etgy58Y-gM
 AuroraPeachy --- BLOODSTONE Weapon Skins ● Guild Wars 2 --- https://www.youtube.com/watch?v=Wsqd3G2KBro
@@ -222,7 +214,6 @@ AuroraPeachy --- Inquest Mark II Weapon Skins ● Guild Wars 2 --- https://www.y
 AuroraPeachy --- Interview with Colin Johanson at PAX South ● Guild Wars 2 Heart of Thorns --- https://www.youtube.com/watch?v=CIiqCW4WrFo
 AuroraPeachy --- Interview with COLIN JOHANSON ● Guild Wars 2 Heart of Thorns --- https://www.youtube.com/watch?v=sHK-MpyOyiU
 AuroraPeachy --- Interview with Rubi Bayer & Elisabeth Kerstein ● Guild Wars 2 Heart of Thorns --- https://www.youtube.com/watch?v=1q6KYexq8wM
-AuroraPeachy --- Is Blade & Soul PvE Friendly? [Twitch Highlight] --- https://www.youtube.com/watch?v=X2M7x-mZxVg
 AuroraPeachy --- KEEPSAKE Weapon Skins ● Guild Wars 2 --- https://www.youtube.com/watch?v=vpfJdTncNBo
 AuroraPeachy --- KINGDOM HEARTS III RE:MIND TRAILER REACTION --- https://www.youtube.com/watch?v=oeFrtXvRLyc
 AuroraPeachy --- Let's Play Aladdin - #01 - Riff Raff Street Rat --- https://www.youtube.com/watch?v=cRlSgTrswYU
@@ -599,7 +590,6 @@ AuroraPeachy --- Uranus & Neptune Lip Rod Proplicas Unboxing & Review --- https:
 AuroraPeachy --- War Eternal Feature Teaser ● Guild Wars 2 --- https://www.youtube.com/watch?v=LU-sIfr49LQ
 AuroraPeachy --- WAR ETERNAL Reaction ● Guild Wars 2 Living World S4E6 --- https://www.youtube.com/watch?v=zj9TqMtsqH4
 AuroraPeachy --- War Eternal • Trailer Reaction • Guild Wars 2 --- https://www.youtube.com/watch?v=nA5YZAPXqk0
-AuroraPeachy --- Warlock Gameplay / Beginner's Guide [Blade & Soul Highlights] --- https://www.youtube.com/watch?v=jaWo7uxPdR0
 AuroraPeachy --- Where Have I Been? --- https://www.youtube.com/watch?v=bcB_rZcY10s
 AuroraPeachy --- WHISPER IN THE DARK Reaction ● Guild Wars 2 Living World S5E1 --- https://www.youtube.com/watch?v=QA17Uh6twdk
 AuroraPeachy --- Whisper in the Dark Trailer • Guild Wars 2 --- https://www.youtube.com/watch?v=SsWlzvhitX4
@@ -2637,7 +2627,6 @@ GramBezKo --- Black Desert Wizard Gameplay #5 Questing Level 14-17 Heidel --- ht
 GramBezKo --- Black Rook Hold Walkthrough - Resto Druid Gameplay | WoW LEGION --- https://www.youtube.com/watch?v=e7XztKjIkrw
 GramBezKo --- Blackfathom Deeps & Gnomeregan - WOW BATTLE FOR AZEROTH 1-120 Gameplay Walkthrough | VANILLA #4 --- https://www.youtube.com/watch?v=DMV90TE_M88
 GramBezKo --- Blackheart Haven Dungeon | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=P-rweQE-0RU
-GramBezKo --- Blade & Soul: Character Creation and Intro | First Look/Impression Europe --- https://www.youtube.com/watch?v=N9njUDqQ6CE
 GramBezKo --- Bladestorm Nightmare First Look HD --- https://www.youtube.com/watch?v=3GWrYJN9Owo
 GramBezKo --- BLESS ONLINE Gameplay Walkthrough FIRST LOOK Paladin Healer (No Commentary) Part 1 --- https://www.youtube.com/watch?v=xZ-zY1Hh91E
 GramBezKo --- BLESS ONLINE Gameplay Walkthrough PALADIN HEALER LEVELING (No Commentary) Part 2 --- https://www.youtube.com/watch?v=D4OjbxeUIQY
@@ -6183,10 +6172,6 @@ INOY --- Black Desert ПЕРЕНЕСУТ! КОМПАНИИ ДОГОВОРИЛИ�
 INOY --- Black Desert. НОВЫЙ САЙТ! ЧТО БУДЕТ ПОСЛЕ ЗАКРЫТИЯ? 12.09.18 --- https://www.youtube.com/watch?v=uLqN6bHw9xE
 INOY --- Black Desert. О ЧЕМ МОЛЧИТ ПУСТЫНЯ? --- https://www.youtube.com/watch?v=gBQcGCRVarM
 INOY --- Black Desert. СТОИТ ЛИ ИГРАТЬ В 2017? В гостях девушка-стример!!! --- https://www.youtube.com/watch?v=GclmO1h_aTo
-INOY --- Blade & Soul в 2018! Самый новый ОБЗОРНЫЙ СТРИМ с EVRIAL! --- https://www.youtube.com/watch?v=hqy7xHn3rcA
-INOY --- Blade & Soul. Кто не ПАНТОГРАФ, тот Киркоров! Так решил зритель.. :З --- https://www.youtube.com/watch?v=W2ytERh2iQc
-INOY --- Blade & Soul. Ламповый кач. Болтовня с чатом. Планы по стриму. --- https://www.youtube.com/watch?v=OoLkmVC-AeM
-INOY --- Blade & Soul. Тестим ЛУЧНИКА на Корее!!!! --- https://www.youtube.com/watch?v=1S1ekkORtpc
 INOY --- Blade and Soul. ДНЕВНИК НУБА #2. --- https://www.youtube.com/watch?v=Da0SdGkRuRs
 INOY --- Blade and Soul. ДНЕВНИК НУБА #4. --- https://www.youtube.com/watch?v=CK92pi0pMvs
 INOY --- Blade and Soul. ДНЕВНИК НУБА! #3 --- https://www.youtube.com/watch?v=F7B1-yjykeg
@@ -6407,7 +6392,6 @@ INOY --- INOY NEWS. Apex Legends бьет ВСЕ РЕКОРДЫ!!! Новая MM
 INOY --- INOY NEWS. ArcheAge. Lost Ark. Lineage Essence. Neverwinter. Fractured. --- https://www.youtube.com/watch?v=wl9L4Q6_k8o
 INOY --- INOY NEWS. Ashes of Creation - стрим от разработчиков. Bungie разрывает отношения с Activision. --- https://www.youtube.com/watch?v=wYEoeJoISp4
 INOY --- INOY NEWS. Astellia Online - не PAY-TO-WIN! --- https://www.youtube.com/watch?v=1vA1a74KVvw
-INOY --- INOY NEWS. Bless за 200$. Blade & Soul на Unreal Engine 4 и Cyberpunk 2077 на E3! --- https://www.youtube.com/watch?v=wFq_-hk2Hbw
 INOY --- INOY NEWS. Bless не добрал бабла! Скользкое МЫЛЬЦЕ для Ashes of Creation. --- https://www.youtube.com/watch?v=uaqMeR4SuB4
 INOY --- INOY NEWS. Bless проснулся. Paragon загнулся. --- https://www.youtube.com/watch?v=J6HMJ4MCsF8
 INOY --- INOY NEWS. Bless умоляет о лайках. Ashes of Creation поверг игроков. Альфа в World of Warcraft! --- https://www.youtube.com/watch?v=XGlIEO_0qv4
@@ -6748,7 +6732,6 @@ INOY --- 🔹LOST ARK🔹 КУВАЛДА-МЭН (Destroyer). --- https://www.you
 INOY --- 🔹ОБТ LOST ARK🔹 КУВАЛДА-МЭН и никакой ВАНИЛЬКИ! --- https://www.youtube.com/watch?v=i2T62MI4_3o
 INOY --- 🔹от "А" до "Я" - Guild Wars 2 c НУЛЯ🔹 ДАНЖИ И ИСТОРИЯ. --- https://www.youtube.com/watch?v=yzXKQhpv1Fc
 INOY --- 😇Guild Wars 2😇 Twilight Arbor - ТРЕТИЙ ДАНЖ! --- https://www.youtube.com/watch?v=2zf2B_rCX6s
-Kyosika --- [Blade & Soul Guide] Tumblerock and Orichalcum ore locations --- https://www.youtube.com/watch?v=dIy5HjW7QNc
 Kyosika --- [Guide] Guild Wars 2 : How to beat Champion Frizz (Aetherblade Fractal) --- https://www.youtube.com/watch?v=uf9z7BQIHcg
 Kyosika --- [Guild Wars 2] Super Adventure Parade // Super Adventure Box 2016 --- https://www.youtube.com/watch?v=8h4S_gweknA
 Kyosika --- A Plague Tale: Innocence Review (No Spoilers!) | Is it worth your money? [PC] --- https://www.youtube.com/watch?v=J9zb4kA8-3U
