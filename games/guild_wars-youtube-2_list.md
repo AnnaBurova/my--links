@@ -500,8 +500,6 @@ Bog Otter --- Become an Otter on Patreon! --- https://www.youtube.com/watch?v=MD
 Bog Otter --- Behind-The-Scenes: Emote Sketches & Sound Bloopers --- https://www.youtube.com/watch?v=PTuenPWQydI
 Bog Otter --- Best WildStar Challenge - How to get the Massive Ocular Sphere --- https://www.youtube.com/watch?v=bd8ZRSDT1IA
 Bog Otter --- Big Changes to Traits, Skills, & Specializations in Guild Wars 2: Heart of Thorns --- https://www.youtube.com/watch?v=IoBkso4P_wU
-Bog Otter --- Black Desert Online ► Character Creation ► Beserker --- https://www.youtube.com/watch?v=biRIWgzFS6s
-Bog Otter --- Black Desert Online ► Character Creation ► Sorcerer (Sorceress) --- https://www.youtube.com/watch?v=OXR9AeAPxgw
 Bog Otter --- Blackrock Depths ► All Normal Bosses & Class Challenges ► Hearthstone --- https://www.youtube.com/watch?v=udtoEZS5VOA
 Bog Otter --- Blackrock Mountain Adventure for Hearthstone Announced! --- https://www.youtube.com/watch?v=767qxOS581w
 Bog Otter --- Blood & Madness Story Instance: The Reliquary - Guild Wars 2 --- https://www.youtube.com/watch?v=imYyjphNUIc
@@ -609,7 +607,6 @@ Bog Otter --- Feature Pack Patch Primer (Tips to get you started) - Guild Wars 2
 Bog Otter --- First Look at Magic Duels: Origins ► Story Mode Part 1 --- https://www.youtube.com/watch?v=meFZiRNWp34
 Bog Otter --- First Look at Magic Duels: Origins ► Story Mode Part 2 --- https://www.youtube.com/watch?v=0njV1phlm0w
 Bog Otter --- First Open World PvP Moments in WildStar --- https://www.youtube.com/watch?v=djzfxOLeXlg
-Bog Otter --- Fishing RAGE! ► Black Desert Online Stream Highlight --- https://www.youtube.com/watch?v=N7d7Uj_hZJ0
 Bog Otter --- Frostforge Weapons Set Preview ► Guild Wars 2 --- https://www.youtube.com/watch?v=r_0nzR3vAq0
 Bog Otter --- Frozen Out ► Living World S3 E3 Part 4 ► Guild Wars 2 --- https://www.youtube.com/watch?v=tOIDj3yfR7w
 Bog Otter --- Fwap-a-doodle-doo | Twitch Highlights (Darksiders 3, Apex Legends, Metro Exodus, Donut County) --- https://www.youtube.com/watch?v=MADKP4ARbdU
@@ -2441,7 +2438,6 @@ GramBezKo --- Best Games Releases/Upcoming In October 2015 (Pc/Xbox One/PS4) ---
 GramBezKo --- Best Games Releases/Upcoming In September 2015 (Pc/Xbox One/PS4) --- https://www.youtube.com/watch?v=Kf8R00mkx9Y
 GramBezKo --- Best of the Beasts - Family Familiar Achievement - WoW Legion Pet Battle --- https://www.youtube.com/watch?v=Y2s1lwEtmOA
 GramBezKo --- Best/Top Releases/Upcoming Games In November 2015 (Pc/Xbox One/PS4) --- https://www.youtube.com/watch?v=iWHOUN0Brr0
-GramBezKo --- Black Desert Online Beta (CBT 2) First Look - Character Creation & Combat Gameplay --- https://www.youtube.com/watch?v=ffWUBR3wmyw
 GramBezKo --- Black Desert Walkthrough PART 1 [PC] Witch Gameplay @1080p HD ✔ --- https://www.youtube.com/watch?v=Wrf2uqawvlU
 GramBezKo --- Black Desert Walkthrough PART 2 [PC] Witch Gameplay Quests Combat @1080p HD ✔ --- https://www.youtube.com/watch?v=kmbVdT9q8KY
 GramBezKo --- Black Desert Walkthrough PART 3 (PC) Witch Gameplay Level 15+ @1080p HD ✔ --- https://www.youtube.com/watch?v=4kbSqSzIkhA
@@ -5938,7 +5934,6 @@ INOY --- Azeroth уже НЕ ТОТ! Старт нового дополнени�
 INOY --- BDO от Pearl Abyss. ЧИТЫ, ЛАГИ и ДОНАТ! --- https://www.youtube.com/watch?v=Aei7y1FOlTM
 INOY --- BDO-шник, НЕ ПЛОШАЙ! ДОСТАВАЙ свой мелкий ШАЙ! :-D --- https://www.youtube.com/watch?v=ge3k4ZmLTXA
 INOY --- Black Desert - Vebanaul на оба ваши дома! --- https://www.youtube.com/watch?v=-WqX5kLFi9U
-INOY --- Black Desert Online. #МойЛучник и ВАШ ДОНАТИК ))) --- https://www.youtube.com/watch?v=t9nulQ0yrTk
 INOY --- Black Desert Wars. Новый сервер! Старт 9 февраля! --- https://www.youtube.com/watch?v=z4i4WmJM_K4
 INOY --- Black Desert Wars. ОТКРЫТИЕ СЕРВЕРА! --- https://www.youtube.com/watch?v=xiaymbcAEuQ
 INOY --- Black Desert ПЕРЕНЕСУТ! КОМПАНИИ ДОГОВОРИЛИСЬ! --- https://www.youtube.com/watch?v=-obItI0IZ10
@@ -10674,8 +10669,6 @@ WoodenPotatoes 2 --- Being A Kodan | Potatoes for Dinner {NA} - Gargoyle Weapon 
 WoodenPotatoes 2 --- BenP's Updated Upcoming Balance --- https://www.youtube.com/watch?v=Wi70_ByRXRE
 WoodenPotatoes 2 --- Berries and the Bitterfrost (+ Other New Patch Stuff!)| Potatoes for Dinner --- https://www.youtube.com/watch?v=PxkoX-ybaAI
 WoodenPotatoes 2 --- BIG Upcoming Balance Feedback Discussion & Aborted February Automated Tournament --- https://www.youtube.com/watch?v=GQo7Ev7amm4
-WoodenPotatoes 2 --- Black Desert Online - Preparing for VR Stream 2 | Potatoes for Lunch --- https://www.youtube.com/watch?v=fWVJpWakX0s
-WoodenPotatoes 2 --- Black Desert Online - Preparing for VR | Potatoes for Lunch --- https://www.youtube.com/watch?v=ZJ1BfhHIPqw
 WoodenPotatoes 2 --- Bloodstone Fen! | Potatoes for Dinner NA --- https://www.youtube.com/watch?v=DwpEVe2Ieu0
 WoodenPotatoes 2 --- Bonus Balloon Bonanza | An Outstanding Wriggle --- https://www.youtube.com/watch?v=dVazW_j6qqA
 WoodenPotatoes 2 --- Bonus Christmas Stream - Come Be Merry! | Potatoes for Dinner EU --- https://www.youtube.com/watch?v=G8vNRwzaPkk
