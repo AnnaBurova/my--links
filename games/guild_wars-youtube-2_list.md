@@ -2328,7 +2328,6 @@ GramBezKo --- Back to the Future: The Game - Episode 5: OUTATIME Gameplay Part 1
 GramBezKo --- Back to the Future: The Game - Episode 5: OUTATIME Gameplay Part 2 No Commentary --- https://www.youtube.com/watch?v=xYYjAqWUmKQ
 GramBezKo --- Baldur's Gate EE - Intro & Character Creation --- https://www.youtube.com/watch?v=o-nkRig892o
 GramBezKo --- Baldur's Gate EE - Prologue Candlekeep --- https://www.youtube.com/watch?v=7olTdK3HQ0E
-GramBezKo --- BALMORA I ZABÓJCY - ESO MORROWIND #2 WARDEN | GRY MMO GAMEPLAY --- https://www.youtube.com/watch?v=oSofgHwKYjg
 GramBezKo --- Banished Cells I | ESO ELSWEYR GAMEPLAY WALKTHROUGH | Warden Healer --- https://www.youtube.com/watch?v=zgE3ykRdfOg
 GramBezKo --- Barradin's Vault (Plains of Ashford) and Point of Interest in Guild Wars 2 --- https://www.youtube.com/watch?v=CETnKQcNcTc
 GramBezKo --- BATMAN Episode 2 Children of Arkham The Telltale Games Series Gameplay - Chapter 1 Broken Memories --- https://www.youtube.com/watch?v=KZxvoN7zSKw
@@ -2499,27 +2498,6 @@ GramBezKo --- ESO ELSWEYR NECROMANCER WALKTHROUGH #6 - TEMPEST ISLAND DUNGEON | 
 GramBezKo --- ESO ELSWEYR NECROMANCER WALKTHROUGH #7 - BLACKHEART HAVEN DUNGEON | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=zh3ZCxkboXQ
 GramBezKo --- ESO ELSWEYR WALKTHROUGH #1 (FULL DIALOGUES) NECROMANCER START | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=toob_OOtMpQ
 GramBezKo --- ESO ELSWEYR WALKTHROUGH #2 (FULL DIALOGUES) NECROMANCER LEVELING | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=6ROKWLL8F5k
-GramBezKo --- ESO MORROWIND 2017 Gameplay Walkthrough PVE QUESTING PART 3 - Nchuleftingth (Public Dungeon) --- https://www.youtube.com/watch?v=rZfR3b-PTCI
-GramBezKo --- ESO MORROWIND 2017 Gameplay Walkthrough PVE QUESTING PART 4 - House Redoran Story Quest --- https://www.youtube.com/watch?v=FqvYhslzTdM
-GramBezKo --- ESO MORROWIND 2017 Gameplay Walkthrough PVE: QUESTING PART 2 - Like Blood From A Stone --- https://www.youtube.com/watch?v=IK88Xy5KYMs
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough 2017 - PVE: QUESTING PART 1 - Suran Scarlet Judge --- https://www.youtube.com/watch?v=P2b2enwcIAI
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough MAIN STORY Part 2 - Divine Inquiries and Delusions --- https://www.youtube.com/watch?v=Rxj9GNkOVwM
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough MAIN STORY Part 3 - Divine Intervention --- https://www.youtube.com/watch?v=A6Xys2--A_A
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough MAIN STORY Part 4 - Champion Of Vivec --- https://www.youtube.com/watch?v=w87Elk_PXwk
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE DUNGEON - Arx Corinium | Templar Healer --- https://www.youtube.com/watch?v=kEtEErfsOHg
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE DUNGEON - Crypt Of Hearts 1 | Templar Healer --- https://www.youtube.com/watch?v=lxp4w306ajs
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE DUNGEON - Elden Hollow 1 | Templar Healer --- https://www.youtube.com/watch?v=uCGXYOE7ZlQ
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE DUNGEON - Wayrest Sewers 1 | Templar Healer --- https://www.youtube.com/watch?v=Tvz2O-z3ipc
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE: DUNGEON - Banished Cells 1 | Templar Healer --- https://www.youtube.com/watch?v=gG4xPEKdOlY
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE: DUNGEON - Darkshade Caverns 1 | Templar Healer --- https://www.youtube.com/watch?v=3yHsAt8OzYg
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE: DUNGEON - Fungal Grotto 1 | Templar Healer --- https://www.youtube.com/watch?v=G79Dmg8FjN0
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVE: DUNGEON - Spindleclutch I | Templar Healer --- https://www.youtube.com/watch?v=eG3otR1D4vU
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough PVP BATTLEGROUND First Time TEMPLAR HEALER --- https://www.youtube.com/watch?v=zviZADXE-HU
-GramBezKo --- ESO MORROWIND Gameplay Walkthrough | TEMPLAR HEALER Vvardenfell Part 1 Fresh Start (#1) --- https://www.youtube.com/watch?v=tC_O2Ly3YN0
-GramBezKo --- ESO MORROWIND Historia Lorda Vivec DIVINE CONUNDRUM I INQUIRIES | Warden Gameplay #2 --- https://www.youtube.com/watch?v=FFBhClXnvVE
-GramBezKo --- ESO MORROWIND PVE - Dungeon Banished Cells I - Warden Healer Gameplay PL --- https://www.youtube.com/watch?v=Q3l3rJHY0-g
-GramBezKo --- ESO MORROWIND Siostra Przeciw Bratu DIVINE DELUSIONS Warden Gameplay #3 --- https://www.youtube.com/watch?v=zkLmTIAYmZE
-GramBezKo --- ESO MORROWIND Tworzenie Postaci i Tutorial NOWY POCZĄTEK | Warden Gameplay #1 --- https://www.youtube.com/watch?v=xNHfBUDc6CY
 GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER Fresh Start XBOX ONE X (No Commentary) #1 --- https://www.youtube.com/watch?v=D_FpjPY5F1g
 GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER LEVEL 30+ (No Commentary) #9 --- https://www.youtube.com/watch?v=qm9yLSCQCIQ
 GramBezKo --- ESO SUMMERSET Gameplay Walkthrough WARDEN HEALER LEVEL 33+ (No Commentary) #10 --- https://www.youtube.com/watch?v=88SCpY_M49U
@@ -3223,7 +3201,6 @@ GramBezKo --- Pit People First Look - Xbox One Demo (Game Preview) - Intro and G
 GramBezKo --- PLANTS VS ZOMBIES GW 2 Pierwszy Stream | XBOX ONE X - TWITCH Gameplay pl | SERIA DZIECIAKI GRAJĄ --- https://www.youtube.com/watch?v=VzxffsaFMts
 GramBezKo --- Player vs Player Few Games (02) LEGENDS OF RUNETERRA Gameplay | League of Legends Card Game --- https://www.youtube.com/watch?v=C24UDmZmBKs
 GramBezKo --- Pneuma First Look - Free Xbox One Game With Gold November 2015 --- https://www.youtube.com/watch?v=nK0IFZkiTts
-GramBezKo --- POCZĄTEK PRZYGODY- ESO MORROWIND PREMIERA #1 WARDEN | GRY MMO GAMEPLAY --- https://www.youtube.com/watch?v=m3VXWh-THM8
 GramBezKo --- Poker Night at The Invertory (Celebrity Poker) First Tournament Win --- https://www.youtube.com/watch?v=lt_koapXY6U
 GramBezKo --- PoolNationFX June 2015 Game With Gold Xbox One --- https://www.youtube.com/watch?v=p51wB9He7Ps
 GramBezKo --- Power of the Primal Matrix - WildStar Update Live Now - Medic Healer Some Battlegrounds --- https://www.youtube.com/watch?v=qEUkA1brxOk
@@ -3362,7 +3339,6 @@ GramBezKo --- Sniper Ghost Warrior 3 - Steam Beta Giveaway --- https://www.youtu
 GramBezKo --- SONIC & ALL-START RACING TRANSFORMED Gameplay | Xbox One X - GAMES WITH GOLD JUNE 2018 --- https://www.youtube.com/watch?v=7KrsciA_tTw
 GramBezKo --- SOUTH PARK THE FRACTURED BUT WHOLE Gameplay PL PREMIERA (Napisy PL) --- https://www.youtube.com/watch?v=0y80fAvfh8c
 GramBezKo --- SOUTH PARK THE FRACTURED BUT WHOLE Gameplay Walkthrough PART 1 First Look DAY ONE - ORIGINS --- https://www.youtube.com/watch?v=ZANaFcLTjUE
-GramBezKo --- SPALONIA ZIEMIA - ESO MORROWIND #3 WARDEN | GRY MMO GAMEPLAY --- https://www.youtube.com/watch?v=IGYZd06y-R8
 GramBezKo --- SPELLFORCE 3 Po Polsku FARLORNOWA NADZIEJA - Najazd Na Orków #5 (Napisy PL) --- https://www.youtube.com/watch?v=8H51xYMH43M
 GramBezKo --- SPELLFORCE 3 Po Polsku JASKINIE - Droga Do Mulandiru #6 (Napisy PL) --- https://www.youtube.com/watch?v=YUYHTY9bl68
 GramBezKo --- SPELLFORCE 3 Po Polsku LIANNON - W Poszukiwaniu Źródła Zarazy #3 (Napisy PL) --- https://www.youtube.com/watch?v=LDFm0yU_1b0
@@ -3649,7 +3625,6 @@ GramBezKo --- Walking Dead Telltale Season 2 Episode 3 Gameplay Walkthrough Part
 GramBezKo --- Walking Dead Telltale Season 2 Episode 4 Gameplay Walkthrough Part 1 No Commentary Amid The Ruins --- https://www.youtube.com/watch?v=nVlyqJyWCj0
 GramBezKo --- Walking Dead Telltale Season 2 Episode 4 Gameplay Walkthrough Part 2 No Commentary Amid The Ruins --- https://www.youtube.com/watch?v=lVn1YvrBqJQ
 GramBezKo --- Walking Dead Telltale Season 2 Episode 5 Gameplay Walkthrough Part 1 No Commentary Final Episode --- https://www.youtube.com/watch?v=1TyphPLzWlA
-GramBezKo --- WAMPIRY!!! - Spindleclutch II Dungeon - ESO MORROWIND PVE Warden Healer Gameplay PL --- https://www.youtube.com/watch?v=75s_SYvWhGo
 GramBezKo --- War Comes to Suramar - Lockdown Karazhan Patch First Quest - WoW Legion Gameplay --- https://www.youtube.com/watch?v=bAcl217ErIw
 GramBezKo --- WAR OF LIGHT AND SHADOW | WOW LEGION 7.3 Gameplay Part 4 - Argus Storyline --- https://www.youtube.com/watch?v=FMu58iq27ZI
 GramBezKo --- Warsong Gulch RBG 1.9 MMR - WOW Legion PVP 7.1.5 - Resto Druid Gameplay --- https://www.youtube.com/watch?v=Elclq52mvDg
@@ -4213,8 +4188,6 @@ GramBezKo --- Xbox One Free Games With Gold December 2015 Van Helsing & Thief Ga
 GramBezKo --- Xbox One Free Games With Gold January 2016 Killer Instinct Zheros Deus Ex Dirt Gameplay Trailer --- https://www.youtube.com/watch?v=mOu-IYHEoow
 GramBezKo --- Xbox One Top 5 Best Upcoming Exclusive Games in 2016 --- https://www.youtube.com/watch?v=ZTjkJDXswm8
 GramBezKo --- ZACZYNAMY PREMIERA - SYBERIA 3 PL #1 (DUBBING) | PRZYGODÓWKA GAMEPLAY --- https://www.youtube.com/watch?v=9mBBEO5oG_4
-GramBezKo --- Zadania w Sadrith Mora - ESO MORROWIND PVE - Warden Healer Gameplay PL --- https://www.youtube.com/watch?v=tmtss3qlXlE
-GramBezKo --- ZDOBĄDŹ FLAGĘ - ESO MORROWIND PVP BATTLEGROUND CAPTURE THE FLAG | GRY MMO GAMEPLAY --- https://www.youtube.com/watch?v=qebVUslJuTU
 GramBezKo --- ZOMBI Games With Gold Styczeń 2018 | XBOX ONE X Godzinny Gameplay --- https://www.youtube.com/watch?v=6_QIBU7kW4s
 GramBezKo --- ZULDAZAR FULL MAP PART 1 - WOW BATTLE FOR AZEROTH | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=sBCb88l_fcE
 GramBezKo --- ZULDAZAR FULL MAP PART 2 - WOW BATTLE FOR AZEROTH | MMORPG GAMEPLAY --- https://www.youtube.com/watch?v=wEfVPLqecx0
@@ -6038,7 +6011,6 @@ INOY --- TESO на НОЧЬ. Ламповый чатик перед сном. --
 INOY --- TESO. ПОКУПАТЬ ИЛИ НЕТ? --- https://www.youtube.com/watch?v=cyfbjtXGv0M
 INOY --- TESO. Поэмыч & INOY стримят!!! --- https://www.youtube.com/watch?v=COBWNv2A9_I
 INOY --- TESO. Путь нуба на MANA DK. --- https://www.youtube.com/watch?v=XPc4p7MgIxo
-INOY --- TESO: Morrowind & Summerset. Обсуждаем с Danik_PROK! --- https://www.youtube.com/watch?v=I1MG7KbyFGU
 INOY --- TESO: ХОРОШИЕ игры - для ХОРОШИХ людей! --- https://www.youtube.com/watch?v=4m6Oakt5mns
 INOY --- TWIN SAGA. Чё, пацаны? Ну, в общем, сами поняли.... --- https://www.youtube.com/watch?v=eHvMvW7aguk
 INOY --- Vampyr. РЕЛИЗ! Погружение в мрачный Лондон. --- https://www.youtube.com/watch?v=0nkoSW5vx8c
