@@ -3031,10 +3031,6 @@ GramBezKo --- LEGO INCREDIBLES Gameplay Walkthrough THE INCREDIBLES 2 LEVELS 1-4
 GramBezKo --- LEGO INCREDIBLES Gameplay Walkthrough THE INCREDIBLES 2 LEVELS 5-6 Ending (No Commentary) #2 --- https://www.youtube.com/watch?v=Rwng5y2YRW8
 GramBezKo --- LEGO INCREDIBLES Gameplay Walkthrough THE INCREDIBLES LEVEL 11-12 Final (No Commentary) #5 --- https://www.youtube.com/watch?v=8hhAOtgBH5g
 GramBezKo --- LEGO INCREDIBLES Gameplay Walkthrough THE INCREDIBLES LEVELS 7-8 Original (No Commentary) #3 --- https://www.youtube.com/watch?v=TdlKaOjOL6s
-GramBezKo --- Lego Indiana Jones Gameplay Walkthrough - Raiders of the Lost Ark - Chapter 1 Lost Temple --- https://www.youtube.com/watch?v=jTYaSqJuNhs
-GramBezKo --- LEGO Indiana Jones Gameplay Walkthrough - Raiders of the Lost Ark Part 4 - The Well of Souls --- https://www.youtube.com/watch?v=uKmHGTTZUmU
-GramBezKo --- Lego Indiana Jones Gameplay Walkthrough Raiders of the Lost Ark - Part 2 Into the Mountains --- https://www.youtube.com/watch?v=ti3lChKEkIo
-GramBezKo --- LEGO Indiana Jones Gameplay Walkthrough Raiders of the Lost Ark - Part 3 City of Danger --- https://www.youtube.com/watch?v=kRVIjzQupHA
 GramBezKo --- LEGO Jurassic World & Jurassic Park All Cinematic Cutscenes Movie HD ✔ --- https://www.youtube.com/watch?v=hJkxodyyFzY
 GramBezKo --- LEGO Jurassic World Co-Op Gameplay - My Kids Play --- https://www.youtube.com/watch?v=sIcGWFgGJU0
 GramBezKo --- LEGO JURASSIC WORLD Free Roam As Dinosaurs | XBOX ONE X - TWITCH Gameplay --- https://www.youtube.com/watch?v=ti1pTcCb89k
@@ -5747,12 +5743,8 @@ INKS --- WVW Stress Test, What's in the Lake? --- https://www.youtube.com/watch?
 INOY --- "Russian Dogma". Гильд-миссии. Читаем комменты! --- https://www.youtube.com/watch?v=PbZliH5-HYc
 INOY --- "БЕЗУМНОЕ ЛЕТО" в Guild Wars 2. ИВЕНТ ДВУХ ГИЛЬДИЙ! --- https://www.youtube.com/watch?v=hAkm45TNRTg
 INOY --- -=INOY NEWS=- Battlerite Royal открывает двери, а жители Nexus'a прощаются с планетой! --- https://www.youtube.com/watch?v=6sJ3fq4b2fs
-INOY --- -=INOY NEWS=- OBT LOST ARK уже 7 ноября!!! Новый ведущий!!! --- https://www.youtube.com/watch?v=4TmGBVu4qSA
-INOY --- -=INOY NEWS=- Изменения в LOST ARK. Подробности survival-mmo NEW WORLD! --- https://www.youtube.com/watch?v=4ViwpfuvAfA
-INOY --- -=INOY NEWS=-. Восставший труп АЛЛОДОВ и предзагрузка LOST ARK!!! --- https://www.youtube.com/watch?v=GQST9JDyaRE
 INOY --- ....и все, кто ищет СВЕТ, потеряли СВОЙ! --- https://www.youtube.com/watch?v=ku28dWQauDQ
 INOY --- 15 ПРАВИЛ ПОВЕДЕНИЯ НА СТРИМЕ. Как получить модератора? --- https://www.youtube.com/watch?v=R-mbjTLIzAw
-INOY --- [INOY NEWS] Lost Ark/ Path of Exile 2/ Astellia Online/ World of Warcraft/ Crimson Desert. --- https://www.youtube.com/watch?v=OqWwS0G8sPw
 INOY --- [Radio INOY] ИГРЫ В 40. ИНОЛАЙТЫ. КРИЗИС. ☕ --- https://www.youtube.com/watch?v=fIzbxUvxSgI
 INOY --- [RU] Guild Wars 2. Гильдия "Russian DOGMA". Побег крабов от крабов! :) --- https://www.youtube.com/watch?v=HpT_QsUMYmQ
 INOY --- [RU] Russian Dogma. Стрим ГИ-Миссий. Квагганы, гонки и прочие непотребности жизни. ) --- https://www.youtube.com/watch?v=GwJxZu742ww
@@ -6002,18 +5994,14 @@ INOY --- Icarus Online: ПЕТИЦИЯ К РАЗРАБОТЧИКАМ! В гос�
 INOY --- INOY NEWS #18. Кошмары Black Desert и хитрости Bless Online! --- https://www.youtube.com/watch?v=4nlG21LEbHI
 INOY --- INOY NEWS / FF14/ ArcheAge Unchained/ TESO/ Blade and Soul/ Black Desert --- https://www.youtube.com/watch?v=jx1IP7ZCddE
 INOY --- INOY NEWS | FF14 | Guild Wars 2 | Vampire the Masquerade | Blade and Soul | Albion Online --- https://www.youtube.com/watch?v=qcIMsep6E5w
-INOY --- INOY NEWS | Вайп LOST ARK? | Новый сервер LOTRO| --- https://www.youtube.com/watch?v=636DhNW11nM
-INOY --- INOY NEWS | ЗБТ AI:R | LOST ARK | NEVERWINTER | KURTZPEL --- https://www.youtube.com/watch?v=FLAN9tg9j5E
 INOY --- INOY NEWS |Ожившие няшки из LoL | ДИЗабло ImmortaL | Spellbreak роялка| --- https://www.youtube.com/watch?v=v2lQdAULaC0
 INOY --- INOY NEWS 👉ТОП-5 САМЫХ ОЖИДАЕМЫХ ИГР STEAM!!!👈 --- https://www.youtube.com/watch?v=Rj5R3JlEQdU
 INOY --- INOY NEWS 👍Lineage Remastered👍Bless ВСЕ ПЛОХО👍BDO - НОВЫЙ КЛАСС! --- https://www.youtube.com/watch?v=OndqPBK8rOI
 INOY --- INOY NEWS 💡 ОБТ Ashes of Creation Apocalypse 💡 Game Awards 2018!!! --- https://www.youtube.com/watch?v=Bmm7VowEYDI
-INOY --- INOY NEWS 🔴 LOST ARK - первое КРУПНОЕ ОБНОВЛЕНИЕ! --- https://www.youtube.com/watch?v=0Qj1VBPwX_4
 INOY --- INOY NEWS 🔴AION 7.0 - НОВЫЙ КЛАСС! BDO НЕ ВПУСКАЕТ!🔴 --- https://www.youtube.com/watch?v=1VWI3zIfZeE
 INOY --- INOY NEWS 😋 31 год - FINAL FANTASY!!! --- https://www.youtube.com/watch?v=MY6Vp-gJfow
 INOY --- INOY NEWS. "ПРАХ ОБДИРАТЕЛЯ" или альфа Ashes of Creation! --- https://www.youtube.com/watch?v=vXFLJEQOXpg
 INOY --- INOY NEWS. Apex Legends бьет ВСЕ РЕКОРДЫ!!! Новая MMO - Mad World! --- https://www.youtube.com/watch?v=87_H4HTgykc
-INOY --- INOY NEWS. ArcheAge. Lost Ark. Lineage Essence. Neverwinter. Fractured. --- https://www.youtube.com/watch?v=wl9L4Q6_k8o
 INOY --- INOY NEWS. Ashes of Creation - стрим от разработчиков. Bungie разрывает отношения с Activision. --- https://www.youtube.com/watch?v=wYEoeJoISp4
 INOY --- INOY NEWS. Astellia Online - не PAY-TO-WIN! --- https://www.youtube.com/watch?v=1vA1a74KVvw
 INOY --- INOY NEWS. Bless не добрал бабла! Скользкое МЫЛЬЦЕ для Ashes of Creation. --- https://www.youtube.com/watch?v=uaqMeR4SuB4
@@ -6021,9 +6009,7 @@ INOY --- INOY NEWS. Bless проснулся. Paragon загнулся. --- http
 INOY --- INOY NEWS. Bless умоляет о лайках. Ashes of Creation поверг игроков. Альфа в World of Warcraft! --- https://www.youtube.com/watch?v=XGlIEO_0qv4
 INOY --- INOY NEWS. Cyberpunk 2077 и Lady Gaga! Crowfall - изменения в игре! --- https://www.youtube.com/watch?v=1b0B0f7FRrg
 INOY --- INOY NEWS. ETERNAL MAGIC от 101xp. 4-ый год BnS. Новая лига PoE! --- https://www.youtube.com/watch?v=MzGqm-dAmRs
-INOY --- INOY NEWS. Lost Ark - фигурки по 300к!!! Kritika Online ОБЛАЖАЛАСЬ! --- https://www.youtube.com/watch?v=b1iKlwIWP0w
 INOY --- INOY NEWS. Tera исполнилось 3 года! Новая MMORPG - Legends of Aria! Icarus открыл новый сервер! --- https://www.youtube.com/watch?v=VQiIuNWc2bI
-INOY --- INOY NEWS. TESO на РУССКОМ! Страж в BDO! Сильмаэль в LOST ARK! --- https://www.youtube.com/watch?v=gKUEDJN3Ypg
 INOY --- INOY NEWS. Битва за Корсары 4. Закрытие Cabal 2. Старт Rift Prime. --- https://www.youtube.com/watch?v=TE2aJuHyRpM
 INOY --- INOY NEWS. Боты в Eve Online. Ремастеред Warcraft 3. Релиз Black Desert Mobile. --- https://www.youtube.com/watch?v=tP9-PaDplug
 INOY --- INOY NEWS. Две крупных MMORPG! Одну ЗАКРЫВАЮТ, вторую ПРОДАЮТ! (Pegi 16+) --- https://www.youtube.com/watch?v=PcKwD27oDDE
@@ -6035,7 +6021,6 @@ INOY --- INOY NEWS. Новая ММОРПГ Fractured вышла на Kickstarte
 INOY --- INOY NEWS. Новости MMORPG. Старт Astellia Online, новый Perfect World! --- https://www.youtube.com/watch?v=V7ZqXN3oEA8
 INOY --- INOY NEWS. Новости MMORPG: Lost Ark, Blue Protocol, Albion, NWO, FF14, GW2. --- https://www.youtube.com/watch?v=y9Bt5eFJ7ds
 INOY --- INOY NEWS. Новые кадры Ashes of Creation и куча ивентов в MMORPG! --- https://www.youtube.com/watch?v=GKWa6udTB54
-INOY --- INOY NEWS. Третий этап ЗБТ Lost Ark. Новый Conan Exiles. Цены на Blizzcon 2018! --- https://www.youtube.com/watch?v=84GUanNvpWU
 INOY --- INOY NEWS. Увольнения в ArenaNet. Закрытие KUF2. Пришествие Дригана! --- https://www.youtube.com/watch?v=NhN5nfhX83k
 INOY --- INOY NEWS. Фейлы Bless. Новая лига PoE. Обнова в TERA. --- https://www.youtube.com/watch?v=M3yo_te7kv0
 INOY --- INOY NEWS. Читеры в PUBG. Закрытие "Dragon Nest". ОБТ "Moonlight Blade". --- https://www.youtube.com/watch?v=v1r_IndXreM
@@ -6058,16 +6043,6 @@ INOY --- LINEAGE CLASSIC | R2 ONLINE | RAGNAROK | PERIA CHRONICLES --- https://w
 INOY --- Lineage Eternal. ПРОЕКТ МЕРТВ! ЧТО ДАЛЬШЕ? TL Project? --- https://www.youtube.com/watch?v=5P-GBokRhvI
 INOY --- Lineage Eternal. У проекта серьезные проблемы! --- https://www.youtube.com/watch?v=doawcLvLF-8
 INOY --- Lineage Nostalgia. Открытие классического сервера Линейки! --- https://www.youtube.com/watch?v=EqSPNw4WQpw
-INOY --- LOST ARK | SWTOR | LA2 ESSENCE | LAST EPOCH | PARAGON --- https://www.youtube.com/watch?v=l1dcSH7bzI0
-INOY --- Lost Ark ⭐️Когда у тебя БОЛЬШЕ других⭐️ --- https://www.youtube.com/watch?v=v1gEAp119_I
-INOY --- Lost ARK 👉ЛОКАЛИЗАТОР Mail.ru👈 --- https://www.youtube.com/watch?v=bFjl_E8IW6k
-INOY --- Lost Ark. АЛЬФА. КЛЮЧИ. МНЕНИЕ О ПРОЕКТЕ. --- https://www.youtube.com/watch?v=gdPr5bJJ38Y
-INOY --- LOST ARK. Беру 50 ЛЕВЕЛ на стриме! --- https://www.youtube.com/watch?v=TFJBpPP4Axw
-INOY --- LOST ARK. Жизнь на КАПЕ. СТИМПАНК и другие развлечения ПЯТНИЦЫ! --- https://www.youtube.com/watch?v=h5svvmsNi0I
-INOY --- Lost Ark. ОБЗОР и АНАЛИТИКА. --- https://www.youtube.com/watch?v=vrGw0hKBNOY
-INOY --- Lost Ark. ПРЯМОЕ ВКЛЮЧЕНИЕ С КОНФЕРЕНЦИИ от MAIL.RU! --- https://www.youtube.com/watch?v=xXUVQdtswRI
-INOY --- Lost Ark. РАЗБОРКИ ПОСЛЕ ЗБТ: bryak8888, Defender, Umka, Bredor. --- https://www.youtube.com/watch?v=Fr0pPrlWl94
-INOY --- LOST ARK. ЭКСПЕРИМЕНТ: сотый ЛАЙК призывает КОРЕЙЦА! --- https://www.youtube.com/watch?v=NHx8oAbzysg
 INOY --- LOTRO. Во что рубились ПАПКИ?! С Гладом Валакасом. ))) --- https://www.youtube.com/watch?v=O0NdCLus9C4
 INOY --- Mail.ru хотят БОЛЬШЕ!!! Новый сервис. --- https://www.youtube.com/watch?v=jeBGX2isoys
 INOY --- Master Chy. С любовью, от Mail ru! --- https://www.youtube.com/watch?v=-u-T8dnSHTk
@@ -6170,7 +6145,6 @@ INOY --- ВОЙНА ГУИЛЬДИЙ ДВА! Меч и магия на поле 
 INOY --- ВРЫВАЕМСЯ ЗА НОВЫЙ КЛАСС в Black Desert!!! --- https://www.youtube.com/watch?v=OhNl4SNRrQE
 INOY --- ВСЕ НАДОЕЛО! Кроме..... --- https://www.youtube.com/watch?v=FWFpYpwyfXs
 INOY --- ВТОРАЯ ИГРА КАНАЛА - Final Fantasy XIV! Тестовый стрим! --- https://www.youtube.com/watch?v=XMtWCcMLdnY
-INOY --- Вы готовы к LOST ARK?! Я уже ДАААА!!! --- https://www.youtube.com/watch?v=3Z9v5Fgx5nc
 INOY --- ГАЙД. Как получить Ascended экипировку? Guild Wars 2. --- https://www.youtube.com/watch?v=ZoS0Zf2xEbU
 INOY --- Ги-миссии "Russian Dogma". Ру-гильдия Guild Wars 2! Сервер: Vabbi. --- https://www.youtube.com/watch?v=GTPKxQE5EVQ
 INOY --- ГИЛЬД-ИВЕНТ: гонки на жуках, джампинг паззл, викторина! --- https://www.youtube.com/watch?v=wPOVIboedyc
@@ -6214,7 +6188,6 @@ INOY --- Конкурс "ИДЕАЛЬНЫЙ ИНОЙ"! Нас 5000 (было)...
 INOY --- КОНКУРС! 2000 ИНЫХ! Приз - Guild Wars 2. Path of Fire! --- https://www.youtube.com/watch?v=yTQmmJ0xlLI
 INOY --- КОНКУРС! Нас 1000!!! --- https://www.youtube.com/watch?v=AKH7tk66VVk
 INOY --- КОНКУРС! ПРИЗЫ от INOY Gaming Channel! --- https://www.youtube.com/watch?v=szz7OY6pbDI
-INOY --- Конференция "Lost Ark". ПОСЛЕВКУСИЕ. --- https://www.youtube.com/watch?v=LQwXnntn048
 INOY --- Кризис жанра MMORPG и его трансформации. --- https://www.youtube.com/watch?v=i7Sy1BkIOXA
 INOY --- Кризис игровых СМИ или ГЕИ, СИСЬКИ и БИТКОИНЫ! --- https://www.youtube.com/watch?v=rVIWAw08ZQw
 INOY --- КРИЗИС ММО. Кто виноват? Что делать? --- https://www.youtube.com/watch?v=SNliF6DlgQc
@@ -6267,7 +6240,6 @@ INOY --- ОЧЕНЬ СТРАШНАЯ Guild Wars 2! (благотворитель
 INOY --- Партнерка LetsON. Почему LetsON и как СПАСАЛИ мой канал! --- https://www.youtube.com/watch?v=FbMlKnGPTuc
 INOY --- Первый ANTHEM в моей жизни! Играй, как НЕ PRO! --- https://www.youtube.com/watch?v=JRe4P7jM9Os
 INOY --- Подкаст про ТОП-ММО. Обо всем и ни о чем конкретно. --- https://www.youtube.com/watch?v=2zg8OWeNzpo
-INOY --- ПОДКАСТ: цРэнЭсанс ArcheAge! Lost Ark. Мнение о конференции. Стрим ЗБТ. Забастовки Smile Gate. --- https://www.youtube.com/watch?v=ps1mSMBh3jA
 INOY --- Пока вы ждали KUF2, я не смог зайти в ArcheAge, поэтому Guild Wars 2! :-Р --- https://www.youtube.com/watch?v=_nG-vjA3SfQ
 INOY --- Покоряем Тирию с Danik_PROK и Tramadex! PvP и PvE в Guild Wars 2! --- https://www.youtube.com/watch?v=Pzw9gcKNI5Q
 INOY --- Помогаем ТИМУ БОРМАКУ! Собираем на НОВУЮ ИГРУ! --- https://www.youtube.com/watch?v=T6rUvXCDxfI
@@ -6330,29 +6302,16 @@ INOY --- ◀️ ВОЗВРАЩАЙТЕСЬ В GUILD WARS 2 ▶️ --- https://ww
 INOY --- ☠️ ВАЖНЫЙ АНОНС! Читайте описание!☠️ --- https://www.youtube.com/watch?v=5KIIjOXqUmM
 INOY --- ✳️ Guild Wars 2 ✳️ от "А"⭐️ до ⭐️ "Я". --- https://www.youtube.com/watch?v=MWdJ1vH21dg
 INOY --- ✳️ Guild Wars 2 ✳️ ⭐️РЕЙДЫ с гильдией "Russian Dogma"⭐️ --- https://www.youtube.com/watch?v=s34aLHIopj0
-INOY --- ✳️ LOST ARK ✳️ Hard Mode ДАНЖ и пришествие Devil'a! 😈 --- https://www.youtube.com/watch?v=Zl9aApsgfxQ
-INOY --- ✳️ LOST ARK ✳️ ЭКСПЛОЙТЫ - это так просто! :) --- https://www.youtube.com/watch?v=xT_1RH8t-is
 INOY --- ⭐️GUILD WARS 2⭐️ от "А" до "Я" - с НУЛЯ!! --- https://www.youtube.com/watch?v=Vk4Vl0nRdcY
-INOY --- ⭐️LOST ARK⭐️ Бессмысленный СТРИМ! --- https://www.youtube.com/watch?v=iYn66mzaOQg
 INOY --- ⭕️ GUILD WARS 2 ⭕️ Данж TWILIGHT ARBOR в EXP-режиме! --- https://www.youtube.com/watch?v=ERkNsdz3fJM
 INOY --- ⭕️ GUILD WARS 2 ⭕️ 👉WvW. PvP. PvE👈 --- https://www.youtube.com/watch?v=dgKaUzZxaWs
-INOY --- ⭕️ LOST ARK ⭕️ Для НЕ АВАНТЮРИСТОВ!!! --- https://www.youtube.com/watch?v=RMd-2KN86KE
-INOY --- ⭕️ LOST ARK ⭕️ КОГДА ДЕРЕВЬЯ БЫЛИ БОЛЬШИМИ..... --- https://www.youtube.com/watch?v=6Bhxnid5t6A
-INOY --- ⭕️ LOST ARK ⭕️ Я ПРОРВАЛСЯ! ОЧЕРЕДЬ В 13к!!! --- https://www.youtube.com/watch?v=hK39z_92uSs
 INOY --- ⭕️ Старт BDO ⭕️ 👉ОБРАЩЕНИЕ К ИГРОКАМ👈 --- https://www.youtube.com/watch?v=S4fw19tma9c
 INOY --- 💥INOY NEWS💥 Black Desert РЕЙТЫ х1000% 💥 НОВЫЙ ПАТЧ Final Fantasy XIV! --- https://www.youtube.com/watch?v=mc1GAnRSEUM
-INOY --- 💥Lost Ark💥 Спроси "КТО ЛОКАЛИЗАТОР" и я скажу "КТО ТЫ". --- https://www.youtube.com/watch?v=YNPEfe0y80Y
-INOY --- 💥Lost Ark💥 🌟 9000 ОЧЕРЕДЬ и БАНЫ СТРИМЕРОВ 🌟 --- https://www.youtube.com/watch?v=m5hoyv4kp0k
 INOY --- 📀 GUILD WARS 2📀 C НУЛЯ !!! (помогаю новичкам) --- https://www.youtube.com/watch?v=Qt0MH063ZQg
 INOY --- 📀 Guild WARS 2📀 Ламповый РЕЙД с горением жопы! )) --- https://www.youtube.com/watch?v=_VYOe2gBPT4
 INOY --- 📀 LINEAGE II 📀 На движке UE4. Проект "LU4". --- https://www.youtube.com/watch?v=I6XZunGyOjo
-INOY --- 📀 LOST ARK 📀 Корейцы ОТАКЕ и впервые в БАШНЕ! --- https://www.youtube.com/watch?v=dRzzxi_-UQw
-INOY --- 📀 LOST ARK 📀 ЛЮТЕРАН и его окрестности. --- https://www.youtube.com/watch?v=X8NVmTdxaqk
-INOY --- 🔎LOST ARK. ПЕЧАЛЬНЫЙ ПОДКАСТ.... --- https://www.youtube.com/watch?v=mHUkHZGQ7KQ
 INOY --- 🔴 WORMS RELOADED 🔴 Новогодние червяки DANIK & INOY --- https://www.youtube.com/watch?v=1c6pLOY0kE4
 INOY --- 🔴 Стрим в поддержку GW2SKILLS.NET 🔴 --- https://www.youtube.com/watch?v=5mSYCQX2Xlw
-INOY --- 🔹LOST ARK🔹 КУВАЛДА-МЭН (Destroyer). --- https://www.youtube.com/watch?v=RyiltqeaXSI
-INOY --- 🔹ОБТ LOST ARK🔹 КУВАЛДА-МЭН и никакой ВАНИЛЬКИ! --- https://www.youtube.com/watch?v=i2T62MI4_3o
 INOY --- 🔹от "А" до "Я" - Guild Wars 2 c НУЛЯ🔹 ДАНЖИ И ИСТОРИЯ. --- https://www.youtube.com/watch?v=yzXKQhpv1Fc
 INOY --- 😇Guild Wars 2😇 Twilight Arbor - ТРЕТИЙ ДАНЖ! --- https://www.youtube.com/watch?v=2zf2B_rCX6s
 Kyosika --- [Guide] Guild Wars 2 : How to beat Champion Frizz (Aetherblade Fractal) --- https://www.youtube.com/watch?v=uf9z7BQIHcg
