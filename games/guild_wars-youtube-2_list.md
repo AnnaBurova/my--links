@@ -259,9 +259,6 @@ AuroraPeachy --- Peachy Opens 57 Black Lion Chests ● Guild Wars 2 --- https://
 AuroraPeachy --- Peachy Plays Five Nights at Freddy's!! --- https://www.youtube.com/watch?v=rQIHGFNKlbM
 AuroraPeachy --- Peachy Plays Horizon Zero Dawn --- https://www.youtube.com/watch?v=V9zut0L3mLQ
 AuroraPeachy --- Peachy Plays ♥ Oregon Trail ♥ BogOtter, Modremoth, Corvus & MoonAlex --- https://www.youtube.com/watch?v=nuO7RbShabA
-AuroraPeachy --- Peachy Plays ♥ PORTAL ♥ #1 It's Gonna Kill Me --- https://www.youtube.com/watch?v=Gh44IlTmTc0
-AuroraPeachy --- Peachy Plays ♥ PORTAL ♥ #2 Faithful Companion Cube --- https://www.youtube.com/watch?v=YsvD_xZTeQc
-AuroraPeachy --- Peachy Plays ♥ PORTAL ♥ #3 The Insanity Sets In --- https://www.youtube.com/watch?v=uU30HbsL-BY
 AuroraPeachy --- Peachy Plays ♥ Roller Coaster Tycoon World Beta --- https://www.youtube.com/watch?v=luopiTQJxM0
 AuroraPeachy --- Peachy Q&A #01 ♥ Unicorns --- https://www.youtube.com/watch?v=gfEUM3ylLBQ
 AuroraPeachy --- Peachy Q&A #02 ♥ Cosplay --- https://www.youtube.com/watch?v=S94HVlNDvDE
@@ -372,11 +369,6 @@ AuroraPeachy --- Peachy, BogOtter & Jebro React to RAIDS in GW2 --- https://www.
 AuroraPeachy --- Pluto & Saturn Figuarts Zero Unboxing & Review --- https://www.youtube.com/watch?v=61YPiKocCgs
 AuroraPeachy --- PoF Launch Trailer LORE Discussion | Guild Wars 2 --- https://www.youtube.com/watch?v=tUeklZ-AgKg
 AuroraPeachy --- PoF Launch Trailer Reaction | Guild Wars 2 --- https://www.youtube.com/watch?v=AUHA9074WQE
-AuroraPeachy --- PORTAL 2 ♥ #1 Wheatly Jumpscared Me --- https://www.youtube.com/watch?v=KU33hXtIeN4
-AuroraPeachy --- PORTAL 2 ♥ #2 Sick Burns --- https://www.youtube.com/watch?v=XeY9BZLO-y8
-AuroraPeachy --- PORTAL 2 ♥ #3 Now Who's a Moron? --- https://www.youtube.com/watch?v=7W9FW9qiQDk
-AuroraPeachy --- PORTAL 2 ♥ #4 Concentrated Dose of Science --- https://www.youtube.com/watch?v=TjXwp_0rmXQ
-AuroraPeachy --- PORTAL 2 ♥ #5 I Still Love You Wheatley [FINALE] --- https://www.youtube.com/watch?v=RnLCLcaPNWs
 AuroraPeachy --- Precursor Gambling & Black Lion Chests in Beta ● Guild Wars 2 --- https://www.youtube.com/watch?v=LdkkTyzfdC0
 AuroraPeachy --- RAW Elite Specialization Playtest Footage | Guild Wars 2 Path of Fire --- https://www.youtube.com/watch?v=nqj-yOPEudA
 AuroraPeachy --- Re Mind TGS Trailer REACTION • Kingdom Hearts 3 --- https://www.youtube.com/watch?v=NXz-8Kebx5M
@@ -969,7 +961,6 @@ Bog Otter --- Hearthstone Tavern Brawl with my son! ► Grand Tournament Match -
 Bog Otter --- Hearthstone Tavern Brawl with my son! ► It's Raining Mana --- https://www.youtube.com/watch?v=qouFC09kUd0
 Bog Otter --- Hearthstone Tavern Brawl with my son! ► The Great Summoner Competition... again! --- https://www.youtube.com/watch?v=Ljqe9x4zHuM
 Bog Otter --- Hearthstone Tavern Brawl with my son! ► The Masked Ball --- https://www.youtube.com/watch?v=X04PZ-TjROQ
-Bog Otter --- Hearthstone Tavern Brawl with my son! ► Too Many Portals --- https://www.youtube.com/watch?v=bpgCiWGf1l0
 Bog Otter --- Hearthstone Tavern Brawl ► Banana Brawl --- https://www.youtube.com/watch?v=OLZ4XbIC48w
 Bog Otter --- Hearthstone Tavern Brawl ► Captain Blackheart's Treasure --- https://www.youtube.com/watch?v=kSCss3VtlIE
 Bog Otter --- Hearthstone Tavern Brawl ► Encounter at the Crossroads --- https://www.youtube.com/watch?v=e6G_n-utacw
@@ -2974,8 +2965,6 @@ GramBezKo --- LEGO Dimension Walkthrough Gameplay Part 2 - The Wizard of Oz Wick
 GramBezKo --- LEGO Dimensions 2017 Gameplay Walkthrough Part 6 - Once Upon A Time Machine in the West --- https://www.youtube.com/watch?v=9ubMxtsbqTY
 GramBezKo --- LEGO Dimensions All Cutscenes (Game Movie) Full Story Part 1 | 1080p HD --- https://www.youtube.com/watch?v=Ee5zv0_Tmro
 GramBezKo --- LEGO DIMENSIONS Gameplay Walkthrough | MAIN STORY Part 4 A Dalektable Adventure --- https://www.youtube.com/watch?v=RifyW5Ju6a0
-GramBezKo --- Lego Dimensions Portal 2 Story Mode Level 7 Walkthrough Part 1 - Aperture Science Enrichment Center --- https://www.youtube.com/watch?v=jl_6X96GOo8
-GramBezKo --- Lego Dimensions Portal 2 Story Mode Level 7 Walkthrough Part 2 - Aperture Science Enrichment Center --- https://www.youtube.com/watch?v=MBoMM9TNPmY
 GramBezKo --- LEGO DIMENSIONS Walkthrough Gameplay | PROLOGUE Part 1 Batman Gandalf Wyldstyle --- https://www.youtube.com/watch?v=vyPVDrAkbxQ
 GramBezKo --- LEGO HARRY POTTER PL Lata 1-4 GAMEPLAY (Napisy) Cały Rok Pierwszy | LEGO PRZYGODÓWKA --- https://www.youtube.com/watch?v=HkuTasSQAew
 GramBezKo --- LEGO INCREDIBLES Gameplay Walkthrough THE INCREDIBLES 2 LEVELS 1-4 First Look (No Commentary) #1 --- https://www.youtube.com/watch?v=7_v0JFLwtNg
