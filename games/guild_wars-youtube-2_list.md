@@ -11256,4 +11256,3 @@ WoodenPotatoes 2 --- Zero To Hero, Pages And Staves | Potatoes for Lunchret --- 
 WoodenPotatoes 2 --- Zhaitan Fight & Climatic End Incoming - Guild Wars 2 Permadeath --- https://www.youtube.com/watch?v=1VtHf9LjvXk
 WoodenPotatoes 2 --- ZOMBIE SURVIVAL DAY! | The Labyrinth --- https://www.youtube.com/watch?v=a3LCLnnWxkg
 WoodenPotatoes 2 --- Zombies Strike Back | Potatoes for Dinner NA --- https://www.youtube.com/watch?v=O8MD3_VlgpQ
-WoodenPotatoes 2 --- ZOMBIES Test Run Fun | EU - Potatoes for Dinner! --- https://www.youtube.com/watch?v=G2K-JzhDeGk
