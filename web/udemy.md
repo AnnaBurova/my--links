@@ -43,7 +43,6 @@ www.udemy.com/2019-copywriting-foundations/
 www.udemy.com/2019-develop-rock-sold-habits-to-jumpstart-your-year/
 www.udemy.com/2019-seo/
 www.udemy.com/20dayfundraisingchallenge/
-www.udemy.com/21-again-21-natural-ways-to-look-and-feel-21-again/
 www.udemy.com/21st-century-coach/
 www.udemy.com/22-claves-para-atraerla-y-ser-mas-atractivo/
 www.udemy.com/27-photoshop-projects-for-busy-entrepreneurs-547-photoshop-templates/
@@ -108,7 +107,6 @@ www.udemy.com/a-beginners-guide-to-creating-a-complete-2d-video-game/
 www.udemy.com/a-beginners-guide-to-creating-artwork-for-2d-video-games/
 www.udemy.com/a-beginners-guide-to-exadata-patching-for-oracle-dbas/
 www.udemy.com/a-beginners-guide-to-linux-system-administration/
-www.udemy.com/a-beginners-guide-to-stock-trading/
 www.udemy.com/a-beginners-guide-to-writing-great-content/
 www.udemy.com/a-beginners-journey-to-computers-and-python/
 www.udemy.com/a-compact-guide-to-creating-a-profitable-online-course/
@@ -254,7 +252,6 @@ www.udemy.com/affiliate-marketing-course/
 www.udemy.com/affiliate-marketing-for-all-in-one-digital-marketing-tools/
 www.udemy.com/affiliate-marketing-for-beginners-full-tutorial/
 www.udemy.com/affiliate-marketing-for-beginners-get-traffic-and-sales/
-www.udemy.com/affiliate-marketing-from-scratch/
 www.udemy.com/affiliate-marketing-psychology-behind-youtube-viral-videos/
 www.udemy.com/affiliate-marketing-success-principles/
 www.udemy.com/affiliate-marketing-tested-tips-for-ultimate-success/
@@ -283,7 +280,6 @@ www.udemy.com/agilepm-full-method-overview/
 www.udemy.com/agreements-for-day-to-day-use-make-your-own-agreements/
 www.udemy.com/air-law-for-beginners/
 www.udemy.com/airplane-engineering-from-zero-to-100/
-www.udemy.com/ajax-api-exercise/
 www.udemy.com/ajax-api-exercises/
 www.udemy.com/ajax-api-javascript/
 www.udemy.com/ajax-fetch-jquery-axios/
@@ -410,7 +406,6 @@ www.udemy.com/apache-spark-with-python-big-data-with-pyspark-and-spark/
 www.udemy.com/apache-spark-with-scala-mastering-big-data/
 www.udemy.com/api-json-ajax-google-sheet-data/
 www.udemy.com/api-testing-with-katalon-studio-step-by-step-for-beginners/
-www.udemy.com/api_db_testing/
 www.udemy.com/app-center/
 www.udemy.com/app-script/
 www.udemy.com/app-store-optimization-aso-for-ios-no-marketing-2015/
@@ -427,7 +422,6 @@ www.udemy.com/aprenda-a-instanciar-servidores-na-digitalocean/
 www.udemy.com/aprenda-a-virtualizar-redes-com-gns3/
 www.udemy.com/aprenda-agora-o-que-e-rpa-robotic-process-automation/
 www.udemy.com/aprenda-delphi-e-lazarus-do-zero/
-www.udemy.com/aprenda-fazendo-game-2d-isometrico/
 www.udemy.com/aprenda-markdown/
 www.udemy.com/aprenda-rapido-unity3d/
 www.udemy.com/aprenda-violao-do-zero/
@@ -581,7 +575,6 @@ www.udemy.com/barbering101/
 www.udemy.com/basecamp-3-fundamentals/
 www.udemy.com/bases-del-culturismo/
 www.udemy.com/bash-scripting-for-beginners/
-www.udemy.com/bash-shell-scripting-tutorial-for-beginners/
 www.udemy.com/basic-accounting-and-bookkeeping-for-beginners-and-startups/
 www.udemy.com/basic-arithmetic-rules-concepts/
 www.udemy.com/basic-computer-course-in-hindi/
@@ -703,7 +696,6 @@ www.udemy.com/behavioral-economics-for-marketing/
 www.udemy.com/belters-blendfresh/
 www.udemy.com/best-course-for-learning-web-testing-using-jmeter/
 www.udemy.com/best-ico/
-www.udemy.com/best-laravel/
 www.udemy.com/best-man-speech-video-guide/
 www.udemy.com/best-seller-instagram-course/
 www.udemy.com/best-seo-for-small-local-business/
@@ -925,14 +917,13 @@ www.udemy.com/c-7-desktop-asp-net-mvc-xamarin-android-ios-windows/
 www.udemy.com/c-70-for-beginners/
 www.udemy.com/c-and-net-core-for-beginners/
 www.udemy.com/c-automapper-code-smart/
-www.udemy.com/c-c-python-ruby-java-html5-php-programming-for-beginners/?couponCode=FREE1111
 www.udemy.com/c-c-python-ruby-java-html5-php-programming-for-beginners/?couponcode=free1111
+www.udemy.com/c-c-python-ruby-java-html5-php-programming-for-beginners/?couponCode=FREE1111
 www.udemy.com/c-csharp-basics-for-beginners-learn-csharp-fundamentals-by-coding/
 www.udemy.com/c-csharp-test-your-skills-and-get-certified-in-csharp-programming/?couponCode=promocoupons24
 www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/
 www.udemy.com/c-for-beginners-concise-and-practical/?couponCode=FABOCILT
 www.udemy.com/c-for-beginners-themmz/
-www.udemy.com/c-for-beginners-to-advance-via-projects-1/?couponCode=FREEBIESGLOBAL+.COM
 www.udemy.com/c-for-beginners-to-advance-via-projects-1/?couponCode=FREEBIESGLOBAL.COM
 www.udemy.com/c-from-the-beginning/?couponCode=5QRWERWER421
 www.udemy.com/c-from-the-beginning/?couponCode=LV0230
@@ -967,7 +958,6 @@ www.udemy.com/c-programming-crash-course-arabic/?couponCode=CCOURSEFREE
 www.udemy.com/c-programming-create-terminal-apps/
 www.udemy.com/c-programming-for-beginners-and-interviews/
 www.udemy.com/c-programming-for-beginners-built-game-using-c-language/
-www.udemy.com/c-programming-for-engineering-students-in-malayalam/?couponCode=MECSFREE2018
 www.udemy.com/c-programming-for-microcontrollers/?couponCode=PROMOCOUPON24.COM
 www.udemy.com/c-programming-in-depth-for-beginne.rs-interview-perspective/
 www.udemy.com/c-programming-in-depth-for-beginners-interview-perspective/
@@ -991,7 +981,6 @@ www.udemy.com/c2010-597-ibm-tririga-application-platform-v32-applications/?coupo
 www.udemy.com/c2040-985-developing-ibm-lotus-notes-and-domino-85-app-test/?couponCode=DIDMDAP
 www.udemy.com/c2040-986-creating-ibm-lotus-notes-and-domino-85-appl-test/?couponCode=CIBMLND
 www.udemy.com/c2040-988-administering-ibm-lotus-sametime-85-test/?couponCode=ADMIBMLTS
-www.udemy.com/c_hanaimp_1-sap-hana-certified-application-associate-exam/?couponCode=HSAPRN
 www.udemy.com/c_sm100_718-sap-solution-manager-certified-technology-exam/?couponCode=MCTEFA
 www.udemy.com/c_tadm51_731-sap-net-weaver-with-system-administration-test/?couponCode=NWSATE
 www.udemy.com/c_taw12_70-sap-abap-with-net-weaver-development-practicetest/?couponCode=NWDPTE
@@ -1016,8 +1005,8 @@ www.udemy.com/calculus-part-1-functions/
 www.udemy.com/calculus-the-complete-vectors-master-class/?couponCode=FREE_FACEBOOK_GROUP2
 www.udemy.com/calculus-the-complete-vectors-master-class/?couponCode=FREE_FACEBOOK_GROUPS
 www.udemy.com/calculusmadesimple/?couponCode=AMOURLEARNING
-www.udemy.com/calendar-spread-options/?couponcode=sthfree
 www.udemy.com/calendar-spread-options/?couponCode=STHFREE
+www.udemy.com/calendar-spread-options/?couponcode=sthfree
 www.udemy.com/calisthenics-mastery-course-for-beginners/?couponCode=SUMMERISCOMING
 www.udemy.com/call-one-parameter-to-another-parameter-in-oracle-apps-r12/
 www.udemy.com/calligraphy-basics/
@@ -1036,7 +1025,6 @@ www.udemy.com/camtasia-studio-mastery-the-easy-video-editor-and-recorder-softwar
 www.udemy.com/camtasia-studio-mastery-the-easy-video-editor-and-recorder-software/?couponCode=FREE2BE
 www.udemy.com/camtasia-studio-mastery-the-easy-video-editor-and-recorder-software/?couponCode=FREESTUFF
 www.udemy.com/can-dementia-be-prevented/?couponCode=FB7786
-www.udemy.com/cancer-nutrition/
 www.udemy.com/candlestick-renko/?couponCode=STHFREE
 www.udemy.com/candlestick-stock-trading-technical-analysis-forex/?couponCode=FREEYEAH
 www.udemy.com/candlestick/?couponCode=STHFREE
@@ -1058,7 +1046,6 @@ www.udemy.com/canva-graphic-design-course/?couponCode=FREEFORFRIENDS16
 www.udemy.com/canva-graphic-design-for-beginners-the-how-to-guide/?couponCode=AUTUMN0
 www.udemy.com/canva-graphic-design-for-beginners-the-how-to-guide/?couponCode=LAUNCH_24
 www.udemy.com/canva-make-album-covers-for-free/
-www.udemy.com/capitalism-level-2/
 www.udemy.com/capitalism/
 www.udemy.com/capm-certification-high-quality-realistic-exam-questions/?couponCode=FREECAPMFREE
 www.udemy.com/capm-certified-associate-in-project-management-test/?couponCode=OSATMP
@@ -1099,7 +1086,6 @@ www.udemy.com/catiav5deeplearning/
 www.udemy.com/cbt-cognitive-behavioral-coach-practitioner-certification/?couponCode=27REQUEST
 www.udemy.com/cbt-cognitive-behavioral-coach-practitioner-certification/?couponCode=SPECIALCODE
 www.udemy.com/cbt-for-depression-anxiety-phobias-and-panic-attacks-x/
-www.udemy.com/cbt-for-overcoming-depression-and-mood-disorders/?couponCode=FREEBIRD1
 www.udemy.com/cbt-for-problem-solving-and-overcoming-negative-thoughts/?couponCode=FREEDOM1
 www.udemy.com/cbt-guide-for-problem-solving-mood-disorders-with-projects/?couponCode=FREE1000
 www.udemy.com/cbt4panic-cure-panic-anxiety-attacks-fast/
@@ -1144,7 +1130,6 @@ www.udemy.com/ccsa-practice-examget-ccsa-certified-easily-for-2017/?couponCode=H
 www.udemy.com/ccsp-cloud-security-domain-1/
 www.udemy.com/ccsp-cloud-security-practice-tests-120-total-questions/?couponCode=CCSP100FREE
 www.udemy.com/cd0-001-cdia-certification-practice-exam-w/?couponCode=PELMKO
-www.udemy.com/cd0-001-cdia-certification-practice-exam/?couponCode=DICAPE
 www.udemy.com/cdh5-setup-hadoop-core-components-on-gcp/
 www.udemy.com/ceh-certification-practice-with-real-exam-questions/?couponCode=CEHV10OFFER
 www.udemy.com/ceh-certified-ethical-hacker-312-50-practice-test/?couponCode=TEHACR
@@ -1340,7 +1325,6 @@ www.udemy.com/clickfunnels-mastery/?couponCode=BFF-SP
 www.udemy.com/clickfunnels-optin-pages/?couponCode=LIMITEDCOUPON4U
 www.udemy.com/clickfunnels-training/
 www.udemy.com/clickfunnelsninjamasterclass/?couponCode=NINJALOVE
-www.udemy.com/clickfunnelsreview/
 www.udemy.com/clone-whatsapp-with-bitfountain/
 www.udemy.com/closed-captions-course-1-amazon-video-direct-wants-closed-captions/?couponCode=FREE2017
 www.udemy.com/closing-sales/?couponCode=honest review
@@ -1480,7 +1464,6 @@ www.udemy.com/como-tener-abdominales-programas-nutricion-dieta-ejercicios-abdome
 www.udemy.com/como-tornar-se-um-consultor-sap/
 www.udemy.com/como-vender-cualquier-producto-en-internet/
 www.udemy.com/como-vender-por-internet/
-www.udemy.com/company-credit-rating-and-analysis/?couponCode=IIBFREE
 www.udemy.com/compass-powerful-sass-library-that-makes-your-life-easier/?couponCode=COMPASFR25
 www.udemy.com/compass-powerful-sass-library-that-makes-your-life-easier/?couponCode=COMPASS1705
 www.udemy.com/compass-powerful-sass-library-that-makes-your-life-easier/?couponCode=COMPASSFR2400
@@ -1510,7 +1493,6 @@ www.udemy.com/complete-course-on-personal-security-and-self-defense/
 www.udemy.com/complete-cryptocurrency-course-2018-beginner-daily-trading/
 www.udemy.com/complete-cryptocurrency-investment-course-2017-beginner/
 www.udemy.com/complete-cryptocurrency-investment-course-2017-in-depth/
-www.udemy.com/complete-cryptography-hacking-course-beginner-to-advance/
 www.udemy.com/complete-csharp-unity-2d-3d-game-development-masterclass-2018/?couponCode=LEARNGAMEDEV
 www.udemy.com/complete-cyber-security-bundle-course-beginner-to-advanced/
 www.udemy.com/complete-cyber-security-course-from-zero-to-hero/
@@ -1535,7 +1517,6 @@ www.udemy.com/complete-flexbox-course-with-a-real-world-website-project/?couponC
 www.udemy.com/complete-forex-course-beginner-to-professional/
 www.udemy.com/complete-forex-trading-at-price-action-tricks-and-tips/?couponCode=LEARNFOREX5656
 www.udemy.com/complete-general-ledger-functional-module-in-oracle-apps-r12/?couponCode=HKPNBC
-www.udemy.com/complete-gl-interface-program-in-oracle-apps-r12/
 www.udemy.com/complete-guide-and-secrets-to-starting-a-successful-business/?couponCode=BUSINESS_SECRET5
 www.udemy.com/complete-guide-find-the-right-career-for-you/?couponCode=SPECIALOFFER
 www.udemy.com/complete-guide-to-become-top-cashier-or-bank-teller-2017/?couponCode=BLACKFRIDAY15
@@ -1543,8 +1524,8 @@ www.udemy.com/complete-guide-to-c-programming-language/
 www.udemy.com/complete-guide-to-charting-and-trading-using-elliott-wave/
 www.udemy.com/complete-guide-to-crack-a-data-science-interview/?couponCode=FREEJUNE
 www.udemy.com/complete-guide-to-essential-oils-aromatherapy/?couponCode=AROMATHERAPY100
-www.udemy.com/complete-guide-to-front-end-web-development-and-design/?couponCode=FREE16HOURCOURSE
 www.udemy.com/complete-guide-to-front-end-web-development-and-design/?couponcode=free16hourcourse
+www.udemy.com/complete-guide-to-front-end-web-development-and-design/?couponCode=FREE16HOURCOURSE
 www.udemy.com/complete-guide-to-making-2d-games-in-unity/
 www.udemy.com/complete-guide-to-making-apps-how-i-got-over-250k-downloads/?couponCode=FREENOW123
 www.udemy.com/complete-guide-to-robot-framework-beginner-to-expert/
@@ -1615,7 +1596,6 @@ www.udemy.com/complete-python-course/?couponCode=FREEPYTHON2017
 www.udemy.com/complete-python-flask-from-concept-to-masterpiece/
 www.udemy.com/complete-python-flask-from-concept-to-masterpiece/complete-python-flask-from-concept-to-masterpiece/
 www.udemy.com/complete-python-masterclass-go-from-beginner-to-advanced/
-www.udemy.com/complete-python-masterclass-learn-from-scratch-b/
 www.udemy.com/complete-python-programming-course-beginner-to-advanced/?couponCode=EARLYBIRD.PYTHON
 www.udemy.com/complete-python-programming-for-beginners/?couponCode=FREE1111
 www.udemy.com/complete-python-tutorial-for-beginners/
@@ -1671,7 +1651,6 @@ www.udemy.com/computercavalry-it-administrator-backups/
 www.udemy.com/computercavalry-it-helpdesk/
 www.udemy.com/computercavalry-local-and-remote-management/
 www.udemy.com/conceitos-basicos-para-aprender-qualquer-firewall/
-www.udemy.com/conceitos-de-programacao-em-shell-script/
 www.udemy.com/conceiving-a-new-game-tips/?couponCode=ConceiveFree
 www.udemy.com/concept-art-masterclass/
 www.udemy.com/concept-couples-photography-100-creative-photoshoot-ideas/?couponCode=REVIEW
@@ -1721,7 +1700,6 @@ www.udemy.com/content-creation-course/?couponCode=GREATCOURSE
 www.udemy.com/content-creation-hacks/?couponCode=HUNGRY
 www.udemy.com/content-creation-marketing-plan/?couponCode=UFC2018
 www.udemy.com/content-creation-mastermind-knowledge-is-a-business/?couponCode=EACCMASTER
-www.udemy.com/content-creation-mastermind-knowledge-is-a-business/?couponCode=KNOWLEDGEISPOTENTIAL
 www.udemy.com/content-curation-blueprint/?couponCode=BBHHFF
 www.udemy.com/content-distribution-turn-your-videos-into-paying-customers/
 www.udemy.com/content-management-system-in-php-mysql/?couponCode=FBFREE
@@ -1792,7 +1770,6 @@ www.udemy.com/corporate-grooming-personality-development-etiquette/
 www.udemy.com/corporation-accounting-practice-test/
 www.udemy.com/corso-completo-di-social-media-marketing-facebook-ads/?couponCode=FREE962018
 www.udemy.com/couchdb-mastering-database-design-with-couchdb/?couponCode=CODEMAD
-www.udemy.com/counseling-children-and-adolescents/
 www.udemy.com/couples_counseling_course_relationships_coaching_marriage_counselling/
 www.udemy.com/course-bootstrap-4/
 www.udemy.com/course-creation-in-simple-steps/?couponCode=FORMATNEW
@@ -1846,7 +1823,6 @@ www.udemy.com/course/abc-of-vim/
 www.udemy.com/course/absolute-java-basics-for-android/
 www.udemy.com/course/accelerated-es6/
 www.udemy.com/course/ace-your-career-with-the-power-of-artificial-intelligence/?couponCode=ACEITACE
-www.udemy.com/course/ace-your-career-with-the-power-of-artificial-intelligence/?couponCode=CD79F776D064399BA71B
 www.udemy.com/course/ace-your-career-with-the-power-of-artificial-intelligence/?couponCode=RZESVAMWTZ
 www.udemy.com/course/ace-your-career-with-the-power-of-artificial-intelligence/?couponCode=VFTYUKC
 www.udemy.com/course/active-directory-administration-for-helpdesk-technicians/?couponCode=A768BCAE1B34CB03A494
@@ -1956,7 +1932,6 @@ www.udemy.com/course/automation-testing-with-qtp-11-alm-11-selenium-with-java/
 www.udemy.com/course/autumn-art-lessons-for-kids/?couponCode=MUSHROOMSFREE
 www.udemy.com/course/aws-bds-c00-certified-big-data-speciality-practice-test-g/?couponCode=AWS-BDS
 www.udemy.com/course/aws-certified-developer-associate-2019-examenes-de-prueba/?couponCode=61E0B17E29D985CBA3FD
-www.udemy.com/course/aws-certified-solutions-architect-associate-new-course/?couponCode=2E82EFA522B5D9B5D3E1
 www.udemy.com/course/aws-certified-sysops-administrator-associate-2019-exams/?couponCode=ITMONZTER_FREE
 www.udemy.com/course/aws-cloud-technology-masterclass/?couponCode=AWSCLOUDFREE
 www.udemy.com/course/aws-elastic-beanstalk-master-class/
@@ -2046,7 +2021,6 @@ www.udemy.com/course/build-a-streaming-twitter-filter-with-python-and-redis/
 www.udemy.com/course/build-a-web-developer-starter-kit/
 www.udemy.com/course/build-an-affiliate-marketing-blog-with-wordpress-elementor/?couponCode=D6FC23332D20B53CEF77
 www.udemy.com/course/build-and-deploy-a-lamp-server-on-aws/
-www.udemy.com/course/build-blockchain-deploy-private-blockchain/
 www.udemy.com/course/build-crud-application-php-mysql/
 www.udemy.com/course/build-full-tinder-chat-app-user-authentication/
 www.udemy.com/course/build-javascript-countdown-with-email-collector-in-phpmysql/?couponCode=GIFTFORME
@@ -2084,15 +2058,12 @@ www.udemy.com/course/c-operating-on-files/?couponCode=3DAYSFREE3500
 www.udemy.com/course/c-operating-on-files/?couponCode=FREETHREEDAYS
 www.udemy.com/course/c-programming-beginning-to-expert-level-practice-test/?couponCode=1706F8B3BB7F1B0366CC
 www.udemy.com/course/c-programming-for-beginners-with-real-world-examples/
-www.udemy.com/course/c-programming-language-in-a-practical-way/?couponCode=NOVEMBERGIVE
 www.udemy.com/course/c-programming-made-easy/
 www.udemy.com/course/c-programming-the-best-approach-to-learn-c-language/
 www.udemy.com/course/c-programming-tutorials/
-www.udemy.com/course/c-sharp-basics/?couponCode=8F82DF6AFC13AFEFE54C
 www.udemy.com/course/c-sharp-basics/?couponCode=FE2C3AF877
 www.udemy.com/course/c-sharp-basics/?couponCode=KJCY686CYH
 www.udemy.com/course/c-sharp-dot-net-debugging-with-visual-studio/?couponCode=B94852E7F10D07608662
-www.udemy.com/course/c-sharp-introduction/?couponCode=9H6936JFLU
 www.udemy.com/course/c-sharp-programming/
 www.udemy.com/course/c-tips-and-tricks-using-windows-registry-in-c/?couponCode=VIP-TECH-GEEKS-AUG
 www.udemy.com/course/c_tadm51_731-sap-certified-technology-associate-exam/?couponCode=C_TADM51
@@ -2201,8 +2172,8 @@ www.udemy.com/course/complete-youtube-training-2019-in-hindi-urdu-sarfaraz/?coup
 www.udemy.com/course/completeenglishcourse/?couponCode=ILOVEENGLISH2020
 www.udemy.com/course/composer-php-dependency-manager/?couponCode=FREECOUPON
 www.udemy.com/course/comprehensive-introduction-to-programming-with-csharp/
-www.udemy.com/course/comprehensive-pdf-written-corporation-accounting-problem/?couponCode=OJJDSW1574
 www.udemy.com/course/comprehensive-pdf-written-corporation-accounting-problem/?couponCode=OJJDSw1574
+www.udemy.com/course/comprehensive-pdf-written-corporation-accounting-problem/?couponCode=OJJDSW1574
 www.udemy.com/course/comprehensive-python-course/
 www.udemy.com/course/comptia-cloud-essentials-clo-001-certified-practice-exam/?couponCode=CLO-001
 www.udemy.com/course/comptia-jk0-016-network-certification-practice-exam-f/?couponCode=JK0-016
@@ -2381,7 +2352,6 @@ www.udemy.com/course/ea-studio-create-unlimited-trading-robots-with-one-robot/?c
 www.udemy.com/course/ea-studio-create-unlimited-trading-robots-with-one-robot/?couponCode=SpicyGroup5000EA
 www.udemy.com/course/earning-an-income-online-the-udemy-edition-unofficial/?couponCode=UDEMYTEACHERS
 www.udemy.com/course/easy-in-demand-developer-tools-for-job-set1-redis-vagrant/
-www.udemy.com/course/easy-to-auto-transcribe-with-amazon-transcribe/?couponCode=3DAYSUNLIMITED
 www.udemy.com/course/easy-to-auto-transcribe-with-amazon-transcribe/?couponCode=OCT-FREE
 www.udemy.com/course/easy-to-follow-java-programming/
 www.udemy.com/course/easy-walk-with-aws-solution-architect-certification/?couponCode=AWS_TEST_FREE
@@ -2665,7 +2635,6 @@ www.udemy.com/course/how-to-make-a-portfolio-website-photographers-designers/
 www.udemy.com/course/how-to-make-a-profitable-wordpress-website-2020-k/
 www.udemy.com/course/how-to-make-a-profitable-wordpress-website-step-by-step-2016/
 www.udemy.com/course/how-to-make-a-real-estate-website-with-wordpress/
-www.udemy.com/course/how-to-make-a-resume-website-with-wordpress/
 www.udemy.com/course/how-to-make-a-social-media-website-with-wordpress/
 www.udemy.com/course/how-to-make-a-song-melody-in-30-minutes-like-a-rock-star/?couponCode=URROCKGOD2019
 www.udemy.com/course/how-to-make-a-video-blog-website/
@@ -2919,7 +2888,6 @@ www.udemy.com/course/jmeter-step-by-step-for-beginners/
 www.udemy.com/course/job-categories-to-work-as-a-freelancer-the-ultimate-guide/?couponCode=D8CB722F82944C2CA410
 www.udemy.com/course/job-order-costing-system-managerial-accounting/?couponCode=MMYY55
 www.udemy.com/course/joomla-3-the-basics/
-www.udemy.com/course/joomla-create-a-joomla-website-this-weekend-with-no-coding/
 www.udemy.com/course/journalism-career/
 www.udemy.com/course/jquery-ajax/
 www.udemy.com/course/jquery-and-ajax-for-beginners-the-definitive-guide/
@@ -3013,7 +2981,6 @@ www.udemy.com/course/learn-google-drive-from-beginner-to-advanced/?couponCode=FR
 www.udemy.com/course/learn-google-drive-from-beginner-to-advanced/?couponCode=LEARNTECHFREE
 www.udemy.com/course/learn-google-drive-from-beginner-to-advanced/?couponCode=TRYFREE2020
 www.udemy.com/course/learn-hacking-from-scratch/
-www.udemy.com/course/learn-how-to-build-a-professional-web-site-by-using-joomla/
 www.udemy.com/course/learn-how-to-build-a-web-application-without-coding/
 www.udemy.com/course/learn-how-to-build-an-ecommerce-website-with-wordpress/
 www.udemy.com/course/learn-how-to-create-and-ecommerce-website-with-wordpress-2018/
@@ -3048,7 +3015,6 @@ www.udemy.com/course/learn-keyboard-piano-part-2-advanced-chords-and-scales/?cou
 www.udemy.com/course/learn-keyboard-piano-part-2-advanced-chords-and-scales/?couponCode=LVKBP2FREE01
 www.udemy.com/course/learn-kotlin-by-making-android-app/
 www.udemy.com/course/learn-lightroom-web/?couponCode=LTFREE
-www.udemy.com/course/learn-linux-administration-and-linux-command-line-skills/?couponCode=LINUXADMIN2
 www.udemy.com/course/learn-local-seo-course-a-z-ranking-google/?couponCode=FREE01
 www.udemy.com/course/learn-machine-learning-101-class-bootcamp-course-nyc/
 www.udemy.com/course/learn-matched-betting-guide-to-make-money-online/
@@ -3088,7 +3054,6 @@ www.udemy.com/course/learn-to-build-mobile-games-using-corona-sdk/
 www.udemy.com/course/learn-to-build-your-first-apache-cordova-app/
 www.udemy.com/course/learn-to-build-your-own-chatbots/?couponCode=COUPONNOW
 www.udemy.com/course/learn-to-code-from-scratch-with-python-3/
-www.udemy.com/course/learn-to-code-in-html-and-css/
 www.udemy.com/course/learn-to-create-a-website-for-free-free-domainfree-hosting/
 www.udemy.com/course/learn-to-create-a-website-in-1-hour-/
 www.udemy.com/course/learn-to-create-html-css-web-templates-create-web-pages/
@@ -3122,7 +3087,6 @@ www.udemy.com/course/learnunity3dpro/
 www.udemy.com/course/lets-build-a-signup-and-login-system-using-php-project/?couponCode=4720BB6EEFF0B16DA053
 www.udemy.com/course/lets-javascript-beginners-coding-projects-in-javascript/
 www.udemy.com/course/lets-javascript-beginners-coding-projects/
-www.udemy.com/course/lets-javascript-coding-projects/
 www.udemy.com/course/leveling-up-to-es6/
 www.udemy.com/course/life-coaching-for-ptsd-overcome-anxiety-and-depression-cbt/?couponCode=OCTOBER
 www.udemy.com/course/linkedin-for-beginners/?couponCode=FREEFORME
@@ -3331,7 +3295,6 @@ www.udemy.com/course/parcel-bundler-the-complete-tutorial/?couponCode=UEDUEGU_DU
 www.udemy.com/course/passive-income-masterclass/?couponCode=3DAYSFREE
 www.udemy.com/course/passive-income-passive-income-with-amazon-sponsorships/
 www.udemy.com/course/passive-income-strategy-to-earn-six-figures/?couponCode=FREECOURSE
-www.udemy.com/course/password-hacking/?couponCode=1_LAKH_FREE
 www.udemy.com/course/pay-per-call-for-digital-marketers/?couponCode=PPLDONEEZ
 www.udemy.com/course/pdo-php-data-objects/
 www.udemy.com/course/perfect-ux-design-case-study/?couponCode=7712886BA005E285CC25
@@ -3395,7 +3358,6 @@ www.udemy.com/course/power-bi-from-zero-to-hero-am/?couponCode=LEARNPOWERBI
 www.udemy.com/course/power-engineering-project-estimation-using-compatible-units/?couponCode=ESTIMATION_1
 www.udemy.com/course/powerful-proofreading-tools-for-aspiring-writers/?couponCode=C089813B7195570B8609
 www.udemy.com/course/powerful-way-to-grow-your-business-with-contests/?couponCode=32RWCQ6EPK
-www.udemy.com/course/powering-you-with-powershell/
 www.udemy.com/course/powerpodcasters/?couponCode=STARTPOD0
 www.udemy.com/course/powerpoint-vba-macros/?couponCode=00E6A6B3F5167365A3E4
 www.udemy.com/course/powerpoint2020/?couponCode=VIP123
@@ -3559,11 +3521,9 @@ www.udemy.com/course/sap-bw74-modeling-data-mana-certification-practice-tests/?c
 www.udemy.com/course/sap-c_hanatec_1-certified-technology-associate-practice-exam-m/?couponCode=HANATEC
 www.udemy.com/course/sap-c_tb1200_88-certified-associate-sap-business-one-exam-er/?couponCode=SAP-120
 www.udemy.com/course/sap-c_tfin52_66-certify-associate-financial-accounting-exam/?couponCode=SAP-266
-www.udemy.com/course/sap-c_thr12_66-certified-associate-human-capital-exam-r/?couponCode=ASS-126
 www.udemy.com/course/sap-c_tscm42_66-certified-associate-production-planning-exam-x/?couponCode=SAP-TSCM
 www.udemy.com/course/sap-c_tscm66_66-certified-associate-logistics-execution-exam-j/?couponCode=SAP-TSC
 www.udemy.com/course/sap-master-data/
-www.udemy.com/course/sap-p_hcmtm_64-certified-professional-hcm-talent-mngt-exam-q/?couponCode=SAP-HcM
 www.udemy.com/course/sap-po-learn-to-configure-java-and-sap-nwds-software/
 www.udemy.com/course/sap-s4-hana-erp/?couponCode=ENROLLNOW
 www.udemy.com/course/sass-for-the-beginners/
@@ -3611,7 +3571,6 @@ www.udemy.com/course/shock-app-clone-in-kotlin/
 www.udemy.com/course/shopify-dropshipping-and-private-label-products-the-easy-way/
 www.udemy.com/course/shopify-guia-completo/
 www.udemy.com/course/short-and-sweet-get-started-with-git-and-github-right-now/
-www.udemy.com/course/sifirdan-en-ince-ayarlarina-kadar-profesyonel-wordpress-site/?couponCode=HJ262D
 www.udemy.com/course/simple-and-easy-wordpress-101/
 www.udemy.com/course/simple-blogging-analytics-dashboard-in-python/
 www.udemy.com/course/simple-copywriting-secrets-how-to-write-killer-sales-copy/?couponCode=SIMPLESECRETSFREE
@@ -3702,7 +3661,6 @@ www.udemy.com/course/swift-4-basics-step-by-step/?couponCode=SP_OFFER_WEEK
 www.udemy.com/course/swift-4-ios-11/?couponCode=8486FD65A25AB261E5F9
 www.udemy.com/course/swift-4-xcode-9-user-registration-flow-and-ios-keychain/
 www.udemy.com/course/swift-basics-learn-to-code-from-scratch-for-beginners/?couponCode=FREELEARNING
-www.udemy.com/course/swift-by-example-make-apple-watch-apps-with-apple-watchkit/
 www.udemy.com/course/swift-from-scratch-learn-programming-on-ios/
 www.udemy.com/course/swift-programming-from-learner-to-earner/
 www.udemy.com/course/swift3basicslearntocodetherightwayforios10/
@@ -3737,7 +3695,6 @@ www.udemy.com/course/the-art-of-real-ios-programming/
 www.udemy.com/course/the-basics-of-staying-safe-online-cyber-security-awareness/?couponCode=AUGBONUS
 www.udemy.com/course/the-beginners-guide-to-cyber-security-2019/?couponCode=CYBERCHRISTMASSALE
 www.udemy.com/course/the-beginners-guide-to-cyber-security-2019/?couponCode=CYBERSALE2019
-www.udemy.com/course/the-bully-within/?couponCode=NEWCOURSELAUNCHPROMO
 www.udemy.com/course/the-chop-weight-loss-method/
 www.udemy.com/course/the-complete-alexa-skill-development-bootcamp/?couponCode=FREEALEXALEARNING
 www.udemy.com/course/the-complete-alexa-skill-development-bootcamp/?couponCode=FREELEARNING
@@ -3798,7 +3755,6 @@ www.udemy.com/course/the-step-by-step-course-on-facebook-ads-2020-for-beginners/
 www.udemy.com/course/the-ultimate-angular-course/
 www.udemy.com/course/the-ultimate-course-on-how-to-make-a-video-cms-website/
 www.udemy.com/course/the-ultimate-fast-paced-wordpress-website-course/
-www.udemy.com/course/the-ultimate-git-5-day-challenge/
 www.udemy.com/course/the-ultimate-guide-in-becoming-a-sql-server-dba/
 www.udemy.com/course/the-ultimate-guide-to-wordpress-websites-for-beginners/?couponCode=JUSTFORYOU
 www.udemy.com/course/the-ultimate-microsoft-azure-bootcamp/?couponCode=LAUNCH_SPL_FREE
@@ -3874,7 +3830,6 @@ www.udemy.com/course/unreal-engine-4-pack-3/
 www.udemy.com/course/upgrade-your-abundance-mindset-law-of-attraction-coaching/?couponCode=FREEABUNDANCE
 www.udemy.com/course/upgrade-your-css-ui-library-free-course/
 www.udemy.com/course/upgrade-your-css-ui-library/
-www.udemy.com/course/upgrade-your-css-ui-library/?couponCode=FREE__3__DAYS
 www.udemy.com/course/use-infographics-to-grab-customers-attention/?couponCode=16511F79FD3F8B7A46
 www.udemy.com/course/use-infographics-to-grab-customers-attention/?couponCode=1D42B9C77721E24BCE8E
 www.udemy.com/course/use-infographics-to-grab-customers-attention/?couponCode=2A12C0CB9581B1357626
@@ -3898,7 +3853,6 @@ www.udemy.com/course/voice-over-professional-editing-mastering-with-audacity/
 www.udemy.com/course/vue-2-crash-course/
 www.udemy.com/course/vue-js-vuex-spring-boot-microservices-and-spring-cloud/?couponCode=FREECOUPON
 www.udemy.com/course/vuejs-2-basics-in-just-1-hour-free/
-www.udemy.com/course/vuejs-and-firebase-build-an-ios-and-android-chat-app/
 www.udemy.com/course/vuejs-crash-course/
 www.udemy.com/course/vuejs-fast-crash-course/
 www.udemy.com/course/watercolor-galaxy-manga-portrait/?couponCode=GALAXYCLASS
@@ -4015,7 +3969,6 @@ www.udemy.com/crash-course-into-javafx-the-best-way-to-make-gui-apps/
 www.udemy.com/crash-course-into-web-frameworks-2019/
 www.udemy.com/crash-course-intro-to-the-stock-market/
 www.udemy.com/crash-course-manage-network-security-with-pfsense-firewall/
-www.udemy.com/crash-course-on-red-hat-linux-7-installation-using-kickstart/
 www.udemy.com/crash-course-project-management/
 www.udemy.com/crash-course-to-rideshare-how-to-get-started-w-uber-lyft/?couponCode=FREEUDEMYREVIEW
 www.udemy.com/crazy-about-arduino-your-end-to-end-workshop-level-1/?couponCode=FREE_LEVEL_1
@@ -4082,7 +4035,6 @@ www.udemy.com/create-advanced-charts-and-pivot-tables/
 www.udemy.com/create-ai-bot-for-facebook-page-messenger-chatfuel-no-coding/
 www.udemy.com/create-an-awesome-geometric-poster-design/
 www.udemy.com/create-an-ecommerce-website/
-www.udemy.com/create-an-online-course-the-complete-and-proven-guide/?couponCode=REVIEW
 www.udemy.com/create-and-deploy-a-token-on-ethereum-with-no-coding/?couponCode=TOKENCREATOR
 www.udemy.com/create-and-deploy-your-first-solidity-smart-contract/?couponCode=UDEMYFREE1
 www.udemy.com/create-and-manage-a-wordpress-multisite-network/
@@ -4127,8 +4079,8 @@ www.udemy.com/create-modern-websites/?couponCode=18_LAST_COUPEN_PROMO
 www.udemy.com/create-my-independence-with-blogging/?couponCode=297-off-valentines
 www.udemy.com/create-php-ajax-js-jquery-mysql-login-system-today/?couponCode=100K-PHP-LOGIN
 www.udemy.com/create-php-ajax-js-jquery-mysql-login-system-today/?couponCode=HALLOWEEN2017
-www.udemy.com/create-php-ajax-js-jquery-mysql-login-system-today/?couponCode=ILOVELEARNING
 www.udemy.com/create-php-ajax-js-jquery-mysql-login-system-today/?couponcode=ilovelearning
+www.udemy.com/create-php-ajax-js-jquery-mysql-login-system-today/?couponCode=ILOVELEARNING
 www.udemy.com/create-php-ajax-js-jquery-mysql-login-system-today/?couponCode=WEBDEVPROJECT
 www.udemy.com/create-professional-website-business/
 www.udemy.com/create-professional-website-using-bootstrap4-html5-css3/
@@ -4209,7 +4161,6 @@ www.udemy.com/creating-winning-business-models-based-on-machine-learning/?coupon
 www.udemy.com/creating-wood-art-an-intro-to-handcrafted-wood-sculpture/
 www.udemy.com/creating-wordpress-website/
 www.udemy.com/creation-of-requisition-rfq-and-quotation-in-oracle-apps-r12/
-www.udemy.com/creation-of-standard-info-cube-transaction-data-in-sap-bi/
 www.udemy.com/creative-genius/?couponCode=201872BH00002
 www.udemy.com/creative-thinking-for-lean-six-sigma-certification/?couponCode=LEAN-SIX-SIGMA
 www.udemy.com/creative-thinking-mind-mapping/
@@ -4220,8 +4171,8 @@ www.udemy.com/creative-writing-workshop-exercises-to-boost-creativity/?couponCod
 www.udemy.com/creativity-exercises-before-going-to-sleep-boost-creative-thinking/?couponCode=PLEASELEAVEAREVIEW
 www.udemy.com/creativity-for-entrepreneurs-find-a-great-business-idea/?couponCode=FACEAD
 www.udemy.com/creativity-for-entrepreneurs-find-a-great-business-idea/?couponCode=LAUNCHGIFT
-www.udemy.com/creativity-mindset-boost-confidence-eliminate-creative-self-doubt/?couponCode=PLEASELEAVEAREVIEW
 www.udemy.com/creativity-mindset-boost-confidence-eliminate-creative-self-doubt/?couponcode=pleaseleaveareview
+www.udemy.com/creativity-mindset-boost-confidence-eliminate-creative-self-doubt/?couponCode=PLEASELEAVEAREVIEW
 www.udemy.com/creativity-the-enhanced-creative-version-of-yourself/
 www.udemy.com/creatupropiamusica/?couponCode=FREE_NEW_MUSICOURSE
 www.udemy.com/credit-card-rewards-101-earn-free-cash-and-travel/
@@ -4249,8 +4200,8 @@ www.udemy.com/crisciaws/?couponCode=FBFREEUDEMY1
 www.udemy.com/crisis-management/
 www.udemy.com/critical-thinking-problem-solving/?couponCode=BRADHANSON6
 www.udemy.com/critical-web-dev-skills-tools-for-the-non-tech-hustler/
-www.udemy.com/crockpot/?couponCode=udemystudio_free
 www.udemy.com/crockpot/?couponCode=UdemyStudio_FREE
+www.udemy.com/crockpot/?couponCode=udemystudio_free
 www.udemy.com/cross-cultural-communication-how-to-flex-your-style/?couponCode=CROSSCULTURAL34626
 www.udemy.com/cross-platform-native-ios-android-in-xamarin-c-firebase/
 www.udemy.com/cross-site-scripting-xss-website-hacking-course/
@@ -4258,7 +4209,6 @@ www.udemy.com/crossed-cycles-breathing-technique/
 www.udemy.com/crowdfunding-for-anxious-revolutionaries/
 www.udemy.com/crowdfunding-for-filmmakers/?couponCode=LAUNCHFREE
 www.udemy.com/crowdfunding-your-indiegogo-fundraising-campaign/?couponCode=INGO_AM
-www.udemy.com/crowdfundingmastery_kickstarterandindiegogo/?couponCode=CrowdfundmasterUDP
 www.udemy.com/crud-cnet-with-entity-framework/
 www.udemy.com/crush-it-on-facebook/
 www.udemy.com/crushamazon/?couponCode=ASDFGH
@@ -4267,7 +4217,6 @@ www.udemy.com/crypto-apps-2018-abra-coinbase-binance-robinhoodbittrex/
 www.udemy.com/crypto-best/?couponCode=GIFT-FROM-ANDREW
 www.udemy.com/crypto-class-on-the-road-altcoins-exchanges-bullruns/
 www.udemy.com/crypto-masterclass-class-one-ethereum-hands-on/
-www.udemy.com/crypto-trading-101-how-trade-cryptocurrencies-for-profit/?couponCode=LEARNCRYPTOVRL
 www.udemy.com/crypto-trading-strategy-for-winning-trades-with-live-proof/?couponCode=100OFF
 www.udemy.com/cryptocurrencies-complet-practical-course-on-crypto-trading/
 www.udemy.com/cryptocurrencies/
@@ -4347,7 +4296,6 @@ www.udemy.com/css-tutorials-for-beginners/
 www.udemy.com/css-webdesign/?couponCode=GETCSSFREE
 www.udemy.com/css-website-development-crash-course/?couponCode=CSSFREESUM01
 www.udemy.com/css3-bootcamp-web-development-building-blocks-fundamentals/?couponCode=FREECSS
-www.udemy.com/css3-crash-course-in-less-than-3-hours/
 www.udemy.com/css3-master-series-css-animations-transforms-transitions/?couponCode=CSSANIMATIONFREE
 www.udemy.com/css3-master-series-css3-selectors-mastery/?couponCode=PREPROMOTION
 www.udemy.com/css3-master-series-get-to-know-css-before-you-jump-to-css3/?couponCode=LAUNCHSERIE
@@ -4517,7 +4465,6 @@ www.udemy.com/database-modeling-with-golang-postgresql/
 www.udemy.com/datascience-statistics/
 www.udemy.com/datasys-pdv-dashboard/
 www.udemy.com/dating-accelerator-2/?couponCode=SPDATE2BHW0
-www.udemy.com/dating-accelerator/?couponCode=RPDATE0
 www.udemy.com/dating-and-relationship-advice-for-men/
 www.udemy.com/dating-and-texting-dating-for-men-in-a-digital-age/
 www.udemy.com/dating-magic/?couponCode=FBFOC4U
@@ -4655,8 +4602,8 @@ www.udemy.com/devops-docker-complete-guide-hands-on-with-practical/?couponCode=J
 www.udemy.com/devops-for-operations/
 www.udemy.com/devops-series-server-automation-using-ansible/
 www.udemy.com/devops-using-vsts-docker-azure/?couponCode=HOUSSEM-DEVOPS
-www.udemy.com/devslopes-ios10/?couponcode=ios_course_axr18tr
 www.udemy.com/devslopes-ios10/?couponCode=IOS_COURSE_AXR18TR
+www.udemy.com/devslopes-ios10/?couponcode=ios_course_axr18tr
 www.udemy.com/devslopes-ios11/?couponCode=CODEJAM
 www.udemy.com/devslopes-ios11/?couponcode=codejam
 www.udemy.com/devslopes-ios11/learn/v4/overview
@@ -4682,13 +4629,11 @@ www.udemy.com/difficult-conversations-master-difficult-conversations/?couponCode
 www.udemy.com/difficult-toxic-people-in-the-workplace/?couponCode=FBK092017
 www.udemy.com/digishock-10-basics-create-operating-system-without-code/?couponCode=HEREWECOMEAGAIN
 www.udemy.com/digishock-20-machine-learning-for-beginners-no-coding/?couponCode=KKDKFK
-www.udemy.com/digishock-20-machine-learning-for-beginners-no-coding/?couponCode=MLNOCODENOW
 www.udemy.com/digital-art-for-designers-create-still-life-illustration/?couponCode=FREEDIGITALART
 www.udemy.com/digital-csr-programme-internship-2018/
 www.udemy.com/digital-email-marketing-mastermind-course/?couponCode=FREE13235
 www.udemy.com/digital-expertise-for-educators/
 www.udemy.com/digital-female-portraiture-an-artists-guide/
-www.udemy.com/digital-figure-drawing-using-3d-models-in-clip-studio-paint/?couponCode=newandfree1
 www.udemy.com/digital-flipping-masterclass-learn-to-flip-services-online/?couponCode=NEWCOUPOM
 www.udemy.com/digital-head-and-portrait-painting/?couponCode=PAINTAFACE
 www.udemy.com/digital-illustration-character-design-basics/?couponCode=LAUNCHFREE
@@ -4724,7 +4669,6 @@ www.udemy.com/digital-media-and-marketing/
 www.udemy.com/digital-media-fundamentals-vol-2/
 www.udemy.com/digital-nomad-jobs-work-remote-and-travel-around-the-world/?couponCode=DIGITALNOMAD
 www.udemy.com/digital-nomad-remote-work/
-www.udemy.com/digital-nomad-travel-blogging/?couponCode=SPDNBMBHW0
 www.udemy.com/digital-nomad-travel-colombia/?couponCode=SPDNCOLOMBIA0
 www.udemy.com/digital-nomad-travel-colombia/?couponCode=SPDNCOLOMBIABHW
 www.udemy.com/digital-nomads-world-travel/?couponCode=SPTRAVELBHW0
@@ -4771,9 +4715,7 @@ www.udemy.com/discovering-algebra/
 www.udemy.com/discovering-you-after-all-you-are-awesome/
 www.udemy.com/discrete-math-set-theorysets-relations-and-functions/?couponCode=DISCOUNT5000
 www.udemy.com/discrete-math-set-theorysets-relations-and-functions/?couponCode=LAUNCHINGDISCOUNT
-www.udemy.com/discrete-mathematics-discrete-math-lattices-graph-tree-mathematica/?couponCode=JGACADEMY
 www.udemy.com/discrete-mathematics-learn-discrete-math/?couponCode=GOODGUY
-www.udemy.com/ditch-auto-editing-workflow-in-lightroom-photoshop/
 www.udemy.com/ditch-the-inventory-dropship/
 www.udemy.com/ditchyour9to5/?couponCode=STUDENTS3027
 www.udemy.com/dive-into-adobe-after-effects-flat-animation-buildup/?couponCode=FREEFORFRIENDS16
@@ -4861,7 +4803,6 @@ www.udemy.com/drop-shipping-20-more-traffic-less-competition/?couponCode=ADDRESS
 www.udemy.com/drop-shipping-from-amazon150-store-to-ebaywork-from-home/
 www.udemy.com/dropshipping-domination/
 www.udemy.com/dropshipping-ecommerce-business/
-www.udemy.com/dropshipping-guide-to-amazon-fba/
 www.udemy.com/dropshipping-masterclass-build-your-own-profitable-store/?couponCode=4KFREEECOUP
 www.udemy.com/dropshipping-meisterkurs-lerne-online-stores-zu-erstellen/?couponCode=BDJHBJHBJDHBJB
 www.udemy.com/dropshipping-on-ebay-arabic/?couponCode=DROPSHIP_FREE
@@ -4999,7 +4940,6 @@ www.udemy.com/ecss-ec-council-certified-security-specialist-practice-test-n/?cou
 www.udemy.com/ecss-ec-council-certified-security-specialist-practice-test/?couponCode=PTSCEC
 www.udemy.com/ed/
 www.udemy.com/edeo-educational-video-courses-and-marketing-introduction/?couponCode=EDEOMKTG2018ZERO
-www.udemy.com/edicionpremiere/
 www.udemy.com/edison-for-beginners/
 www.udemy.com/edit-css-style-visually-yellow-pencil-visual-css-editor/
 www.udemy.com/edit-videos-like-a-pro-from-your-iphoneipad-using-imovie/?couponCode=FREEFORALL
@@ -5083,8 +5023,8 @@ www.udemy.com/email-etiquette-back-to-basics-with-professional-emails/?couponCod
 www.udemy.com/email-etiquette-back-to-basics-with-professional-emails/?couponCode=FREE2BE
 www.udemy.com/email-etiquette-back-to-basics-with-professional-emails/?couponCode=FREEMAIL
 www.udemy.com/email-etiquette-course/?couponCode=GREATCOURSE
-www.udemy.com/email-etiquette-marketing-formula-for-better-sales-and-communication/?couponCode=free2be
 www.udemy.com/email-etiquette-marketing-formula-for-better-sales-and-communication/?couponCode=FREE2BE
+www.udemy.com/email-etiquette-marketing-formula-for-better-sales-and-communication/?couponCode=free2be
 www.udemy.com/email-inboxing-get-your-email-delivered-to-inbox-always/
 www.udemy.com/email-lead-magnet/?couponCode=FREEEMAILLIST
 www.udemy.com/email-list-building-tech-guide/?couponCode=blackhatlist
@@ -5116,8 +5056,8 @@ www.udemy.com/email-marketing-made-easy-for-beginners/
 www.udemy.com/email-marketing-made-simple-with-wix/?couponCode=WIXISZEUS
 www.udemy.com/email-marketing-mailchimp/?couponCode=EMAILFREE
 www.udemy.com/email-marketing-mastery-the-bible-to-online-business/?couponCode=EMAILMASTERY
-www.udemy.com/email-marketing-mastery-the-bible-to-online-business/?couponCode=free2be
 www.udemy.com/email-marketing-mastery-the-bible-to-online-business/?couponCode=FREE2BE
+www.udemy.com/email-marketing-mastery-the-bible-to-online-business/?couponCode=free2be
 www.udemy.com/email-marketing-platform-complete-mailchimp-course/
 www.udemy.com/email-marketing-software/?couponCode=SUCCESS10
 www.udemy.com/email-marketing-step-by-step-guide-to-growth-hacking/
@@ -5161,8 +5101,6 @@ www.udemy.com/end-to-end-machine-learning-choosing-a-model/
 www.udemy.com/endless-nonfiction-book-ideas/?couponCode=FORMATNEW
 www.udemy.com/endless-nonfiction-book-ideas/?couponCode=FREEUNTIL31ST
 www.udemy.com/endomorph-diet/?couponCode=ENDO_DIET
-www.udemy.com/energise-yoga-course/?couponCode=FRIENDS100
-www.udemy.com/energy-healing-yourself-activate-your-light-body-in-a-week/?couponCode=LEARNFASTTEST
 www.udemy.com/energy-healing/?couponCode=FREEFORADAY
 www.udemy.com/energy-healing/?couponCode=FREEFORAWEEK
 www.udemy.com/engaging-communication/
@@ -5216,8 +5154,8 @@ www.udemy.com/english-made-simple-vocabulary-for-toefl/
 www.udemy.com/english-made-simple-vocabulary-to-describe-appearances/
 www.udemy.com/english-made-simple-vocabulary-to-describe-feelings/
 www.udemy.com/english-master-topic-vocabulary-game-based-exercises/?couponCode=FREE-REV
-www.udemy.com/english-master-topic-vocabulary-game-based-exercises/?couponCode=TOPIC-VOC-FREE
 www.udemy.com/english-master-topic-vocabulary-game-based-exercises/?couponcode=topic-voc-free
+www.udemy.com/english-master-topic-vocabulary-game-based-exercises/?couponCode=TOPIC-VOC-FREE
 www.udemy.com/english-on-a-box-at-christmas-free/
 www.udemy.com/english-phrasal-verbs-confidence-ielts/
 www.udemy.com/english-prepositions-of-time-made-simple/
@@ -5266,8 +5204,8 @@ www.udemy.com/entrepreneurship-accelerator-program/?couponCode=UNCLEGKNOWSBEST
 www.udemy.com/entrepreneurship-challenges-progress-of-an-entrepreneur/?couponCode=2ENTREV2CC11
 www.udemy.com/entrepreneurship-course/?couponCode=BLESSED
 www.udemy.com/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=5stars
-www.udemy.com/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=FREE18
 www.udemy.com/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=free18
+www.udemy.com/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=FREE18
 www.udemy.com/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=free2018
 www.udemy.com/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=OMGSEP
 www.udemy.com/entrepreneurship-entreprenvy/
@@ -5289,7 +5227,6 @@ www.udemy.com/errores-que-debes-evitar-para-tener-exito-con-tu-libro/?couponCode
 www.udemy.com/es6-bootcamp/
 www.udemy.com/es6-ecmascript-6-for-beginners/
 www.udemy.com/es6-in-a-nutshell-for-javascript-developers/
-www.udemy.com/es6-in-depth/?couponCode=GOHACKERS
 www.udemy.com/es6-in-depth/?couponcode=gohackers
 www.udemy.com/es6-javascript-reloaded/
 www.udemy.com/es6-javascript-shopping-cart/
@@ -5407,7 +5344,6 @@ www.udemy.com/event-planning-planning-for-leisure-and-corporate/
 www.udemy.com/evernote-with-the-system2-productivity-gtd-on-steroids/?couponCode=EVERNOTE-FREE
 www.udemy.com/everyday-english-brush-up-your-english-grammar/?couponCode=JULY2019
 www.udemy.com/everyday-english-brush-up-your-english-grammar/?couponCode=OCT100OFF
-www.udemy.com/everyday-english-brush-up-your-english-grammar/?couponCode=SEP2018
 www.udemy.com/everyday-happiness-for-everybody/?couponCode=HAPPYCHRISTMAS
 www.udemy.com/everyday-happiness-for-everybody/?couponCode=SUMMERABCEDU
 www.udemy.com/everyday-makeup-complete-step-by-step-makeup-course/
@@ -5518,7 +5454,6 @@ www.udemy.com/facebook-marketing-how-to-create-converting-ads/?couponCode=FREEAC
 www.udemy.com/facebook-marketing-like-campaign/?couponCode=10000FREECODES
 www.udemy.com/facebook-marketing-like-campaign/?couponCode=ONCEALIFETIME
 www.udemy.com/facebook-marketing-like-campaign/?couponCode=Q8J8UJM4RE
-www.udemy.com/facebook-marketing-mastery-complete-facebook-ads-guide/?couponCode=FREEACCESS
 www.udemy.com/facebook-marketing-meisterkurs/?couponCode=DJHBDJHBJDBJD
 www.udemy.com/facebook-marketing-next-level-list-building-strategies/?couponCode=4XXQY5WGVN
 www.udemy.com/facebook-marketing-next-level-list-building-strategies/?couponCode=YouAreAwesome
@@ -5549,7 +5484,6 @@ www.udemy.com/facebookadslite/?couponCode=UDSTUDIO
 www.udemy.com/facebookadsmarketing/
 www.udemy.com/facebooklive/?couponCode=MSF2507
 www.udemy.com/facebooktweeter-and-email-marketing-in-30-mint/
-www.udemy.com/facility-location-planning/
 www.udemy.com/faire-exploser-son-business-sur-linkedin-et-tout-automatiser/?couponCode=FREELIOHB2
 www.udemy.com/fairysql-query-writing-for-beginners/
 www.udemy.com/faith-working-through-love/
@@ -5575,8 +5509,8 @@ www.udemy.com/fast-mba/
 www.udemy.com/fast-video-curation-create-an-online-branded-tv-channel/?couponCode=5STARVIDEOCOURSE
 www.udemy.com/fast-video-ranking-seo/?couponCode=XRANKBHW
 www.udemy.com/fastcash/?couponCode=BBHF000X
-www.udemy.com/fastcash/?couponcode=freedeal000
 www.udemy.com/fastcash/?couponCode=FREEDEAL000
+www.udemy.com/fastcash/?couponcode=freedeal000
 www.udemy.com/fastcash/?couponCode=VIPMEMBERSONLY
 www.udemy.com/faster-than-calculator-2-ancient-math-tricks-revealed/
 www.udemy.com/faster-than-calculator-super-speed-your-math/
@@ -5595,7 +5529,6 @@ www.udemy.com/feel-good-singing-1/
 www.udemy.com/feelbetter/?couponCode=HOLIDAY
 www.udemy.com/feelings/?couponCode=SPIRIT
 www.udemy.com/felpudoiosapps/
-www.udemy.com/felpudospritekit/
 www.udemy.com/feminine-client-attraction/
 www.udemy.com/ferramenta-de-microssimulacao-de-trafego-sumo/
 www.udemy.com/ferramentas-e-dicas-para-magento/
@@ -5702,14 +5635,13 @@ www.udemy.com/fitnessropes/?couponCode=500FREE
 www.udemy.com/five-minute-mindfulness-meditations-for-busy-people/?couponCode=FB-FREE
 www.udemy.com/fiverr-arbitrage-start-a-home-business-with-no-skills/?couponCode=FREEBIE
 www.udemy.com/fiverr-blueprint-the-success-formula/
-www.udemy.com/fiverr-empire-kickstart-a-fiverr-career-fiverr-brokering/?couponCode=5STARS
 www.udemy.com/fiverr-empire-kickstart-a-fiverr-career-fiverr-brokering/?couponCode=5stars
+www.udemy.com/fiverr-empire-kickstart-a-fiverr-career-fiverr-brokering/?couponCode=5STARS
 www.udemy.com/fiverr-empire-kickstart-a-fiverr-career-fiverr-brokering/?couponCode=FREE18
 www.udemy.com/fiverr-empire-kickstart-a-fiverr-career-fiverr-brokering/?couponCode=free2018
 www.udemy.com/fiverr-get-more-sales-and-reviews-on-fiverr-like-top-sellers/?couponCode=FREEBIE
 www.udemy.com/fiverr-gig-ranking-secrets-shortcut-to-rank-up/
 www.udemy.com/fiverr-marketing-freelance-and-start-your-online-business/?couponCode=FREE2BE
-www.udemy.com/fiverr-marketing-freelance-and-start-your-online-business/?couponCode=free2be
 www.udemy.com/fiverr-money-making-machine-get-any-gig-to-the-top-results/
 www.udemy.com/fiverr-secrets-become-a-fiverr-top-rated-seller-today/?couponCode=FREE2BE
 www.udemy.com/fiverr-secrets-become-a-fiverr-top-rated-seller-today/?couponCode=FREE4U
@@ -5722,7 +5654,6 @@ www.udemy.com/fiverrnewbies/?couponCode=FREELOADER
 www.udemy.com/fixed-income/?couponCode=IIBFREE
 www.udemy.com/fl-studio-digital-music-production-course/?couponCode=XCFREENOW001
 www.udemy.com/fl-studio-mac/?couponCode=MUSICPRODDDD
-www.udemy.com/flappy-bird-sfml/?couponCode=FLAP-FREE
 www.udemy.com/flappy-bird/?couponCode=FREE_FLAP
 www.udemy.com/flat-animation-buildup-adobe-after-effects-illustrator-motion-graphics/?couponCode=promocoupons24.com
 www.udemy.com/flat-design-flat-ui-design-flat-colors-flat-design-desert-island/
@@ -5749,7 +5680,6 @@ www.udemy.com/food-photography/?couponCode=FREEFORFRIENDS2018
 www.udemy.com/foodsforthyroidhealth/?couponCode=THYROCARE
 www.udemy.com/football-analysis-and-predictions-for-dummies/
 www.udemy.com/forex-advanced-system/?couponCode=SUCCESS100
-www.udemy.com/forex-automated-training-with-software/?couponCode=FREE100
 www.udemy.com/forex-best-time-frame-to-trade-forex/?couponCode=BTFFREEFB
 www.udemy.com/forex-how-to-draw-trendline-correctly/
 www.udemy.com/forex-live-trading-with-mo/
@@ -5812,8 +5742,8 @@ www.udemy.com/free-painting-character-in-affinity-photo/
 www.udemy.com/free-phonegap-crash-course-learn-to-build-mobile-application/
 www.udemy.com/free-photo-editing-software-in-1-hour/
 www.udemy.com/free-photography-course-for-beginners/
-www.udemy.com/free-plus-shipping-sales-funnel/?couponCode=FREE2BE
 www.udemy.com/free-plus-shipping-sales-funnel/?couponCode=free2be
+www.udemy.com/free-plus-shipping-sales-funnel/?couponCode=FREE2BE
 www.udemy.com/free-python/
 www.udemy.com/free-salesforce-admin-certification-course-introduction/
 www.udemy.com/free-ssl-certificate/
@@ -5838,7 +5768,6 @@ www.udemy.com/freelancer-earn-more-by-proper-interaction-with-client/
 www.udemy.com/freelancing-for-beginners/?couponCode=FREEACCESS
 www.udemy.com/freelancing-masterclass/?couponCode=BEGINNOV
 www.udemy.com/freenas-11-treinamento-basico/
-www.udemy.com/freenas-corral-treinamento-basico/
 www.udemy.com/freeresourcesforyoutubers/
 www.udemy.com/freertos-on-arm-processors/
 www.udemy.com/french-for-middle-schoolers/
@@ -5858,7 +5787,6 @@ www.udemy.com/from-no-linkedin-profile-to-getting-qualified-leads/
 www.udemy.com/from-silence-to-sound/
 www.udemy.com/from-the-garden-to-the-table/
 www.udemy.com/from-vision-to-reality-achieve-all-your-goals/?couponCode=NEWYEAR
-www.udemy.com/from-wire-to-plc-a-to-z-compilation/?couponCode=FREE_AUTOMATION_CAMP
 www.udemy.com/front-end-web-development/?couponCode=BUNDLEFree
 www.udemy.com/front-end-web-development/?couponCode=FBFREE18
 www.udemy.com/front-end-web-development/?couponCode=WEBFREE
@@ -5897,7 +5825,6 @@ www.udemy.com/fundamentals-of-data-mining/
 www.udemy.com/fundamentals-of-java-programming-for-text-mining-and-nlp/?couponCode=SPECIALFB13
 www.udemy.com/fundamentals-of-java-with-netbeans/?couponCode=YOUTUBEFREE
 www.udemy.com/fundamentals-of-jira-software/
-www.udemy.com/fundamentals-of-machine-learning/
 www.udemy.com/fundamentals-of-marketing/
 www.udemy.com/fundamentals-of-microsoft-bot-framework/
 www.udemy.com/fundamentals-of-netbeans/
@@ -6023,7 +5950,6 @@ www.udemy.com/get-free-photoshop-master-photo-editing-with-gimp/?couponCode=UDEM
 www.udemy.com/get-i-t-start-a-career-in-i-t/
 www.udemy.com/get-improved-holistic-fitness-unique-training-massage/?couponCode=coupon0
 www.udemy.com/get-into-the-top-business-schools-mba-admissions-secrets/?couponCode=WB10816_FREE
-www.udemy.com/get-job-interviews-using-social-media/?couponCode=blog13
 www.udemy.com/get-jobs-without-applying/?couponCode=udemycoupon.discountsglobal.com
 www.udemy.com/get-more-clients-now/?couponCode=bybstudent
 www.udemy.com/get-more-dates/?couponCode=MYTOPROMP
@@ -6062,8 +5988,8 @@ www.udemy.com/getting-in-shape-the-basics/?couponCode=OCCFREE
 www.udemy.com/getting-interview-ready-data-structures/
 www.udemy.com/getting-start-in-inkscape/
 www.udemy.com/getting-started-dot-net-core-identity-server-4/
-www.udemy.com/getting-started-in-photoshop/?couponcode=free-online-photoshop-course
 www.udemy.com/getting-started-in-photoshop/?couponCode=free-online-photoshop-course
+www.udemy.com/getting-started-in-photoshop/?couponcode=free-online-photoshop-course
 www.udemy.com/getting-started-in-photoshop/?couponCode=LEARN_PHOTOSHOP
 www.udemy.com/getting-started-with-3d-printing/?couponCode=studio
 www.udemy.com/getting-started-with-amazon-web-services/
@@ -6079,7 +6005,6 @@ www.udemy.com/getting-started-with-microsoft-azure-active-directory/
 www.udemy.com/getting-started-with-raspberry-pi/
 www.udemy.com/getting-started-with-sql-server-2017-and-net-core/
 www.udemy.com/getting-started-with-vuejs-for-development/?couponCode=FREEVUE
-www.udemy.com/getting-through-a-difficult-divorce-or-break-up/
 www.udemy.com/getting-to-know-lean-and-lean-six-sigma/
 www.udemy.com/getting-to-know-your-anxiety/
 www.udemy.com/getup-to-speed-with-majestic-link-building/
@@ -6095,7 +6020,6 @@ www.udemy.com/git-and-github-crash-course-creating-a-repository-from-scratch/
 www.udemy.com/git-and-github-step-by-step-for-beginners/
 www.udemy.com/git-and-github-the-complete-startup-guide/?couponCode=1-WEEK-FREE
 www.udemy.com/git-and-github-the-complete-startup-guide/?couponCode=1-WEEK-FREE-OFFER
-www.udemy.com/git-basics/
 www.udemy.com/git-beginner-in-vs-code/?couponCode=GITFREE
 www.udemy.com/git-beginner-in-vs-code/?couponCode=SHAZYFREE
 www.udemy.com/git-complete-the-30-minute-crash-course-to-learning-git/?couponCode=2018GITCOURSE
@@ -6132,7 +6056,6 @@ www.udemy.com/go-from-zero-to-mastery-in-news-and-celebrity-blogging/
 www.udemy.com/go-mysql-postgresql/
 www.udemy.com/go-programming-language-golang-kubernetes-programming/?couponCode=FREENOW
 www.udemy.com/go-programming-language-golang/?couponCode=LEARNGOLANG
-www.udemy.com/goal-achievement-mastery/
 www.udemy.com/goal-setting-for-powerful-personality-development/
 www.udemy.com/goal-setting-goals-motivation-discipline-and-persistence/
 www.udemy.com/goal-setting-goals-motivation-discipline-and-persistence/?couponCode=BBHF13
@@ -6141,8 +6064,8 @@ www.udemy.com/goal-setting-goals-motivation-discipline-and-persistence/?couponCo
 www.udemy.com/goal-setting-masterclass/
 www.udemy.com/goal-setting-mastery-course/?couponCode=SHIVAY
 www.udemy.com/goal-setting-mastery-set-goals-and-crush-them/
-www.udemy.com/goal-setting-personal-transformation-for-life-business/?couponCode=FREE2BE
 www.udemy.com/goal-setting-personal-transformation-for-life-business/?couponCode=free2be
+www.udemy.com/goal-setting-personal-transformation-for-life-business/?couponCode=FREE2BE
 www.udemy.com/goal-setting-productivity-personal-growth-self-awareness/
 www.udemy.com/goal-setting-reach-your-goals-faster/
 www.udemy.com/goal-setting-reach-your-goals-faster/?couponCode=PLEASELEAVEAREVIEW
@@ -6167,8 +6090,8 @@ www.udemy.com/google-ads-interface-mastery/
 www.udemy.com/google-adsense-blueprint/?couponCode=SUCCESS0
 www.udemy.com/google-adsense-guide/?couponCode=FBPROMO2500
 www.udemy.com/google-adsense-guide/?couponCode=FIRST100USERS
-www.udemy.com/google-adsense-guide/?couponCode=FREEPROMO1500
 www.udemy.com/google-adsense-guide/?couponcode=freepromo1500
+www.udemy.com/google-adsense-guide/?couponCode=FREEPROMO1500
 www.udemy.com/google-adsense-guide/?couponCode=REDEEM2018FEB
 www.udemy.com/google-adsense-guide/?couponCode=REDEEM2018X2
 www.udemy.com/google-adsense-made-easy/?couponCode=FREEACCESS
@@ -6360,7 +6283,6 @@ www.udemy.com/guide-to-understanding-and-assessing-personality/
 www.udemy.com/guided-experiences-course/
 www.udemy.com/guided-meditations-for-cancer/?couponCode=FB-FREE
 www.udemy.com/guided-meditations-for-spiritual-awakening/?couponCode=FB-FREE
-www.udemy.com/guided-meditations-for-stress-anger-fear-and-distraction/?couponCode=FB-FREE
 www.udemy.com/guilloche-art/?couponCode=DOLEAVEAREVIEW
 www.udemy.com/guilt-shame/?couponCode=coupon0
 www.udemy.com/guitar-101-the-essential-guide-for-absolute-beginners/
@@ -6406,8 +6328,8 @@ www.udemy.com/hacking-complete/?couponCode=JERRYBANFIELD
 www.udemy.com/hacking-for-beginners/
 www.udemy.com/hacking-made-easy-with-hands-on-training/?couponCode=ETHICALHACKING
 www.udemy.com/hacking-made-easy-with-hands-on-training/?couponCode=OZBARGAIN
-www.udemy.com/hacking-tools/?couponCode=FREEBIES
 www.udemy.com/hacking-tools/?couponcode=freebies
+www.udemy.com/hacking-tools/?couponCode=FREEBIES
 www.udemy.com/hacking-web-applications-and-learn-penetration-testing/?couponCode=ETHICALFREEMAY
 www.udemy.com/hacking-web-applications-and-learn-penetration-testing/?couponCode=FREE4ETHICAL2
 www.udemy.com/hacking-websites-for-beginners/?couponCode=WEBB12
@@ -6481,7 +6403,6 @@ www.udemy.com/healthysleeping/?couponCode=WEEKENDONLY
 www.udemy.com/hearing-god-for-yourself-and-others/
 www.udemy.com/hebrew-alphabet/
 www.udemy.com/heidi-sql/
-www.udemy.com/heinrich-schliemann/
 www.udemy.com/hello-kotlin/?couponCode=FREEFORFB
 www.udemy.com/help-me-im-a-parent-the-abcs-of-successful-parenting/
 www.udemy.com/help-your-child-to-speak-clearly/?couponCode=HELPCHILD
@@ -6538,8 +6459,8 @@ www.udemy.com/how-credit-scores-work/?couponCode=CREDITMASTER
 www.udemy.com/how-do-hackers-hack/?couponCode=FREEEEE
 www.udemy.com/how-flexbox-and-css-grid-replaces-css-floats-with-example/
 www.udemy.com/how-get-to-2000-youtube-subscribers-fast/
-www.udemy.com/how-hackers-create-malware-and-infiltrate-victim-machines/?couponCode=FREEBIES
 www.udemy.com/how-hackers-create-malware-and-infiltrate-victim-machines/?couponCode=freebies
+www.udemy.com/how-hackers-create-malware-and-infiltrate-victim-machines/?couponCode=FREEBIES
 www.udemy.com/how-i-built-an-online-store-without-google-or-facebook-ads/?couponCode=free-coupon
 www.udemy.com/how-i-created-a-bestselling-amazon-book-with-my-phone/?couponCode=1007FREE
 www.udemy.com/how-i-got-contacted-and-published-with-mcgraw-hill/?couponCode=FB_JAN2018
@@ -6580,7 +6501,6 @@ www.udemy.com/how-to-be-a-data-driven-digital-marketer/?couponCode=DIGIDATA
 www.udemy.com/how-to-be-a-government-spokesperson/?couponCode=PROMOFB
 www.udemy.com/how-to-be-a-great-learner-in-life/?couponCode=LEARNER
 www.udemy.com/how-to-be-a-great-tedx-speaker/?couponCode=SPEAKER
-www.udemy.com/how-to-be-a-highly-effective-learner/?couponCode=PROMOCODES24FREE
 www.udemy.com/how-to-be-a-more-assertive-public-speaker/?couponCode=PROMOIAM
 www.udemy.com/how-to-be-a-more-profitable-entrepreneur/?couponCode=MAKINMONOPOLY3
 www.udemy.com/how-to-be-a-rockstar-educator/?couponCode=CHAMPION
@@ -6629,8 +6549,8 @@ www.udemy.com/how-to-budget-get-out-of-debt/?couponCode=GIFTPAC
 www.udemy.com/how-to-build-100-x-self-confidence/
 www.udemy.com/how-to-build-100-x-self-confidence/?couponCode=AYEAYE20YES932
 www.udemy.com/how-to-build-a-better-company/
-www.udemy.com/how-to-build-a-buzzfeed-style-blog-on-wordpress/?couponCode=Udemystudio
 www.udemy.com/how-to-build-a-buzzfeed-style-blog-on-wordpress/?couponCode=udemystudio
+www.udemy.com/how-to-build-a-buzzfeed-style-blog-on-wordpress/?couponCode=Udemystudio
 www.udemy.com/how-to-build-a-converting-landing-page-from-scratch/?couponCode=K5PPX88U78
 www.udemy.com/how-to-build-a-converting-landing-page-from-scratch/?couponCode=YouAreAwesome
 www.udemy.com/how-to-build-a-crowd-sale-app-in-ethereum-blockchain/?couponCode=MOHAMEDFREE002
@@ -6647,7 +6567,6 @@ www.udemy.com/how-to-build-a-successful-freelance-consulting-business/?couponCod
 www.udemy.com/how-to-build-a-successful-money-making-blog/
 www.udemy.com/how-to-build-a-website-from-scratch-blogging-blueprint/?couponCode=YouAreAwesome
 www.udemy.com/how-to-build-a-website-super-easy-and-fast/
-www.udemy.com/how-to-build-a-website-super-easy-and-fast/?couponCode=FREELIMIT
 www.udemy.com/how-to-build-a-website-super-easy-and-fast/?couponCode=VIRAL24
 www.udemy.com/how-to-build-a-website-using-wordpress-in-1-day/?couponCode=DISC100
 www.udemy.com/how-to-build-a-website-using-wordpress-in-1-day/?couponCode=SPECIAL100
@@ -6663,7 +6582,6 @@ www.udemy.com/how-to-build-an-online-business-using-easy-traffic-sources/?coupon
 www.udemy.com/how-to-build-apps-without-code-on-bubble-beginners-guide/
 www.udemy.com/how-to-build-autopilot-niche-websites/?couponCode=SHORTY2
 www.udemy.com/how-to-build-chatbot-in-facebook-messenger-using-manychat/
-www.udemy.com/how-to-build-different-type-of-web-forms-with-caspio/
 www.udemy.com/how-to-build-links-on-high-domain-authority-sites/?couponCode=FREECOURSE
 www.udemy.com/how-to-build-muscle-and-lose-fat/?couponCode=EAMUSCLE
 www.udemy.com/how-to-build-muscle-and-lose-fat/?couponCode=SUMMERSHRED
@@ -6734,8 +6652,8 @@ www.udemy.com/how-to-create-a-website-using-wordpress-step-by-step/
 www.udemy.com/how-to-create-a-website-with-wordpress-from-scratch/?couponCode=PROMO_2018
 www.udemy.com/how-to-create-a-website-with-wordpress-step-by-step/
 www.udemy.com/how-to-create-a-website-wordpress-2016/?couponCode=0
-www.udemy.com/how-to-create-a-website/?couponCode=bbhfx01
 www.udemy.com/how-to-create-a-website/?couponCode=BBHFX01
+www.udemy.com/how-to-create-a-website/?couponCode=bbhfx01
 www.udemy.com/how-to-create-a-wordpress-blog/
 www.udemy.com/how-to-create-a-wordpress-website-2018/
 www.udemy.com/how-to-create-a-wordpress-website-2018/?couponCode=FREECHRIS
@@ -6796,7 +6714,6 @@ www.udemy.com/how-to-delegate-without-stress/?couponCode=54512524515
 www.udemy.com/how-to-deliver-an-elevator-pitch/?couponCode=PROMOIAM
 www.udemy.com/how-to-design-a-dark-style-website-in-photoshop/
 www.udemy.com/how-to-design-a-sales-funnel-that-converts/?couponCode=VIPCODE00
-www.udemy.com/how-to-design-and-sell-t-shirts-online-2018/?couponCode=TEECOURSEFREE
 www.udemy.com/how-to-design-professional-course-slides/?couponCode=MIDNIGHT23RD
 www.udemy.com/how-to-develop-emotional-intelligence/
 www.udemy.com/how-to-develop-helpful-beliefs-in-sport/
@@ -6810,7 +6727,6 @@ www.udemy.com/how-to-dj-using-your-laptop-computer/
 www.udemy.com/how-to-do-art-design-like-a-pro-without-adobe/?couponCode=YAOFBYT1104PQWAS
 www.udemy.com/how-to-do-clairvoyant-aura-reading/
 www.udemy.com/how-to-do-flat-design-for-social-media-marketing-in-canva/?couponCode=BWR519
-www.udemy.com/how-to-do-live-audio-recording/
 www.udemy.com/how-to-do-manual-seo-audit-steps-tools-checklist-template-technicalseo/
 www.udemy.com/how-to-do-social-media-marketing-for-businesses-facebook/
 www.udemy.com/how-to-do-what-you-love-for-a-living/?couponCode=GRADUATION
@@ -6862,8 +6778,8 @@ www.udemy.com/how-to-get-found-on-the-internet/?couponCode=FOUND-FREE
 www.udemy.com/how-to-get-free-domain-and-hosting-for-your-website/?couponCode=FREEGIFT
 www.udemy.com/how-to-get-free-products-for-life/?couponCode=VIPLOOT
 www.udemy.com/how-to-get-more-done-in-3-hours-than-most-do-in-3-days/?couponCode=YOUAREAWESOME
-www.udemy.com/how-to-get-more-done-in-7-hours-than-most-do-in-7-days/?couponCode=free2be
 www.udemy.com/how-to-get-more-done-in-7-hours-than-most-do-in-7-days/?couponCode=FREE2BE
+www.udemy.com/how-to-get-more-done-in-7-hours-than-most-do-in-7-days/?couponCode=free2be
 www.udemy.com/how-to-get-more-done-in-7-hours-than-most-do-in-7-days/?couponCode=FREEFREE
 www.udemy.com/how-to-get-on-googles-1st-page-without-breaking-the-bank/
 www.udemy.com/how-to-get-out-of-debt-3-alternative-ways-become-debt-free/
@@ -6880,8 +6796,8 @@ www.udemy.com/how-to-get-unlimited-free-traffic/
 www.udemy.com/how-to-get-views-on-youtube-in-2017/?couponCode=FREECOURSE
 www.udemy.com/how-to-get-your-dream-job-anywhere/
 www.udemy.com/how-to-get-your-dream-salesforce-admin-developer-job/?couponCode=FREEREAL
-www.udemy.com/how-to-get-your-first-1000-customers/?couponCode=FREEFORSTUDIO
 www.udemy.com/how-to-get-your-first-1000-customers/?couponCode=freeforstudio
+www.udemy.com/how-to-get-your-first-1000-customers/?couponCode=FREEFORSTUDIO
 www.udemy.com/how-to-get-youtube-views-and-subscribers-fast-with-reddit/
 www.udemy.com/how-to-greatly-improve-your-youtube-live-streams/
 www.udemy.com/how-to-grow-a-facebook-fan-page/
@@ -6924,7 +6840,6 @@ www.udemy.com/how-to-launch-a-product-successfully/?couponCode=EXCLUSIVE00
 www.udemy.com/how-to-launch-a-profitable-gym-business/?couponCode=GYMBIZ
 www.udemy.com/how-to-lead-effective-meetings/?couponCode=STUDIOU
 www.udemy.com/how-to-lead-with-your-voice/?couponCode=50FREE
-www.udemy.com/how-to-lead-with-your-voice/?couponCode=LIMITED99
 www.udemy.com/how-to-learn-a-language-in-3-months/
 www.udemy.com/how-to-learn-a-new-language-as-an-adult/
 www.udemy.com/how-to-learn-effectively/?couponCode=FREELIMITED
@@ -6937,8 +6852,8 @@ www.udemy.com/how-to-load-master-data-from-flat-file-to-sap-bibw/
 www.udemy.com/how-to-look-at-a-stock-and-know-in-30-seconds-what-to-do/
 www.udemy.com/how-to-lose-10-pounds-in-10-days-weight-loss-program-fat-loss-diet/?couponCode=COUPONSFOREVER428
 www.udemy.com/how-to-lose-weight-easily-and-become-an-athlete/
-www.udemy.com/how-to-lose-weight-fast-burn-fat-fast-diet-plan-build-muscle-fast/?couponCode=COUPONSFOREVER
 www.udemy.com/how-to-lose-weight-fast-burn-fat-fast-diet-plan-build-muscle-fast/?couponCode=couponsforever
+www.udemy.com/how-to-lose-weight-fast-burn-fat-fast-diet-plan-build-muscle-fast/?couponCode=COUPONSFOREVER
 www.udemy.com/how-to-lose-weight/?couponCode=ENJOY0
 www.udemy.com/how-to-love-your-job-and-make-an-impact/?couponCode=BESTBLACKHAT
 www.udemy.com/how-to-make-135-a-day-cloning-a-slotmachine-app/?couponCode=MOARFREE
@@ -7032,8 +6947,8 @@ www.udemy.com/how-to-nail-the-teacher-interview/?couponCode=NAILFREE
 www.udemy.com/how-to-navigate-a-networking-event/?couponCode=FREE-MAX_NETWORKING
 www.udemy.com/how-to-network-on-instagram-direct-message/
 www.udemy.com/how-to-not-get-sick-this-year-or-ever-again-with-a-secret-home-remedy/
-www.udemy.com/how-to-not-get-sick-this-year-or-ever-again-with-a-secret-home-remedy/?couponCode=free2be
 www.udemy.com/how-to-not-get-sick-this-year-or-ever-again-with-a-secret-home-remedy/?couponCode=FREE2BE
+www.udemy.com/how-to-not-get-sick-this-year-or-ever-again-with-a-secret-home-remedy/?couponCode=free2be
 www.udemy.com/how-to-not-get-sick-this-year-or-ever-again-with-a-secret-home-remedy/?couponCode=SOFREE
 www.udemy.com/how-to-optimize-youtube-thumbnails-get-more-views-clicks/
 www.udemy.com/how-to-outsource-your-app-idea-fast/
@@ -7086,7 +7001,6 @@ www.udemy.com/how-to-record-and-run-a-macro-in-4-easy-steps/
 www.udemy.com/how-to-record-edit-video-content/
 www.udemy.com/how-to-recover-deleted-photos-and-videos-revealed/?couponCode=FREE4YOU
 www.udemy.com/how-to-reduce-high-blood-pressure-with-natural-medicine/
-www.udemy.com/how-to-reduce-stress-and-enjoy-life/
 www.udemy.com/how-to-release-a-professional-beat-tape/?couponCode=ONLINE-C-OOO
 www.udemy.com/how-to-rise-above-your-fears-and-solve-problems/?couponCode=NOFEAR18
 www.udemy.com/how-to-run-a-business-with-freelancers-the-complete-guide/
@@ -7200,7 +7114,6 @@ www.udemy.com/how-to-trade-forex-with-commitments-of-traders/
 www.udemy.com/how-to-trade-forex-with-commitments-of-traders/how-to-trade-forex-with-commitments-of-traders/
 www.udemy.com/how-to-trade-like-hedge-funds-make-22-profit-before-trading-options/?couponCode=S1T1H1
 www.udemy.com/how-to-trade-stocks-and-crypto-currencies-elliot-wave/
-www.udemy.com/how-to-trade-stocks-and-crypto-currencies-macd/
 www.udemy.com/how-to-train-your-voice-to-sing-high-notes/
 www.udemy.com/how-to-transform-your-thoughts-from-wanting-to-having/
 www.udemy.com/how-to-treat-your-pet-like-a-vet-against-ticks-and-fleas/
@@ -7259,7 +7172,6 @@ www.udemy.com/how-to-write-chinese-character-in-90-minutes-with-flash-card/
 www.udemy.com/how-to-write-create-and-sell-a-video-e-course-in-7-days/
 www.udemy.com/how-to-write-like-jk-rowling/?couponCode=WRITERS
 www.udemy.com/how-to-write-new-music-with-full-creative-freedom-no-fear/?couponCode=MAKEMUSICNOW2017
-www.udemy.com/how-to-write-poetry-the-ultimate-guide/?couponCode=SPRINGISSPRUNG
 www.udemy.com/how-to-write-poetry/?couponCode=LOVEPOETRYFORFREE
 www.udemy.com/how-to-write-sales-page-for-your-info-product-copywriting/
 www.udemy.com/how-to-write-technical-it-requirements-to-get-what-you-need/?couponCode=DONEDEAL
@@ -7391,9 +7303,9 @@ www.udemy.com/icos-cryptocurrency-investing-course-2018-beginner/
 www.udemy.com/icos-investing-in-alt-coins-and-initial-coin-offerings/?couponCode=UDEMYINSTRUCTORS
 www.udemy.com/icsp-pic-microcontrollers/?couponCode=PROMOCOUPONS24
 www.udemy.com/idea-accion/
-www.udemy.com/idea-generation-coming-up-with-killer-business-deas/?couponCode=FREEFORSTUDIO
 www.udemy.com/idea-generation-coming-up-with-killer-business-deas/?couponCode=freeforstudio
 www.udemy.com/idea-generation-coming-up-with-killer-business-deas/?couponcode=freeforstudio
+www.udemy.com/idea-generation-coming-up-with-killer-business-deas/?couponCode=FREEFORSTUDIO
 www.udemy.com/ideas-bank/?couponCode=922280BH00001
 www.udemy.com/ideas-de-marketing-con-blanqueamientos-dentales/
 www.udemy.com/identify-and-analyse-leather-and-materials/
@@ -7452,7 +7364,6 @@ www.udemy.com/improve-your-career-by-mastering-business-process-improvement/?cou
 www.udemy.com/improve-your-ecommerce-website-with-delightful-micro-moments/?couponCode=FREECOUPON
 www.udemy.com/improve-your-english-communication-skills/
 www.udemy.com/improve-your-english-grammar-advanced-videos-and-practice/?couponCode=LEARNENGLISHFREE
-www.udemy.com/improve-your-english-grammar-video-lessons-and-practice/?couponCode=FREETOLEARN
 www.udemy.com/improve-your-english-grammar-video-lessons-and-practice/?couponCode=LEARNGRAMMARFREE
 www.udemy.com/improve-your-handwriting-penmanship-exercises/?couponCode=PLEASELEAVEAREVIEW
 www.udemy.com/improve-your-linkedin-profile-in-2018/
@@ -7476,7 +7387,6 @@ www.udemy.com/increase-your-profits-with-online-marketing/
 www.udemy.com/increase-your-revenue-the-secrets-for-high-paying-clients/?couponCode=IBBSFBFREE
 www.udemy.com/incredible-methods-for-mastering-microsoft-word/
 www.udemy.com/independent-author-publishing-success/
-www.udemy.com/indesign-cc-2018-magazine-and-document-designing/?couponCode=COUPONSCROPION
 www.udemy.com/indesign-cc-2018-magazine-and-document-designing/?couponCode=PROMOCOUPONS240
 www.udemy.com/indesign-cc-2018-magazine-and-document-designing/?couponCode=REALDISCOUNTS3
 www.udemy.com/indesign-cc-2018-magazine-and-document-designing/?couponCode=REALDISCOUNTS4
@@ -7496,8 +7406,8 @@ www.udemy.com/inequalities-algebra-as-a-level-mathematics/
 www.udemy.com/inference-solutions-certified-associate/
 www.udemy.com/infinite-banking-concept/?couponCode=BEYOUROWNBANK
 www.udemy.com/infinite-email-subscribers-viral-marketing-giveaway-social-contests/
-www.udemy.com/infinite-email-subscribers-viral-marketing-giveaway-social-contests/?couponCode=free2be
 www.udemy.com/infinite-email-subscribers-viral-marketing-giveaway-social-contests/?couponCode=FREE2BE
+www.udemy.com/infinite-email-subscribers-viral-marketing-giveaway-social-contests/?couponCode=free2be
 www.udemy.com/infinite-motivation/
 www.udemy.com/infinite_google_drive_for_professional_business/?couponCode=DRIVE01
 www.udemy.com/influence-at-work-leadership-for-managers-team-members-new-leaders/?couponCode=FREENOW
@@ -7516,7 +7426,6 @@ www.udemy.com/influencer-marketing-on-instagram-for-shopify/
 www.udemy.com/influencer-marketing/?couponCode=INF3000
 www.udemy.com/info-marketing-classroom-kindle-and-beyond/
 www.udemy.com/infoproductos/?couponCode=UDEMYCG-FBG
-www.udemy.com/informal-english/
 www.udemy.com/informatica-desde-cero/
 www.udemy.com/information-security-career-accelerator-cissp-cism-cisa/?couponCode=EHCASTUDENTS
 www.udemy.com/information-security-cyber-security-made-easy/
@@ -7549,7 +7458,6 @@ www.udemy.com/instagram-emial-list-profit-map/?couponCode=MARKETER33
 www.udemy.com/instagram-emial-list-profit-map/?couponCode=MARKETER755
 www.udemy.com/instagram-emial-list-profit-map/?couponCode=MARKETERGIFT
 www.udemy.com/instagram-emial-list-profit-map/?couponCode=MARKETERS3
-www.udemy.com/instagram-emial-list-profit-map/?couponCode=MARKETING559
 www.udemy.com/instagram-food-blogger-mastery/
 www.udemy.com/instagram-founders-5-minute-cure-for-procrastination/
 www.udemy.com/instagram-growth-bootcamp-2019/
@@ -7562,7 +7470,6 @@ www.udemy.com/instagram-marketing-2017/?couponCode=FREE0001
 www.udemy.com/instagram-marketing-2017/?couponCode=FREE13
 www.udemy.com/instagram-marketing-2018-how-to-monetize-your-instagram-page-as-a-pro/
 www.udemy.com/instagram-marketing-2018-j/?couponCode=HASHTAGABUSE
-www.udemy.com/instagram-marketing-3-tip-get-real-instagram-followers-course-learn/
 www.udemy.com/instagram-marketing-a-z/?couponCode=FREE4BLACKHAT3
 www.udemy.com/instagram-marketing-abonnes-facebook-reseaux-sociaux-influenceur-media/?couponCode=PROMO3291739
 www.udemy.com/instagram-marketing-automation-course-auto-like-follow-repost-schedule/
@@ -7572,7 +7479,6 @@ www.udemy.com/instagram-marketing-for-business-gain-instagram-followers/?couponC
 www.udemy.com/instagram-marketing-from-scratch-to-1000-real-followers/
 www.udemy.com/instagram-marketing-gain-traffic-fast/
 www.udemy.com/instagram-marketing-growth-tips-influencer-shortcuts/?couponCode=INSTAGRAMINFLUENCE
-www.udemy.com/instagram-marketing-hacks/?couponCode=LIMITEDTIME001
 www.udemy.com/instagram-marketing-how-i-got-1000-real-followers-in-7-days/
 www.udemy.com/instagram-marketing-how-to-grow-your-followers-organically/?couponCode=LIMITEDTIME
 www.udemy.com/instagram-marketing-influencer/
@@ -7604,7 +7510,6 @@ www.udemy.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/
 www.udemy.com/install-wordpress-on-your-computer-step-by-step-from-scratch/?couponCode=FREE15
 www.udemy.com/install-wordpress/
 www.udemy.com/install_hadoop_in_60_mins_on_your_system/
-www.udemy.com/installation-et-configuration-de-windows-server-2012/?couponCode=SERVER_MCSA70410
 www.udemy.com/installation-maintenance-of-solar-photovoltaicpv-system/
 www.udemy.com/installationsanleitung-art/
 www.udemy.com/installing-and-configuring-windows-10-certification/?couponCode=GTIGDHGHETT
@@ -7653,7 +7558,6 @@ www.udemy.com/international-project-management-and-teams-master-class/
 www.udemy.com/international-tourism-i/
 www.udemy.com/international-tourism/
 www.udemy.com/international-travel-101/
-www.udemy.com/internationally-accredited-diploma-certificate-in-fitness/?couponCode=FREE_TRIAL_JAN_18
 www.udemy.com/internationally-accredited-diploma-certificate-in-nutrition/?couponCode=FREE_TRIAL_JAN_18
 www.udemy.com/internationally-accredited-diploma-in-health-wellness/?couponCode=AUG_FREE_LIMITED
 www.udemy.com/internationally-accredited-diploma-in-weight-loss/?couponCode=MARCH_FREE_18
@@ -7687,8 +7591,8 @@ www.udemy.com/intro-to-coding-html-css-javascript/?couponCode=2019-MARCH
 www.udemy.com/intro-to-coding-html-css-javascript/?couponCode=LEARN2CODE
 www.udemy.com/intro-to-computers/
 www.udemy.com/intro-to-django-python-web-apps/
-www.udemy.com/intro-to-entrepreneurship-get-started-as-an-entrepreneur/?couponCode=FREEFORSTUDIO
 www.udemy.com/intro-to-entrepreneurship-get-started-as-an-entrepreneur/?couponCode=freeforstudio
+www.udemy.com/intro-to-entrepreneurship-get-started-as-an-entrepreneur/?couponCode=FREEFORSTUDIO
 www.udemy.com/intro-to-financial-modeling/?couponCode=FIVERRBOUHADDA3
 www.udemy.com/intro-to-flask/
 www.udemy.com/intro-to-html-beginners-guide-to-html-how-to-create-webpages/?couponCode=FREECOURSE9272
@@ -7751,7 +7655,6 @@ www.udemy.com/introduction-to-algorithm-analysis-for-absolute-beginners/?couponC
 www.udemy.com/introduction-to-android-development-for-beginners/
 www.udemy.com/introduction-to-android-volley-programming/
 www.udemy.com/introduction-to-ansys-spaceclaim-direct-modeler/
-www.udemy.com/introduction-to-arduino-with-elegoo-uno-super-starter-kit/
 www.udemy.com/introduction-to-artificial-intelligence-in-software-testing/
 www.udemy.com/introduction-to-artificial-intelligence-w/
 www.udemy.com/introduction-to-aspnet-core/
@@ -7760,8 +7663,6 @@ www.udemy.com/introduction-to-aws-cloud-computing/
 www.udemy.com/introduction-to-bbc-microbit/?couponCode=MAKERDEMYPROMO
 www.udemy.com/introduction-to-biomedical-engineering-entry-level-rahbe101-rahsoft/
 www.udemy.com/introduction-to-bitcoin-and-cryptocurrency-trading/
-www.udemy.com/introduction-to-bitcoin-cryptocurrencies/
-www.udemy.com/introduction-to-black-box-software-testing-techniques/?couponCode=BBTEST-FREE-500
 www.udemy.com/introduction-to-blockchain-technology-basics/
 www.udemy.com/introduction-to-blockchain/
 www.udemy.com/introduction-to-bootstrap-3/
@@ -7770,7 +7671,6 @@ www.udemy.com/introduction-to-cad-for-engineers/
 www.udemy.com/introduction-to-cad-learn-autodesk-fusion-360-in-90-minutes/
 www.udemy.com/introduction-to-cardano/?couponCode=BBH2018APRIL
 www.udemy.com/introduction-to-chipkit-development/?couponCode=CHIPKITFREE2018
-www.udemy.com/introduction-to-cics/
 www.udemy.com/introduction-to-cloud-amazon-web-services-ec2-instance/
 www.udemy.com/introduction-to-cloud-computing-c/
 www.udemy.com/introduction-to-computer-networks-for-qa-testers/
@@ -7854,7 +7754,6 @@ www.udemy.com/introduction-to-ruby-on-rails/
 www.udemy.com/introduction-to-science-of-happiness-theory-research-tools/?couponCode=UdemyStudio
 www.udemy.com/introduction-to-selling-iron-condors-for-income/
 www.udemy.com/introduction-to-serverless-aws/
-www.udemy.com/introduction-to-serverless/?couponCode=FAAS-FRIDAY
 www.udemy.com/introduction-to-snowflake-cloud-data-warehouse-analytics/
 www.udemy.com/introduction-to-sociology/
 www.udemy.com/introduction-to-solidworks-2018/
@@ -7904,7 +7803,6 @@ www.udemy.com/investing-valuation-ratio-analysis-for-profit/?couponCode=BHF20180
 www.udemy.com/investment-banking-private-equity-101/
 www.udemy.com/investment-banking/?couponCode=ENROLL
 www.udemy.com/iocmi-2017-standards-course-and-exam-quizes/
-www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/
 www.udemy.com/ionic-3-para-iniciantes/
 www.udemy.com/ionic-basics/?couponCode=IONIC-FB-FREE-1
 www.udemy.com/ionic-compound-formula-and-naming/?couponCode=IONIC_NINJA
@@ -7914,8 +7812,8 @@ www.udemy.com/ios-10-bootcamp-swift-objective-c-tutorial/?couponCode=FRECOD
 www.udemy.com/ios-10-swift-3-hands-on-features-siri-kit-messages/?couponCode=appsfresh_dot_com
 www.udemy.com/ios-11-development-an-overview-with-coreml/?couponCode=FREEIOS11COUPON356
 www.udemy.com/ios-11-development-an-overview-with-coreml/?couponCode=IOS11FREEFORDTODAY
-www.udemy.com/ios-11-swift-4-become-professional-ios-developer/?couponCode=iosdevschool.com
 www.udemy.com/ios-11-swift-4-become-professional-ios-developer/?couponCode=IOSDEVSCHOOL.COM
+www.udemy.com/ios-11-swift-4-become-professional-ios-developer/?couponCode=iosdevschool.com
 www.udemy.com/ios-11-swift-4-from-beginner-to-paid-professional-s/
 www.udemy.com/ios-11-swift-4-from-beginner-to-paid-professional/?couponCode=FREECOUOPN
 www.udemy.com/ios-11-swift-4-from-beginner-to-paid-professional/?couponCode=FREEIOSDAY
@@ -7976,7 +7874,6 @@ www.udemy.com/istqb-certified-analyst-tester-for-2018-get-certifying/?couponCode
 www.udemy.com/istqb-certified-tester-foundation-level-ctfl-preparation-exam-review/
 www.udemy.com/istqb-ctfl-exam-practice-questions/?couponCode=ISTQB-CTFL-FREEB-94E
 www.udemy.com/istqb-foundation-level-a-to-z-500-questions/
-www.udemy.com/istqb-foundation-level-introduction-free/
 www.udemy.com/istqb-foundation-level-training/
 www.udemy.com/it-ba-a-comprehensive-guide/
 www.udemy.com/it-basics-for-end-users-and-helpdesk-staff/?couponCode=ITBEUFREE
@@ -8025,7 +7922,6 @@ www.udemy.com/java-a-z-become-masterclass-for-java-easy-jobs/?couponCode=ZERODOL
 www.udemy.com/java-advanced-programming/?couponCode=FIRST_GEST
 www.udemy.com/java-android-complete-guide/?couponCode=FREECODE123
 www.udemy.com/java-basic-quick-training-2018/
-www.udemy.com/java-basic/
 www.udemy.com/java-basics-learn-worlds-most-powerful-programming-language/
 www.udemy.com/java-by-example/
 www.udemy.com/java-by-sagar/
@@ -8042,7 +7938,6 @@ www.udemy.com/java-design-patterns-the-complete-masterclass/?couponCode=LAUNCH-F
 www.udemy.com/java-design-patterns-tutorial/
 www.udemy.com/java-developer/
 www.udemy.com/java-development-environment/
-www.udemy.com/java-digital-signal-processing-dsp/
 www.udemy.com/java-en-accion/
 www.udemy.com/java-essential-training/?couponCode=11112222
 www.udemy.com/java-for-absolute-beginners-c/
@@ -8094,7 +7989,6 @@ www.udemy.com/java-socket-programming-by-sagar/
 www.udemy.com/java-square-one-a-concise-course-with-examples/
 www.udemy.com/java-swing-programming/
 www.udemy.com/java-the-basics/
-www.udemy.com/java-the-complete-java-developer-course/learn/v4/overview
 www.udemy.com/java-tutorial/
 www.udemy.com/java-university-from-beginner-to-professional-javaee-ejb-jpa-spring/?couponCode=JAVA_UNIVERSITY_U_F
 www.udemy.com/java-web-application-development-adv-java/
@@ -8315,8 +8209,8 @@ www.udemy.com/kickstart-your-android-app-development/?couponCode=ANDROID_COURSE_
 www.udemy.com/kickstarter-mastercourse/
 www.udemy.com/killer-titles/?couponCode=REVIEWTITLE
 www.udemy.com/kindle-marketing-how-to-write-a-book-blurb-that-sells/?couponCode=FREELAUNCH
-www.udemy.com/kindle-outsourcing-success-write-books-without-writing/?couponCode=FREE2BE
 www.udemy.com/kindle-outsourcing-success-write-books-without-writing/?couponCode=free2be
+www.udemy.com/kindle-outsourcing-success-write-books-without-writing/?couponCode=FREE2BE
 www.udemy.com/kindle-paperback-niches-find-profitable-low-comp-ones/?couponCode=COUPONS1
 www.udemy.com/kindle-publishing-course/?couponCode=BBHF3A
 www.udemy.com/kindle-publishing-crash-course/
@@ -8395,7 +8289,6 @@ www.udemy.com/launch-your-meditation-teaching-career-with-public-speaking/
 www.udemy.com/launch-your-startup/?couponCode=honest%20review
 www.udemy.com/launchpad-sketch-websites-codefree/
 www.udemy.com/law-of-attraction-for-success-personal-transformation/?couponCode=WEBSITE
-www.udemy.com/lawofattraction/
 www.udemy.com/lcd-interfacing-pic-microcontroller/?couponCode=FREE999999
 www.udemy.com/lcd-pic-microcontroller-interfacing-with-lcd/?couponCode=promocoupons24
 www.udemy.com/lead-gen-for-brick-mortar-businesses/
@@ -8460,9 +8353,9 @@ www.udemy.com/learn-101-commands-in-red-hat-linux-administration/
 www.udemy.com/learn-199-ways-of-parenting/?couponCode=BLESSINGS
 www.udemy.com/learn-199-ways-of-parenting/?couponCode=PROMOCOUPONS24
 www.udemy.com/learn-2-songs-in-5-weeks-beethoven-bach/
-www.udemy.com/learn-2d-game-special-effect-animation-in-photoshop/?couponCode=freecode
 www.udemy.com/learn-2d-game-special-effect-animation-in-photoshop/?couponCode=FREECODE
 www.udemy.com/learn-2d-game-special-effect-animation-in-photoshop/?couponcode=freecode
+www.udemy.com/learn-2d-game-special-effect-animation-in-photoshop/?couponCode=freecode
 www.udemy.com/learn-3d-modelling-in-solidworks/
 www.udemy.com/learn-3ds-max-and-vray-making-of-house-in-the-forest/?couponCode=FORLOVERS4
 www.udemy.com/learn-3ds-max-modeling-the-mediatech/?couponCode=LEARN3DSMAX
@@ -8470,7 +8363,6 @@ www.udemy.com/learn-3ds-max-v-ray-texturing-rendering-the-villa/?couponCode=PART
 www.udemy.com/learn-3ds-max-vray-modeling-the-villa/?couponCode=PARTONE
 www.udemy.com/learn-4-truths-that-will-change-your-life/
 www.udemy.com/learn-5-s-the-quality-mantras/?couponCode=PROMOCOUPONS24FREE
-www.udemy.com/learn-55-vocabulary-words/
 www.udemy.com/learn-600-most-common-chinese-words-free-version/
 www.udemy.com/learn-a-frame-and-get-ready-for-webvr/
 www.udemy.com/learn-ableton-live-10-lite-free-quick-start-beginners-course/
@@ -8490,7 +8382,6 @@ www.udemy.com/learn-admob-analytics-and-in-app-purchases-in-swift/?couponCode=SW
 www.udemy.com/learn-adobe-after-effects/?couponCode=AEFREE2355643
 www.udemy.com/learn-adobe-character-animator-cc/?couponCode=CHARACTERFREE
 www.udemy.com/learn-adobe-flash-from-scratch/
-www.udemy.com/learn-adobe-indesign-from-scratch/
 www.udemy.com/learn-adobe-photoshop-33-episode-course/
 www.udemy.com/learn-adobe-photoshop-by-creating-an-amazing-book-cover/
 www.udemy.com/learn-adobe-photoshop-from-scratch/
@@ -8544,20 +8435,19 @@ www.udemy.com/learn-bootstrap-4-create-modern-responsive-websites-in-2019/?coupo
 www.udemy.com/learn-bootstrap-basics-fast/?couponCode=SPECIALFB14
 www.udemy.com/learn-bootstrap-fundamentals-bootstrap-for-web-development/
 www.udemy.com/learn-bootstrap-html5-css3-javascript/?couponCode=LEARNBOOTSTRAPFREE
-www.udemy.com/learn-burp-suite-for-advanced-web-penetration-testing/?couponCode=RV4F114
 www.udemy.com/learn-business-english/
 www.udemy.com/learn-by-doing-android-for-beginners/
 www.udemy.com/learn-c-from-basics-to-advance/
 www.udemy.com/learn-c-from-scratch-p/
 www.udemy.com/learn-c-language/?couponCode=BBHFPROMO
-www.udemy.com/learn-c-plus-plus-from-beginner-to-advanced/?couponCode=jerrybanfield
 www.udemy.com/learn-c-plus-plus-from-beginner-to-advanced/?couponCode=JERRYBANFIELD
+www.udemy.com/learn-c-plus-plus-from-beginner-to-advanced/?couponCode=jerrybanfield
 www.udemy.com/learn-c-plus-programming-/
 www.udemy.com/learn-c-programming-for-complete-beginners/?couponCode=GOODGUY
 www.udemy.com/learn-c-programming-from-zero-with-practice/
 www.udemy.com/learn-c-programming-language-m/
-www.udemy.com/learn-c-programming-language/?couponCode=allfreee
 www.udemy.com/learn-c-programming-language/?couponCode=ALLFREEE
+www.udemy.com/learn-c-programming-language/?couponCode=allfreee
 www.udemy.com/learn-c-programming-language/?couponCode=FREE1111
 www.udemy.com/learn-c-programming-mini-course-power-of-animation/?couponCode=FREE-PBC-TEAM
 www.udemy.com/learn-cacti-for-system-monitoring/
@@ -8766,7 +8656,6 @@ www.udemy.com/learn-html-basics/?couponCode=couponlair
 www.udemy.com/learn-html-basics/?couponCode=fbcourselaunch
 www.udemy.com/learn-html-canvas-css3-and-js-module-pattern-building-game/
 www.udemy.com/learn-html-course/?couponCode=FREEHTML
-www.udemy.com/learn-html-css-clone-amazon-netflix-spotify/
 www.udemy.com/learn-html-css-creating-a-single-page-website/?couponCode=BONUSCOURSE
 www.udemy.com/learn-html-css-creating-a-single-page-website/?couponCode=FBFREE108
 www.udemy.com/learn-html-css-php-complete-web-designing-bundle/
@@ -8831,7 +8720,6 @@ www.udemy.com/learn-jquery-from-beginning-to-advanced/?couponCode=FEBPROMO
 www.udemy.com/learn-jquery-from-beginning-to-advanced/?couponCode=FREEJQ2019
 www.udemy.com/learn-jquery-from-beginning-to-advanced/?couponCode=JQSEPTFREE
 www.udemy.com/learn-json-and-json-schema-for-absolute-beginners/
-www.udemy.com/learn-json-course/
 www.udemy.com/learn-junit-from-scratch/
 www.udemy.com/learn-kivy-from-scratch/
 www.udemy.com/learn-kubernetes-using-google-cloud-gcp-kubernetes-engine/
@@ -8945,8 +8833,8 @@ www.udemy.com/learn-practical-python-3-for-beginners-2018/?couponCode=FREE_FOR_1
 www.udemy.com/learn-practical-sql-course-for-any-database/
 www.udemy.com/learn-presentation-skills/
 www.udemy.com/learn-probability-thoroughly/?couponCode=PROBABILITY-FREE
-www.udemy.com/learn-professional-2d-game-asset-graphic-design-in-photoshop/?couponCode=FREEASSET
 www.udemy.com/learn-professional-2d-game-asset-graphic-design-in-photoshop/?couponcode=freeasset
+www.udemy.com/learn-professional-2d-game-asset-graphic-design-in-photoshop/?couponCode=FREEASSET
 www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE
 www.udemy.com/learn-professional-portrait-retouching/?couponCode=BOOST10DXDFH
 www.udemy.com/learn-professional-web-desing-in-photoshop/?couponCode=WEBDESIGN2019
@@ -8959,12 +8847,11 @@ www.udemy.com/learn-psychological-perspective-of-education-and-learning/?couponC
 www.udemy.com/learn-psychology/?couponCode=100DISC
 www.udemy.com/learn-puppet/
 www.udemy.com/learn-pyside/
-www.udemy.com/learn-python-3-from-beginner-to-advanced/?couponCode=jerrybanfield
 www.udemy.com/learn-python-3-from-beginner-to-advanced/?couponCode=JERRYBANFIELD
+www.udemy.com/learn-python-3-from-beginner-to-advanced/?couponCode=jerrybanfield
 www.udemy.com/learn-python-3-from-scratch-python-for-absolute-beginners/
 www.udemy.com/learn-python-3-in-1-hour/
 www.udemy.com/learn-python-and-ruby/
-www.udemy.com/learn-python-build-a-virtual-assistant-in-python/
 www.udemy.com/learn-python-for-data-science-w-search-recommender-algos/
 www.udemy.com/learn-python-from-basic-to-advance-using-pycharm/
 www.udemy.com/learn-python-from-scratch-m/
@@ -9028,7 +8915,6 @@ www.udemy.com/learn-sfdx/
 www.udemy.com/learn-shell-scripting-all-levels/
 www.udemy.com/learn-shell-scripting-from-basics-to-advance-a/
 www.udemy.com/learn-shell-scripting-from-basics-to-advance/
-www.udemy.com/learn-smarter/?couponCode=ONETIMEPROMO
 www.udemy.com/learn-social-media-marketing-basics-to-advance/?couponCode=FREELEARNING
 www.udemy.com/learn-social-media-marketing-course
 www.udemy.com/learn-socket-programming-in-c-from-scratch/
@@ -9050,7 +8936,6 @@ www.udemy.com/learn-ssc-and-cds-mathematics/
 www.udemy.com/learn-statistics-in-detail/
 www.udemy.com/learn-study-skills-and-time-management-from-scratch/?couponCode=REVIEWFAST1
 www.udemy.com/learn-swift-4-and-ios11-using-playgrounds-ipad-app/?couponCode=APRIL18
-www.udemy.com/learn-swift-4-and-ios11-using-playgrounds-ipad-app/?couponCode=MARCHMADNESS18
 www.udemy.com/learn-swift-4-from-beginner-to-advanced-swift-free-lite/
 www.udemy.com/learn-tableau-from-scratch-step-by-step/
 www.udemy.com/learn-tableau-quickly/?couponCode=TABLEAUBEGINNERS
@@ -9093,7 +8978,6 @@ www.udemy.com/learn-to-create-effective-business-proposal/?couponCode=FREEFORU
 www.udemy.com/learn-to-create-image-slider-in-html5-css3-and-jquery/?couponCode=100000
 www.udemy.com/learn-to-create-snake-in-unity-2018/?couponCode=FREETODAY
 www.udemy.com/learn-to-create-wordpress-themes-by-building-10-projects/?couponCode=OWPTFREE
-www.udemy.com/learn-to-fight-get-fit-boxing-kickboxing-self-defense/?couponCode=shmoop
 www.udemy.com/learn-to-host-multiple-domains-on-one-virtual-server/
 www.udemy.com/learn-to-improvise-major-scale-from-scratch-1/
 www.udemy.com/learn-to-know-and-explore-your-friends/
@@ -9128,12 +9012,10 @@ www.udemy.com/learn-to-speak-malay-language-bahasa-malaysia-in-10-hours/?couponC
 www.udemy.com/learn-to-take-better-notes-cornell-notes-1-class-project/?couponCode=DISCOUNT100
 www.udemy.com/learn-to-think-creatively-like-walt-disney/?couponCode=IAMCREATIVE
 www.udemy.com/learn-to-think-in-javascript-for-absolute-beginners/?couponCode=FBJS500
-www.udemy.com/learn-to-think-in-javascript-for-absolute-beginners/?couponCode=FREEALL
 www.udemy.com/learn-to-think-in-javascript-for-absolute-beginners/?couponCode=FREEJS
 www.udemy.com/learn-to-trade-the-stock-market-without-blowing-your-profits/?couponCode=FREEFORALL
 www.udemy.com/learn-to-use-discourse-markers-for-great-english-writing/
 www.udemy.com/learn-to-use-jira-to-manage-agile-scrum-software-project/
-www.udemy.com/learn-to-use-json/?couponCode=LEARNJSONFREE
 www.udemy.com/learn-to-use-python-in-arcgis-pro/?couponCode=FREEE_COUPON
 www.udemy.com/learn-to-use-videoscribe-for-whiteboard-animations/
 www.udemy.com/learn-trello-get-more-done/
@@ -9199,7 +9081,6 @@ www.udemy.com/learnics-education-intro-to-creating-games-in-unity-2017/?couponCo
 www.udemy.com/learnics-education-intro-to-creating-games-in-unity-2017/?couponCode=FIRST2K
 www.udemy.com/learning-about-water-groundwater-in-the-basic-water-cycle/
 www.udemy.com/learning-algorithms-in-javascript-from-scratch/?couponCode=FREECOURSE1
-www.udemy.com/learning-and-practicing-javascript-level-1-get-started/
 www.udemy.com/learning-api-testing-using-postman-a-complete-course/
 www.udemy.com/learning-c-language/?couponCode=bbhfpromo
 www.udemy.com/learning-c-language/?couponCode=BBHFPROMO
@@ -9235,7 +9116,6 @@ www.udemy.com/learning-the-russian-language/
 www.udemy.com/learning-to-fly-is-easy/
 www.udemy.com/learning-to-fly-the-raf-tornado-trident-version/
 www.udemy.com/learning-to-learn-r/?couponCode=CHAMPIONS
-www.udemy.com/learning-unity-c-scripting-for-beginners/
 www.udemy.com/learning-windows-server-2016-with-hands-on-experience/?couponCode=WIN2016_2018
 www.udemy.com/learning-your-personality-dimensions/
 www.udemy.com/learnmindfulness/?couponCode=MINDFUL1000
@@ -9417,7 +9297,6 @@ www.udemy.com/logica-da-programacao-em-unity/
 www.udemy.com/logica-programacion-aprende-programar-en-cualquier-lenguaje/
 www.udemy.com/logicadeprogramacao
 www.udemy.com/logicadeprogramacao/
-www.udemy.com/logicapps/
 www.udemy.com/login-and-signup-form-design-and-validation-in-jquery/?couponCode=FREEEEE
 www.udemy.com/login-com-validacao-e-flash-messages-php/
 www.udemy.com/login-e-registo-de-contas-com-seguranca-php-e-mysql-2018/
@@ -9538,7 +9417,6 @@ www.udemy.com/mail-chimp/
 www.udemy.com/mailchimp-business-email-marketing-masterclass/?couponCode=AB19089
 www.udemy.com/make-3-beautiful-3d-wallpapers-in-cinema-4d-vol-2-by-moylobito/?couponCode=ENCHILADA
 www.udemy.com/make-3-beautiful-3d-wallpapers-in-cinema-4d-vol-3-by-moylobito/?couponCode=IUE134D
-www.udemy.com/make-a-facebook-messenger-bot/
 www.udemy.com/make-a-horror-survival-game-in-unity/
 www.udemy.com/make-a-katamari-style-sticky-ball-game-in-unity/?couponCode=FREECOUPON
 www.udemy.com/make-a-katamari-style-sticky-ball-game-in-unity/?couponCode=LIMITEDFREEOFFER
@@ -9603,7 +9481,6 @@ www.udemy.com/making-money-from-home-without-a-website/?couponCode=BACKTOSCHOOL
 www.udemy.com/making-money-onlineamazon-fba-working-from-home-amazon-seo/?couponCode=AMZFREENOW
 www.udemy.com/making-money-onlineamazon-fba-working-from-home-amazon-seo/?couponCode=FRECOD
 www.udemy.com/making-money-with-uber/?couponCode=STARBUCKS
-www.udemy.com/making-money-with-uber/?couponCode=STARBUCKS#instructor-1
 www.udemy.com/making-teaching-easy-innovative/?couponCode=INNOVATIV
 www.udemy.com/malcolm-gladwell/?couponCode=200ONLY
 www.udemy.com/malware-analysis-reverse-engineering-ida-pro-expert/?couponCode=PROMO200
@@ -9660,8 +9537,8 @@ www.udemy.com/marketing-automation-sales-funnel-b2b-blogging-enterprise-mastercl
 www.udemy.com/marketing-automation/
 www.udemy.com/marketing-completo-en-120-minutos-profesor-premiado/
 www.udemy.com/marketing-course-session-1/?couponCode=101FREE
-www.udemy.com/marketing-course-session-2/?couponCode=101FREE
 www.udemy.com/marketing-course-session-2/?couponCode=101free
+www.udemy.com/marketing-course-session-2/?couponCode=101FREE
 www.udemy.com/marketing-course-session-3/?couponCode=101FREE
 www.udemy.com/marketing-course-session-4/?couponCode=101FREE
 www.udemy.com/marketing-course-session-4/?couponCode=101free
@@ -9697,7 +9574,6 @@ www.udemy.com/marketing-videos/?couponCode=MAKEVID
 www.udemy.com/marketing-videos/?couponCode=MARKVID
 www.udemy.com/marketing-videos/?couponCode=VIDMARK
 www.udemy.com/marketing-with-fun-gamification-made-easy/?couponCode=NOV2018
-www.udemy.com/marketing_fundamentals/
 www.udemy.com/marketingsuccess/
 www.udemy.com/marklogic-fundamentals/
 www.udemy.com/marklogic-nosql-for-business/
@@ -9752,8 +9628,8 @@ www.udemy.com/master-in-photoshop-from-zero-to-pro/
 www.udemy.com/master-in-wi-fi-ethical-hacking/?couponCode=FREE_LIMITED
 www.udemy.com/master-in-wi-fi-ethical-hacking/?couponCode=SAMPLE_FREE
 www.udemy.com/master-in-wi-fi-ethical-hacking/?couponCode=UNLIMITED_FREE
-www.udemy.com/master-java/?couponCode=FEEDS1
 www.udemy.com/master-java/?couponcode=feeds1
+www.udemy.com/master-java/?couponCode=FEEDS1
 www.udemy.com/master-javascript-and-jquery-shortcuts-in-minutes/
 www.udemy.com/master-javascript-from-beginner-to-expert-level/
 www.udemy.com/master-javascript-programming-extended-course/
@@ -9766,8 +9642,8 @@ www.udemy.com/master-new-sat-math-6-realistic-tests/?couponCode=KYUSAT3
 www.udemy.com/master-new-sat-math-6-realistic-tests/?couponCode=KYUSAT5
 www.udemy.com/master-of-planning-call-center-sizing/
 www.udemy.com/master-organization/?couponCode=1052302BH00001
-www.udemy.com/master-outsourcing-get-the-best-price-save-time/?couponCode=FREEFORSTUDIO
 www.udemy.com/master-outsourcing-get-the-best-price-save-time/?couponCode=freeforstudio
+www.udemy.com/master-outsourcing-get-the-best-price-save-time/?couponCode=FREEFORSTUDIO
 www.udemy.com/master-painting-light-and-color-amateur-to-advanced/?couponCode=FORFREE
 www.udemy.com/master-powerpoint-2010-in-the-easy-way-basics-to-advanced/?couponCode=RAMADAN2018
 www.udemy.com/master-presentation-with-powerpoint-2013/?couponCode=FREEPOWERPOINT2013
@@ -9798,7 +9674,6 @@ www.udemy.com/master-the-fundamentals-of-python/?couponCode=UDEMYSTUDIO
 www.udemy.com/master-the-fundamentals-of-rapid-prototyping-user-experience/
 www.udemy.com/master-the-gmat-probability-problems/
 www.udemy.com/master-the-gre-probability-problems/
-www.udemy.com/master-the-itto/?couponCode=PMBOK6-SOCIAL-ZR
 www.udemy.com/master-the-mean-stack/?couponCode=JULY16FREE
 www.udemy.com/master-the-power-of-your-mind-to-be-more-successful/?couponCode=2018FORYOU
 www.udemy.com/master-the-power-of-your-mind-to-be-more-successful/?couponCode=HAPPYNEWYEAR_2017
@@ -9808,7 +9683,6 @@ www.udemy.com/master-the-reading-section-in-the-toefl-test/
 www.udemy.com/master-the-sat-probability-problems/
 www.udemy.com/master-the-seven-basic-tools-of-quality/
 www.udemy.com/master-time-live-life-on-your-terms-and-get-most-out-of-it/
-www.udemy.com/master-timeseries-by-using-the-tick-stack-example-by-example/
 www.udemy.com/master-tkinter-by-building-5-apps/
 www.udemy.com/master-unity-3d/?couponCode=COURSE200
 www.udemy.com/master-usability-testing-and-ux-research/?couponCode=FREECOURSEIN
@@ -9816,7 +9690,6 @@ www.udemy.com/master-vue-js-2018/
 www.udemy.com/master-wordpress-build-amazing-websites-landing-pages/
 www.udemy.com/master-your-basic-c-skills-by-making-a-voting-system/
 www.udemy.com/master-your-brain-to-achieve-your-desired-success/?couponCode=FREE101
-www.udemy.com/master-your-brain-to-achieve-your-desired-success/?couponCode=SPECIAL2019
 www.udemy.com/master-your-parenting-skills/?couponCode=HAPPYMARCH
 www.udemy.com/master-your-parenting-skills/?couponCode=THANKYOU20K
 www.udemy.com/master-your-relationship/
@@ -9852,8 +9725,8 @@ www.udemy.com/mastering-aws-s3-tutorial/?couponCode=FACEBOOKFREE
 www.udemy.com/mastering-azure-security-center/?couponCode=FACEBOOKSALE
 www.udemy.com/mastering-candlestick-patterns-to-day-trade-urdu/
 www.udemy.com/mastering-collaboration-work-together-for-the-best-results/?couponCode=UDEMYSTUDIO
-www.udemy.com/mastering-color-grading-in-photoshop/?couponCode=PSANDLR
 www.udemy.com/mastering-color-grading-in-photoshop/?couponcode=psandlr
+www.udemy.com/mastering-color-grading-in-photoshop/?couponCode=PSANDLR
 www.udemy.com/mastering-community-engagement/
 www.udemy.com/mastering-core-ml-for-ios/?couponCode=COREMLFORFREE
 www.udemy.com/mastering-creativity-while-teaching/
@@ -9894,7 +9767,6 @@ www.udemy.com/mastering-personal-goals-reaching-your-goals-successfully/?couponC
 www.udemy.com/mastering-photographic-exposure/?couponCode=LAUNCH_00
 www.udemy.com/mastering-photos-for-mac-2018/?couponCode=PHOTOSFORMAC2018
 www.udemy.com/mastering-photoshop-channel-masking/
-www.udemy.com/mastering-photoshop-luminosity-masks/
 www.udemy.com/mastering-php-pdo-data-objects-with-crud-application/?couponCode=FBFREE
 www.udemy.com/mastering-planning-vol-1-hourly-and-daily-planning/?couponCode=868884BH00002
 www.udemy.com/mastering-polite-english-for-work-and-play/
@@ -9969,8 +9841,8 @@ www.udemy.com/mba-strategy-how-to-succeed/?couponCode=MBASTRATEGY-PROMO
 www.udemy.com/mbasql-diving-into-data/?couponCode=FREEFORME
 www.udemy.com/mbot-for-beginners/
 www.udemy.com/mbseries/
-www.udemy.com/mckinsey-management-consulting-presentation/?couponCode=ENROLL10
 www.udemy.com/mckinsey-management-consulting-presentation/?couponcode=enroll10
+www.udemy.com/mckinsey-management-consulting-presentation/?couponCode=ENROLL10
 www.udemy.com/mckinsey-productivity-principles/?couponCode=ENROLL
 www.udemy.com/mcsa-2012-microsoft-certified-solution-associate/
 www.udemy.com/mcsa-cloud-platform-practice-tests-70-532-and-70-433-exam/?couponCode=SRGRZRHGGRGZGZ
@@ -9999,7 +9871,6 @@ www.udemy.com/medium-blogging-get-your-first-1000-medium-followers/?couponCode=C
 www.udemy.com/medium-blogging-get-your-first-1000-medium-followers/?couponCode=JBDBLDBLJDNLD
 www.udemy.com/medium-blogging-masterclass-blogging-on-medium-successfully/?couponCode=BBH201809
 www.udemy.com/medium-blogging-masterclass-blogging-on-medium-successfully/?couponCode=FB201809
-www.udemy.com/medium-blogging-masterclass-blogging-on-medium-successfully/?couponCode=PROMO180909
 www.udemy.com/medium-masterclass-become-a-full-time-blogger-on-medium/?couponCode=FREEMEDIUM1K
 www.udemy.com/mediumship-mini-course/
 www.udemy.com/meeshkan-machine-learning-the-github-api/
@@ -10134,7 +10005,6 @@ www.udemy.com/microsoft-word-365-introducao/
 www.udemy.com/microsoft-word-documentation-from-zero-to-pro/
 www.udemy.com/microsoft-word-introduction/
 www.udemy.com/microsoft-word-learning-from-scratch/
-www.udemy.com/microsoftaccessdatabase/
 www.udemy.com/military-diet/?couponCode=MILIDIET
 www.udemy.com/million-dollar-case-study/
 www.udemy.com/million-dollar-habit-building-secrets/
@@ -10178,7 +10048,6 @@ www.udemy.com/mis-part1/?couponCode=FREECOOKIES
 www.udemy.com/mixin-network-dapp-development/
 www.udemy.com/mixing-mastering-electronic-music-in-logic-pro-x/?couponCode=MUSICPRODDDD
 www.udemy.com/mlalmastercourse/
-www.udemy.com/mlm-network-marketing-direct-sales/?couponCode=SPMLMFB0
 www.udemy.com/mobile-app-business-1-niche-research/?couponCode=FB-GROUP
 www.udemy.com/mobile-app-business-ideas-and-hiring-outsourcing-engineers/
 www.udemy.com/mobile-app-design-prototype/
@@ -10225,7 +10094,6 @@ www.udemy.com/money-mindset-mastery/
 www.udemy.com/money-school-debt/
 www.udemy.com/moneymasters-101-personal-finance-for-montreal-students/
 www.udemy.com/mongo-db-with-node-express/
-www.udemy.com/mongodb-and-python-quickstart-with-mongoengine/
 www.udemy.com/mongodb-from-scratch-in-urduhindi-language/
 www.udemy.com/mongodb-fundamentals/
 www.udemy.com/mongodb-no-sql-for-absolute-beginner-to-advance-level/
@@ -10264,7 +10132,6 @@ www.udemy.com/ms-access-for-absolute-beginners/
 www.udemy.com/ms-dos-basics/
 www.udemy.com/ms-office-2010-complete-training/?couponCode=MOCT001
 www.udemy.com/ms-sql-server-t-sql-concepts-raise-above-beginner-level/
-www.udemy.com/ms-word-2016-complete-course-best-for-beginners/
 www.udemy.com/ms-word-2016-hands-on-training/
 www.udemy.com/ms-word-basic-to-intermediate-level-in-hindi-urdu/
 www.udemy.com/ms-word-for-novice/
@@ -10308,7 +10175,6 @@ www.udemy.com/my-sql-course-for-beginners-and-professionals/
 www.udemy.com/myhousevisit-university-program/
 www.udemy.com/mymentalcoach/
 www.udemy.com/myndsetcards/
-www.udemy.com/mysql-and-database-management/?couponCode=MYSQLNEW
 www.udemy.com/mysql-and-database-management/?couponCode=SQLMARCH
 www.udemy.com/mysql-database-a-short-introduction-for-beginners/
 www.udemy.com/mysql-database-admin-dba-for-beginners/
@@ -10451,7 +10317,6 @@ www.udemy.com/nodejs-certification/
 www.udemy.com/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/
 www.udemy.com/nodejs-course/?couponCode=NODEJS-FREE
 www.udemy.com/nodejs-express-mongodb-dev-to-deployment/?couponCode=DDJ45GET4JJ89
-www.udemy.com/nodejs-for-beginners-a/
 www.udemy.com/nodejs-hapijs-building-enterprise-web-applications/?couponCode=FREECOUPON2
 www.udemy.com/nodejs-hapijs-building-enterprise-web-applications/?couponCode=PROMOSEPT2018
 www.udemy.com/nodejs-unit-testing-in-depth/?couponCode=FO815D13F3686
@@ -10546,8 +10411,8 @@ www.udemy.com/online-business-academy-ecommerce/
 www.udemy.com/online-business-academy-websites-in-wordpress/
 www.udemy.com/online-business-based-on-digital-information-products/?couponCode=FB-GROUP
 www.udemy.com/online-business-management-crash-course/?couponCode=MANAGE2018
-www.udemy.com/online-business-sales-scripts-for-every-sales-funnel/?couponCode=free2be
 www.udemy.com/online-business-sales-scripts-for-every-sales-funnel/?couponCode=FREE2BE
+www.udemy.com/online-business-sales-scripts-for-every-sales-funnel/?couponCode=free2be
 www.udemy.com/online-business-sales-scripts-for-every-sales-funnel/?couponCode=MIGHTYFREE
 www.udemy.com/online-business-start-a-profitable-business-today/?couponCode=J030AGK
 www.udemy.com/online-business-startup/
@@ -10568,8 +10433,8 @@ www.udemy.com/online-digital-social-media-marketing-sales-for-beginners/
 www.udemy.com/online-earning/
 www.udemy.com/online-game-learn-to-programming-online-browser-game-use-php/
 www.udemy.com/online-login-authentication-system-without-database-using-php/
-www.udemy.com/online-marketing-the-best-selling-author-sales-funnel/?couponCode=FREE2BE
 www.udemy.com/online-marketing-the-best-selling-author-sales-funnel/?couponCode=free2be
+www.udemy.com/online-marketing-the-best-selling-author-sales-funnel/?couponCode=FREE2BE
 www.udemy.com/online-marketing-with-google-my-business-digital-marketing/
 www.udemy.com/online-money-making-machine-digital-courses/
 www.udemy.com/online-music-distribution/?couponCode=GROUP111
@@ -10647,7 +10512,6 @@ www.udemy.com/oracle-sql-interview-questions-practice-test-for-beginners/?coupon
 www.udemy.com/oracle-sql-mastering-oracle-sql-performance-tuning/
 www.udemy.com/oracle-sql-starting-point/
 www.udemy.com/oracle-the-complete-sql-guide-includes-sql-certification/
-www.udemy.com/oracle-virtualbox-administration-for-absolute-beginners/
 www.udemy.com/oracle-xml-db-with-real-world-examples/
 www.udemy.com/oratoria-e-apresentacao-de-alto-impacto-minicurso/
 www.udemy.com/orcad2019/
@@ -10676,15 +10540,15 @@ www.udemy.com/outlook-2016-complete-guide-from-zero-to-advanced-level/
 www.udemy.com/outsell-the-competition/?couponCode=OUTSELL
 www.udemy.com/outsource-podcasts-social-media-marketing/?couponCode=scottgift
 www.udemy.com/outsource-workforce/
-www.udemy.com/outsource-your-idea-launch-your-business-for-14-the-price/?couponCode=FREEFORSTUDIO
 www.udemy.com/outsource-your-idea-launch-your-business-for-14-the-price/?couponCode=freeforstudio
+www.udemy.com/outsource-your-idea-launch-your-business-for-14-the-price/?couponCode=FREEFORSTUDIO
 www.udemy.com/outsourced-lead-generation-machine/?couponCode=BBH_OCTOBER
 www.udemy.com/outsourcing-for-beginners-hire-and-save-time/?couponCode=FREE2BE
 www.udemy.com/outsourcing-for-beginners-hire-and-save-time/?couponCode=HOWFREE
 www.udemy.com/outsourcing-mastery-successful-entrepreneur/?couponCode=FREE4NOW
 www.udemy.com/outsourcing-save-time-with-inexpensive-professionals/?couponCode=FREE2BE
-www.udemy.com/outsourcing-save-time-with-inexpensive-professionals/?couponCode=FREE4U
 www.udemy.com/outsourcing-save-time-with-inexpensive-professionals/?couponCode=free4u
+www.udemy.com/outsourcing-save-time-with-inexpensive-professionals/?couponCode=FREE4U
 www.udemy.com/outsourcing-training/
 www.udemy.com/outsourcing-writing/?couponCode=GREATCOURSE
 www.udemy.com/outstanding-customer-service/?couponCode=CUST-SERV-FB
@@ -10723,7 +10587,6 @@ www.udemy.com/pandas-with-python-tutorial/?couponCode=AUTUMNLOVER
 www.udemy.com/pandas-with-python-tutorial/?couponCode=OCT_SPL
 www.udemy.com/paper-airplanes/
 www.udemy.com/paradigmshift/
-www.udemy.com/paras-course-for-teachers-to-work-passionately/
 www.udemy.com/parenting-teens-helping-teenagers-succeed-in-life-part-2/?couponCode=DISCOUNT
 www.udemy.com/parentingteens/?couponCode=DOSCOUNT10
 www.udemy.com/parking-reversing-driving/
@@ -10767,8 +10630,8 @@ www.udemy.com/penetration-testing-with-powershell/?couponCode=FREEHACKER
 www.udemy.com/penetration-testing-with-python/?couponCode=FACEBOOK_GIVEAWAY_0
 www.udemy.com/penetration-testing-with-python/?couponCode=WEB_OFFER000
 www.udemy.com/penetration-testing/?couponCode=jerrybanfield
-www.udemy.com/penetration-testing/?couponCode=WOO052816
 www.udemy.com/penetration-testing/?couponcode=woo052816
+www.udemy.com/penetration-testing/?couponCode=WOO052816
 www.udemy.com/penny-stock-trading-analyzing-the-most-profitable-stocks/?couponCode=udemycoupon
 www.udemy.com/pensez-comme-un-programmeur/
 www.udemy.com/people-management101/?couponCode=RSVIP3
@@ -10776,7 +10639,6 @@ www.udemy.com/perfect-3-days-linux-course/?couponCode=PROMOTION
 www.udemy.com/perfect-pitching-how-to-tell-them-what-they-want-to-hear/?couponCode=SPICYGMAY
 www.udemy.com/perfect-pregnancy-guide/?couponCode=LNZI73JJR
 www.udemy.com/perfect-presenting-top-tips-for-memorable-speeches/?couponCode=SPICYG
-www.udemy.com/perfect-tenses-exercises-1/?couponCode=TURKEY
 www.udemy.com/perfect-tenses-for-new-learners/
 www.udemy.com/perfect-your-algebra-fundamentals-part-1/?couponCode=ALGEBRA_RUCHI
 www.udemy.com/perfect-your-craft-succeed-as-an-artist/?couponCode=REVIEW
@@ -10792,8 +10654,8 @@ www.udemy.com/periscope-for-business/?couponCode=LIVE100
 www.udemy.com/periscope-marketing-101/?couponCode=lsjf35
 www.udemy.com/periscope2016/?couponCode=MSF2507
 www.udemy.com/perl-for-beginners/
-www.udemy.com/perlprogramming/?couponCode=FREEBIES
 www.udemy.com/perlprogramming/?couponCode=freebies
+www.udemy.com/perlprogramming/?couponCode=FREEBIES
 www.udemy.com/permutationcombination/
 www.udemy.com/permutations-and-combinations-a/
 www.udemy.com/persian-herbalism-crash-course-2/
@@ -10852,12 +10714,10 @@ www.udemy.com/pgces-02-postgresql-ce-8-silver-certification-exam/?couponCode=PSL
 www.udemy.com/pgces-02-postgresql-ce-8-silver-certification-practice-exam/?couponCode=PGCES02
 www.udemy.com/pgmp-exam-simulator-4thedition/?couponCode=PGMP-V4-EXAM-FREE
 www.udemy.com/phalcon-php-framework-for-beginners/?couponCode=CODEMAD
-www.udemy.com/pharmacos-utopia-pharmacokinetic-pharmacodynamic-design/?couponCode=PHARMACOKINETICS
 www.udemy.com/philosophy-for-the-21st-century/?couponCode=PHILOSOPHYWISDOM
 www.udemy.com/philosophy-of-religion-spirituality/?couponCode=lair
 www.udemy.com/photo-manipulation-master-photo-editing/?couponCode=FREESITE
 www.udemy.com/photo-manipulation-with-adobe-photoshop-amazing-designs/?couponCode=MANIPULATION20192
-www.udemy.com/photo-manipulation-with-adobe-photoshop-amazing-designs/?couponCode=NEW1COUPON
 www.udemy.com/photo-memory-for-students/
 www.udemy.com/photo-voltaic-systems-quick-guide/
 www.udemy.com/photographer/?couponCode=FREEDEAL00
@@ -10872,8 +10732,8 @@ www.udemy.com/photography-master-classroom-complete-photography-guide/
 www.udemy.com/photography-masterclass-your-complete-guide-to-photography-n/
 www.udemy.com/photography-masterclass-your-complete-guide-to-photography/?couponCode=BBH
 www.udemy.com/photography-masterclass-your-complete-guide-to-photography/?couponCode=FREEFORFRIENDS16
-www.udemy.com/photography-photoshop-course/?couponCode=AREVIEWAPPRECIATED
 www.udemy.com/photography-photoshop-course/?couponcode=areviewappreciated
+www.udemy.com/photography-photoshop-course/?couponCode=AREVIEWAPPRECIATED
 www.udemy.com/photography-photoshop-course/?couponCode=AREVIEWAPPRECIATED#instructor-2
 www.udemy.com/photography-with-anthony-carbajal/?couponCode=FREEFORFRIENDS2018
 www.udemy.com/photographyforbeginners/?couponCode=PHOTOFREE3525
@@ -10897,8 +10757,8 @@ www.udemy.com/photoshop-cc-the-complete-beginners-guide/
 www.udemy.com/photoshop-cinematic-photography-effects-color-grading/
 www.udemy.com/photoshop-create-a-poster-photo-manipulation-like-a-pro/?couponCode=GET-IT-FREE
 www.udemy.com/photoshop-effects-photo-effects/?couponCode=BBHFREE
-www.udemy.com/photoshop-effects-photo-effects/?couponCode=FBFREE
 www.udemy.com/photoshop-effects-photo-effects/?couponcode=fbfree
+www.udemy.com/photoshop-effects-photo-effects/?couponCode=FBFREE
 www.udemy.com/photoshop-effects-text-effects/?couponCode=10000FREE
 www.udemy.com/photoshop-elements-101-five-steps-to-better-photos/
 www.udemy.com/photoshop-esencial-primer-contacto/
@@ -10951,7 +10811,6 @@ www.udemy.com/php-for-beginners-to-advance-complete-course/?couponCode=FACEBOOKJ
 www.udemy.com/php-from-scratch-practical-beginners-introduction/
 www.udemy.com/php-from-zero-to-e-commerce-with-paypal-api/?couponCode=ADEN500
 www.udemy.com/php-in-plain-english/?couponCode=PHPMADESIMPLE
-www.udemy.com/php-in-web-development-in-2020/
 www.udemy.com/php-interview-questions-answers/
 www.udemy.com/php-interview-questions-with-solutions-part-1/?couponCode=FREEPHPCOUPON
 www.udemy.com/php-laravel-introduction-to-erp-laravel-for-absolute-beginners/?couponCode=LARAVELFREE4ALL
@@ -10976,7 +10835,6 @@ www.udemy.com/phpmyadmin-para-principiantes-bases-de-datos/
 www.udemy.com/phpunit-and-composer/
 www.udemy.com/phrasalverbs/
 www.udemy.com/phyiscsch1/
-www.udemy.com/physics-current-electricity-alternating-current-and-atoms/
 www.udemy.com/physics-current-electricity-urdu/?couponCode=DFSDFFDSF
 www.udemy.com/physics-for-beginners-part-i/
 www.udemy.com/physics-vectors-and-scalars-5-lessons/
@@ -11029,7 +10887,6 @@ www.udemy.com/pixel-workshop-rpg-style-graphics/
 www.udemy.com/pixelan-3d-six-pack-mastering-video-effects/?couponCode=STAICODE
 www.udemy.com/pizza-cooking-at-home-easy/
 www.udemy.com/pizza-e-focaccia-a-casa-metodo-facile/
-www.udemy.com/pl-sql-oracle/
 www.udemy.com/plan-a-romantic-valentines-day-celebration-decoration/?couponCode=LEARNFREE
 www.udemy.com/plan-way-success/?couponCode=FREE4NOW
 www.udemy.com/planificacion-personal/
@@ -11097,8 +10954,8 @@ www.udemy.com/podcasting-the-basics-d-richardson/?couponCode=RICHARDSDWAYNE10000
 www.udemy.com/poetry-basics/?couponCode=POETPOWER
 www.udemy.com/poetry-basics/?couponCode=PROMOCOUPONS24.COM
 www.udemy.com/poids-ideal/?couponCode=GETITFORFREE2
-www.udemy.com/pointers-in-c-programming/?couponCode=free111
 www.udemy.com/pointers-in-c-programming/?couponCode=FREE111
+www.udemy.com/pointers-in-c-programming/?couponCode=free111
 www.udemy.com/pointers-in-c-programming/?couponCode=FREE1111
 www.udemy.com/pointers-in-c-simple-examples-and-memory-location-diagrams/
 www.udemy.com/pointfigure/?couponCode=STHFREE
@@ -11121,7 +10978,6 @@ www.udemy.com/posing-couples-masterclass/?couponCode=REVIEW
 www.udemy.com/posing-like-a-pro-create-your-best-portraits-ever/?couponCode=POSE_FREE
 www.udemy.com/posing-models-masterclass/?couponCode=REVIEWS
 www.udemy.com/positive-parenting-skills-building-course/?couponCode=FACEBOOKFREE
-www.udemy.com/positividade-e-inteligencia-emocional/
 www.udemy.com/positivity-made-easy-how-to-think-live-positively/?couponCode=POSITIVETHINKING
 www.udemy.com/postal-exam-course/
 www.udemy.com/postcards-from-london/
@@ -11138,7 +10994,6 @@ www.udemy.com/potty-training/
 www.udemy.com/power-bi-bookmarks-and-business-narratives/?couponCode=PBIBBNTRY
 www.udemy.com/power-bi-desktop-sales-dashboard-in-1-hour/?couponCode=FBFREE
 www.udemy.com/power-get-hired-every-time-job-interview-tips/
-www.udemy.com/power-of-discipline/
 www.udemy.com/power-of-optimism/?couponCode=FREEACCESS
 www.udemy.com/power-of-perl/
 www.udemy.com/power-of-persuasive-selling/
@@ -11160,7 +11015,6 @@ www.udemy.com/powerofnetworking/?couponCode=PHILIP
 www.udemy.com/powerpodcasters/?couponCode=PPTwitter0
 www.udemy.com/powerpoint-2016-powerpoint-presentation-mastery/?couponCode=PPTLAUNCH1
 www.udemy.com/powerpoint-4-thumbnails-create-thumbnails-with-powerpoint/?couponCode=UDEMY2017
-www.udemy.com/powerpoint-animations-masterclass/
 www.udemy.com/powerpoint-flat-character-design-coursestunning-design/
 www.udemy.com/powerpoint-flat-icon-design/
 www.udemy.com/powerpoint-for-complete-beginners/?couponCode=COUPONKING.EU
@@ -11202,8 +11056,8 @@ www.udemy.com/prayer-for-house-blessing-dream-attack-protection-christian/?coupo
 www.udemy.com/pre-ico-how-to-raise/
 www.udemy.com/pre-investing-real-estate-before-first-investment/?couponCode=STUDIOFEEDBACK
 www.udemy.com/pre-programming-everything-you-need-to-know-before-you-code/?couponCode=freeforreddit
-www.udemy.com/pre-programming-everything-you-need-to-know-before-you-code/?couponCode=FREEFORSTUDIO
 www.udemy.com/pre-programming-everything-you-need-to-know-before-you-code/?couponCode=freeforstudio
+www.udemy.com/pre-programming-everything-you-need-to-know-before-you-code/?couponCode=FREEFORSTUDIO
 www.udemy.com/pre-school-chinese-core-reading-course/?couponCode=K1CRC00GJKI
 www.udemy.com/pre-school-chinese-the-fun-way-by-childrens-chinese-song/?couponCode=FREECOUPON2018AFD
 www.udemy.com/pre-vuejs-everything-you-need-to-know-before-you-start/
@@ -11231,7 +11085,6 @@ www.udemy.com/prepping-on-a-budget/?couponCode=STARBUCKS
 www.udemy.com/prescriptive-analytics-for-business/
 www.udemy.com/presentation-skills-communications-skills-public-speaking/?couponCode=FREENOW
 www.udemy.com/presentation-skills-effective-training-for-business-presentations-ppt/?couponCode=OIBFG-10011
-www.udemy.com/presentation-skills-for-beginners/?couponCode=PROMOFB
 www.udemy.com/presentation-skills-for-maximum-impact/
 www.udemy.com/presentation-skills-secrets/
 www.udemy.com/presentation-skills-the-secrets-to-improve-public-speaking/?couponCode=BBSPRESENTATIONS2
@@ -11252,7 +11105,6 @@ www.udemy.com/prezigenius/?couponCode=Explandiobonus
 www.udemy.com/price-psychology-double-conversion-rates-with-small-changes/?couponCode=FREE2BE
 www.udemy.com/primer-on-blockchain-and-bitcoin/?couponCode=BLOCKCHAIN-FBG
 www.udemy.com/prince2-exam-preparation/?couponCode=PRINCE1
-www.udemy.com/prince2-foundation-certification-practice-test-l/?couponCode=PFCPNT
 www.udemy.com/prince2-foundation-training-2009/
 www.udemy.com/prince2-lifecycle-e2e-overview/
 www.udemy.com/prince2-practice-examget-certified-easily-for-2018/?couponCode=HHDFGGGZR
@@ -11271,7 +11123,6 @@ www.udemy.com/pro-tennis-rules/
 www.udemy.com/pro-tennis-traders-sports-betting-systems-course/
 www.udemy.com/proactive-productivity/?couponCode=thx4thesupport
 www.udemy.com/probability-and-statistics-for-machine-learning-1/?couponCode=FREEPROBABILITY18
-www.udemy.com/probability-o/
 www.udemy.com/probar-django-110-crear-un-blog/?couponCode=DEC2016
 www.udemy.com/problems-solutions-in-accounting-basics/?couponCode=FREEMAY
 www.udemy.com/problems-solutions-in-financial-management/?couponCode=FREEMAY
@@ -11391,7 +11242,6 @@ www.udemy.com/project-management-build-your-million-dollar-team/
 www.udemy.com/project-management-certifications-demystified-pmp-or-scrum-pmi-prince2/
 www.udemy.com/project-management-course-udemy/?couponCode=MERRYC2017
 www.udemy.com/project-management-for-developers-and-technical-experts/?couponCode=DONEDEAL
-www.udemy.com/project-management-for-it-professionals/?couponCode=PRJMGTFREE
 www.udemy.com/project-management-fundamentals-communication-management-beginner/
 www.udemy.com/project-management-fundamentals-managing-project-budgets-programbudget/
 www.udemy.com/project-management-fundamentals-run-projects-effectively/?couponCode=FREESTUDIO
@@ -11425,7 +11275,6 @@ www.udemy.com/promoted-posts/?couponCode=5FAWMPFBN9
 www.udemy.com/promoted-posts/?couponCode=FREEACCESS
 www.udemy.com/promovideos/
 www.udemy.com/propaganda-analysis/
-www.udemy.com/property-management-for-homeowners/
 www.udemy.com/prosperity-secrets-revealed/?couponCode=ALLFREE
 www.udemy.com/protractor-testing-framework-learn-from-scratch/
 www.udemy.com/proven-interview-success-resume-writing-dream-job-2017/?couponCode=COUPONTRUMP
@@ -11516,8 +11365,8 @@ www.udemy.com/python-complete/?couponCode=BUNDLEFREE
 www.udemy.com/python-complete/?couponCode=BUNDLEFree
 www.udemy.com/python-complete/?couponCode=FBFREE18
 www.udemy.com/python-complete/?couponCode=FREEFB2
-www.udemy.com/python-complete/?couponCode=FREEFB3
 www.udemy.com/python-complete/?couponcode=freefb3
+www.udemy.com/python-complete/?couponCode=FREEFB3
 www.udemy.com/python-complete/?couponCode=FREEFB5
 www.udemy.com/python-complete/?couponCode=FREEFB6
 www.udemy.com/python-complete/?couponCode=UCFREE
@@ -11673,7 +11522,6 @@ www.udemy.com/quityourjob/?couponCode=trump
 www.udemy.com/quiz-app/
 www.udemy.com/quizlet-a-cool-tool-for-teachers/
 www.udemy.com/quora-marketing-course/?couponCode=GREATCOURSE
-www.udemy.com/quora-marketing-masterclass/?couponCode=FREEQUORA
 www.udemy.com/quora-marketing/?couponCode=round0
 www.udemy.com/quora-meisterkurs-der-komplette-quora-marketing-kurs/?couponCode=MARKETINGXX
 www.udemy.com/quran-translation-and-explanation/
@@ -11708,8 +11556,8 @@ www.udemy.com/rapid-ruby-programming-language-training-in-2018/
 www.udemy.com/rapid-usability-research-for-ux-designers/
 www.udemy.com/raspberry-pi-course-raspberry-pi-projects/?couponCode=RATE_IT_GET_IT
 www.udemy.com/raspberry-pi-with-arduino-connect-and-interface-/?couponCode=PROMOCOUPONS24
-www.udemy.com/ratgeber/?couponcode=facebook-autor
 www.udemy.com/ratgeber/?couponCode=FACEBOOK-AUTOR
+www.udemy.com/ratgeber/?couponcode=facebook-autor
 www.udemy.com/raw-to-perfect-photo/?couponCode=LAUNCH_00
 www.udemy.com/read-and-remember-fiction/?couponCode=FICTION
 www.udemy.com/read-music/
@@ -11732,7 +11580,6 @@ www.udemy.com/real-world-sql-server-from-the-ground-up/?couponCode=newStuds
 www.udemy.com/realidade-aumentada-realidade-virtual-e-holografia-level-1/
 www.udemy.com/realisez-des-screencasts-professionnels-avec-filmora/
 www.udemy.com/rebeloper-messages-the-ultimate-imessage-app-template/
-www.udemy.com/rebeloper-messages-the-ultimate-imessage-app-template/?couponCode=REBELOPER200
 www.udemy.com/rebeloper-messages-the-ultimate-imessage-app-template/?couponCode=REBELOPER2100
 www.udemy.com/rebt-a-counseling-therapy-you-can-use-to-improve-thoughts/?couponCode=FREECOUPON
 www.udemy.com/rebt-psychology-self-help/?couponCode=NZKRTT3CQQ
@@ -11831,7 +11678,6 @@ www.udemy.com/responsive-website-with-html-and-css/
 www.udemy.com/ressentials1-100k/
 www.udemy.com/ressentials2-getlicensedgetstarted/
 www.udemy.com/ressentials3-recycles/
-www.udemy.com/rest-api-webservice-automation-testing-soapuing-pro-readyapi/
 www.udemy.com/rest-assured-fundamentals/
 www.udemy.com/restaurant-website-with-online-ordering-reservation-and-app/
 www.udemy.com/restful-api-development-with-spring-boot-jpa-cloud/
@@ -11873,7 +11719,6 @@ www.udemy.com/rhel-red-hat-enterprise-linux-essentials/
 www.udemy.com/rhia-registered-health-information-administrator/?couponCode=RHIACP
 www.udemy.com/rigging-in-maya-2016-for-beginners-part-1-3-hours/
 www.udemy.com/ripple-coin-cryptocurrency/?couponCode=FRST1A
-www.udemy.com/ripple-xrp-how-to-buy-and-invest-with-ripple-cryptocurrency/
 www.udemy.com/rising-star-property-investor/
 www.udemy.com/risk-analysis-in-capital-budgeting/?couponCode=OCT2710
 www.udemy.com/risk-assessment-and-management/
@@ -11902,7 +11747,6 @@ www.udemy.com/roguelike-plataforma-construct-2/
 www.udemy.com/role-of-advertising-in-marketing/?couponCode=SAJIFR
 www.udemy.com/role-of-amh-and-evaluation-of-the-infertile-female/
 www.udemy.com/ros-basics-program-robots/
-www.udemy.com/rotation-part-1/
 www.udemy.com/rover-how-to-start-your-dog-walking-business-from-home/
 www.udemy.com/rover-how-to-start-your-dog-walking-business-from-home/?couponCode=LIMITEDBBHFCOUPONS
 www.udemy.com/rover-how-to-start-your-dog-walking-business-from-home/?couponCode=PLEASELEAVEAREVIEW
@@ -12006,7 +11850,6 @@ www.udemy.com/salesforce-consultant-certification/?couponCode=FIRST1000
 www.udemy.com/salesforce-crm-trainingadmindevintegrationcertification/
 www.udemy.com/salesforce-dev-501-advanced-developer-certification-test/?couponCode=SFDEVACP
 www.udemy.com/salesforce-dev-501-apex-visualforce-controller-practice-exam/?couponCode=DEV-501
-www.udemy.com/salesforce-dev-501-certified-advanced-developer-practicetest/?couponCode=SDPDAC
 www.udemy.com/salesforce-how-to-input-data-and-run-reports-and-strategize/?couponCode=FREE50100
 www.udemy.com/salesforce-lightning-reporting-all-you-need-to-know/?couponCode=SFLREPREAL
 www.udemy.com/salesforce-sales-cloud-consultant-certification-practicetest/?couponCode=SCSDPT
@@ -12115,7 +11958,6 @@ www.udemy.com/search-engine-for-beginners/?couponCode=JUNE2018
 www.udemy.com/search-engine-optimization-for-business/
 www.udemy.com/search-engine-optimization-niche-site-seo-case-study/?couponCode=GOOGLE-SEO
 www.udemy.com/search-engine-optimization-niche-site-seo-case-study/?couponCode=ONPAGESEO
-www.udemy.com/search-engine-optimization-niche-site-seo-case-study/?couponCode=SEO-2019
 www.udemy.com/search-engine-optimization-niche-site-seo-case-study/?couponCode=SEO-LIMITED
 www.udemy.com/search-engine-optimization-niche-site-seo-case-study/?couponCode=SEO-REVIEW-LIMITED
 www.udemy.com/search-engine-optimization-niche-site-seo-case-study/?couponCode=SEO-SEO
@@ -12183,10 +12025,9 @@ www.udemy.com/self-esteem-masterclass-learn-to-love-yourself/?couponCode=HDJHVDJ
 www.udemy.com/self-esteem-the-complete-guide-to-self-esteem/?couponCode=JHDBJHDBJDB
 www.udemy.com/self-hosted-online-course-with-lifterlms-wordpress/
 www.udemy.com/self-love-and-self-confidence-a-crash-course-in-contentment/?couponCode=CONTENT3000
-www.udemy.com/self-mastery/?couponCode=ITWORKS
 www.udemy.com/self-publish-an-ebook/?couponCode=FBFREE
-www.udemy.com/self-publishing-kindle-complete-course/?couponCode=FORMATNEW
 www.udemy.com/self-publishing-kindle-complete-course/?couponcode=formatnew
+www.udemy.com/self-publishing-kindle-complete-course/?couponCode=FORMATNEW
 www.udemy.com/self-publishing-kindle-complete-course/?couponCode=FREEUNTIL31ST
 www.udemy.com/self-publishing-kindle-complete-course/?couponCode=MIDNIGHT23RD
 www.udemy.com/self-storage-investing/?couponCode=FREECRS
@@ -12255,7 +12096,6 @@ www.udemy.com/seo-para-iniciantes-2018/
 www.udemy.com/seo-perfect-seo-optimized-articles-to-rank-page-1-on-google/?couponCode=FREETOBE
 www.udemy.com/seo-ranking-formula/?couponCode=FREE1000
 www.udemy.com/seo-ranking-improve-your-website-ranking-with-seo-analysis/
-www.udemy.com/seo-roadmap/?couponCode=seofree2
 www.udemy.com/seo-schema-tutorial-structured-data-rich-snippets-json-ld/?couponCode=BHWSCHEMA100
 www.udemy.com/seo-secrets-broken-link-strategies/
 www.udemy.com/seo-secrets-of-google-expired-domains-and-301-redirects/?couponCode=free2be
@@ -12274,7 +12114,6 @@ www.udemy.com/seo-training-2018-complete-seo-guide-for-beginners/?couponCode=MAM
 www.udemy.com/seo-training-2018-complete-seo-guide-for-beginners/?couponCode=SEOAUGUST
 www.udemy.com/seo-training-2018-complete-seo-guide-for-beginners/?couponCode=SEOFREE12
 www.udemy.com/seo-training-courses/
-www.udemy.com/seo-training-google-eat-quality-guidelines-ranking-algorithm/
 www.udemy.com/seo-training-link-building-backlinks-and-keyword-research/?couponCode=FREENOW
 www.udemy.com/seo-training-masterclass/
 www.udemy.com/seo-training-rank-1st-in-google/
@@ -12289,7 +12128,6 @@ www.udemy.com/server-2016-exam-prep-70-740-installation-and-storage/?couponCode=
 www.udemy.com/server-2016-exam-prep70-741-networking-server-2016/?couponCode=SERVER2016_70-741
 www.udemy.com/server-practice-examget-certified-easily-for-2018/?couponCode=GDHEHDSBSFG
 www.udemy.com/serverless-architecture-on-amazon-web-services/?couponCode=FREEJUSTNOW
-www.udemy.com/serverless-concepts/
 www.udemy.com/serverless-with-aws-lamba/?couponCode=SLS_123
 www.udemy.com/servicenow-developer-course-the-ultimate-guide/?couponCode=OCT_SPL
 www.udemy.com/servicenow/?couponCode=SNFREE
@@ -12336,7 +12174,6 @@ www.udemy.com/shook-how-to-shake-test-anxiety/
 www.udemy.com/shopify-aliexpress-dropship-crash-course-start-selling-now/
 www.udemy.com/shopify-bootcamp/
 www.udemy.com/shopify-course-for-beginners-creating-a-store-from-scratch/
-www.udemy.com/shopify-developer-training-course-start-dropshipping-business/
 www.udemy.com/shopify-drop-ship-mastery/?couponCode=SHOPNOW
 www.udemy.com/shopify-dropshipping-and-private-label-products-the-easy-way/
 www.udemy.com/shopify-dropshipping-business-light-the-complete-course/
@@ -12376,7 +12213,6 @@ www.udemy.com/short-and-sweet-selling-for-security-professionals/
 www.udemy.com/short-sell-day-trading-2-course-bundle-21-hrs/?couponCode=STHFREE1
 www.udemy.com/short-sell/?couponCode=STHFREE
 www.udemy.com/short-selling-stocks-masterclass/?couponCode=FACEBOOK2019
-www.udemy.com/short-selling-stocks-masterclass/?couponCode=X271527
 www.udemy.com/short-story-outlines-romance-3/?couponCode=OCT17FREE
 www.udemy.com/short-story-writing-step-by-step/
 www.udemy.com/shortcuts-to-success-think-grow-rich-condensed-and-fun/?couponCode=OHYEAH
@@ -12421,7 +12257,6 @@ www.udemy.com/sistema-erp-lexos-treinamento/
 www.udemy.com/six-fashion-personality-types/
 www.udemy.com/six-figure-cryptocurrency-investing-finance-your-future/?couponCode=LAUNCHPROMOCODE0001
 www.udemy.com/six-figure-job/?couponCode=NOVEMBER21
-www.udemy.com/six-keys-to-double-your-business/
 www.udemy.com/six-sigma-black-belt-training-course/
 www.udemy.com/six-sigma-green-belt-practice-with-high-quality-questions/?couponCode=NEEDFEEDBACK
 www.udemy.com/six-sigma-in-education/?couponCode=SIXSIGMAINEDUCATION
@@ -12482,7 +12317,6 @@ www.udemy.com/social-and-emotional-learning/
 www.udemy.com/social-app-with-swift-4-firebase-4-xcode-9-for-ios-11/
 www.udemy.com/social-brilliant/
 www.udemy.com/social-engineering-with-kali/?couponCode=LIMITED_TIME_FREE
-www.udemy.com/social-influence/?couponCode=32132312
 www.udemy.com/social-media-and-its-impact-on-the-logistic/
 www.udemy.com/social-media-content-marketing-complete-certificate-course/
 www.udemy.com/social-media-fame/
@@ -12512,7 +12346,6 @@ www.udemy.com/social-media-marketing-success-for-busy-entrepreneurs/?couponCode=
 www.udemy.com/social-media-marketing-to-grow-your-business/?couponCode=COMPLETE01
 www.udemy.com/social-media-marketing-to-grow-your-business/?couponCode=OCTOBERPRO10
 www.udemy.com/social-media-optimization-and-automation-with-hootsuite/?couponCode=FREE2BE
-www.udemy.com/social-media-optimization-marketing-tips/?couponCode=FREE2BE
 www.udemy.com/social-media-snapchat/?couponCode=SNAPCHAT
 www.udemy.com/social-report-tutorial/
 www.udemy.com/social-selling-strategy-for-success-in-the-digital-world/
@@ -12533,7 +12366,6 @@ www.udemy.com/software-architecture-and-design-analysis/?couponCode=SOFT-ARCH-DE
 www.udemy.com/software-architecture-complete-course/
 www.udemy.com/software-architecture-course/?couponCode=SOFT-ARCH
 www.udemy.com/software-architecture-for-developers/
-www.udemy.com/software-architecture-for-software-developers/?couponCode=PROMOFREE1
 www.udemy.com/software-architecture-for-the-enterprise-architect/
 www.udemy.com/software-architecture-uml-java-design-patterns-and-oop/?couponCode=FREEFREE
 www.udemy.com/software-architecture-uml-java-design-patterns-and-oop/?couponCode=FREENOW
@@ -12567,8 +12399,8 @@ www.udemy.com/solidity/?couponCode=FREECOUPON
 www.udemy.com/solidworks-2017-beginner-to-advanced-all-commands-included/
 www.udemy.com/solidworks-course-3d-modeling/?couponCode=2019GIFT
 www.udemy.com/solidworks-cswp-segment-1-training/
-www.udemy.com/solo-ad-mastery-secrets-build-a-private-100k-email-marketing-list/?couponCode=free2be
 www.udemy.com/solo-ad-mastery-secrets-build-a-private-100k-email-marketing-list/?couponCode=FREE2BE
+www.udemy.com/solo-ad-mastery-secrets-build-a-private-100k-email-marketing-list/?couponCode=free2be
 www.udemy.com/solo-ad-mastery-secrets-build-a-private-100k-email-marketing-list/?couponCode=FREESOLO
 www.udemy.com/solo-ad-secrets-how-to-generate-leads-for-your-business/
 www.udemy.com/solopreneur-success-guide-1-create-a-website-content-map/?couponCode=PROMOCOUPON
@@ -12602,7 +12434,6 @@ www.udemy.com/speak-arabic-course/
 www.udemy.com/speak-better-english/
 www.udemy.com/speak-english-idioms-learn-american-culture/
 www.udemy.com/speak-french-like-a-native/
-www.udemy.com/speak-learn-english-conversation-daily-foundation-b/
 www.udemy.com/speak-spanish-from-day-1/?couponCode=LOVELEARNING
 www.udemy.com/speaker-alaricong/
 www.udemy.com/speaking-american-english-idioms-slang-pronunciation-accents/
@@ -12658,7 +12489,6 @@ www.udemy.com/sql-and-rdbms/
 www.udemy.com/sql-crash-course-postgresql-for-beginners/
 www.udemy.com/sql-developer-in-depth-tips-and-techniques/
 www.udemy.com/sql-essentials-for-beginners/
-www.udemy.com/sql-essentials-ru/
 www.udemy.com/sql-essentials/
 www.udemy.com/sql-for-developers-and-analysts/
 www.udemy.com/sql-for-marketing-analysis/?couponCode=ABSQLFREE
@@ -12694,7 +12524,6 @@ www.udemy.com/squarespace-seo/
 www.udemy.com/squarespace/?couponCode=FREECOUPON
 www.udemy.com/squarespace/?couponCode=FREECOUPON1
 www.udemy.com/squarespace/?couponCode=FREECOUPON2
-www.udemy.com/squarespace/?couponCode=FREECOURSEMARCH
 www.udemy.com/sscp-systems-security-certified-practitioner-practice-exam/?couponCode=AWQOPH
 www.udemy.com/ssismaster/?couponCode=KJSPECIAL
 www.udemy.com/ssl-complete-guide/?couponCode=PROMOCOUPONS24
@@ -12707,7 +12536,6 @@ www.udemy.com/stand-out-with-unique-typography-designs/?couponCode=PROMOMAY
 www.udemy.com/standardization-and-iso-everything-you-need-to-know/
 www.udemy.com/start-3d-gis-web-development/
 www.udemy.com/start-a-blog-from-scratch/
-www.udemy.com/start-a-business-in-5-days-with-shopify-and-productlistgenie/
 www.udemy.com/start-a-business-in-8-steps/
 www.udemy.com/start-a-digital-marketing-home-business-short-edition/
 www.udemy.com/start-a-dropshipping-business-using-shopify-ebay-aliexpress/
@@ -12749,12 +12577,11 @@ www.udemy.com/starting-fsharp/
 www.udemy.com/starting-to-write/
 www.udemy.com/startup-and-go/?couponCode=startupfounder101
 www.udemy.com/startup-course-for-future-entrepreneurs/
-www.udemy.com/startup-growth-hacking-business-strategy-fundamentals/?couponCode=NOWFREE
 www.udemy.com/startup-growth-hacking-business-strategy-fundamentals/?couponcode=nowfree
+www.udemy.com/startup-growth-hacking-business-strategy-fundamentals/?couponCode=NOWFREE
 www.udemy.com/startup-incubators/
 www.udemy.com/startup-job/?couponCode=BBH_OCTOBER
 www.udemy.com/startup-journey/?couponCode=FREECD1
-www.udemy.com/startup-journey/?couponCode=M3DIUM
 www.udemy.com/startup-journey/?couponCode=PHILIP
 www.udemy.com/startup-journey/?couponCode=PHILIP1
 www.udemy.com/startup-roadmap-definition/
@@ -12804,7 +12631,6 @@ www.udemy.com/stock-screener/?couponCode=STHFREE1
 www.udemy.com/stock-trading-investing-in-stock-market-technical-analysis/?couponCode=FREENOW
 www.udemy.com/stock-trading-like-a-pro-for-beginners/
 www.udemy.com/stock-trading-performance-test-your-stock-trading-method/?couponCode=BHF201711111210
-www.udemy.com/stock-trading-simplified/?couponCode=2018FREE
 www.udemy.com/stock-trading-simplified/?couponCode=FREESTOCKS
 www.udemy.com/stockmarketsuccesssecretsauce/?couponCode=SOCIAL
 www.udemy.com/stocktrading1/?couponCode=STHFREE
@@ -12812,14 +12638,13 @@ www.udemy.com/stop-and-reverse-formula/
 www.udemy.com/stop-being-an-entrepreneur-stop-creating-startups/
 www.udemy.com/stop-drinking-alcohol-get-sober-from-home/?couponCode=FREEONLINECOURSES
 www.udemy.com/stop-holiday-weight-gain-3-tips-for-right-now-2019/
-www.udemy.com/stop-job-stress-financial-independence-in-7-steps/?couponCode=233438
 www.udemy.com/stop-motion-object-animation-using-davinci-resolve-bandlab/?couponCode=SMOAREDDIT_5_14
 www.udemy.com/stop-torturing-yourself/
 www.udemy.com/stop-waiting-start-loving-your-single-childfree-life/
 www.udemy.com/story-of-digital-banking/
 www.udemy.com/story-planner-para-escritores/
-www.udemy.com/story-selling-email-and-content-marketing-that-doubles-sales/?couponCode=free2be
 www.udemy.com/story-selling-email-and-content-marketing-that-doubles-sales/?couponCode=FREE2BE
+www.udemy.com/story-selling-email-and-content-marketing-that-doubles-sales/?couponCode=free2be
 www.udemy.com/story-selling-email-and-content-marketing-that-doubles-sales/?couponCode=HOWFREE
 www.udemy.com/story-structure-step-by-step/
 www.udemy.com/storytelling-with-data/?couponCode=STORY-MX-F42
@@ -12836,7 +12661,6 @@ www.udemy.com/strategies-for-ecommerce-growth-lessons/
 www.udemy.com/strategy-consulting-presentation/?couponCode=ENROLL
 www.udemy.com/strategy-for-beginners-course-101/
 www.udemy.com/street-workout/?couponCode=GET_GAINZ
-www.udemy.com/stress-free-hyperproductivity/
 www.udemy.com/stress-less-meditations/
 www.udemy.com/stress-management-by-meskacademy/
 www.udemy.com/stress-management-for-busy-people/
@@ -12908,7 +12732,6 @@ www.udemy.com/superfoods/?couponCode=sp0
 www.udemy.com/superhuman-motivation-100-ways-to-get-yourself-motivated/?couponCode=FREEEE2
 www.udemy.com/superhuman-testosterone-20-safe-natural-advanced-formula/
 www.udemy.com/supermanager/?couponCode=SUPERMANAGERFREE
-www.udemy.com/supersizing-intelligence/?couponCode=SUPERSIZE-INTEL01
 www.udemy.com/supply-chains-and-logistics/
 www.udemy.com/surds-algebra-as-a-level-mathematics/
 www.udemy.com/surpassing-pain-overcome-pain-for-good-and-radiate-health/?couponCode=FREEFEE
@@ -12920,7 +12743,6 @@ www.udemy.com/survival-chinese-for-travel-travel-phrases-in-chinese/?couponCode=
 www.udemy.com/survival-russian-language-course-for-football-fans/
 www.udemy.com/surviving-doomsday-learn-the-secrets-of-urban-survival/?couponCode=STARBUCKS
 www.udemy.com/surviving-for-the-zombie-apocalypse/?couponCode=STARBUCKS
-www.udemy.com/sustainable-engineering/
 www.udemy.com/sustainable-thinking-powerful-tool-for-change/
 www.udemy.com/suv-data-mxc/?couponCode=DATA-X34D3
 www.udemy.com/svac-c2-systemverilog-beginner-programming/
@@ -12954,7 +12776,6 @@ www.udemy.com/synthesis-with-reasons-europa/?couponCode=SYNTHESIS-EUROPA-YT2
 www.udemy.com/synthetic-intelligence-learning-git-with-github-and-gitlab/
 www.udemy.com/synthetic-intelligence-learning-git-with-github-and-gitlab/?couponCode=AAAA001
 www.udemy.com/synthetic-intelligence-learning-git-with-github-and-gitlab/?couponCode=AUGUST2
-www.udemy.com/system-design-based-on-business-processes/
 www.udemy.com/system-monitoring-tools-in-linux/
 www.udemy.com/system-security-plan-ssp-for-nist-800-171-compliance/
 www.udemy.com/t-shirt-business-wordpress-seo-mailchimp-steemit-course/
@@ -13027,7 +12848,6 @@ www.udemy.com/terraform-with-aws-and-infrastructure-as-code-with-terraform/
 www.udemy.com/test-your-c-programming-skills/
 www.udemy.com/testes-unidade-automaticos-software-junit/
 www.udemy.com/testes-unitarios-java/
-www.udemy.com/testing-using-postman/
 www.udemy.com/testlink_a_test_management_tool/
 www.udemy.com/testosterone-boosting-a-scientific-applicable-approach/
 www.udemy.com/the-10-essential-steps-for-success/
@@ -13053,7 +12873,6 @@ www.udemy.com/the-basic-javascript-coding-breakdown/
 www.udemy.com/the-basics-of-an-english-presentation/
 www.udemy.com/the-basics-of-recruitment/
 www.udemy.com/the-beginners-guide-to-amazon-affiliate-marketing-profits/
-www.udemy.com/the-beginning-guide-to-microsoft-powerpoint-2013/
 www.udemy.com/the-beginning-guide-to-microsoft-word-2013/
 www.udemy.com/the-best-passive-income-business/
 www.udemy.com/the-best-step-by-step-guide-to-trading-like-the-pros/
@@ -13252,9 +13071,7 @@ www.udemy.com/the_complete_javascript_course_for_beginners/
 www.udemy.com/theactorsacademy/
 www.udemy.com/thearduinoandelectronicsbootcamp/
 www.udemy.com/thebookofruth/
-www.udemy.com/thecompleteethicalhacking/
 www.udemy.com/thecompletepythonbootcamp/
-www.udemy.com/thegroundwork/
 www.udemy.com/thejudomanifesto/
 www.udemy.com/theosophy/
 www.udemy.com/theyoutube/
@@ -13368,7 +13185,6 @@ www.udemy.com/ultimate-beginners-guide-to-gamification-create-your-own/
 www.udemy.com/ultimate-dashi-making-course/
 www.udemy.com/ultimate-dividend-investing-course-with-proven-strategies/
 www.udemy.com/ultimate-fiverr-guide-for-beginners/
-www.udemy.com/ultimate-goal-setting-and-achieving/
 www.udemy.com/ultimate-guide-on-how-to-create-aliexpress-affiliate-stores/
 www.udemy.com/ultimate-guide-to-creating-engaging-presentations-with-prezi/
 www.udemy.com/ultimate-guide-to-selling-on-amazon/
@@ -13521,7 +13337,6 @@ www.udemy.com/vmware-vsphere-home-lab/
 www.udemy.com/vocabulary-and-grammar-used-for-eating-out/
 www.udemy.com/von-0-auf-10-kilometer/
 www.udemy.com/vray-materials-with-3ds-max/
-www.udemy.com/vsd-a-complete-guide-to-install-open-source-eda-tools/
 www.udemy.com/vtc-intermediate-oracle-11g-course/
 www.udemy.com/vue-2-crash-course/
 www.udemy.com/vuejs-2-basics-in-just-1-hour-free/
@@ -13578,7 +13393,6 @@ www.udemy.com/website-speed-optimization/
 www.udemy.com/webvr-virtual-reality-with-a-frame-from-scratch/
 www.udemy.com/wedding-planner-mba/
 www.udemy.com/weebly-website-seo/
-www.udemy.com/weight-loss-how-to-lose-15-kg-in-just-28-days/
 www.udemy.com/weircoxs-ultimate-atls-10-update-practice-test-questions/
 www.udemy.com/welcome-to-game-design-digital-games/
 www.udemy.com/welcome-to-game-design-game-design-canvas-semaphore/
@@ -13638,7 +13452,6 @@ www.udemy.com/wireframing-with-balsamiq-mockups/
 www.udemy.com/wireshark-2-fundementals/
 www.udemy.com/wireshark-network-analysis/
 www.udemy.com/wix-course/
-www.udemy.com/wix-website-tutorial-for-beginners/
 www.udemy.com/wix-website-wix-seo/
 www.udemy.com/woman-to-woman-empowering-women-globally-for-success/
 www.udemy.com/women-stroke/
@@ -13679,14 +13492,12 @@ www.udemy.com/wordpress-for-new-beginners-learn-customize-your-website/
 www.udemy.com/wordpress-formas-de-hacer-una-migracion-exitosa/
 www.udemy.com/wordpress-fur-anfanger/
 www.udemy.com/wordpress-hosting-with-plesk-on-lightsail/
-www.udemy.com/wordpress-iniciantes-crie-ums-site-profissional-mobile/
 www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor/
 www.udemy.com/wordpress-law-firm/
 www.udemy.com/wordpress-masterclass2018complete-wordpress-beginners-guide/
 www.udemy.com/wordpress-mastery-mailchimp-email-expert-yoast-seo-2018/
 www.udemy.com/wordpress-membership-website-for-affiliate-marketing/
 www.udemy.com/wordpress-multi-vendor-marketplace-ecommerce-website/
-www.udemy.com/wordpress-multilingual-site-with-one-database-and-one-installation/
 www.udemy.com/wordpress-para-iniciantes/
 www.udemy.com/wordpress-rest-api-and-ionic-3-crud/
 www.udemy.com/wordpress-seo-for-web-beginners/
@@ -13698,7 +13509,6 @@ www.udemy.com/wordpress-website-development-for-startups-entrepreneurs/
 www.udemy.com/wordpress-website-in-under-30-minutes-with-thrive-architect/
 www.udemy.com/wordpress-website-mastery-2017/
 www.udemy.com/wordpress-website-tutorial/
-www.udemy.com/wordpress-youtube-seo-2018-free-google-website/
 www.udemy.com/wordpressforecommerce/
 www.udemy.com/wordpressinstagramfacebook-ads-the-complete-course-2018/
 www.udemy.com/work-from-home-with-dropshipping-with-aliexpress-passive-income/
@@ -13735,7 +13545,6 @@ www.udemy.com/wunderlist-for-entrepreneurs-how-to-organize-your-projects/
 www.udemy.com/x86-adventures-part-1/
 www.udemy.com/xamarin-android-in-c-and-firebase/
 www.udemy.com/xamarin-forms-develop-native-ios-android-windows-apps/
-www.udemy.com/xaml-controls-for-windows-windows-phone-81-in-arabic/
 www.udemy.com/xcode-tips-and-tricks/
 www.udemy.com/xmpp-server-android-ios-chat-apps/
 www.udemy.com/xpaths-in-selenium-webdriver/
@@ -13773,12 +13582,10 @@ www.udemy.com/youtube-live-masterclass-complete-guide-to-audience-growth/
 www.udemy.com/youtube-marketing-from-scratch/
 www.udemy.com/youtube-marketing-success/
 www.udemy.com/youtube-marketing-tips/
-www.udemy.com/youtube-masterclass-complete-guide-to-youtube-success-2018/
 www.udemy.com/youtube-mastery-growth/
 www.udemy.com/youtube-promotion/
 www.udemy.com/youtube-secrets-how-to-launch-monetize-your-channel-2018/
 www.udemy.com/youtube-seo-how-to-grow-on-youtube-in-2018/
-www.udemy.com/youtube-seo-how-to-rank-1-on-youtube/
 www.udemy.com/youtube-seo-the-ultimate-guide/
 www.udemy.com/youtube-seo-tutorial-for-small-and-new-youtubers/
 www.udemy.com/youtube-success-affiliate-marketing-without-a-website/
