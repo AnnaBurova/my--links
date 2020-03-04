@@ -1,9 +1,9 @@
+-- 0002 --- https://ruseller.com/lessons.php?id=2
 0000 --- https://ruseller.com/adds.php --- 3297 --- 22 Июля 2017
 0000 --- https://ruseller.com/lessons.php --- 2911 --- 23 Ноября 2018
 0000 --- https://ruseller.com/project.php --- 26
 0000 --- https://ruseller.com/service.php --- 3299 --- 8 Мая 2019
 0000 zzz #######################################################################
-0002 --- https://ruseller.com/lessons.php?id=2
 0002 --- https://ruseller.com/project.php?id=2
 0003 --- https://ruseller.com/project.php?id=3
 0004 --- https://ruseller.com/project.php?id=4
