@@ -5,6 +5,9 @@
 0000 --- https://ruseller.com/service.php --- 3299 --- 8 Мая 2019
 0000 zzz #######################################################################
 0002 --- https://ruseller.com/project.php?id=2
+1264 --- https://ruseller.com/lessons.php?id=1264
+1265 --- https://ruseller.com/lessons.php?id=1265
+
 0003 --- https://ruseller.com/project.php?id=3
 0004 --- https://ruseller.com/project.php?id=4
 0005 --- https://ruseller.com/project.php?id=5
@@ -2332,9 +2335,7 @@
 1263 --- https://ruseller.com/adds.php?id=1263
 1263 --- https://ruseller.com/lessons.php?id=1263
 1264 --- https://ruseller.com/adds.php?id=1264
-1264 --- https://ruseller.com/lessons.php?id=1264
 1265 --- https://ruseller.com/adds.php?id=1265
-1265 --- https://ruseller.com/lessons.php?id=1265
 1266 --- https://ruseller.com/adds.php?id=1266
 1266 --- https://ruseller.com/lessons.php?id=1266
 1267 --- https://ruseller.com/adds.php?id=1267

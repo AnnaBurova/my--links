@@ -2301,4 +2301,3 @@
 288422991 --- https://vk.com/club288422991
 https://vk.com/app2758992
 https://vk.com/atlas_app
-https://vk.com/filatova_socionika

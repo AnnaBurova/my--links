@@ -319,7 +319,6 @@ www.al-balin.chat.ru/
 www.al-balin.chat.ru/16/rqst.htm
 www.alantippins.com/
 www.alaska.gov/
-www.alawar.ru/games/
 www.albumartcollection.com/
 www.alchourouk.com/
 www.aleksi.su/
