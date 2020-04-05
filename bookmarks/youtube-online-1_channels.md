@@ -39,6 +39,7 @@
 - [x] [TheBroadwayShow](https://www.youtube.com/channel/UCfWqafyV4h6S_U_QpjT-6Ew)
 - [x] [TheNafig](https://www.youtube.com/channel/UCuXYmUOJSbEH1x88WUV1aMg)
 - [x] [This is Хорошо](https://www.youtube.com/channel/UCPT9_sNLoBLjH1uea7zpVIA)
+- [x] [Utopia Show](https://www.youtube.com/channel/UC8M5YVWQan_3Elm-URehz9w)
 - [x] [varlamov](https://www.youtube.com/channel/UC101o-vQ2iOj9vr00JUlyKw)
 - [x] [Victor Storn](https://www.youtube.com/channel/UCeGFqJ2cUc3x_pYTaayGZMA)
 - [x] [Wronchi](https://www.youtube.com/channel/UCH16H-DNfB0yf1Gxv5XfFEA)
