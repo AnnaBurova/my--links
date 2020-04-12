@@ -14,7 +14,6 @@
 - [ ] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
-- [ ] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [ ] [LearnToProgram: Become a Web or Mobile Developer](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg)
 - [ ] [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 - [ ] [LessonFirst](https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ)
@@ -73,6 +72,7 @@
 - [x] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) --- 2019.06.27
 - [x] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) --- 2019.09.12
 - [x] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
+- [x] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) --- 2020.01.28
 - [x] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) --- 2020.04.02
 - [x] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ) --- 2020.04.11
 - [x] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA) --- 2020.04.12
