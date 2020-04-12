@@ -13,7 +13,6 @@
 - [ ] [jquery](https://www.youtube.com/channel/UCDT2QjewZ8DHsiaDXQFkxPg)
 - [ ] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
-- [ ] [knowcity](https://www.youtube.com/channel/UCYJYuuJTMwZxgJO_KYKIiYw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 - [ ] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [ ] [LearnToProgram: Become a Web or Mobile Developer](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg)
@@ -56,7 +55,6 @@
 - [ ] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw)
 - [ ] [Блог дизайнера фрилансера](https://www.youtube.com/channel/UCiF0YY5d84iFZrLrDsP7xRQ)
 - [ ] [Видеокурсы](https://www.youtube.com/channel/UCpRlxyP9_s0QJ8TdOMj3aRA)
-- [ ] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g)
 - [ ] [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
 - [ ] [Дизайн](https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtgrj9g)
 - [ ] [Евгений Попов](https://www.youtube.com/channel/UCA1KuDtQapiKD50wk_mVM-Q)
@@ -81,3 +79,4 @@
 - [x] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ) --- 2018.07.10
 - [x] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w) --- 2016.07.05
 - [x] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg) --- 2020.04.07
+- [x] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g) --- 2018.06.25
