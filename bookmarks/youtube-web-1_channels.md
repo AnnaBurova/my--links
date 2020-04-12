@@ -74,6 +74,7 @@
 - [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) --- 2020.03.23
 - [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) --- 2020.04.10
 - [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) --- 2020.03.10
+- [x] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw) --- 2020.04.10
 - [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) --- 2020.04.10
 - [x] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) --- 2019.06.27
 - [x] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) --- 2019.09.12
