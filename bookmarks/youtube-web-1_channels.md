@@ -22,7 +22,6 @@
 - [ ] [Michael Nikolaev](https://www.youtube.com/channel/UCVkuc9H3X8F0lAg5paPcwLg)
 - [ ] [Naveed Ziarab](https://www.youtube.com/channel/UCIzPhZKIYoXBYxuN3t4TU2g)
 - [ ] [Neil Rowe](https://www.youtube.com/channel/UCwHrYi0GL6dmYaRB0StEbEA)
-- [ ] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg)
 - [ ] [Pa Dam Tuts](https://www.youtube.com/channel/UCzKW1gIGnerPbsZD-C2QNpA)
 - [ ] [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w)
 - [ ] [Richard Stibbard](https://www.youtube.com/channel/UCBJnEkFKpFb2742_7cFmVzg)
@@ -59,6 +58,7 @@
 - [o] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) --- 2019.09.12
 - [o] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
 - [o] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) --- 2017.01.16
+- [o] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg) --- 2017.04.11
 - [o] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw) --- 2016.05.02
 - [o] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ) --- 2018.07.10
 - [o] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w) --- 2016.07.05
