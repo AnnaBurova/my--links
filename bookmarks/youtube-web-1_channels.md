@@ -1,6 +1,5 @@
 ## Web IT
 
-- [ ] [easydevtuts](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw)
 - [ ] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q)
 - [ ] [Garrett](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw)
 - [ ] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
@@ -53,6 +52,7 @@
 - [o] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) --- 2019.06.27
 - [o] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) --- 2019.09.12
 - [o] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew) --- 2016.03.31
+- [o] [easydevtuts](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw) --- 2019.09.07
 - [o] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
 - [o] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA) --- 2019.04.05
 - [o] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) --- 2017.01.16
