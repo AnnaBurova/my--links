@@ -69,14 +69,14 @@
 - [ ] [Учись - программированию - бесплатно](https://www.youtube.com/channel/UCYcOu-hGM8gqcXFU1jnFJtg)
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [ ] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg)
-- [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) --- 2020.02.13
+- [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) --- 2020.04.02
 - [x] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) --- 2019.03.29
 - [x] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) --- 2011.01.25
-- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) --- 2020.01.24
-- [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) --- 2019.11.06
-- [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) --- 2020.01.20
-- [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) --- 2020.02.20
+- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) --- 2020.03.23
+- [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) --- 2020.04.10
+- [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) --- 2020.03.10
+- [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) --- 2020.04.10
 - [x] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) --- 2019.06.27
 - [x] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ) --- 2018.07.10
 - [x] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w) --- 2016.07.05
-- [x] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg) --- 2020.02.20
+- [x] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg) --- 2020.04.07
