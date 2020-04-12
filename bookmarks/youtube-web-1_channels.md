@@ -40,7 +40,6 @@
 - [ ] [WEB iT xaver.ru Зарабатывай мозгами!](https://www.youtube.com/channel/UC4vsJ5PMS3qNN61ORVL05og)
 - [ ] [Webcamp курсы программирования](https://www.youtube.com/channel/UCc2xLoUejv78It0Tq61duaA)
 - [ ] [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg)
-- [ ] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 - [ ] [Webslesson](https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw)
 - [ ] [Блог дизайнера фрилансера](https://www.youtube.com/channel/UCiF0YY5d84iFZrLrDsP7xRQ)
 - [ ] [Видеокурсы](https://www.youtube.com/channel/UCpRlxyP9_s0QJ8TdOMj3aRA)
@@ -75,4 +74,5 @@
 - [x] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) --- 2020.04.02
 - [x] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ) --- 2020.04.11
 - [x] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA) --- 2020.04.12
+- [x] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) --- 2020.04.08
 - [x] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg) --- 2020.04.07
