@@ -10,7 +10,6 @@
 - [ ] [HappyDev](https://www.youtube.com/channel/UCf83OZg4OR3_X041zbTF1KA)
 - [ ] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
 - [ ] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
-- [ ] [jquery](https://www.youtube.com/channel/UCDT2QjewZ8DHsiaDXQFkxPg)
 - [ ] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
@@ -21,11 +20,9 @@
 - [ ] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA)
 - [ ] [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 - [ ] [Michael Nikolaev](https://www.youtube.com/channel/UCVkuc9H3X8F0lAg5paPcwLg)
-- [ ] [mjdwebdesign](https://www.youtube.com/channel/UCbVOdMD0f1YQqOBlaQ_dYKA)
 - [ ] [Naveed Ziarab](https://www.youtube.com/channel/UCIzPhZKIYoXBYxuN3t4TU2g)
 - [ ] [Neil Rowe](https://www.youtube.com/channel/UCwHrYi0GL6dmYaRB0StEbEA)
 - [ ] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg)
-- [ ] [O'Reilly](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw)
 - [ ] [Pa Dam Tuts](https://www.youtube.com/channel/UCzKW1gIGnerPbsZD-C2QNpA)
 - [ ] [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w)
 - [ ] [Richard Stibbard](https://www.youtube.com/channel/UCBJnEkFKpFb2742_7cFmVzg)
@@ -36,7 +33,6 @@
 - [ ] [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [ ] [TheDigiCraft](https://www.youtube.com/channel/UCw0ZIfZiV-BORQvok_cxNPw)
 - [ ] [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
-- [ ] [TheZorgHak | Hackers Time](https://www.youtube.com/channel/UCLjT3EDaFM5XC8-i1TpTS5g)
 - [ ] [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [ ] [Tuts+ Code](https://www.youtube.com/channel/UCd-EhXGbXSozuzsAAdPIn3A)
 - [ ] [Victor Melnik](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg)
@@ -46,7 +42,6 @@
 - [ ] [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg)
 - [ ] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 - [ ] [Webslesson](https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw)
-- [ ] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw)
 - [ ] [Блог дизайнера фрилансера](https://www.youtube.com/channel/UCiF0YY5d84iFZrLrDsP7xRQ)
 - [ ] [Видеокурсы](https://www.youtube.com/channel/UCpRlxyP9_s0QJ8TdOMj3aRA)
 - [ ] [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
@@ -68,6 +63,7 @@
 - [o] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw) --- 2016.05.02
 - [o] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ) --- 2018.07.10
 - [o] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w) --- 2016.07.05
+- [o] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw) --- 2014.04.13
 - [o] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g) --- 2018.06.25
 - [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) --- 2020.04.02
 - [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) --- 2020.03.23
