@@ -17,7 +17,6 @@
 - [ ] [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 - [ ] [LessonFirst](https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ)
 - [ ] [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
-- [ ] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA)
 - [ ] [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 - [ ] [Michael Nikolaev](https://www.youtube.com/channel/UCVkuc9H3X8F0lAg5paPcwLg)
 - [ ] [Naveed Ziarab](https://www.youtube.com/channel/UCIzPhZKIYoXBYxuN3t4TU2g)
@@ -57,6 +56,7 @@
 - [o] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) --- 2019.06.27
 - [o] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) --- 2019.09.12
 - [o] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
+- [o] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA) --- 2019.04.05
 - [o] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) --- 2017.01.16
 - [o] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg) --- 2017.04.11
 - [o] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw) --- 2016.05.02
