@@ -59,7 +59,6 @@
 - [ ] [Дизайн](https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtgrj9g)
 - [ ] [Евгений Попов](https://www.youtube.com/channel/UCA1KuDtQapiKD50wk_mVM-Q)
 - [ ] [Заказать бота](https://www.youtube.com/channel/UC7adbVu6XjmCnGyUml-O-xw)
-- [ ] [Образовательный портал GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ)
 - [ ] [Создание и продвижение сайтов](https://www.youtube.com/channel/UCWWfIyhjfJHdH1Kvx5p9gyg)
 - [ ] [Создание сайтов. Maxtop.org](https://www.youtube.com/channel/UCk4Gb1imUGYK5r6U3Xir4Rw)
 - [ ] [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw)
@@ -76,6 +75,7 @@
 - [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) --- 2020.04.10
 - [x] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) --- 2019.06.27
 - [x] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) --- 2019.09.12
+- [x] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
 - [x] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ) --- 2018.07.10
 - [x] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w) --- 2016.07.05
 - [x] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg) --- 2020.04.07
