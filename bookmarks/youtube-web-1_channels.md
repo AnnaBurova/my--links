@@ -28,7 +28,6 @@
 - [ ] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg)
 - [ ] [O'Reilly](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw)
 - [ ] [Pa Dam Tuts](https://www.youtube.com/channel/UCzKW1gIGnerPbsZD-C2QNpA)
-- [ ] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw)
 - [ ] [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w)
 - [ ] [Richard Stibbard](https://www.youtube.com/channel/UCBJnEkFKpFb2742_7cFmVzg)
 - [ ] [Roman Brovko](https://www.youtube.com/channel/UCiwYG9Bnxfaipnp5ckCSlQw)
@@ -74,6 +73,7 @@
 - [x] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
 - [x] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) --- 2020.01.28
 - [x] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) --- 2020.04.02
+- [x] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw) --- 2016.05.02
 - [x] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ) --- 2020.04.11
 - [x] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA) --- 2020.04.12
 - [x] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ) --- 2018.07.10
