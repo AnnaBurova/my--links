@@ -1,6 +1,5 @@
 ## Web IT
 
-- [ ] [Garrett](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw)
 - [ ] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [ ] [Google Web Designer](https://www.youtube.com/channel/UC2FYFz_AQaKBMyrZe1Rrqyg)
 - [ ] [HappyDev](https://www.youtube.com/channel/UCf83OZg4OR3_X041zbTF1KA)
@@ -70,6 +69,7 @@
 - [x] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A) --- 2020.04.07
 - [x] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) --- 2020.04.12
 - [x] [Framework Television](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg) --- 2020.03.11
+- [x] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw) --- 2020.03.26
 - [x] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) --- 2020.01.28
 - [x] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) --- 2020.04.02
 - [x] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ) --- 2020.04.11
