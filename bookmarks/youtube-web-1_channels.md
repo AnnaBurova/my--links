@@ -20,7 +20,6 @@
 - [ ] [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
 - [ ] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA)
 - [ ] [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
-- [ ] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg)
 - [ ] [Michael Nikolaev](https://www.youtube.com/channel/UCVkuc9H3X8F0lAg5paPcwLg)
 - [ ] [mjdwebdesign](https://www.youtube.com/channel/UCbVOdMD0f1YQqOBlaQ_dYKA)
 - [ ] [Naveed Ziarab](https://www.youtube.com/channel/UCIzPhZKIYoXBYxuN3t4TU2g)
@@ -73,6 +72,7 @@
 - [x] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
 - [x] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) --- 2020.01.28
 - [x] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) --- 2020.04.02
+- [x] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) --- 2017.01.16
 - [x] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw) --- 2016.05.02
 - [x] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ) --- 2020.04.11
 - [x] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA) --- 2020.04.12
