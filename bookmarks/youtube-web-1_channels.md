@@ -13,7 +13,6 @@
 - [ ] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
-- [ ] [LearnToProgram: Become a Web or Mobile Developer](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg)
 - [ ] [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 - [ ] [LessonFirst](https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ)
 - [ ] [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
@@ -70,6 +69,7 @@
 - [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) --- 2020.03.10
 - [x] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw) --- 2020.04.10
 - [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) --- 2020.04.10
+- [x] [Framework Television](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg) --- 2020.03.11
 - [x] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) --- 2020.01.28
 - [x] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) --- 2020.04.02
 - [x] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ) --- 2020.04.11
