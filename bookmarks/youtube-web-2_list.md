@@ -16040,6 +16040,7 @@
 [[ProgrammingKnowledge2]] --- 0403 --- https://www.youtube.com/watch?v=Q1J_gYinNMc --- How to Remove Network Shared Folder and Drive in Windows 10
 [[ProgrammingKnowledge2]] --- 0404 --- https://www.youtube.com/watch?v=A1KZVkgKLr4 --- React Tutorial | How To Setup Your First React App
 [[ProgrammingKnowledge2]] --- 0405 --- https://www.youtube.com/watch?v=JbnqLLIDnSw --- How to Extend C Drive in Windows 10 without any Software (2020)
+[[ProgrammingKnowledge2]] --- 0406 --- https://www.youtube.com/watch?v=nw1wMabaMx4 --- ✔️ How to Enable Developer Mode in Windows 10 (2020)
 [[ProgrammingKnowledge]] --- 0001 --- https://www.youtube.com/watch?v=gp-rmc78YCo --- Whole java netbeans Project (jtable , jdatepicker ,itext , Login , Signout ,iReport and more...)
 [[ProgrammingKnowledge]] --- 0002 --- https://www.youtube.com/watch?v=v-JM749op-8 --- Java prog#1. Create netbeans project and download SQLite Manager from firefox (web browser)
 [[ProgrammingKnowledge]] --- 0003 --- https://www.youtube.com/watch?v=-pDR2Emdzzc --- Java prog#2 . Database Connection (Sqlite or MySQL ) to Java
@@ -18046,6 +18047,8 @@
 [[ProgrammingKnowledge]] --- 2004 --- https://www.youtube.com/watch?v=3iuoQkQOx2w --- Go Tutorial (Golang) 1 - Introduction to Go Programming Language
 [[ProgrammingKnowledge]] --- 2005 --- https://www.youtube.com/watch?v=TRODv6UTXpM --- Django Tutorial for Beginners 24 - Adding Suggestions during Search Bar
 [[ProgrammingKnowledge]] --- 2006 --- https://www.youtube.com/watch?v=WnYJ7o1qxSI --- Microsoft Excel Tutorial 22 - Name Array in MS Excel
+[[ProgrammingKnowledge]] --- 2007 --- https://www.youtube.com/watch?v=dlGtSoigdB0 --- How to Create RESTful API in PHP | RESTful API With PHP & MySQL
+[[ProgrammingKnowledge]] --- 2008 --- https://www.youtube.com/watch?v=fHtYpO-IQ6A --- Flutter Tutorial for Beginners 10 - AppBar Basics in Flutter
 [[Udemy Tech]] --- 0001 --- https://www.youtube.com/watch?v=tBCdvX8MSRc --- Python Tutorial: Learn Python In One Video (2018) - Ardit Sulce
 [[Udemy Tech]] --- 0002 --- https://www.youtube.com/watch?v=x_d5ehSYtc0 --- Arduino for Beginners: Functions - Shawn Hymel
 [[Udemy Tech]] --- 0003 --- https://www.youtube.com/watch?v=3gnLwSI4d9E --- Microsoft Azure for Beginners: Introduction - Scott Duffy
@@ -19484,6 +19487,7 @@
 [[WebForMySelf]] --- 0997 --- https://www.youtube.com/watch?v=41dgtLV54Qs --- C#. Создание приложения для отслеживания счетов с использованием ASP .NET Razor Pages. Часть 3
 [[WebForMySelf]] --- 0998 --- https://www.youtube.com/watch?v=3sX_MQ08WVI --- C#. Создание приложения для отслеживания счетов с использованием ASP .NET Razor Pages. Часть 4
 [[WebForMySelf]] --- 0999 --- https://www.youtube.com/watch?v=h2z-D5jw9cQ --- C#. Создание приложения для отслеживания счетов с использованием ASP .NET Razor Pages. Часть 5
+[[WebForMySelf]] --- 1000 --- https://www.youtube.com/watch?v=c45cBujMQAs --- Урок 1. Django. Быстрый старт. Установка виртуального окружения
 [[webtheory]] --- 0001 --- https://www.youtube.com/watch?v=BKTMBZlQRKA --- Вид новости с использованием jQuery
 [[webtheory]] --- 0002 --- https://www.youtube.com/watch?v=PuStSH4yVM4 --- Навигация с использованием jQuery
 [[webtheory]] --- 0003 --- https://www.youtube.com/watch?v=c-eQ9oAe4OM --- Установка сайта на бесплатный хостинг
