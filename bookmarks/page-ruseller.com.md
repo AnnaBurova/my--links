@@ -1,14 +1,29 @@
 -- 0002 --- https://ruseller.com/lessons.php?id=2
+-- 0013 --- https://ruseller.com/adds.php?id=13
+-- 0014 --- https://ruseller.com/adds.php?id=14
+-- 0015 --- https://ruseller.com/adds.php?id=15
+-- 0046 --- https://ruseller.com/lessons.php?id=46
+0016 --- https://ruseller.com/adds.php?id=16
+
 0000 --- https://ruseller.com/adds.php --- 3297 --- 22 Июля 2017
 0000 --- https://ruseller.com/lessons.php --- 2911 --- 23 Ноября 2018
 0000 --- https://ruseller.com/project.php --- 26
 0000 --- https://ruseller.com/service.php --- 3299 --- 8 Мая 2019
+
 0000 zzz #######################################################################
+
+1996 --- https://ruseller.com/service.php?id=1996
+0048 --- https://ruseller.com/lessons.php?id=48
+0017 --- https://ruseller.com/adds.php?id=17
+
 0002 --- https://ruseller.com/project.php?id=2
 1264 --- https://ruseller.com/lessons.php?id=1264
 1265 --- https://ruseller.com/lessons.php?id=1265
 
 0003 --- https://ruseller.com/project.php?id=3
+1277 --- https://ruseller.com/lessons.php?id=1277
+1279 --- https://ruseller.com/lessons.php?id=1279
+
 0004 --- https://ruseller.com/project.php?id=4
 0005 --- https://ruseller.com/project.php?id=5
 0006 --- https://ruseller.com/project.php?id=6
@@ -17,15 +32,10 @@
 0010 --- https://ruseller.com/project.php?id=10
 0011 --- https://ruseller.com/project.php?id=11
 0012 --- https://ruseller.com/project.php?id=12
-0013 --- https://ruseller.com/adds.php?id=13
 0013 --- https://ruseller.com/project.php?id=13
-0014 --- https://ruseller.com/adds.php?id=14
 0014 --- https://ruseller.com/project.php?id=14
-0015 --- https://ruseller.com/adds.php?id=15
 0015 --- https://ruseller.com/project.php?id=15
-0016 --- https://ruseller.com/adds.php?id=16
 0016 --- https://ruseller.com/project.php?id=16
-0017 --- https://ruseller.com/adds.php?id=17
 0017 --- https://ruseller.com/project.php?id=17
 0018 --- https://ruseller.com/adds.php?id=18
 0018 --- https://ruseller.com/project.php?id=18
@@ -65,10 +75,8 @@
 0044 --- https://ruseller.com/adds.php?id=44
 0045 --- https://ruseller.com/adds.php?id=45
 0046 --- https://ruseller.com/adds.php?id=46
-0046 --- https://ruseller.com/lessons.php?id=46
 0047 --- https://ruseller.com/adds.php?id=47
 0048 --- https://ruseller.com/adds.php?id=48
-0048 --- https://ruseller.com/lessons.php?id=48
 0049 --- https://ruseller.com/adds.php?id=49
 0049 --- https://ruseller.com/lessons.php?id=49
 0050 --- https://ruseller.com/adds.php?id=50
@@ -2356,11 +2364,9 @@
 1276 --- https://ruseller.com/adds.php?id=1276
 1276 --- https://ruseller.com/lessons.php?id=1276
 1277 --- https://ruseller.com/adds.php?id=1277
-1277 --- https://ruseller.com/lessons.php?id=1277
 1278 --- https://ruseller.com/adds.php?id=1278
 1278 --- https://ruseller.com/lessons.php?id=1278
 1279 --- https://ruseller.com/adds.php?id=1279
-1279 --- https://ruseller.com/lessons.php?id=1279
 1280 --- https://ruseller.com/adds.php?id=1280
 1280 --- https://ruseller.com/lessons.php?id=1280
 1281 --- https://ruseller.com/lessons.php?id=1281
@@ -3615,7 +3621,6 @@
 1995 --- https://ruseller.com/adds.php?id=1995
 1995 --- https://ruseller.com/lessons.php?id=1995
 1996 --- https://ruseller.com/lessons.php?id=1996
-1996 --- https://ruseller.com/service.php?id=1996
 1997 --- https://ruseller.com/adds.php?id=1997
 1997 --- https://ruseller.com/lessons.php?id=1997
 1998 --- https://ruseller.com/adds.php?id=1998
