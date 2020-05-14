@@ -41,36 +41,37 @@
 - [ ] [Учись - программированию - бесплатно](https://www.youtube.com/channel/UCYcOu-hGM8gqcXFU1jnFJtg)
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [ ] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg)
-- [o] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) --- 2019.03.29
-- [o] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) --- 2011.01.25
-- [o] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) --- 2019.06.27
-- [o] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) --- 2019.09.12
-- [o] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew) --- 2016.03.31
-- [o] [easydevtuts](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw) --- 2019.09.07
-- [o] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ) --- 2019.12.30
-- [o] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA) --- 2019.12.13
-- [o] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA) --- 2019.04.05
-- [o] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) --- 2017.01.16
-- [o] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg) --- 2017.04.11
-- [o] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw) --- 2016.05.02
-- [o] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ) --- 2018.07.10
-- [o] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w) --- 2016.07.05
-- [o] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw) --- 2014.04.13
-- [o] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g) --- 2018.06.25
-- [x] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) --- 2020.04.02
-- [x] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) --- 2020.03.23
-- [x] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) --- 2020.04.10
-- [x] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) --- 2020.03.10
-- [x] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw) --- 2020.04.10
-- [x] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) --- 2020.04.10
-- [x] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A) --- 2020.04.07
-- [x] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) --- 2020.04.12
-- [x] [Framework Television](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg) --- 2020.03.11
-- [x] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw) --- 2020.03.26
-- [x] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) --- 2020.04.08
-- [x] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) --- 2020.01.28
-- [x] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) --- 2020.04.02
-- [x] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ) --- 2020.04.11
-- [x] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA) --- 2020.04.12
-- [x] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) --- 2020.04.08
-- [x] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg) --- 2020.04.07
+- [2011.01.25] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA)
+- [2014.04.13] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw)
+- [2016.03.31] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew)
+- [2016.05.02] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw)
+- [2016.07.05] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w)
+- [2017.01.16] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg)
+- [2017.04.11] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg)
+- [2018.06.25] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g)
+- [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ)
+- [2019.04.05] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA)
+- [2019.06.27] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [2019.09.07] [easydevtuts](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw)
+- [2019.09.12] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ)
+- [2020.01.28] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+- [2020.03.11] [Framework Television](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg)
+- [2020.03.26] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw)
+- [2020.04.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A)
+- [2020.04.21] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
+- [2020.04.25] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
+- [2020.04.27] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
+- [2020.04.28] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
+- [2020.04.30] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
+- [2020.05.12] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
+- [2020.05.12] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ)
+- [2020.05.12] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+- [2020.05.13] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
+- [2020.05.13] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+- [2020.05.13] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q)
+- [2020.05.14] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [2020.05.14] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
+- [2020.05.14] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
+- [2020.05.14] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
+- [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
+- [2020.05.14] TODAY --- How To Reset Windows 10 From The Login Screen (2020) --- ProgrammingKnowledge2
