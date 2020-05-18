@@ -4319,6 +4319,7 @@
 [[DesignCourse]] --- 0775 --- https://www.youtube.com/watch?v=iMbb0qSat8U --- 3 CSS Psuedo-Classes You Didn't Know About! They ROCK!
 [[DesignCourse]] --- 0776 --- https://www.youtube.com/watch?v=oFojbY5u4CM --- Why can't YOU find clients? Hint: It's not them..
 [[DesignCourse]] --- 0777 --- https://www.youtube.com/watch?v=sfkF8aBT4dw --- How do you Design a Layout with a TON of Content?!
+[[DesignCourse]] --- 0778 --- https://www.youtube.com/watch?v=Za9gMG12uvU --- Would I personally HIRE you? Let's find out
 [[DevTips]] --- 0001 --- https://www.youtube.com/watch?v=nTYP4IZvLWw --- Welcome to Dev Tips!
 [[DevTips]] --- 0002 --- https://www.youtube.com/watch?v=NzzGt7EmXVw --- HTML5 Basics - History of HTML (Part1)
 [[DevTips]] --- 0003 --- https://www.youtube.com/watch?v=2R8_Yt8UjBo --- HTML5 Basics - Philosophy of HTML5 (Part2)
@@ -8130,6 +8131,7 @@
 [[Envato Tuts+]] --- 3027 --- https://www.youtube.com/watch?v=PQW7ft9vcks --- How to Use Elementor Templates
 [[Envato Tuts+]] --- 3028 --- https://www.youtube.com/watch?v=2_d38FjZ3yY --- How to Change the Site Title in WordPress
 [[Envato Tuts+]] --- 3029 --- https://www.youtube.com/watch?v=IFXgsXPPoAU --- Mastering Script Lettering | FREE COURSE
+[[Envato Tuts+]] --- 3030 --- https://www.youtube.com/watch?v=DZpPhCGoPLg --- Ambient Chill Music [Full Tracks] | Royalty Free Background Music
 [[Framework Television]] --- 0001 --- https://www.youtube.com/watch?v=UfBvTsF3fqU --- HTML Tutorial 1: HTML Document
 [[Framework Television]] --- 0002 --- https://www.youtube.com/watch?v=jW1JmeLBWwk --- HTML Tutorial 2: HTML Header
 [[Framework Television]] --- 0003 --- https://www.youtube.com/watch?v=Xi6XBQPym2I --- HTML Tutorial 3: HTML Horizontal Rule
@@ -9559,6 +9561,7 @@
 [[GeekBrains]] --- 0845 --- https://www.youtube.com/watch?v=hSJbiDIDycE --- Профессия тестировщик программного обеспечения: кто это?
 [[GeekBrains]] --- 0846 --- https://www.youtube.com/watch?v=QuH3P3KLmqQ --- Профессия Веб разработчик: кто это?
 [[GeekBrains]] --- 0847 --- https://www.youtube.com/watch?v=2WmnItaRULg --- Как стать разработчиком игр | GeekBrains
+[[GeekBrains]] --- 0848 --- https://www.youtube.com/watch?v=VCm6yUg2QNM --- Игры, которые помогут вам в изучении HTML и CSS
 [[Google Chrome Developers]] --- 0001 --- https://www.youtube.com/watch?v=Vp524yo0p44 --- Chrome DevTools Timeline's new Frame Mode
 [[Google Chrome Developers]] --- 0002 --- https://www.youtube.com/watch?v=sR8Zy5VpnWU --- HTML5Rocks Live, Episode 4
 [[Google Chrome Developers]] --- 0003 --- https://www.youtube.com/watch?v=626CEirW5to --- Bravest Man in the Universe - Mobile Chrome Experiment Teaser
@@ -16804,6 +16807,10 @@
 [[ProgrammingKnowledge2]] --- 0449 --- https://www.youtube.com/watch?v=BONPChjINn4 --- How to Download & Install CPU-Z on Windows 10 (2020)
 [[ProgrammingKnowledge2]] --- 0450 --- https://www.youtube.com/watch?v=sQCibUOAgJ8 --- How to check RAM, Memory and System Specs on Windows 10
 [[ProgrammingKnowledge2]] --- 0451 --- https://www.youtube.com/watch?v=Iwvo0cgldlw --- How To Reset Windows 10 From The Login Screen (2020)
+[[ProgrammingKnowledge2]] --- 0452 --- https://www.youtube.com/watch?v=6gYV1VjV7n0 --- Installing Ubuntu 20.04 On Windows 10 on VirtualBox + Install VirtualBox Guest Additions on Ubuntu
+[[ProgrammingKnowledge2]] --- 0453 --- https://www.youtube.com/watch?v=xcWzunyzM-U --- How to Activate New Hard Drives and SSD’s Not Showing Up on Windows 10 (2020)
+[[ProgrammingKnowledge2]] --- 0454 --- https://www.youtube.com/watch?v=otOU2gG-eHc --- How To Increase Local Disk Space on Windows 10 (Without Formatting or Losing data) (2020)
+[[ProgrammingKnowledge2]] --- 0455 --- https://www.youtube.com/watch?v=IPojmH-voYg --- How to Factory Reset Windows 10 (2 Ways) [2020]
 [[ProgrammingKnowledge]] --- 0001 --- https://www.youtube.com/watch?v=gp-rmc78YCo --- Whole java netbeans Project (jtable , jdatepicker ,itext , Login , Signout ,iReport and more...)
 [[ProgrammingKnowledge]] --- 0002 --- https://www.youtube.com/watch?v=v-JM749op-8 --- Java prog#1. Create netbeans project and download SQLite Manager from firefox (web browser)
 [[ProgrammingKnowledge]] --- 0003 --- https://www.youtube.com/watch?v=-pDR2Emdzzc --- Java prog#2 . Database Connection (Sqlite or MySQL ) to Java
@@ -18906,6 +18913,13 @@
 [[ProgrammingKnowledge]] --- 2100 --- https://www.youtube.com/watch?v=_SH1T3y_D7o --- Object Oriented Programming in C++ | C++ OOPs Concepts | Learn Object Oriented C++
 [[ProgrammingKnowledge]] --- 2101 --- https://www.youtube.com/watch?v=SwYikLw6YEY --- How to Build A Todo App With Django - PART 4 - Sort By Priority - TodoApp
 [[ProgrammingKnowledge]] --- 2102 --- https://www.youtube.com/watch?v=mcixZ9Im-2Q --- Lean Java Methods With Examples | Creating Method, Calling, Passing Parameters, Method Overriding
+[[ProgrammingKnowledge]] --- 2103 --- https://www.youtube.com/watch?v=kK5_zTbnEDU --- PyQt5 Tutorial | Learn GUI programming with Python and PyQt5 | Master the Basics of Qt5 GUI
+[[ProgrammingKnowledge]] --- 2104 --- https://www.youtube.com/watch?v=Om-4U2a2PYA --- Go Tutorial (Golang) 3 - Golang Variables - Declaring Variables in Go - How To Use Variables in Go
+[[ProgrammingKnowledge]] --- 2105 --- https://www.youtube.com/watch?v=SQWy_J2txsI --- Go Tutorial (Golang) 4 - Variables Naming Convention and Visibility modes and Type Conversion
+[[ProgrammingKnowledge]] --- 2106 --- https://www.youtube.com/watch?v=3omkZ6XjP2E --- Microsoft Excel Tutorial 47 - Dependent Dropdown Lists in MS Excel
+[[ProgrammingKnowledge]] --- 2107 --- https://www.youtube.com/watch?v=WpffgMoIXdU --- Firebase Android Tutorial 34 - Instagram Like App using Firebase (Part 26) EditProfileFeature
+[[ProgrammingKnowledge]] --- 2108 --- https://www.youtube.com/watch?v=EMg9onUwKD0 --- Microsoft Excel Tutorial 48 - Summary Report in MS Excel | How to Create an Excel Summary Report
+[[ProgrammingKnowledge]] --- 2109 --- https://www.youtube.com/watch?v=aMKUuaga85A --- How to Install Docker On Ubuntu 20.04 LTS Focal Fossa
 [[Udemy Tech]] --- 0001 --- https://www.youtube.com/watch?v=tBCdvX8MSRc --- Python Tutorial: Learn Python In One Video (2018) - Ardit Sulce
 [[Udemy Tech]] --- 0002 --- https://www.youtube.com/watch?v=x_d5ehSYtc0 --- Arduino for Beginners: Functions - Shawn Hymel
 [[Udemy Tech]] --- 0003 --- https://www.youtube.com/watch?v=3gnLwSI4d9E --- Microsoft Azure for Beginners: Introduction - Scott Duffy
@@ -20357,6 +20371,7 @@
 [[WebForMySelf]] --- 1010 --- https://www.youtube.com/watch?v=qZ1vqYWFjfg --- Урок 2. REST API на примере Codeigniter. Маршрутизация, контроллеры и модели
 [[WebForMySelf]] --- 1011 --- https://www.youtube.com/watch?v=4DkvZ3RTFm8 --- PHP-DI - сервис контейнер
 [[WebForMySelf]] --- 1012 --- https://www.youtube.com/watch?v=1A40ABzgLHY --- TinyPng API. Оптимизация и ресайз изображений
+[[WebForMySelf]] --- 1013 --- https://www.youtube.com/watch?v=Ro09Ry2e6pE --- RemoveBg API. Удаление фона изображений
 [[webtheory]] --- 0001 --- https://www.youtube.com/watch?v=BKTMBZlQRKA --- Вид новости с использованием jQuery
 [[webtheory]] --- 0002 --- https://www.youtube.com/watch?v=PuStSH4yVM4 --- Навигация с использованием jQuery
 [[webtheory]] --- 0003 --- https://www.youtube.com/watch?v=c-eQ9oAe4OM --- Установка сайта на бесплатный хостинг
