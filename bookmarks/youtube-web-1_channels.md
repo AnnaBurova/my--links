@@ -1,6 +1,5 @@
 ## Web IT
 
-- [ ] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [ ] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
@@ -73,5 +72,6 @@
 - [2020.05.15] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q)
 - [2020.05.15] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ)
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
+- [2020.05.17] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
 - [2020.05.18] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
