@@ -1,6 +1,5 @@
 ## Web IT
 
-- [ ] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 - [ ] [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
@@ -49,6 +48,7 @@
 - [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ)
 - [2018.10.05] [javannimon119](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg)
 - [2019.04.05] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA)
+- [2019.04.06] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [2019.06.27] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [2019.09.07] [easydevtuts](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw)
 - [2019.09.12] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ)
