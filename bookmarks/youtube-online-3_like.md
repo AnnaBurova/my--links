@@ -73,6 +73,7 @@
 - [Данила Поперечный - Реальная история 01: ПОДМЕНА ПЕТРА I](https://www.youtube.com/watch?v=EfWf2abzr_c) - 2016
 - [Данила Поперечный - Реальная история 02: ПУШКИН](https://www.youtube.com/watch?v=M-ComgBZAOQ) - 2017
 - [Данила Поперечный - Реальная история 03: ТАТАРО-МОНГОЛЬСКОЕ ИГО](https://www.youtube.com/watch?v=KpBAl5Mf7dQ) - 2017
+- [Данила Поперечный - Что такое "BURNING MAN"](https://www.youtube.com/watch?v=96a9PPpNHL4) - 2017
 - [Джордж Карлин - Планета в порядке](https://www.youtube.com/watch?v=H2v72sl76cE) - 2014
 - [Кит Харрингтон и Беззубик на кастинге сериала "Игра Престолов"](https://www.youtube.com/watch?v=DqNxoCnUub0) - 2019
 - [КликКлакБэнд - Дон Ягон](https://www.youtube.com/watch?v=rWNfAxV6aHM) - 2014
