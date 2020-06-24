@@ -1,3 +1,5 @@
+>>> Code - Helpers - Online Codetester - https://jsbin.com/
+________________________________________________________________________________
 chrome-extension://aipponleffijlkmflgnaheobjbpicfkc/sociovk.js
 chrome://apps/
 chrome://bookmarks/
@@ -9273,7 +9275,6 @@ www.jqueryui.com/latest/ui/ui.slider.js
 www.jqueryui.com/themeroller/
 www.jqueryui.com/tooltip/
 www.jsanim.com/
-www.jsbin.com/
 www.jsbin.com/acayef/1/edit
 www.jsbin.com/ahesaz/1/edit
 www.jsbin.com/aqaku
