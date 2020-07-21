@@ -19,8 +19,6 @@ www.123freevectors.com/
 www.123freevectors.com/free-vector-download/free-vector-art/
 www.1340.ru/
 www.16personalities.com/ru
-www.180.211.99.162/
-www.180.211.99.162/design/dribbble/free_voyage_template.zip
 www.1c-answer.ru/
 www.1kbgrid.com/
 www.1lydesign.com/
@@ -108,7 +106,6 @@ www.4pda.ru/2011/11/09/49688/
 www.4pda.ru/forum/lofiversion/index.php?t480973.html
 www.4users.info/potreblenie-pamyati-brauzerami/
 www.5gbfree.com/
-www.70378/
 www.7428.net/
 www.7428.net/category/free-vector
 www.8020select.com/
@@ -116,12 +113,6 @@ www.83424.ru/
 www.85ideas.com/
 www.85ideas.com/public-releases/wordpress-theme-wooshop/
 www.89bytes.com/
-www.8e9c/
-www.95.213.140.66/
-www.95.213.140.66/freebie/little_cutie.zip
-www.95.213.140.66/freebie/Logawa-Script.zip
-www.95.213.140.66/freebie/sitka.zip
-www.95.213.140.66/freebie/Vintage_Photo_Press-Freebies.zip
 www.960.gs/
 www.99designs.com/
 www.99designs.com/blog/design-tutorials/create-an-app-icon-using-photoshop-in-20-easy-steps/
