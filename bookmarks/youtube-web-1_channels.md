@@ -14,6 +14,8 @@
 - [ ] [Roman Brovko](https://www.youtube.com/channel/UCiwYG9Bnxfaipnp5ckCSlQw)
 - [ ] [splincode wd](https://www.youtube.com/channel/UC8xfERWMN3YMcQrM260ABtw)
 - [ ] [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+https://www.youtube.com/channel/UCNW7HDseZb6N3nKUEP6uLag/videos
+https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos
 - [ ] [TheDigiCraft](https://www.youtube.com/channel/UCw0ZIfZiV-BORQvok_cxNPw)
 - [ ] [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [ ] [Tuts+ Code](https://www.youtube.com/channel/UCd-EhXGbXSozuzsAAdPIn3A)
