@@ -33,7 +33,7 @@
 - [ ] [Веб-страница](https://t.me/tproger_web/1)
 - [ ] [Кодоголик](https://t.me/kodogolik/1)
 - [ ] [Мамкин программист](https://t.me/mamprog/1)
-- [ ] [Облако](https://t.me/cloudcourse/1)
+- [ ] [Облако MEGASLIV.BIZ | Мегаслив](https://t.me/cloudcourse/1)
 - [ ] [Представляешь,](https://t.me/your_tech/1)
 - [ ] [Программист](https://t.me/progeri/1)
 - [ ] [Продакшн](https://t.me/prod_one/1)
