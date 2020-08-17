@@ -4,11 +4,11 @@
 - [ArhyBES - BATMETAL FOREVER](https://www.youtube.com/watch?v=SDea7laHD4E) - 2018
 - [ArhyBES - BATMETAL RETURNS](https://www.youtube.com/watch?v=I53HDr0-Qew) - 2015
 - [ArhyBES - BATMETAL](https://www.youtube.com/watch?v=qatmJtIJAPw) - 2014
-- [Barcoders Jamming](https://www.youtube.com/watch?v=bOfpQt4KFCc) - 2020
 - [BELZEBUBS - Cathedrals Of Mourning](https://www.youtube.com/watch?v=SkdkZN1rduo) - 2019
 - [Biopsyhoz - Лицом к лицу](https://www.youtube.com/watch?v=nvrVl6d4NYg) - 2019
 - [Blizcon Closing Ceremony - Weird Al Yankovic](https://www.youtube.com/watch?v=ugfTu9tX8nQ) - 2016
 - [Boston 168 - Oblivion And Vapor](https://www.youtube.com/watch?v=awPo_VZabRc) - 2017
+- [ELECTRONICOS FANTASTICOS! - Barcoders Jamming](https://www.youtube.com/watch?v=bOfpQt4KFCc) - 2020
 - [Guild Wars 1 - Fire of Spirit](https://www.youtube.com/watch?v=G0kQICdlAIs) - 2006
 - [JARED DINES - ЧТО БЕСИТ БАРАБАНЩИКОВ](https://www.youtube.com/watch?v=qPjW3BYdvxU) - 2017
 - [JARED DINES - ЧТО БЕСИТ ГИТАРИСТОВ](https://www.youtube.com/watch?v=NUu7vF356D8) - 2017
