@@ -4,6 +4,7 @@
 - [ArhyBES - BATMETAL FOREVER](https://www.youtube.com/watch?v=SDea7laHD4E) - 2018
 - [ArhyBES - BATMETAL RETURNS](https://www.youtube.com/watch?v=I53HDr0-Qew) - 2015
 - [ArhyBES - BATMETAL](https://www.youtube.com/watch?v=qatmJtIJAPw) - 2014
+- [Barcoders Jamming](https://www.youtube.com/watch?v=bOfpQt4KFCc) - 2020
 - [BELZEBUBS - Cathedrals Of Mourning](https://www.youtube.com/watch?v=SkdkZN1rduo) - 2019
 - [Biopsyhoz - Лицом к лицу](https://www.youtube.com/watch?v=nvrVl6d4NYg) - 2019
 - [Blizcon Closing Ceremony - Weird Al Yankovic](https://www.youtube.com/watch?v=ugfTu9tX8nQ) - 2016
