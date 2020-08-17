@@ -51,6 +51,28 @@
 - [x] [Udemy Courses Free](https://t.me/udemycoursesfree/1066) - page-udemy.com.md
 - [x] [UdemyGratis](https://t.me/UdemyGratis/18690) - page-udemy.com.md
 
+## Travel blogs - Germany
+
+- [ ] [(Не) только немецкий](https://t.me/nichtnurdeutsch/1)
+- [ ] [Der Kanal](https://t.me/austriakanal/1)
+- [ ] [ES Blog](https://t.me/es_blog/1)
+- [ ] [Russian in Germany](https://t.me/survival_bias/1)
+- [ ] [Travelclever](https://t.me/travelclever/1)
+- [ ] [Trisch about life](https://t.me/trischme/1)
+- [ ] [Германия и Право](https://t.me/gratis_recht/1)
+- [ ] [Глазами Богдана](https://t.me/bogdandevisu/1)
+- [ ] [Жизнь в Германии](https://t.me/lifegermany/1)
+- [ ] [Карьера в Германии](https://t.me/ingermany/1)
+- [ ] [Мюнхен наш! / Munich is ours! / München ist unser!](https://t.me/munichIsOur/1)
+- [ ] [Мюнхенский студент](https://t.me/munich_student/1)
+- [ ] [Немецкие мюсли](https://t.me/nemusli/1)
+- [ ] [Немецкие очки](https://t.me/z_u_z_ru/1)
+- [ ] [Пейсы и дожди](https://t.me/pasesandsand/1)
+- [ ] [Пришелец](https://t.me/rusdeutschland/1)
+- [ ] [Что там у немцев?](https://t.me/dwrussian/1)
+- [ ] [Шакшука по-немецки](https://t.me/shakshuka_de/1)
+- [x] [Corona-Infokanal des Bundesministeriums für Gesundheit](https://t.me/corona_infokanal_bmg/1)
+
 ## Elsewhat
 
 - [ ] []()
