@@ -1,6 +1,5 @@
 ## Web IT
 
-- [ ] []()
 - [ ] [BZD • Книги для программистов](https://t.me/bzd_channel/1)
 - [ ] [Dev IT](https://t.me/telegadev/1)
 - [ ] [dev_meme](https://t.me/dev_meme/1)
@@ -51,3 +50,7 @@
 - [ ] [Фронтендщик](https://t.me/frontendshik/1)
 - [x] [Udemy Courses Free](https://t.me/udemycoursesfree/1066) - page-udemy.com.md
 - [x] [UdemyGratis](https://t.me/UdemyGratis/18690) - page-udemy.com.md
+
+## Elsewhat
+
+- [ ] []()
