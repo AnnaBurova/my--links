@@ -51,6 +51,22 @@
 - [x] [Udemy Courses Free](https://t.me/udemycoursesfree/1066) - page-udemy.com.md
 - [x] [UdemyGratis](https://t.me/UdemyGratis/18690) - page-udemy.com.md
 
+## Psychology
+
+- [ ] [FEDOR BORSHEV](https://t.me/pmdaily/1)
+- [ ] [Авернус](https://t.me/avernuslab/1)
+- [ ] [Бери и Делай!](https://t.me/energia_uspexa/1)
+- [ ] [Дом Саморазвития](https://t.me/domsamorazvitiya/1)
+- [ ] [Идеальный сотрудник](https://t.me/russiaHH/1)
+- [ ] [Маги шутят](https://t.me/bash_mag/1)
+- [ ] [Мистер Заурядность](https://t.me/mrzauryadnost/1)
+- [ ] [Мэверик](https://t.me/freeman365/1)
+- [ ] [Николай Додонов](https://t.me/n_dodonov/1)
+- [ ] [НКН - простая психология](https://t.me/nkn_psi/1)
+- [ ] [Репутационный маркетинг](https://t.me/GetFeedback/1)
+- [ ] [Роман Досов | Формула успеха](https://t.me/romandosov_blog/1)
+- [ ] [Сказ маркетолога](https://t.me/moj_marketing/1)
+
 ## Travel blogs - Germany
 
 - [ ] [(Не) только немецкий](https://t.me/nichtnurdeutsch/1)
