@@ -70,7 +70,7 @@
 - [ ] [Типичный программист](https://t.me/tproger_official/1)
 - [ ] [Фронтендщик](https://t.me/frontendshik/1)
 - [x] [Udemy Courses Free](https://t.me/udemycoursesfree/7258) - page-udemy.com.md
-- [x] [UdemyGratis](https://t.me/UdemyGratis/18690) - page-udemy.com.md
+- [x] [UdemyGratis](https://t.me/UdemyGratis/19686) - page-udemy.com.md
 
 ## Psychology
 
