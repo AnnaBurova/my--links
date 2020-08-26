@@ -19,7 +19,7 @@
 
 ## Web IT
 
-- [ ] [My Archive](https://t.me/creative_archive/1)
+- [ ] [<Easy-Peasy Code/>](https://t.me/easypeasycode/1)
 - [ ] [BZD • Книги для программистов](https://t.me/bzd_channel/1)
 - [ ] [Dev IT](https://t.me/telegadev/1)
 - [ ] [dev_meme](https://t.me/dev_meme/1)
@@ -33,6 +33,7 @@
 - [ ] [ITbook](https://t.me/ITbook_ru/1)
 - [ ] [JavaScript](https://t.me/we_use_js/1)
 - [ ] [JS туса](https://t.me/js_tusa/1)
+- [ ] [My Archive](https://t.me/creative_archive/1)
 - [ ] [NOP::Nuances of programming](https://t.me/nuancesprog/1)
 - [ ] [Older developer](https://t.me/olddeveloper/1)
 - [ ] [ProgHub](https://t.me/prog_hub/1)
