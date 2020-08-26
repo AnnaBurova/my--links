@@ -69,7 +69,7 @@
 - [ ] [Типичный Верстальщик](https://t.me/tpverstak/1)
 - [ ] [Типичный программист](https://t.me/tproger_official/1)
 - [ ] [Фронтендщик](https://t.me/frontendshik/1)
-- [x] [Udemy Courses Free](https://t.me/udemycoursesfree/1066) - page-udemy.com.md
+- [x] [Udemy Courses Free](https://t.me/udemycoursesfree/7258) - page-udemy.com.md
 - [x] [UdemyGratis](https://t.me/UdemyGratis/18690) - page-udemy.com.md
 
 ## Psychology
