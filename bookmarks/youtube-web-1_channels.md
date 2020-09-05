@@ -52,7 +52,7 @@ https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos
 - [2019.04.05] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA)
 - [2019.04.06] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw)
 - [2019.06.27] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
-- [2019.09.07] [easydevtuts](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw)
+- [2019.09.07] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw)
 - [2019.09.12] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ)
 - [2019.11.20] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg)
 - [2020.01.28] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
@@ -76,4 +76,3 @@ https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos
 - [2020.05.17] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
 - [2020.05.18] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
-- [2020.05.18] TODAY --- How To Reset Windows 10 From The Login Screen (2020) --- ProgrammingKnowledge2
