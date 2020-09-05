@@ -11279,6 +11279,7 @@ www.parsimony.mobi/
 www.parsleyjs.org/
 www.particletree.com/
 www.particletree.com/features/php-quick-profiler/
+www.pascalvangemert.nl/#/profile
 www.passionaboutdesign.com/
 www.passionaboutdesign.com/web-portfolio.php
 www.pastebin.com/
@@ -12997,6 +12998,7 @@ www.smashingmagazine.com/2016/06/freebie-soccer-icon-set-13-icons-ai-eps-svg-png
 www.smashingmagazine.com/2016/07/freebie-olympics-sports-icon-set-45-icons-eps-pdf-png-svg/
 www.smashingmagazine.com/2016/07/freebie-summer-icon-set-40-icons/
 www.smashingmagazine.com/2016/09/freebie-flat-line-ux-and-e-commerce-icon-sets-83-icon-sets-ai-eps-png-svg/
+www.smashingmagazine.com/2018/06/web-developer-resume/#why-need-one
 www.smashingmagazine.com/author/sergey-chikuyonok/
 www.smashingmagazine.com/feed
 www.smashingmagazine.com/tag/vectors/
@@ -14771,6 +14773,7 @@ www.valentina-db.com/docs/dokuwiki/v5/doku.php?id=valentina:products:adk:vphp:re
 www.valentina-db.com/dokuwiki/doku.php
 www.valentina-db.com/en/applications-download/valentina-server-download
 www.valentina-db.com/en/get-free-studio
+www.valeriopierbattista.com/cv/
 www.validator.w3.org/
 www.validator.w3.org/check/referer
 www.validator.w3.org/check?uri=referer
