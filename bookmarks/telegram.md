@@ -1,5 +1,6 @@
 ## News
 
+- [ ] [Corona-Infokanal des Bundesministeriums für Gesundheit](https://t.me/corona_infokanal_bmg/1)
 - [ ] [GameWhore](https://t.me/gamewhore/1)
 - [ ] [Not Boring Tech](https://t.me/notboring_tech/1)
 - [ ] [Radio Record](https://t.me/radiorecord/1)
@@ -27,6 +28,7 @@
 - [ ] [Frontend Klondike](https://t.me/FrontendKlondike/1)
 - [ ] [FrontEndDev](https://t.me/front_end_dev/1)
 - [ ] [Frontender's notes](https://t.me/frontendnoteschannel/1)
+- [ ] [GIT - полезные IT сервисы](https://t.me/c/1177342537/1)
 - [ ] [IT лекции](https://t.me/itlecture/1)
 - [ ] [IT юмор | Кот программиста](https://t.me/cat_prog/1)
 - [ ] [IT Юмор](https://t.me/ithumor/1)
@@ -36,11 +38,13 @@
 - [ ] [My Archive](https://t.me/creative_archive/1)
 - [ ] [NOP::Nuances of programming](https://t.me/nuancesprog/1)
 - [ ] [Older developer](https://t.me/olddeveloper/1)
+- [ ] [Open Source Future](https://t.me/opensourcefuture/1)
 - [ ] [ProgHub](https://t.me/prog_hub/1)
 - [ ] [Python Academy](https://t.me/python_academy/1)
 - [ ] [Python Books](https://t.me/pythonbooks/1)
 - [ ] [Python in depth](https://t.me/python_in_depth/1)
 - [ ] [Python задачки](https://t.me/pythonquestions/1)
+- [ ] [Senior Frontend - javascript, html, css](https://t.me/seniorFront/1)
 - [ ] [Smart Dev — веб-разработка, дизайн, программирование](https://t.me/smart_dev/1)
 - [ ] [TemplateMonster](https://t.me/templatemonsterRU/1)
 - [ ] [THINGS PROGRAMMERS DO](https://t.me/thingsprogrammersdo/1)
@@ -108,7 +112,6 @@
 - [ ] [Пришелец](https://t.me/rusdeutschland/1)
 - [ ] [Что там у немцев?](https://t.me/dwrussian/1)
 - [ ] [Шакшука по-немецки](https://t.me/shakshuka_de/1)
-- [x] [Corona-Infokanal des Bundesministeriums für Gesundheit](https://t.me/corona_infokanal_bmg/1)
 
 ## Books
 
