@@ -60,7 +60,6 @@
 - [2020.05.13] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
 - [2020.05.14] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
-- [2020.05.15] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 - [2020.05.15] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q)
 - [2020.05.15] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ)
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
@@ -73,6 +72,7 @@
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.04] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
+- [2020.09.04] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
 https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg
