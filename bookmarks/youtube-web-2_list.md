@@ -8733,6 +8733,7 @@
 [[Garrett Love]] --- 0115 --- https://www.youtube.com/watch?v=DNCV1K5eVMw --- Building a Custom Bottom Navigation Bar in Flutter
 [[Garrett Love]] --- 0116 --- https://www.youtube.com/watch?v=YP6WNaVPoLA --- My Stack in 2020
 [[Garrett Love]] --- 0117 --- https://www.youtube.com/watch?v=xrCBVwYjcvQ --- Using SQLite in Flutter
+[[Garrett Love]] --- 0118 --- https://www.youtube.com/watch?v=NnmtBXb77DI --- A Software Development Workflow for Agile and Productive Projects
 [[GeekBrains]] --- 0001 --- https://www.youtube.com/watch?v=_d5W3OI0R60 --- Презентация курса "Английский язык для IT-специалистов"
 [[GeekBrains]] --- 0002 --- https://www.youtube.com/watch?v=e8KZZuKcVYA --- Презентация курса "Английский язык для IT-специалистов"
 [[GeekBrains]] --- 0003 --- https://www.youtube.com/watch?v=g_2mH6dou0M --- JavaScript - интерактивные веб-приложения
