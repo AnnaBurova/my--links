@@ -4787,6 +4787,7 @@
 [[Dmitry Tatarinov]] --- 0051 --- https://www.youtube.com/watch?v=1QxgSOuAB1Q --- Оптимизация фото для сайта онлайн и пакетная конвертация в JPG,PNG,WEBP и изменение размера
 [[Dmitry Tatarinov]] --- 0052 --- https://www.youtube.com/watch?v=j3HjpWshwB4 --- Парсинг html данных с сайтов в Excel через CSS селекторы в программе для парсинга Netpeak Spider
 [[Dmitry Tatarinov]] --- 0053 --- https://www.youtube.com/watch?v=XirmBQtfnrg --- SEO аудит сайта c функцией white label брендированные отчеты с помощью Netpeak Spider
+[[Dmitry Tatarinov]] --- 0054 --- https://www.youtube.com/watch?v=-xp2lz_fFnA --- Разработка и создание корпоративного сайта для производителя прачечного оборудования Helen
 [[Easy Learn Tutorial]] --- 0001 --- https://www.youtube.com/watch?v=Uz7QU3hc-5o --- Programming Challenge: Tic Tac Toe Tutorial 1: Introduction
 [[Easy Learn Tutorial]] --- 0002 --- https://www.youtube.com/watch?v=EDYngknJGfc --- Programming Challenge: Tic Tac Toe Tutorial 2: HTML & CSS Structure
 [[Easy Learn Tutorial]] --- 0003 --- https://www.youtube.com/watch?v=WG6lwNSRG_E --- Programming Challenge: Tic Tac Toe Tutorial 3: Javascript Structure & Classes
