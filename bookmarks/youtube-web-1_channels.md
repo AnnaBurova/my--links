@@ -14,8 +14,6 @@
 - [ ] [Roman Brovko](https://www.youtube.com/channel/UCiwYG9Bnxfaipnp5ckCSlQw)
 - [ ] [splincode wd](https://www.youtube.com/channel/UC8xfERWMN3YMcQrM260ABtw)
 - [ ] [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-https://www.youtube.com/channel/UCNW7HDseZb6N3nKUEP6uLag/videos
-https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos
 - [ ] [TheDigiCraft](https://www.youtube.com/channel/UCw0ZIfZiV-BORQvok_cxNPw)
 - [ ] [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [ ] [Tuts+ Code](https://www.youtube.com/channel/UCd-EhXGbXSozuzsAAdPIn3A)
@@ -76,3 +74,41 @@ https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.04] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
+https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
+https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w
+https://www.youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w
+https://www.youtube.com/channel/UCg1x1VDcSzviGGH995gHnjw
+https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw
+https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
+https://www.youtube.com/channel/UCk1D1aQhYKvsIYqHLUNgaqA
+https://www.youtube.com/channel/UCNW7HDseZb6N3nKUEP6uLag
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA
+https://www.youtube.com/channel/UCqyBfm_H9ugGirk1ufYA2YA
+https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
+https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ
+https://www.youtube.com/channel/UCV4-mrR8UZh6AsWZbmW5uhQ
+https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ
+https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
+https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA
+https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ
+https://www.youtube.com/channel/UCzClGkSdFfjursCUsp6T_bQ
+https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
+https://www.youtube.com/watch?v=1IA4SeajZRw&ab_channel=SaliKaceli
+https://www.youtube.com/watch?v=1TneCqdEZuU&ab_channel=LearnitTraining
+https://www.youtube.com/watch?v=5MgBikgcWnY&ab_channel=TEDxTalks
+https://www.youtube.com/watch?v=7FeqF1-Z1g0&ab_channel=media.ccc.de
+https://www.youtube.com/watch?v=7YcW25PHnAA&ab_channel=WebConcepts
+https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
+https://www.youtube.com/watch?v=fgXCN7A8yzg&ab_channel=Pylot
+https://www.youtube.com/watch?v=ip66mO6sdf8&ab_channel=ExtremeCode
+https://www.youtube.com/watch?v=l0QGLMwR-lY&ab_channel=tutoriaLinux
+https://www.youtube.com/watch?v=sJG-rXBbmCc&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics.
+https://www.youtube.com/watch?v=Ulp1Kimblg0&ab_channel=CodeWithChris
+https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
+https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
+https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
+[[DesignCourse]] --- https://www.youtube.com/watch?v=s_ILpj6inEw&ab_channel=DesignCourse
