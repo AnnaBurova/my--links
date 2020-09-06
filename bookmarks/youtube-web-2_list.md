@@ -13522,6 +13522,16 @@
 [[LevelUpTuts]] --- 1144 --- https://www.youtube.com/watch?v=Qc4dglMX7fw --- #1 Installing Meteor and Starting Our Project - Full Stack Reactive Meteor and Svelte
 [[LevelUpTuts]] --- 1145 --- https://www.youtube.com/watch?v=3wScSeb308A --- #2 Adding Svelte To Meteor - Full Stack Reactive Meteor and Svelte
 [[LevelUpTuts]] --- 1146 --- https://www.youtube.com/watch?v=Ti6wnYKo7P0 --- #3 Real time Data With Meteor - Full Stack Reactive Meteor and Svelte
+[[LevelUpTuts]] --- 1147 --- https://www.youtube.com/watch?v=X2Bvd_sYnIg --- Scott Tries Obsidian
+[[LevelUpTuts]] --- 1148 --- https://www.youtube.com/watch?v=2-rHRZWeGQQ --- #4 Inserting In Real Time - Meteor and Svelte Tutorial
+[[LevelUpTuts]] --- 1149 --- https://www.youtube.com/watch?v=BBoj3iLDNmE --- #6 Easy User Accounts with Svelte and Meteor
+[[LevelUpTuts]] --- 1150 --- https://www.youtube.com/watch?v=jxsIMyiCyec --- #5 Update and Delete
+[[LevelUpTuts]] --- 1151 --- https://www.youtube.com/watch?v=fudIvzITv_I --- #7 User Reactivity and Logout
+[[LevelUpTuts]] --- 1152 --- https://www.youtube.com/watch?v=a2i-F4aSS58 --- Zustand and Immer - Level Up Code Blog
+[[LevelUpTuts]] --- 1153 --- https://www.youtube.com/watch?v=adLp10VdvPU --- Preparing August's Pro Course
+[[LevelUpTuts]] --- 1154 --- https://www.youtube.com/watch?v=WpzhUi3a7fc --- Babel Alias for Clean Imports
+[[LevelUpTuts]] --- 1155 --- https://www.youtube.com/watch?v=xBQSipuR_5E --- Preparing August's Pro Course
+[[LevelUpTuts]] --- 1156 --- https://www.youtube.com/watch?v=CtcjrPCwojQ --- GraphQL Codegen For Effortless GraphQL and Typescript
 [[Magisters | Обучение современным профессиям]] --- 0001 --- https://www.youtube.com/watch?v=VuN1Yl4ghPM --- Вёрстка из PSD в HTML и CSS навигации
 [[Magisters | Обучение современным профессиям]] --- 0002 --- https://www.youtube.com/watch?v=iNk76xp71nY --- Урок рисования кнопки в стиле Web 2.0 в Photoshop CS5
 [[Magisters | Обучение современным профессиям]] --- 0003 --- https://www.youtube.com/watch?v=gER33a3LXNE --- Установка 960gs (системы сеток) в Photoshop CS5

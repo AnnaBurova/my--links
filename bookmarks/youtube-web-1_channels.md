@@ -57,7 +57,6 @@
 - [2020.04.28] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
 - [2020.04.30] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [2020.05.12] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
-- [2020.05.12] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
 - [2020.05.13] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
 - [2020.05.14] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
@@ -72,6 +71,7 @@
 - [2020.08.16] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
 - [2020.08.20] [javannimon119](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg/videos)
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
+- [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.04] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
@@ -83,6 +83,7 @@ https://www.youtube.com/channel/UCg1x1VDcSzviGGH995gHnjw
 https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw
 https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
 https://www.youtube.com/channel/UCk1D1aQhYKvsIYqHLUNgaqA
+https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA
 https://www.youtube.com/channel/UCNW7HDseZb6N3nKUEP6uLag
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
 https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA
