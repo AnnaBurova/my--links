@@ -112,4 +112,3 @@ https://www.youtube.com/watch?v=Ulp1Kimblg0&ab_channel=CodeWithChris
 https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
 https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
-[[DesignCourse]] --- https://www.youtube.com/watch?v=s_ILpj6inEw&ab_channel=DesignCourse
