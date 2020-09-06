@@ -11361,6 +11361,7 @@
 [[John Morris]] --- 0639 --- https://www.youtube.com/watch?v=m9UzIpFmKJY --- The Den of Thieves Conspiring Against Your Freelance Success
 [[John Morris]] --- 0640 --- https://www.youtube.com/watch?v=g3mNVpuWsHY --- JMS421: Surviving Coronavirus
 [[John Morris]] --- 0641 --- https://www.youtube.com/watch?v=Hw2KGsnDKuE --- JMS422: The Nightmare-Inducing Freelancing Lesson From Coronavirus
+[[John Morris]] --- 0642 --- https://www.youtube.com/watch?v=5xfYCRk-Vj8 --- Get a Free Copy of My New Upwork Book
 [[Joseph Smith]] --- 0001 --- https://www.youtube.com/watch?v=aNxm2A6x9N4 --- Creating a Membership Website - Part 1
 [[Joseph Smith]] --- 0002 --- https://www.youtube.com/watch?v=Hr3b42lDGfo --- Creating a Membership Website - Part 2
 [[Joseph Smith]] --- 0003 --- https://www.youtube.com/watch?v=Bua1wxhNiho --- Creating a Membership Website - Part 3
