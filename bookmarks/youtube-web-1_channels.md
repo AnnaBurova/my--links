@@ -56,7 +56,6 @@ https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
 - [2020.01.28] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/videos)
 - [2020.04.21] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
-- [2020.04.27] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
 - [2020.04.28] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
 - [2020.04.30] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [2020.05.12] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
@@ -75,4 +74,5 @@ https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos
 - [2020.08.16] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
 - [2020.08.20] [javannimon119](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg/videos)
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
+- [2020.09.04] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
