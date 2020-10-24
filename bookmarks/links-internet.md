@@ -20,6 +20,8 @@ www.123freevectors.com/free-vector-download/free-vector-art/
 www.1340.ru/
 www.16100.gzidlerpg.appspot.com/web/events
 www.16personalities.com/ru
+https://zen.yandex.ru/media/id/5a940b5f3c50f7398387469d/kak-blogeru-sobirat-pojertvovaniia-ot-podpischikov-5b3f4c3574a36700a9e79af7
+https://te-st.ru/2020/05/05/donation-for-activists/
 www.1c-answer.ru/
 www.1kbgrid.com/
 www.1lydesign.com/
