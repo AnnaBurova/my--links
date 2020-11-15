@@ -1738,6 +1738,10 @@
 [[Brad Hussey]] --- 0265 --- https://www.youtube.com/watch?v=Z-7oKs7BsXM --- Building Your Minimum Viable Marketing Machine to Build Your Online Business
 [[Brad Hussey]] --- 0266 --- https://www.youtube.com/watch?v=1tx0FbRPnmQ --- Build Your Business Website Easily with Squarespace
 [[Brad Hussey]] --- 0267 --- https://www.youtube.com/watch?v=FGNpuaN4emU --- I'm doing a new thing. It's called Marketing Honestly.
+[[Brad Hussey]] --- 0268 --- https://www.youtube.com/watch?v=YxkvXqGUqR8 --- Ditch Hourly Rates! Pricing Workshop for Freelancers.
+[[Brad Hussey]] --- 0269 --- https://www.youtube.com/watch?v=TJUZB6vuIco --- How to Create a Membership or Subscription-Based Site in Teachable
+[[Brad Hussey]] --- 0270 --- https://www.youtube.com/watch?v=ipqtKcDTe_w --- Start a Successful Freelancing Business During The COVID-19 Quarantine
+[[Brad Hussey]] --- 0271 --- https://www.youtube.com/watch?v=VYAI8k2dW1U --- Matthew Pierce, Freelance Developer Testimonial for Brad Hussey's Launch Course
 [[Chris Coyier]] --- 0001 --- https://www.youtube.com/watch?v=I7qnS_d9idY --- Screencast #1: Converting a Photoshop Mockup (part 1 of 3)
 [[Chris Coyier]] --- 0002 --- https://www.youtube.com/watch?v=rMU816plAkc --- Screencast #4: Forcing Scrollbars: Eliminating "Horizontal Jumps"
 [[Chris Coyier]] --- 0003 --- https://www.youtube.com/watch?v=ArjgPWfd6gc --- Screencast #5: Columns of Equal Height: Super Simple
