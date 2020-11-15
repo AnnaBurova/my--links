@@ -6,6 +6,7 @@
 - (2020.11.11) [[Academind]] --- https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos
 - (2020.11.12) [[Brad Hussey]] --- https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos
 - (2020.11.14) [[Chris Coyier]] --- https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos
+- (2020.11.14) [[Darrel Wilson]] --- https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 - [ ] [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
@@ -71,7 +72,6 @@
 - [2020.08.20] [javannimon119](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg/videos)
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
-- [2020.09.04] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
 - [2020.09.04] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
