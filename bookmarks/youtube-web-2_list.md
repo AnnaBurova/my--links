@@ -1313,6 +1313,7 @@
 [[Adam Khoury]] --- 0711 --- https://www.youtube.com/watch?v=hWVCHcGSS7o --- Analog Clock Development Tutorial JavaScript CSS
 [[Adam Khoury]] --- 0712 --- https://www.youtube.com/watch?v=Ia9Y5C2pAoE --- Channel Update - Adam Khoury
 [[Adam Khoury]] --- 0713 --- https://www.youtube.com/watch?v=qoujtAnI4Fc --- Vanilla Multiple File Upload Progress Bar Tutorial JS Ajax PHP
+[[Adam Khoury]] --- 0714 --- https://www.youtube.com/watch?v=xeru4eb8I0w --- Third Party Framework Pitfalls and Code Library Snafus
 [[basixnick]] --- 0001 --- https://www.youtube.com/watch?v=SoKQz065aQU --- Install XAMPP/Apache on Your Computer
 [[basixnick]] --- 0002 --- https://www.youtube.com/watch?v=yb9Zl2-oVNA --- PHP Tutorials // Dynamic Pages (Part 1/3)
 [[basixnick]] --- 0003 --- https://www.youtube.com/watch?v=lakKFHk1VpM --- PHP Tutorials // Dynamic Pages (Part 2/3)
