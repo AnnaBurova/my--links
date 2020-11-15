@@ -1,6 +1,11 @@
 ## Web IT
 
+- (2011.01.25) [[basixnick]] --- https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos
+- (2020.09.10) [[Adam Khoury]] --- https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos
 - (2020.09.28) [[Codecourse]] --- https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos
+- (2020.11.11) [[Academind]] --- https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos
+- (2020.11.12) [[Brad Hussey]] --- https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos
+- (2020.11.14) [[Chris Coyier]] --- https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 - [ ] [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
@@ -34,7 +39,6 @@
 - [ ] [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw)
 - [ ] [Учись - программированию - бесплатно](https://www.youtube.com/channel/UCYcOu-hGM8gqcXFU1jnFJtg)
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
-- [2011.01.25] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos)
 - [2014.04.13] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw/videos)
 - [2016.01.31] [Ruseller.com](https://www.youtube.com/channel/UCqp_CZbW5drSGH5AFflSfuA/videos)
 - [2016.03.31] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew/videos)
@@ -54,11 +58,7 @@
 - [2019.09.12] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
 - [2020.01.28] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/videos)
-- [2020.04.21] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
-- [2020.04.28] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
 - [2020.04.30] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
-- [2020.05.12] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
-- [2020.05.14] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
 - [2020.05.15] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q)
 - [2020.05.15] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ)
