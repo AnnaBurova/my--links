@@ -4830,6 +4830,7 @@
 [[DevTips]] --- 0340 --- https://www.youtube.com/watch?v=ZSuh_nNPGls --- Trying Kubernetes 📦 for the First Time
 [[DevTips]] --- 0341 --- https://www.youtube.com/watch?v=sg8grVYpi4g --- My First Progressive Web App (PWA)
 [[DevTips]] --- 0342 --- https://www.youtube.com/watch?v=XHzRGyKLmgM --- What Happened to DevTips THIS TIME??
+[[DevTips]] --- 0343 --- https://www.youtube.com/watch?v=tKz8Ch4-Q08 --- Creating an Among Us Character with only HTML and CSS
 [[Dipankar Biswas]] --- 0001 --- https://www.youtube.com/watch?v=CCKtxhYwvAk --- Beginner php oop part 18 constructor function in php oop
 [[Dipankar Biswas]] --- 0002 --- https://www.youtube.com/watch?v=rn-f2I7Sb88 --- Create procedure in phpmyadmin .
 [[Dipankar Biswas]] --- 0003 --- https://www.youtube.com/watch?v=t_Fcx6vQy8U --- how to make a hacking software using vb .net

@@ -1,13 +1,5 @@
 ## Web IT
 
-- (2011.01.25) [[basixnick]] --- https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos
-- (2020.09.10) [[Adam Khoury]] --- https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos
-- (2020.09.28) [[Codecourse]] --- https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos
-- (2020.11.11) [[Academind]] --- https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos
-- (2020.11.12) [[Brad Hussey]] --- https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos
-- (2020.11.12) [[DesignCourse]] --- https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos
-- (2020.11.14) [[Chris Coyier]] --- https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos
-- (2020.11.14) [[Darrel Wilson]] --- https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos
 - [ ] [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw)
 - [ ] [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 - [ ] [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
@@ -55,7 +47,6 @@
 - [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ/videos)
 - [2019.04.05] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA/videos)
 - [2019.04.06] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw/videos)
-- [2019.06.27] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos)
 - [2019.09.07] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw/videos)
 - [2019.09.12] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
@@ -74,6 +65,15 @@
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
+- [[Academind]] --- https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos --- (2020.11.11)
+- [[Adam Khoury]] --- https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos --- (2020.09.10)
+- [[basixnick]] --- https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos --- (2011.01.25)
+- [[Brad Hussey]] --- https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos --- (2020.11.12)
+- [[Chris Coyier]] --- https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos --- (2020.11.14)
+- [[Codecourse]] --- https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos --- (2020.09.28)
+- [[Darrel Wilson]] --- https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos --- (2020.11.14)
+- [[DesignCourse]] --- https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos --- (2020.11.12)
+- [[DevTips]] --- https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos --- (2020.10.29)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
 https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
