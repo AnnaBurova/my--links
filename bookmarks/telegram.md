@@ -18,7 +18,7 @@
 - [ ] [Саня из Дагестана](https://t.me/sanyaizdagestana/1)
 - [ ] [Сталингулаг](https://t.me/stalin_gulag/1)
 
-## Web IT
+## Web / Design / IT
 
 - [ ] [<Easy-Peasy Code/>](https://t.me/easypeasycode/1)
 - [ ] [BZD • Книги для программистов](https://t.me/bzd_channel/1)
@@ -40,6 +40,7 @@
 - [ ] [Older developer](https://t.me/olddeveloper/1)
 - [ ] [Open Source Future](https://t.me/opensourcefuture/1)
 - [ ] [ProgHub](https://t.me/prog_hub/1)
+- [ ] [PSD | Дизайн-пространство](https://t.me/psd_eu/1)
 - [ ] [Python Academy](https://t.me/python_academy/1)
 - [ ] [Python Books](https://t.me/pythonbooks/1)
 - [ ] [Python in depth](https://t.me/python_in_depth/1)
@@ -48,6 +49,7 @@
 - [ ] [Smart Dev — веб-разработка, дизайн, программирование](https://t.me/smart_dev/1)
 - [ ] [TemplateMonster](https://t.me/templatemonsterRU/1)
 - [ ] [THINGS PROGRAMMERS DO](https://t.me/thingsprogrammersdo/1)
+- [ ] [UI_UX inspiration](https://t.me/uiux_design/1)
 - [ ] [Web Design](https://t.me/webdesigndaily/1)
 - [ ] [Web Stack — FrontEnd/BackEnd/Design](https://t.me/web_stack/1)
 - [ ] [WebDesign головного мозга](https://t.me/brainwebdesign/1)
@@ -59,6 +61,7 @@
 - [ ] [Будни рядового Вэб-дэва](https://t.me/vebdev/1)
 - [ ] [Веб-стандарты](https://t.me/webstandards_ru/1)
 - [ ] [Веб-страница](https://t.me/tproger_web/1)
+- [ ] [Дизайн-Телега 🔥](https://t.me/design_telega/1)
 - [ ] [КНИГИ: REACT, JS, ANGULAR, NODE, VUE](https://t.me/frontbooks/1)
 - [ ] [Кодоголик](https://t.me/kodogolik/1)
 - [ ] [Мамкин программист](https://t.me/mamprog/1)
@@ -73,9 +76,10 @@
 - [ ] [Типичный Верстальщик](https://t.me/tpverstak/1)
 - [ ] [Типичный программист](https://t.me/tproger_official/1)
 - [ ] [Фронтендщик](https://t.me/frontendshik/1)
+- [ ] [Шаблоны сайтов бесплатно](https://t.me/templatesite/1)
 - [x] [Udemy Courses Free](https://t.me/udemycoursesfree/8678) - page-udemy.com.md
-- [x] [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
 - [x] [Udemy Free Courses](https://t.me/UdemyFree4You/1068) - page-udemy.com.md
+- [x] [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
 
 ## Psychology
 
