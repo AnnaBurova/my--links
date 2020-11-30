@@ -65,7 +65,7 @@
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
-- [[Academind]] --- https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos --- (2020.11.11)
+- [[Academind]] --- https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos --- (2020.11.23)
 - [[Adam Khoury]] --- https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos --- (2020.09.10)
 - [[basixnick]] --- https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos --- (2011.01.25)
 - [[Brad Hussey]] --- https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos --- (2020.11.12)
