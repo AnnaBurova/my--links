@@ -77,8 +77,8 @@
 - [ ] [Типичный программист](https://t.me/tproger_official/1)
 - [ ] [Фронтендщик](https://t.me/frontendshik/1)
 - [ ] [Шаблоны сайтов бесплатно](https://t.me/templatesite/1)
-- [x] [Udemy Courses Free](https://t.me/udemycoursesfree/10104) - page-udemy.com.md
-- [x] [Udemy Free Courses](https://t.me/UdemyFree4You/1222) - page-udemy.com.md
+- [x] [Udemy Courses Free](https://t.me/udemycoursesfree/10386) - page-udemy.com.md
+- [x] [Udemy Free Courses](https://t.me/UdemyFree4You/1328) - page-udemy.com.md
 - [x] [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
 
 ## Psychology
