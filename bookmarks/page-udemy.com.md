@@ -5999,6 +5999,7 @@ coursetime.net/2021-certified-six-sigma-green-belt-lean-doe/
 coursetime.net/adobe-photoshop-cc-essentials-for-beginners/
 coursetime.net/artificial-intelligence-expert-certification/
 coursetime.net/artificial-neural-networks-ann-with-keras-in-python-and-r/
+coursetime.net/artificial-neural-networks-ann-with-keras-in-python-and-r/
 coursetime.net/automate-the-boring-stuff-with-python-programming/
 coursetime.net/aws-certified-cloud-practitioner-6-full-practice-tests-2021/
 coursetime.net/aws-certified-solutions-architect-associate-saa-c02-exam
@@ -6015,11 +6016,14 @@ coursetime.net/calculus-1/
 coursetime.net/certified-lean-six-sigma-black-belt-training/
 coursetime.net/cisco-ccna-exam-complete-course-with-practical-labs/
 coursetime.net/complete-bootstrap-5-course-from-scratch-with-3-projects/
+coursetime.net/complete-bootstrap-5-course-from-scratch-with-3-projects/
 coursetime.net/complete-javascript-development-bootcamp-2020-with-projects/
 coursetime.net/complete-machine-learning-with-r-studio-ml-for-2020-2/
+coursetime.net/complete-python-bootcamp-go-beginner-to-expert-in-python-3-2/
 coursetime.net/comprehensive-sql-bootcamp-beginner-to-advanced/
 coursetime.net/create-the-best-action-games-with-unity/
 coursetime.net/data-science-a-z-bootcamp-real-cases/
+coursetime.net/data-science-and-machine-learning-developer-certification/
 coursetime.net/data-science-with-python-certification-training-with-project/
 coursetime.net/data-structures-and-algorithms-in-c-for-beginners/
 coursetime.net/data-visualization-in-excel-all-excel-charts-and-graphs/
@@ -6116,6 +6120,7 @@ coursetime.net/java-programming-for-complete-beginners-from-scratch/
 coursetime.net/javascript-beginner-in-2020-huge-course/
 coursetime.net/javascript-bootstrap-php-certification-for-beginners/
 coursetime.net/javascript-complete-beginners-course-for-web-development/
+coursetime.net/javascript-complete-real-time-essential-course/
 coursetime.net/javascript-for-absolute-beginners-april-2020-edition/
 coursetime.net/javascript-programming/
 coursetime.net/just-enough-python-programming/
@@ -6132,6 +6137,7 @@ coursetime.net/learn-javascript-from-scratch-gk/
 coursetime.net/learn-jquery-for-beginners/
 coursetime.net/learn-network-attacks-and-security/
 coursetime.net/learn-php-for-beginners
+coursetime.net/learn-professional-web-development-skills-from-scratch/
 coursetime.net/learn-programming-from-scratch-with-python/
 coursetime.net/learn-python-programming-from-a-z-beginner-to-expert-course/
 coursetime.net/learn-react-in-a-fun-way-create-sudoku-with-react/
@@ -6165,8 +6171,10 @@ coursetime.net/mastering-cpanel-manage-hosting-for-yourself-and-clients/
 coursetime.net/mastering-devops-with-aws-and-azure/
 coursetime.net/mastering-image-detection-technology/
 coursetime.net/mastery-in-python-for-beginners-from-zero-to-hero/
+coursetime.net/mathematics-statistics-of-machine-learning-data-science/
 coursetime.net/matplotlib-with-python/
 coursetime.net/mega-digital-marketing-course-a-z-12-courses-in-1/
+coursetime.net/mern-stack-e-commerce-mobile-app-with-react-native/
 coursetime.net/mern-stack-master-course-building-your-own-instagram/
 coursetime.net/microsoft-ai-classroom-series/
 coursetime.net/microsoft-azure-fundamentals-az-900-practice-tests-2020/
@@ -6207,10 +6215,13 @@ coursetime.net/production-ready-kubernetes-setup-for-ci-cd-devops-project/
 coursetime.net/professional-certificate-in-digital-strategy-and-planning/
 coursetime.net/programming-fundamentals-using-python-and-c/
 coursetime.net/programming-with-c-language-the-complete-course/
+coursetime.net/project-development-using-java-for-beginners/
 coursetime.net/python-3-7-beginners-bootcamp-2020/
 coursetime.net/python-3-8-object-oriented-programming-homework-answers/
 coursetime.net/python-3-for-beginners-in-2020
 coursetime.net/python-and-django-framework-for-beginners-complete-course/
+coursetime.net/python-and-django-framework-for-beginners-complete-course/
+coursetime.net/python-and-flask-framework-complete-course-for-beginners/
 coursetime.net/python-and-flask-framework-complete-course-for-beginners/
 coursetime.net/python-bootcamp-2020-build-15-working-applications-and-games
 coursetime.net/python-bootcamp-2020-build-15-working-applications-and-games/
@@ -6228,9 +6239,12 @@ coursetime.net/python-for-network-engineers-bootcamp
 coursetime.net/python-for-network-engineers-bootcamp/
 coursetime.net/python-for-network-engineers-with-12-networking-scripts
 coursetime.net/python-introduction-to-data-science-and-machine-learning-a-z/
+coursetime.net/python-multitrack-beginners-and-professionals-zero-to-hero/
 coursetime.net/python-network-programming-for-network-engineers-python-3/
 coursetime.net/python-programming-beginner-to-advanced/#more-525
 coursetime.net/python-programming-beginners-tutorial-python-3-programming/
+coursetime.net/python-programming-complete-beginner-course-bootcamp/
+coursetime.net/python-programming-complete-beginner-course-bootcamp/
 coursetime.net/python-programming-for-beginners-hands-on-online-lab/
 coursetime.net/python-programming-fundamentals/
 coursetime.net/python-programming-object-oriented-programming-in-python/
@@ -6264,6 +6278,7 @@ coursetime.net/testbook-com-free/
 coursetime.net/the-absolute-beginners-guide-to-cyber-security-and-hacking/
 coursetime.net/the-app-developer-bootcamp/
 coursetime.net/the-art-of-doing-master-networks-and-network-scanning/
+coursetime.net/the-beginners-guide-to-artificial-intelligence-in-unity/
 coursetime.net/the-beginners-guide-to-cyber-security-2020/
 coursetime.net/the-complete-2020-software-testing-bootcamp/
 coursetime.net/the-complete-2020-web-developer-master-course/
@@ -6276,6 +6291,7 @@ coursetime.net/the-complete-digital-marketing-course-for-local-businesses/
 coursetime.net/the-complete-english-grammar-course-perfect-your-englis/
 coursetime.net/the-complete-ethical-hacking-course-beginner-to-advance
 coursetime.net/the-complete-ethical-hacking-course-for-2019
+coursetime.net/the-complete-ethical-hacking-course-for-2019/
 coursetime.net/the-complete-facebook-traffic-ads-ppc-course-2020
 coursetime.net/the-complete-fitness-health-masterclass-21-courses-in-1/
 coursetime.net/the-complete-front-end-web-development-course/
@@ -6315,7 +6331,9 @@ coursetime.net/web-design-creation-101-for-entrepreneurs-no-code/
 coursetime.net/web-development-css3-scratch-till-advanced-project-based/
 coursetime.net/web-development-masterclass-complete-certificate-course
 coursetime.net/web-development-masterclass-complete-certificate-course/
+coursetime.net/web-development-masterclass-complete-certificate-course/
 coursetime.net/wi-fi-hacking-with-kali/
+coursetime.net/wireshark-packet-analysis-and-ethical-hacking-core-skills/
 coursetime.net/wireshark-packet-analysis-and-ethical-hacking-core-skills/
 coursetime.net/wordpress-essentials-quick-start-divi-4-theme-included
 coursetime.net/youtube-seo-2020-15-powerful-youtube-seo-strategies/
