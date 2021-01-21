@@ -15429,6 +15429,7 @@ www.vk.com/topic-76425828_31692634?post=855
 www.vk.com/topic-81349839_32653886
 www.vk.com/wall-43613373_147858?browse_images=1
 www.vk.com/wall-71575021_10387
+www.vk.com/wall-79050990_159177
 www.vk.com/wall134617180?offset=1000&own=1&w=wall134617180_5947
 www.vk.com/wall134617180?offset=1040&w=wall134617180_6641
 www.vk.com/wall134617180?offset=1100&w=wall134617180_5514%2Fall
@@ -16148,6 +16149,8 @@ www.youtu.be/1LoJrLMl6b0
 www.youtu.be/8b-9drmBPTY
 www.youtu.be/DhaKjAFRfJk
 www.youtu.be/GsmN_1nvtUg
+www.youtu.be/hkfM2sl3oDo?list=PLeukr4D6Ml84vpQXvUDjHiApB30zpmyYZ
+www.youtu.be/IHI8GPsSc_g
 www.youtu.be/IZxpExmQLI4
 www.youtu.be/K8M-8P8T5JI
 www.youtu.be/rHaHyKcdxzs
