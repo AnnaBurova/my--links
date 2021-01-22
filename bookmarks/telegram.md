@@ -78,9 +78,9 @@
 - [ ] [Облако MEGASLIV.BIZ | Мегаслив](https://t.me/cloudcourse/1)
 - [ ] [Программирование | книги](https://t.me/it_boooks/1)
 - [ ] [Шаблоны сайтов бесплатно](https://t.me/templatesite/1)
-- [x] [Udemy Courses Free](https://t.me/udemycoursesfree/10592) - page-udemy.com.md
-- [x] [Udemy Free Courses](https://t.me/UdemyFree4You/1404) - page-udemy.com.md
-- [x] [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md (DEAD)
+- page-udemy.com.md (DEAD) - [x] [UdemyGratis](https://t.me/UdemyGratis/19767)
+- page-udemy.com.md - [x] [Udemy Courses Free](https://t.me/udemycoursesfree/10832)
+- page-udemy.com.md - [x] [Udemy Free Courses](https://t.me/UdemyFree4You/1449)
 
 ## Psychology
 
