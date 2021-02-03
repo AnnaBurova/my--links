@@ -116,5 +116,5 @@
 - [ ] Web_IT [Уголок программиста](https://t.me/conhum/1)
 - [ ] Web_IT [Фронтендщик](https://t.me/frontendshik/1)
 - [x] (DEAD) Courses [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
-- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/10945) - page-udemy.com.md
-- [x] Courses [Udemy Free Courses](https://t.me/UdemyFree4You/1475) - page-udemy.com.md
+- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/10977) - page-udemy.com.md
+- [x] Courses [Udemy Free Courses](https://t.me/UdemyFree4You/1489) - page-udemy.com.md
