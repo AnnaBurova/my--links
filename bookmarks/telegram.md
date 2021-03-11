@@ -115,6 +115,7 @@
 - [ ] Web_IT [Типичный программист](https://t.me/tproger_official/1)
 - [ ] Web_IT [Уголок программиста](https://t.me/conhum/1)
 - [ ] Web_IT [Фронтендщик](https://t.me/frontendshik/1)
-- [x] (DEAD) Courses [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
-- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/10977) - page-udemy.com.md
-- [x] Courses [Udemy Free Courses](https://t.me/UdemyFree4You/1489) - page-udemy.com.md
+- [x] Courses [Course Time™](https://t.me/coursetime/39) - page-udemy.com.md
+- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/11054) - page-udemy.com.md
+- [x] Courses [Udemy Free Courses](https://t.me/UdemyFree4You/1753) - page-udemy.com.md
+- [x](DEAD) Courses [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
