@@ -9,7 +9,6 @@ http://guildwars-story.ru/wp-admin/edit.php | Записи ‹ История Gu
 http://guildwars-story.ru/wp-admin/themes.php | Управление темами ‹ История Guild Wars — WordPress
 http://gw2stats.com/ | Guild Wars 2 WvW Matchups
 http://localhost/game--guild_wars_2/story/ | Story overview - История Guild Wars 2 на русском языке
-http://localhost/game--guild_wars_2/story/ | Story overview - История Guild Wars 2 на русском языке
 http://munich-international-school-of-arts.de/wp-admin/tools.php?page=redirection.php&sub=404s&groupby=url | Redirection ‹ [MISA] Munich International School of Arts — WordPress
 http://seasonvar.ru/serial-478-Tajni_Smolvilya-9-sezon.html | Сериал Тайны Смолвиля 9 сезон Smallville смотреть онлайн бесплатно!
 http://wowgaid.ru/class/shp-prist-shadowlands | ШП прист 9.0.2 PvE гайд — WoW Shadowlands
@@ -58,8 +57,6 @@ https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-70566 | Crafting -
 https://gw2efficiency.com/crafting/calculator/a~1!b~0!c~0!d~1-72816;1-73392;1-70993;1-74524;1-76406;1-76834 | Crafting - Calculator - gw2efficiency
 https://gw2efficiency.com/daily | Daily - gw2efficiency
 https://gw2efficiency.com/dungeons?filter.type=raids | Dungeons, Raids and Fractals - gw2efficiency
-https://gw2efficiency.com/worldbosses | Worldbosses - gw2efficiency
-https://gw2efficiency.com/worldbosses | Worldbosses - gw2efficiency
 https://gw2efficiency.com/worldbosses | Worldbosses - gw2efficiency
 https://hdrezka-ag.com/cartoons/fantasy/12689-garguli.html | Смотреть мультфильм Гаргульи онлайн в хорошем качестве 720p
 https://hdrezka-ag.com/cartoons/fiction/14756-lyudi-iks-evolyuciya.html#t:56-s:3-e:1 | Смотреть мультфильм Люди Икс: Эволюция онлайн в хорошем качестве 720p
@@ -158,7 +155,6 @@ https://wiki.guildwars2.com/wiki/Silverwastes_Shovel | Silverwastes Shovel - Gui
 https://wiki.guildwars2.com/wiki/Skyscale | Skyscale - Guild Wars 2 Wiki (GW2W)
 https://wiki.guildwars2.com/wiki/World_versus_World | World versus World - Guild Wars 2 Wiki (GW2W)
 https://wordpress.org/about/privacy/ | Privacy Policy | WordPress.org
-https://wordpress.org/about/privacy/ | Privacy Policy | WordPress.org
 https://wpschool.ru/contact-form-checkbox/ | Как в Contact Form 7 вывести чекбокс согласия обработки персональных данных?
 https://www.blogmojo.de/wordpress-cookie-plugins/ | Die 5 besten WordPress Cookie Plugins in 2021 (3 davon kostenlos)
 https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2020/2020067.html?nn=10690868 | Der Bundesgerichtshof - Presse : Pressemitteilungen - Bundesgerichtshof zur Einwilligung in telefonische Werbung und Cookie-Speicherung
@@ -183,7 +179,234 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/66557
 https://www.youtube.com/channel/UCYPZ4y3IHKOtjgMnlw8H2pQ | ArenaNet - YouTube
 https://xn--90abhccf7b.xn--p1ai/raznoe/politika-konfidencialnosti-dlya-wordpress-plagin-politika-konfidencialnosti-dlya-wordpress-politika-konfidencialnosti-dlya-sajta-soglasie-pod-formami-contact-form-7-wordpress-plu.html | Политика конфиденциальности для wordpress: Плагин Политика конфиденциальности для WordPress – Политика конфиденциальности для сайта. Согласие под формами Contact-Form 7 – WordPress plugin —  Вебджем.рф | Создание и продвижение сайтов
 https://zabolotskikh.com/instruments/ | Инструменты — Блог веб-разработчика
-
+chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html
+chrome://bookmarks/
+http://16100.gzidlerpg.appspot.com/web/scores?tid=219150001&guildTag=222
+http://16100.gzidlerpg.appspot.com/web/scores?tid=219150001&guildTag=PvP
+http://16300.gzidlerpg.appspot.com/web/events
+http://buranna.ru/
+http://elena-baumann-and-friends.de/
+http://forum.bandits-clan.ru/index.php?showforum=1290
+http://guildwars-story.ru/
+http://gw2mb.com/archive.php
+http://gw2stats.com/
+http://isbn-suche.net/
+http://muenchen-jobcenter.de/
+http://munich-international-school-of-arts.de/
+http://munich-international-school-of-arts.de/wp_admin_login/
+http://wowgaid.ru/class/shp-prist-shadowlands
+http://www.online-decoder.com/ru
+http://www.radiorecord.ru/radio/heroes/777123/
+http://www.wowmmorpg.ru/achievment/
+http://www.yts.am/
+http://youmightnotneedjquery.com/
+https://10fastfingers.com/competitions
+https://1337x.to/
+https://9may.mail.ru/restoration/
+https://admsh1.krn.muzkult.ru/drug
+https://analytics.google.com/analytics/web/#/report-home/a175160057w242827512p226279843
+https://anmeldung.arbeitsagentur.de/portal
+https://apkpure.com/crush-them-all/com.godzilab.idlerpg/versions
+https://app.myreadit.com/
+https://archive.org/details/PhpMagazine
+https://blizzcon.com/ru-ru/
+https://books.google.ru/advanced_book_search?hl=ru
+https://buranna.ru/feed/
+https://buranna.ru/wp_admin_login/
+https://calculat.io/ru/date/
+https://calendar.google.com/calendar/u/0/embed?src=9lrgauenu272ont2es17f425lc@group.calendar.google.com&ctz=Europe/Moscow
+https://countwordsfree.com/comparetexts
+https://cta.dnery.me/
+https://cwd.org.ua/2017/04/11/girls-in-web-developing/
+https://de.iherb.com/
+https://de1lib.org/s/Rheinwerk?order=date
+https://dev.by/news/ya-ne-devushka-ya-programmist
+https://developer.twitter.com/en/portal/projects-and-apps
+https://developer.twitter.com/en/portal/register/playground
+https://developers.facebook.com/ads/blog/post/v2/2017/11/28/event-tracking-with-multiple-pixels-tracksingle/
+https://dhtmlgames.com/
+https://docs.google.com/document/d/1B93MZN5wRC7mYgPi8k0V46Uy2XgBZAgSxj89rrZbFR4/edit
+https://docs.google.com/document/d/1dhhdK7iYqWvfqJrcKr9HAT32dbNB04OcQijaUWGtzG0/edit
+https://docs.google.com/document/d/1eFJ5yvHXm8SL0tdbmnL5j6CwvkDLrqi1Npdy2gFw45Y/edit
+https://docs.google.com/document/d/1fSTTtvQQc7z5T6g5yzkMrgK1L7xmD4MUEtY4IEhnG8Q/edit
+https://docs.google.com/document/d/1vqRo_Lc4B3usIxPjxn6KR9TgAJ4Y1JR4CEO7CAOLQtY/edit#heading=h.frrkhy18qycn
+https://docs.google.com/spreadsheets/d/1cbU4MWtT1eTRR-nzvt_V3FyD3U98Rj7Qqse1PQFb1pM/edit#gid=0
+https://docs.google.com/spreadsheets/d/1ep0CZVZwnTRJ8TgOmthoExxMAG2X1ty4j0XWSB7oRXE/edit#gid=1441896696
+https://docs.google.com/spreadsheets/d/1IBYepyc3UjfY5GKyCnP54R40awPHH6RwOsUr5sZz4qc/edit#gid=1192085981
+https://docs.google.com/spreadsheets/d/1KCcWSnom85hQFpZjZDZcDAnIiVLJgoD9Q0j2wLH4rA8/edit#gid=995390111
+https://docs.google.com/spreadsheets/d/1kF5zvogyyFxqgIc9h6GzfQAeN-DhiLsSvweq0I1-Hec/edit
+https://docs.google.com/spreadsheets/d/1SepSfBrucyzotcHYYF9ieHK9PRCjd75td6oRRnCNj6c/edit#gid=0
+https://docs.google.com/spreadsheets/d/1tb7TdlVgNCg8GPtv-UManVwiyq-76SjDczitw2keI3Q/edit#gid=1353242507
+https://docs.google.com/spreadsheets/d/1WtoD_S8jkCuAx1BlAZE3iKT60nie1V2ICkN5kT4hzkU/edit#gid=0
+https://dps.report/w76t-20210408-204335_vg
+https://dsl.vodafone.de/vfksc/pr/sprache.html
+https://dsl.vodafone.de/vfksc/pr/voice_extras.html
+https://en-forum.guildwars2.com/
+https://everytimezone.com/
+https://expert-cg.ru/
+https://eztv.re/
+https://fast.farming-community.eu/
+https://feedly.com/
+https://filext.com/file-extension/BANK
+https://gaming.amazon.com/home
+https://gist.github.com/AnnaBurova
+https://github.com/AnnaBurova
+https://grigorovichmusic.ru/
+https://grigorovichmusic.ru/wp-login.php
+https://gw2.ninja/
+https://gw2efficiency.com/
+https://gw2mists.com/
+https://gw2timer.com/
+https://gzidlerpg.appspot.com/web/pay
+https://hb.bizmrg.com/cybersportru-media/c5/c5e0a86e55239f022c0358a94d0640c7.png
+https://hb.bizmrg.com/cybersportru-media/c6/c6a988335437f0a7ee671640c708dc6e.png
+https://hb.bizmrg.com/cybersportru-media/dd/ddc0d45e2916f30c4ddad6d08071d7db.png
+https://hom.guildwars2.com/en/#page=details&details=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWOIIQAAAAAA
+https://iag.me/socialmedia/build-your-first-twitter-app-using-php-in-8-easy-steps/
+https://ilyakazyamov.ru/
+https://isbnsearch.org/
+https://jobboerse.arbeitsagentur.de/vamJB/startseite.html?lk=9184&rg=2&m=1&kgr=as
+https://karrierebibel.de/elevator-pitch/
+https://kinokong.org/
+https://kis.hosteurope.de/administration/webhosting/admin.php?menu=7&mode=vhostsettings&wp_id=12122656
+https://leaderboards.guildwars2.com/de/na/wvw
+https://leaderboards.guildwars2.com/en/eu/achievements/guild/Skill%20Master
+https://lernen.arbeitsagentur.de/lernboersePortal/faces/lernboerseExclusiv?reglevel=pin&_afrLoop=3556976973851910&_afrWindowMode=0&_afrWindowId=null&_adf.ctrl-state=60si86xxw_74#!%40%40%3F_afrWindowId%3Dnull%26reglevel%3Dpin%26_afrLoop%3D3556976973851910%26_afrWindowMode%3D0%26_adf.ctrl-state%3D60si86xxw_78
+https://mail.google.com/mail/u/0/#inbox
+https://mbaierl.com/wordpress-login-schutz/
+https://mega.nz/folder/piwEybZB#KOMLYcZgdy1m0JH3JGuPFA
+https://meine.postbank.de/#/login
+https://metabattle.com/wiki/Build:Reaper_-_Power_DPS
+https://metabattle.com/wiki/Build:Scourge_-_Condi_Scourge
+https://mobile.ficbook.net/readfic/2263805/6173667#part_content
+https://my.ihc.ru/
+https://myaccount.lingotek.com/project/
+https://myshows.me/annaburova89
+https://myshows.me/m/
+https://open-file.ru/
+https://placeholder.com/
+https://platformalp.ru/
+https://programm.ard.de/TV/Sendungen-von-A-bis-Z/Tele-Gym/?char=T
+https://r12a.github.io/app-conversion/
+https://rarbg.to/index70.php
+https://ru.b-ok.cc/
+https://ru.b-ok2.org/s/Rheinwerk
+https://ru.booksc.org/
+https://ru.z-lib.org/
+https://rutracker.net/forum/index.php
+https://search.google.com/search-console/welcome?hl=ru
+https://sebkay.com/calendi/
+https://skyrocketmarketing.ru/facebook/kak-ustanovit-pixel-facebook-na-site#tab-con-18
+https://snowcrows.com/raids/builds/necromancer/scourge/condition/
+https://snowcrows.com/raids/guides/necromancer/scourge/condition/#matthias-gabrel
+https://sso.hosteurope.de/?app=kis&path=/
+https://streamlabs.com/salamandra_kills/tip
+https://support.platformalp.ru/ru/articles/2839183-c%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D1%87%D1%82%D1%8B-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-yandex#3--
+https://t-webstudio.ru/chem-zanimaetsya-veb-studiya/
+https://t.me/CounterArcade/19183
+https://taleatempora.ru/
+https://taleatempora.ru/wp-login.php
+https://thepiratebay10.org/
+https://ticktick.com/webapp/#q/all/tasks
+https://tlgrm.ru/docs
+https://torrentz2eu.org/
+https://translate.google.com/
+https://trello.com/b/AEIWBfiS/%D0%BC%D0%BE%D1%8F-%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C
+https://trello.com/b/guUbhkfm/%D0%B1%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%BD-%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-01
+https://trello.com/b/pYFNBqXu/jobs
+https://twiends.com/chartinfo
+https://twitter.com/notifications
+https://unfollowerstats.com/dashboard
+https://vk.com/al_im.php
+https://vk.com/app7604460
+https://vk.com/videos-115440279?z=video-115440279_456239905%2Fpl_-115440279_-2
+https://web.whatsapp.com/
+https://websitelaunchchecklist.com/
+https://wiki.guildwars.com/wiki/Main_Page
+https://wiki.guildwars2.com/wiki/Achievement
+https://wiki.guildwars2.com/wiki/Attribute_combinations#Three_or_more_attributes
+https://wiki.guildwars2.com/wiki/Biography
+https://wiki.guildwars2.com/wiki/Defeat_the_invading_Awakened
+https://wiki.guildwars2.com/wiki/Event_timers
+https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Color_schemes
+https://wiki.guildwars2.com/wiki/Map_bonus_reward
+https://wiki.guildwars2.com/wiki/Personal_story
+https://wiki.guildwars2.com/wiki/Promotions
+https://wiki.guildwars2.com/wiki/Release
+https://wiki.guildwars2.com/wiki/Release/Features
+https://wiki.guildwars2.com/wiki/Special:RunQuery/Equipment_query
+https://wiki.guildwars2.com/wiki/Special:RunQuery/Map_bonus_rewards_query
+https://wiki.guildwars2.com/wiki/Story_characters
+https://wiki.guildwars2.com/wiki/Story_Journal
+https://wordpress.org/plugins/instagram-feed/
+https://wordpress.org/plugins/shareaholic/
+https://wordpress.org/plugins/social-streams/
+https://worldofmapcraft.com/
+https://wpruse.ru/plaginy/multiyazychnyj-sajt-wordpress/
+https://www.adcolony.com/privacy-policy/
+https://www.amazon.de/
+https://www.amazon.de/%C3%9Cber-H%C3%BCgel-Schwertern-tausend-M%C3%A4nnern/dp/B08GL2J6P9/ref=pd_ys_c_mepd_ys_sf_s_dnr_3356019031_2?_encoding=UTF8&pd_rd_i=B08GL2J6P9&pd_rd_r=B2BRTEANQS8V10EMS9KR&pd_rd_w=dFqLY&pd_rd_wg=AnMw0&psc=1&refRID=5YSNYW4Q183R2W1MBBPA
+https://www.arbeitsagentur.de/
+https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/download-center-arbeitslos#1478809808529
+https://www.arbeitsagentur.de/datei/dok_ba040168.pdf
+https://www.arbeitsschutz-sigel.de/ffp2-faltmaske-aus-deutschland-zehner
+https://www.ctacompanion.com/index
+https://www.deutschlandcard.de/
+https://www.ebay.de/
+https://www.emdria.de/emdr/was-ist-emdr/
+https://www.facebook.com/AnnaBurova89
+https://www.facebook.com/notes/1201898326864186/
+https://www.facebook.com/notes/1461845294014185/
+https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
+https://www.gamee.com/
+https://www.godsofpvp.net/
+https://www.google.com/recaptcha/admin
+https://www.google.com/search?q=%C2%A716i+SGB+II&rlz=1C1ASUM_enDE831DE831&oq=%C2%A716i+SGB+II&aqs=chrome..69i57j0i22i30l7.1143j0j7&sourceid=chrome&ie=UTF-8
+https://www.guildwars2.com/en/media/asset-kit/
+https://www.gw2potm.org/multi-boxing
+https://www.gwtoolbox.com/
+https://www.ilovepdf.com/ru
+https://www.instagram.com/annaburova1989/
+https://www.karin-arndt.de/schwerpunkte/frauengesundheit/
+https://www.kinopoisk.ru/
+https://www.limetorrents.info/
+https://www.muenchen.de/rathaus/Stadtinfos/Coronavirus-Fallzahlen.html#Inzidenz
+https://www.noob-club.ru/index.php?board=293.40
+https://www.noob-club.ru/index.php?topic=62051.0
+https://www.noob-club.ru/index.php?topic=62194.0
+https://www.noob-club.ru/index.php?topic=62696.0
+https://www.noob-club.ru/index.php?topic=62730.0
+https://www.noob-club.ru/index.php?topic=62931.0
+https://www.online-convert.com/ru
+https://www.ozon.ru/context/detail/id/169869440/
+https://www.payback.de/punktekonto
+https://www.pixambo.com/
+https://www.qrcode-generator.de/
+https://www.reddit.com/r/CrushThemAll/
+https://www.rewe.de/
+https://www.toptal.com/developers/webdevchecklist
+https://www.torlock.com/movies/1/size/desc.html
+https://www.torrentdownloads.me/
+https://www.twitch.tv/
+https://www.twitch.tv/selina_kuinn
+https://www.udemy.com/
+https://www.urldecoder.org/
+https://www.utest.com/
+https://www.w3schools.com/html/html_images_imagemap.asp
+https://www.webdesignerdepot.com/2019/01/5-ways-to-design-for-large-viewports/
+https://www.websiteboosting.com/artikel.html
+https://www.wpbeginner.com/wp-tutorials/how-to-add-custom-styles-to-wordpress-visual-editor/
+https://www.youtube.com/
+https://www.youtube.com/watch?v=_qtIlug1TiU&feature=emb_title&ab_channel=TiffyMissWiffy
+https://www.youtube.com/watch?v=afJgyD_9TbI
+https://www.youtube.com/watch?v=kag0aJqQsGo&ab_channel=Musicforbodyandspirit-Meditationmusic
+https://www.youtube.com/watch?v=owvnzePB2iU&ab_channel=C%C3%A9dricCrystobalOrl%C3%A9ans
+https://www.youtube.com/watch?v=TDqLEl3yp8I&ab_channel=HangMassive
+https://www.youtube.com/watch?v=WzWn2zV10Vc&ab_channel=YellowBrickCinema-RelaxingMusic
+https://www.youtube.com/watch?v=yQyeTaDr6i4&ab_channel=%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B5%D1%86
+https://www.zeugnisprofi.com/cockpit
+https://youtube.com/
+https://zooqle.com/
 www.1001freedownloads.com/
 www.1001freedownloads.com/free-vector/barker-icon-set
 www.1001freedownloads.com/free-vector/lynny-icons-full
