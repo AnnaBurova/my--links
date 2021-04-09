@@ -27,6 +27,7 @@
 000053365 --- https://vk.com/club53365
 000053398 --- https://vk.com/club53398
 000053563 --- https://vk.com/club53563
+https://vk.com/poyasnizadizain
 000055728 --- https://vk.com/club55728
 000057072 --- https://vk.com/club57072
 000058544 --- https://vk.com/club58544
