@@ -1,6 +1,189 @@
 >>> Code - Helpers - Online Codetester - jsbin.com/
 ________________________________________________________________________________
 javascript:window.location+='&list=UL'
+http://coder-oldboy.com/ | Портфолио фрилансера веб разработчика, разработка сайтов, создание сайтов | Cайт портфолио front-end разработчика
+http://guildwars-story.ru/ | Guild Wars 2 - Translation RUS
+http://guildwars-story.ru/ | Story overview - История Guild Wars 2 на русском языке
+http://guildwars-story.ru/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0-%d0%ba%d0%be%d0%bd%d1%84%d0%b8%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d0%b8/ | Политика конфиденциальности – История Guild Wars 2
+http://guildwars-story.ru/wp-admin/edit.php | Записи ‹ История Guild Wars 2 — WordPress
+http://guildwars-story.ru/wp-admin/themes.php | Управление темами ‹ История Guild Wars — WordPress
+http://gw2stats.com/ | Guild Wars 2 WvW Matchups
+http://localhost/game--guild_wars_2/story/ | Story overview - История Guild Wars 2 на русском языке
+http://localhost/game--guild_wars_2/story/ | Story overview - История Guild Wars 2 на русском языке
+http://munich-international-school-of-arts.de/wp-admin/tools.php?page=redirection.php&sub=404s&groupby=url | Redirection ‹ [MISA] Munich International School of Arts — WordPress
+http://seasonvar.ru/serial-478-Tajni_Smolvilya-9-sezon.html | Сериал Тайны Смолвиля 9 сезон Smallville смотреть онлайн бесплатно!
+http://wowgaid.ru/class/shp-prist-shadowlands | ШП прист 9.0.2 PvE гайд — WoW Shadowlands
+http://www.dr-schulte-uebbing.de/seiten/kontakt.html | Praxis Dr. med. Schulte-Uebbing
+http://www.emilyridge.ie/cookie-policy/ | Cookie Policy • Emily Ridge
+http://www.emilyridge.ie/privacy-policy/ | Privacy Policy • Emily Ridge
+http://www.emilyridge.ie/terms-and-conditions/ | Terms and Conditions • Emily Ridge
+http://www.gl-m.de/ | Hoam: Gesundheitsladen München
+http://www.schwabing-frauenaerztin.de/Sprechzeiten/sprechzeiten.html | Frauenärztin Dr. Elena Yuferova - Fachärztin für Gynäkologie und Geburtshilfe - München
+https://10fastfingers.com/typing-test/russian?__cf_chl_jschl_tk__=3afcc552b3ff291515c6c53cf02738f4ba6e662d-1581099534-0-Aa8EQFZQdtdEYc1U_d9iKZkIuSUFbfqtEw_wdgmK_YXChpnDl9LYGO_3UXE4V0WDQtkzyUJiq605P-JpsuiMQIZlioAxufy6By-0KW4cICoPs2SpKlGLnReqhN9SURtSH7dTt8OhV_gEcRE0qcXLi6eYXoZFEF3kGkOXxF0aWn_wPFJKWZAo9it_Qqtdujrc5VQEoe21KHluvFoobnn75Sdn24XYmebnEmc2knXbrNDvcuEPX5Kn86Kjl4rjmB8gCCKN1BGzcHjLn6LF8XzuDGC3Jh4c7cfrnztVi_ubMdW- | Typing Test Russian - 10FastFingers.com
+https://addcatalogs.manyweb.ru/review/buranna.ru.html
+https://almobook.ru/privacy-policy/ | Политика конфиденциальности - Книжные обзоры
+https://andreyex.ru/category/uslugi/ | Архивы Услуги |
+https://api.guildwars2.com/v2/guild/search?access_token=07AAD7CE-2892-7E44-9F9B-4D889F5521EBD9A3FEA3-38EA-4028-AF6C-D1458B5A76DA | https://api.guildwars2.com/v2/guild/search?access_token=07AAD7CE-2892-7E44-9F9B-4D889F5521EBD9A3FEA3-38EA-4028-AF6C-D1458B5A76DA
+https://api.telegram.org/bot1354418677:AAFQrSz0lYuqNpGPFnTSyxAlsfqSgQBcdjQ/getChatAdministrators?chat_id=-1001408183103 | https://api.telegram.org/bot1354418677:AAFQrSz0lYuqNpGPFnTSyxAlsfqSgQBcdjQ/getChatAdministrators?chat_id=-1001408183103
+https://blog.finder.vc/howtofreelance | Фриланс для начинающих: как начать работать на себя
+https://blweb.ru/contacts | Контакты | Блог разработчика
+https://buranna.ru/ | Privacy Policy [EN] – BurAnna
+https://buranna.ru/home-en/ | BurAnna – Web-DEV and IT Blog
+https://buranna.ru/wp-admin/ | Консоль ‹ BurAnna — WordPress
+https://buranna.ru/wp-admin/post.php?post=361&action=edit | Редактировать страницу ‹ BurAnna — WordPress
+https://core.telegram.org/bots/api/#deletewebhook | Telegram Bot API
+https://danilin.biz/wordpress-152-fz.htm | Настраиваем Вордпресс в соответствии с 152‑ФЗ
+https://de.wordpress.org/ | Blog-Tool, Publishing-Plattform und CMS | WordPress.org Deutsch
+https://dejure.org/gesetze/TMG/15.html | § 15 TMG Nutzungsdaten - dejure.org
+https://dev.by/news/ya-ne-devushka-ya-programmist | «Я не девушка, я программист». Разработчица о сексизме, жизни в Киеве и Москве, ловушках удалённой работы и выгорании | dev.by
+https://developer.wordpress.org/themes/advanced-topics/child-themes/ | Child Themes | Theme Developer Handbook | WordPress Developer Resources
+https://diary.travel/o-nas | О нас - Дневник путешественника
+https://diary.travel/podpiska-na-e-mail-rassylku | Подписка на e-mail рассылку - Дневник путешественника
+https://docs.google.com/spreadsheets/d/1kF5zvogyyFxqgIc9h6GzfQAeN-DhiLsSvweq0I1-Hec/edit#gid=1514732724 | 222_guild - Google Sheets
+https://downforeveryoneorjustme.com/addcatalogs.manyweb.ru | addcatalogs.manyweb.ru down? Current problems and status.
+https://dps.report/w76t-20210408-204335_vg | Vale Guardian
+https://e-integrate.ru/chek-boks-soglasiya-s-politikoj/ | Чекбокс согласия с политикой конфиденциальности в Сontact form 7 - Экспресс курс по созданию сайтов
+https://en-forum.guildwars2.com/discussion/126411/game-update-notes-april-6-2021 | Game Update Notes: April 6, 2021 — Guild Wars 2 Forums
+https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0136 | EUR-Lex - 32009L0136 - EN - EUR-Lex
+https://github.com/AnnaBurova/1--library/blob/master/likes/kinopoisk.md | 1--library/kinopoisk.md at master · AnnaBurova/1--library
+https://github.com/AnnaBurova/page--buranna_ru--priv/projects/1 | Create BurAnna.ru page
+https://github.com/gw2efficiency/gw2-api.com#itemsids | gw2efficiency/gw2-api.com: Proxy-layer server for the official GuildWars 2 API.
+https://gw2efficiency.com/account/achievements?filter.collapse=all | Account - Achievements - gw2efficiency
+https://gw2efficiency.com/account/achievements?filter.search=Luminescent | Account - Achievements - gw2efficiency
+https://gw2efficiency.com/account/characters | Account - Characters - gw2efficiency
+https://gw2efficiency.com/account/overview | Account - Overview - gw2efficiency
+https://gw2efficiency.com/community/lottery | Community - Lottery - gw2efficiency
+https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-19735 | Crafting - Calculator - gw2efficiency
+https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-70566 | Crafting - Calculator - gw2efficiency
+https://gw2efficiency.com/crafting/calculator/a~1!b~0!c~0!d~1-72816;1-73392;1-70993;1-74524;1-76406;1-76834 | Crafting - Calculator - gw2efficiency
+https://gw2efficiency.com/daily | Daily - gw2efficiency
+https://gw2efficiency.com/dungeons?filter.type=raids | Dungeons, Raids and Fractals - gw2efficiency
+https://gw2efficiency.com/worldbosses | Worldbosses - gw2efficiency
+https://gw2efficiency.com/worldbosses | Worldbosses - gw2efficiency
+https://gw2efficiency.com/worldbosses | Worldbosses - gw2efficiency
+https://hdrezka-ag.com/cartoons/fantasy/12689-garguli.html | Смотреть мультфильм Гаргульи онлайн в хорошем качестве 720p
+https://hdrezka-ag.com/cartoons/fiction/14756-lyudi-iks-evolyuciya.html#t:56-s:3-e:1 | Смотреть мультфильм Люди Икс: Эволюция онлайн в хорошем качестве 720p
+https://hdrezka-ag.com/films/action/1408-obitel-zla-2002.html | Смотреть фильм Обитель зла онлайн бесплатно в хорошем качестве
+https://hdrezka-ag.com/films/action/597-drugoy-mir-2003.html | Смотреть фильм Другой мир онлайн бесплатно в хорошем качестве
+https://hdrezka-ag.com/films/horror/13277-amerikanskiy-oboroten-v-parizhe-1997.html | Смотреть фильм Американский оборотень в Париже онлайн бесплатно в хорошем качестве
+https://hdrezka-ag.com/films/horror/2701-rozhdenie-oborotnya-2004.html | Смотреть фильм Рождение оборотня онлайн бесплатно в хорошем качестве
+https://hdrezka-ag.com/films/horror/6431-drakula-2000-2000.html | Смотреть фильм Дракула 2000 онлайн бесплатно в хорошем качестве
+https://hdrezka-ag.com/series/action/7851-zena-koroleva-voinov.html#t:84-s:1-e:2 | Смотреть сериал Зена – королева воинов онлайн бесплатно в хорошем качестве
+https://hh.ru/article/302403 | Фриланс без иллюзий: как начать работать на себя
+https://jut.su/ | Школа техник Наруто: сила Юности с нами
+https://jut.su/accel-world/ | Смотреть Ускоренный мир все серии на Jut.su
+https://jut.su/ao-no-exorcist/ | Смотреть Синий Экзорцист все серии и сезоны на Jut.su
+https://jut.su/black-cat/ | Смотреть Чёрный кот все серии на Jut.su
+https://jut.su/bleeach/ | Смотреть Блич все серии на Jut.su
+https://jut.su/code-geass/ | Смотреть Код Гиас все серии и сезоны на Jut.su
+https://jut.su/dnote/ | Смотреть Тетрадь смерти все серии на Jut.su
+https://jut.su/fullmetal-alchemist/ | Смотреть Стальной алхимик все серии на Jut.su
+https://jut.su/godeater/ | Смотреть Пожиратель богов все серии на Jut.su
+https://jut.su/higurashi-no-naku/ | Смотреть Когда плачут цикады все серии и сезоны на Jut.su
+https://jut.su/inu-yasha/ | Смотреть Инуяша все серии и сезоны на Jut.su
+https://jut.su/made-abyss/ | Смотреть Сделано в Бездне все серии на Jut.su
+https://jut.su/maou-gakuin/ | Смотреть Непризнанный школой владыка демонов! все серии на Jut.su
+https://jut.su/mirai-nikki/ | Смотреть Дневник будущего все серии на Jut.su
+https://jut.su/no-game-no-life/ | Смотреть Нет игры - нет жизни все серии на Jut.su
+https://jut.su/overlord/ | Смотреть Повелитель все серии и сезоны на Jut.su
+https://jut.su/re-zero/ | Смотреть С нуля: Пособие по выживанию в альтернативном мире все серии и сезоны на Jut.su
+https://jut.su/shingeki-kyojin/ | Смотреть Атака титанов все серии и сезоны на Jut.su
+https://jut.su/tokushu/ | Смотреть Токийский Гуль все серии и сезоны на Jut.su
+https://jut.su/yakusoku-neverland/season-1/episode-12.html | Смотреть Обещанный Неверленд 1 сезон 12 серия на Jut.su
+https://karrierebibel.de/ablehnung/ | Ablehnung: Wie Sie damit professionell umgehen
+https://karrierebibel.de/authentizitat/ | Authentizität: Die Kunst authentisch zu sein
+https://karrierebibel.de/bewerbungsabsagen/ | Bewerbungsabsagen: 10 Gründe + Wie Sie reagieren sollten
+https://karrierebibel.de/bewerbungsschreiben/#Bewerbungsschreiben-Inhalt-Formulierungen-Beispiele | Bewerbungsschreiben: Kostenlose Vorlagen, Tipps, 70 Beispiele
+https://karrierebibel.de/jobsuche/ | Jobsuche: 70 Tipps, wie Sie einen Job finden
+https://karrierebibel.de/selbstbewusstsein-selbstvertrauen/ | Selbstbewusstsein: 12 Tipps und Übungen
+https://karrierebibel.de/versagensangst/ | Versagensangst überwinden: Ursachen + 6 einfache Strategien
+https://karrierebibel.de/vorstellungsgesprach-fragen/ | Vorstellungsgespräch Fragen: Die 100 häufigsten
+https://karrierebibel.de/vorstellungsgesprach/ | Vorstellungsgespräch: Tipps, Fragen, Checklisten
+https://karrieresprung-production.herokuapp.com/fangfragen | Fangfragen im Vorstellungsgespräch souverän meistern
+https://kinodrive.pro/4175-mstiteli-voyna-beskonechnosti-trailer.html | Мстители 3 часть смотреть онлайн на русском в хорошем HD 720/1080 качестве
+https://leaderboards.guildwars2.com/en/eu/achievements/guild/Skill%20Master | Achievements - Guild Wars 2 Leaderboards
+https://life-thai.com/kak-zarabotat-na-bloge/ | Как заработать на блоге в 2020: 12 проверенных способов
+https://mail.google.com/mail/u/0/#label/_Job+Baumann+Elena/WhctKJWQfkvDcpRhzpvmjMjXSMtdpRtpLgDDZVPLjSvLvgNpXJPXNxLHnGpFMPVjpVnRQgg | Fwd: Interview mit Dimitri Nujanzin, leitender Regisseur am Stadttheater Atschinsk - burova.anna@gmail.com - Gmail
+https://moretraveler.com/category/prices/ | Цены | Блог путешественника
+https://my.ihc.ru/ | Интернет Хостинг Центр | Панель управления
+https://my.ihc.ru/login/auth | Интернет Хостинг Центр | Вход в Личный Кабинет
+https://myaccount.lingotek.com/project/ | Project - Lingotek
+https://myshows.me/view/episode/16758133/?force=1#comments | Обещанный Неверленд / The Promised Neverland 1 сезон 12 серия – 150146
+https://orte.muenchen.de/34542.html | Arbeitslosenzentrum Nord Beratungsstelle München auf muenchen.de
+https://otdyhsamostoyatelno.ru/zarabotat-blog/ | Сколько Можно Заработать на Блоге в 2020 [16 Способов + Инфогр.]
+https://pikabu.ru/story/frilans_s_chego_nachat_novichku_5768570 | Фриланс. С чего начать новичку? | Пикабу
+https://policies.google.com/privacy?hl=ru | Политика конфиденциальности – Политика конфиденциальности и Условия использования – Google
+https://privatbank.ua/ru/sistemy-denegnih-perevodov/newprivatmoney | Денежные переводы PrivatMoney, перевод денег за границу из Украины
+https://proglib.io/p/how-to-become-a-freelancer/ | Хочу стать фрилансером. Что делать и с чего начать?
+https://pythondigest.ru/ | Еженедельная подборка свежих и самых значимых новостей o Python
+https://qna.habr.com/q/152625 | C чего начать фриланс? — Хабр Q&A
+https://readycodeee.github.io/ | Портфолио WEB-разработчика
+https://ru.wordpress.org/about/privacy/ | Политика конфиденциальности | WordPress.org Русский
+https://search.google.com/search-console/welcome?hl=ru | Добро пожаловать в Search Console!
+https://sebkay.com/ | Seb Kay | Web Design & Development
+https://shra.ru/2017/07/contact-form-7-dobavim-galochku-na-soglasie-po-obrabotke-personalnykh-dannykh/ | Contact Form 7 - добавим галочку на согласие по обработке персональных данных
+https://support.wix.com/ru/article/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D1%83-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 | Как создать политику конфиденциальности? | Центр Поддержки | Wix.com
+https://t-webstudio.ru/ | Веб-студия в Москве - Услуги веб студии в Москве
+https://techrocks.ru/ | Techrocks.ru | программирование, стартапы, новости IT
+https://tilda.cc/ru/privacy-generator/ | Конструктор политики конфиденциальности и обработки персональных данных
+https://tilda.education/articles-12-psyho-tips | 12 психологических приемов, которые увеличивают конверсию на сайте
+https://tilda.education/articles-content-first | Анализ и подготовка контента при создании сайта
+https://tilda.education/articles-how-to-convert-visitors-to-customers | Как увеличить конверсию: чек-лист по использованию CTA и эффективному лендингу
+https://tilda.education/articles-how-to-write-text-for-website | Как правильно писать тексты для сайта
+https://tilda.education/articles-personal-data-law | 152 ФЗ: Что сделать на сайте, чтобы избежать штрафов за нарушение закона.
+https://trello.com/b/guUbhkfm/%D0%B1%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%BD-%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-01 | Бауманн Елена 01 | Trello
+https://web.archive.org/web/20210118033027/https://addcatalogs.manyweb.ru/ | Автоматизированый сервис по продвижению сайтов - Продвижение сайтов, Регистрация сайтов в каталогах addcatalogs.manyweb.ru
+https://webdevblog.ru/ | Еще один блог веб-разработчика - Заметки на полях о программировании и веб-разработке
+https://webdevblog.ru/let-s-work-together/ | О чем этот блог и зачем он существует? - Еще один блог веб-разработчика
+https://wiki.guildwars-2.ru/%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F | Биография — Guild Wars 2 wiki
+https://wiki.guildwars-2.ru/Explosive_Intellect | Explosive Intellect — Guild Wars 2 wiki
+https://wiki.guildwars.com/wiki/List_of_Prophecies_missions_and_primary_quests | List of Prophecies missions and primary quests - Guild Wars Wiki (GWW)
+https://wiki.guildwars2.com/index.php?title=Guaranteed_Yellow-Orange_Dye_Unlock | Guaranteed Yellow-Orange Dye Unlock - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/index.php?title=Skritt_Support_Mark | Skritt Support Mark - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Attribute_combinations | Attribute combinations - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Biography | Biography - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Daily_Super_Adventure_Festival | Daily Super Adventure Festival - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Event_timers | Event timers - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Experimental_Mordrem_Extraction_Device | Experimental Mordrem Extraction Device - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Explosive_Intellect | Explosive Intellect - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Flask_of_Utility_Primer | Flask of Utility Primer - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Guide_to_Daily_Super_Adventure_Festival_achievements | Guide to Daily Super Adventure Festival achievements - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Kudzu_Experiment | Kudzu Experiment - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/List_of_Super_Adventure_Box_upgrades_and_skills | List of Super Adventure Box upgrades and skills - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Main_Page | Guild Wars 2 Wiki
+https://wiki.guildwars2.com/wiki/Pact_Supply_Network_Agent | Pact Supply Network Agent - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Rodgort%27s_Flame_Experiment | Rodgort's Flame Experiment - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Roller_Beetle | Roller Beetle - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Silverwastes_Shovel | Silverwastes Shovel - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/Skyscale | Skyscale - Guild Wars 2 Wiki (GW2W)
+https://wiki.guildwars2.com/wiki/World_versus_World | World versus World - Guild Wars 2 Wiki (GW2W)
+https://wordpress.org/about/privacy/ | Privacy Policy | WordPress.org
+https://wordpress.org/about/privacy/ | Privacy Policy | WordPress.org
+https://wpschool.ru/contact-form-checkbox/ | Как в Contact Form 7 вывести чекбокс согласия обработки персональных данных?
+https://www.blogmojo.de/wordpress-cookie-plugins/ | Die 5 besten WordPress Cookie Plugins in 2021 (3 davon kostenlos)
+https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2020/2020067.html?nn=10690868 | Der Bundesgerichtshof - Presse : Pressemitteilungen - Bundesgerichtshof zur Einwilligung in telefonische Werbung und Cookie-Speicherung
+https://www.deutschepost.de/de/p/postfach.html | Postfach - Briefe flexibel erhalten | Deutsche Post
+https://www.dw.com/ru/pochemu-nemeckie-medrabotniki-ne-speshat-delat-privivki-ot-covid-19/a-56172849?maca=rus-Red-Telegram-dwglavnoe | Почему немецкие медработники не спешат делать прививки от COVID-19 | Анализ событий в политической жизни и обществе Германии | DW | 10.01.2021
+https://www.e-recht24.de/artikel/datenschutz/209.html | Impressumspflicht - alle Infos zu Pflichtangaben & Abmahnsicherheit
+https://www.finanzfrage.net/g/frage/kleingewerbe-quittung-ausstellen#:~:text=Bis%20150%20Euro%20Warenwert%20reicht,und%20einen%20ordnungsgem%C3%A4%C3%9Fen%20Beleg%20braucht.&text=Kleingewerbe%20gibt%20es%20nicht.,Kleinunternehmerreglung%20nach%20%C2%A7%2019%20UstG. | Kleingewerbe Quittung ausstellen? (Rechnung, Gewerbe, Kleinunternehmer)
+https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/ | 15 Web Developer Portfolios to Inspire You
+https://www.godsofpvp.net/guides/getting-started/introduction-r1/ | Introduction - Getting Started - Gods of PvP
+https://www.google.com/search?q=%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0+%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%81%D0%B0%D0%B9%D1%82%D0%B0&rlz=1C1ASUM_enDE831DE831&oq=%D0%9F%D0%9E%D0%9B%D0%98%D0%A2%D0%98%D0%9A%D0%90+%D0%9A%D0%9E%D0%9D%D0%A4%D0%98%D0%94%D0%95%D0%9D%D0%A6%D0%98%D0%90%D0%9B%D0%AC%D0%9D%D0%9E%D0%A1%D0%A2%D0%98+%D0%B4%D0%BB%D1%8F+%D1%81&aqs=chrome.1.69i57j0l7.6395j0j7&sourceid=chrome&ie=UTF-8 | политика конфиденциальности для сайта - Поиск в Google
+https://www.google.com/search?q=Callshop+Ostbahnhof+(Send+and+Receive)&rlz=1C1ASUM_enDE831DE831&sxsrf=ALeKk00vsFhKlwJEQtFpxfhxMLLWTCiL1A:1615315255489&tbm=isch&source=iu&ictx=1&fir=HQa2fHLeXCeEgM%252C4YgIl_rs3p3MbM%252C_&vet=1&usg=K_Bvzg1C-N75WiNSujaeA5Z76WsFY%3D&sa=X&ved=2ahUKEwj4pIOg7qPvAhWKEWMBHQOOA_4QuqIBMAx6BAggEAM&biw=1680&bih=866#imgrc=AX7biSB4gph5FM | Callshop Ostbahnhof (Send and Receive) – Google Поиск
+https://www.google.com/search?q=guild+wars+2wvw&rlz=1C1ASUM_enDE831DE831&sxsrf=ALeKk00ogk6mMZKGmoTyaMcSPg0xwnEcyg%3A1617892472702&ei=eBRvYIONKrKD9u8P3aq1iAU&oq=guild+wars+2wvw&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEA0yBAgAEA0yBAgAEA0yBAgAEA0yBAgAEA0yBAgAEA0yBAgAEA0yBAgAEA0yBAgAEA0yBAgAEA06BwgAEEcQsAM6BggAEAcQHjoFCC4QkwI6AggAOgcILhANEJMCUKAxWLRIYM9QaAJwAngAgAFbiAGUBZIBATmYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiDqfqQ7-7vAhWygf0HHV1VDVEQ4dUDCA0&uact=5 | guild wars 2wvw - Поиск в Google
+https://www.guildwars2.com/en-gb/news/super-adventure-festival-2021-is-live/ | Super Adventure Festival 2021 is Live | GuildWars2.com
+https://www.jameda.de/muenchen/aerzte/frauenaerzte-gynaekologen/prof-dr-claus-schulte-uebbing/uebersicht/80272394_1/ | Prof. Dr. med. Claus Schulte-Uebbing (Arzt) in München | jameda
+https://www.kleinunternehmer.de/rechnungsstellung.htm#korrekte_kleinunternehmerrechnung | Korrekte Kleinunternehmer-Rechnung mit Rechnungspflichtangaben
+https://www.mux.de/Callshop-Ostbahnhof | Callshop Ostbahnhof, Orleansplatz 11 Haidhausen, 81667 München - Dienstleistung ❤ Willkommen
+https://www.php.net/manual/ru/function.substr.php | PHP: substr - Manual
+https://www.php.net/manual/ru/function.usleep.php | PHP: usleep - Manual
+https://www.tagestexte.de/korrektes-impressum-ohne-private-adresse-diese-optionen-gibt-es/#:~:text=Die%20Adresse%20im%20Impressum%20einer,der%20geltenden%20DSGVO%20(Datenschutzgrundverordnung). | Korrektes Impressum ohne private Adresse – diese Optionen gibt es – WWW.TAGESTEXTE.DE
+https://www.telegym.de/TELE_GYM_TV-1-6.htm | TELE-GYM im TV
+https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6655784#overview | Angular - The Complete Guide (2020 Edition) | Udemy
+https://www.youtube.com/channel/UCYPZ4y3IHKOtjgMnlw8H2pQ | ArenaNet - YouTube
+https://xn--90abhccf7b.xn--p1ai/raznoe/politika-konfidencialnosti-dlya-wordpress-plagin-politika-konfidencialnosti-dlya-wordpress-politika-konfidencialnosti-dlya-sajta-soglasie-pod-formami-contact-form-7-wordpress-plu.html | Политика конфиденциальности для wordpress: Плагин Политика конфиденциальности для WordPress – Политика конфиденциальности для сайта. Согласие под формами Contact-Form 7 – WordPress plugin —  Вебджем.рф | Создание и продвижение сайтов
+https://zabolotskikh.com/instruments/ | Инструменты — Блог веб-разработчика
+
 www.1001freedownloads.com/
 www.1001freedownloads.com/free-vector/barker-icon-set
 www.1001freedownloads.com/free-vector/lynny-icons-full
