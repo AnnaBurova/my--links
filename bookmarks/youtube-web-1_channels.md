@@ -41,7 +41,6 @@
 - [2016.07.08] [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw/videos)
 - [2016.07.14] [LessonFirst](https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ/videos)
 - [2016.10.30] [Sorax](https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog/videos)
-- [2017.01.16] [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg/videos)
 - [2017.04.11] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/videos)
 - [2018.06.25] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g/videos)
 - [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ/videos)
@@ -112,3 +111,4 @@ https://www.youtube.com/watch?v=Ulp1Kimblg0&ab_channel=CodeWithChris
 https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
 https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
+- [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg/videos)
