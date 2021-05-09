@@ -65,7 +65,6 @@
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
-- [[Brad Hussey]] --- https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos --- (2020.11.12)
 - [[Chris Coyier]] --- https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos --- (2020.11.14)
 - [[Codecourse]] --- https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos --- (2020.09.28)
 - [[Darrel Wilson]] --- https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos --- (2020.11.14)
@@ -111,4 +110,5 @@ https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
 - [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos)
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos)
+- [2021.04] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
 - [2021.05] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)
