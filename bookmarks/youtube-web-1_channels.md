@@ -65,7 +65,6 @@
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
-- [[Codecourse]] --- https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos --- (2020.09.28)
 - [[Darrel Wilson]] --- https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos --- (2020.11.14)
 - [[DesignCourse]] --- https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos --- (2020.11.12)
 - [[DevTips]] --- https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos --- (2020.10.29)
@@ -111,4 +110,5 @@ https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos)
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos)
 - [2021.04] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
+- [2021.04] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos)
 - [2021.05] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)
