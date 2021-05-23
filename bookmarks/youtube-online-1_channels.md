@@ -2,7 +2,8 @@
 
 - [x] [AdamThomasMoran](https://www.youtube.com/channel/UC-27_Szq7BtHDoC0R2U0zxA)
 - [x] [Adult Swim Deutschland](https://www.youtube.com/channel/UCwKTbeJrQhWaS7EDxxVur3A)
-- [x] [Anthony Vincent](https://www.youtube.com/channel/UC5w58oJse0evWF-S1Ywli6w)
+- [x] [Anthony Vincent 2](https://www.youtube.com/channel/UC5w58oJse0evWF-S1Ywli6w)
+- [x] [Anthony Vincent](https://www.youtube.com/channel/UCm6r_b2K5jn1JGkwDcwJXrQ)
 - [x] [BadComedian](https://www.youtube.com/channel/UC6cqazSR6CnVMClY0bJI0Lg)
 - [x] [Bonya Kuzmich](https://www.youtube.com/channel/UCh0015DMPopo2-_1WsrKf9Q)
 - [x] [CarbotAnimations](https://www.youtube.com/channel/UC1uug_uZrVmylfPVBLBvitQ)
@@ -16,13 +17,13 @@
 - [x] [LindseyTime](https://www.youtube.com/channel/UCWTD3EHR2SWV4D8WplDWFVg)
 - [x] [Little Big](https://www.youtube.com/channel/UCu7TZ_ATWgjgD9IrNLdnYDA)
 - [x] [Looper Россия](https://www.youtube.com/channel/UCh3EOqa3tAJUrgzB-1rqXrw)
-- [x] [Madeyewlook Twice](https://www.youtube.com/channel/UCI7w8UvDDnGn1IjyxneUqaQ)
+- [x] [Madeyewlook Shorts](https://www.youtube.com/channel/UCI7w8UvDDnGn1IjyxneUqaQ)
 - [x] [Madeyewlook](https://www.youtube.com/channel/UCiXoZHFowJUlDVMuRFAwVAw)
 - [x] [Masyanya Kuvaeva](https://www.youtube.com/channel/UCnRR-BtJ7dL3azi2XC09JBA)
-- [x] [MetalFamily](https://www.youtube.com/channel/UCdARvxgVxVzxvtyPb2CqO-w) - 4K YT
+- [x] [MetalFamily](https://www.youtube.com/channel/UCdARvxgVxVzxvtyPb2CqO-w)
 - [x] [mmoboom](https://www.youtube.com/channel/UCBLfY10VWpGZ42sjVFVBdLg)
 - [x] [MMORPG.SU. Онлайн игры](https://www.youtube.com/channel/UCxxdTg_nqFdADGrz2eJ6hGA)
-- [x] [Mr.Negative Комиксы](https://www.youtube.com/channel/UCpHqrBKK9QVnSRgDotUMiMQ)
+- [x] [N-Zone: Комиксы](https://www.youtube.com/channel/UCpHqrBKK9QVnSRgDotUMiMQ)
 - [x] [NEMAGIA - Music / Музыка для YouTube](https://www.youtube.com/channel/UCkjfcubnou2hvgCK3WVoWMQ)
 - [x] [NEMAGIA](https://www.youtube.com/channel/UCGJLJ7p4jWNwWDY4j9OY8QA)
 - [x] [Noize MC](https://www.youtube.com/channel/UCgzshmpXAc1T30PHQ3Yw2lw)
@@ -54,7 +55,7 @@
 - [x] [Игромания Кино](https://www.youtube.com/channel/UCbaxk35aRh1DfXILkdPGukw)
 - [x] [Игромания](https://www.youtube.com/channel/UC_Q1vhf7wcR_zGlc5ahAg0A)
 - [x] [Институт Б](https://www.youtube.com/channel/UCHNu81l8vpBbyrbeoYJgRIA)
-- [x] [Искатель](https://www.youtube.com/channel/UCyDUYGC9jcx-AMP_dKGTQZA)
+- [x] [Искатели, общий сбор!](https://www.youtube.com/channel/UCyDUYGC9jcx-AMP_dKGTQZA)
 - [x] [Канал Кшиштовского](https://www.youtube.com/channel/UCpuOloQLINtXESATBSDAgOQ)
 - [x] [КИНОНАХ](https://www.youtube.com/channel/UCCNFRc-PYX6LSC3wD8FbqIw)
 - [x] [КиноПоиск](https://www.youtube.com/channel/UC4tlrTXCBw6NPZ9nCA3_s9w)
@@ -71,7 +72,6 @@
 - [x] [Сталингулаг](https://www.youtube.com/channel/UCkcruN24mw2_ApM-dt8hxig)
 - [x] [ТО «420»](https://www.youtube.com/channel/UCvNby-vCYhCZEp7gGFGNtBg)
 - [x] [Уголок Акра](https://www.youtube.com/channel/UCUFl0SxF14-eZGTxhWuhM8Q)
-- [x] [Уральские Пельмени](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
 
 - [ ] [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 - [ ] [Peter PlutaX](https://www.youtube.com/channel/UCbaY6IEY0-pRHBU_qCswoNQ)
@@ -79,3 +79,4 @@
 - [ ] [Sheet Music Boss](https://www.youtube.com/channel/UCzTR9iSH-TFC4-ocDS_ll4A)
 - [ ] [Высокочувствительные люди](https://www.youtube.com/channel/UCbeUECyqkCHKkLKmjOpg1Bg/videos) - 4K YT
 - [ ] [Исцеляющие Медитации](https://www.youtube.com/channel/UCQ__rXROBpF6mKjCZ29ij9Q) - 4K YT
+- [x] [ЮморТВ](https://www.youtube.com/channel/UCq2xl8Soe_NxR9EzLmahcTA)
