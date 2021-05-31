@@ -31,6 +31,8 @@
 - [ ] News [TrendMedia](https://t.me/TrendMediaChannel/1)
 - [ ] News [Дуров позвонит](https://t.me/DurovTV/1)
 - [ ] News [Жека Эволюционирует](https://t.me/ono_tebya_sozhret/1)
+- [ ] News [Илон Маск | Elon Musk](https://t.me/elonmusk_ru/1)
+- [ ] News [Илон печатает...](https://t.me/Muskich/1)
 - [ ] News [Новости IHC.RU](https://t.me/ihc_ru/1)
 - [ ] News [Павел Дуров](https://t.me/durov_russia/1)
 - [ ] News [Радио Record](https://t.me/radiorecord/1)
