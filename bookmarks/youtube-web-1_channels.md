@@ -65,7 +65,6 @@
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
-- [[DesignCourse]] --- https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos --- (2020.11.12)
 - [[DevTips]] --- https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos --- (2020.10.29)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
 https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg
@@ -86,7 +85,6 @@ https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ
 https://www.youtube.com/channel/UCV4-mrR8UZh6AsWZbmW5uhQ
 https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ
 https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
-https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
 https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA
 https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ
 https://www.youtube.com/channel/UCzClGkSdFfjursCUsp6T_bQ
@@ -113,3 +111,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
 - [2021.05] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos)
 - [2021.05] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
+- [2021.05] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos)
