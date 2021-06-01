@@ -105,6 +105,7 @@ https://www.youtube.com/watch?v=Ulp1Kimblg0&ab_channel=CodeWithChris
 https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
 https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
+https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos)
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos)
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos)
