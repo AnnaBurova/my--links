@@ -54,7 +54,6 @@
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 - [2020.05.17] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
-- [2020.08.06] [Framework Television](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/videos)
 - [2020.08.16] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
 - [2020.08.20] [javannimon119](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg/videos)
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
@@ -112,3 +111,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.05] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos)
 - [2021.05] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos)
 - [2021.05] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q/videos)
+- [2021.05] [Framework Tech Media](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/videos)
