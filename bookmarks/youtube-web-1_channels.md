@@ -48,7 +48,6 @@
 - [2019.04.05] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA/videos)
 - [2019.04.06] [JREAM](https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw/videos)
 - [2019.09.07] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw/videos)
-- [2019.09.12] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
 - [2020.01.28] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/videos)
 - [2020.04.30] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
@@ -104,6 +103,7 @@ https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
 https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos)
+- [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos)
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos)
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos)
 - [2021.05] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)
