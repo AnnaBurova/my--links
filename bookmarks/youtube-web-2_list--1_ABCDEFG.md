@@ -22956,3 +22956,375 @@
 [[Google Chrome Developers]] --- 1067 ---- Supercharged Kinda Live — Paul teaches Surma DevTools
 [[Google Chrome Developers]] --- 1068 --- https://www.youtube.com/watch?v=oHsZ4R4Czzk
 [[Google Chrome Developers]] --- 1068 ---- Introducing podcasts - The State of the Web
+[[Google Chrome Developers]] --- 1069 --- https://www.youtube.com/watch?v=RsMikJZhnSQ
+[[Google Chrome Developers]] --- 1069 ---- New in Chrome 83: Trusted types, updated form controls, and more!
+[[Google Chrome Developers]] --- 1070 --- https://www.youtube.com/watch?v=vgUJuqQO4fo
+[[Google Chrome Developers]] --- 1070 ---- Top Tips for Web Performance trailer
+[[Google Chrome Developers]] --- 1071 --- https://www.youtube.com/watch?v=H89hKw06iWs
+[[Google Chrome Developers]] --- 1071 ---- web.dev LIVE 2020: Day One
+[[Google Chrome Developers]] --- 1072 --- https://www.youtube.com/watch?v=r3QPKK0JPtI
+[[Google Chrome Developers]] --- 1072 ---- web.dev LIVE 2020: Day Two
+[[Google Chrome Developers]] --- 1073 --- https://www.youtube.com/watch?v=klnvttPfOUM
+[[Google Chrome Developers]] --- 1073 ---- web.dev LIVE 2020: Day Three
+[[Google Chrome Developers]] --- 1074 --- https://www.youtube.com/watch?v=YGcA-h4YM6w
+[[Google Chrome Developers]] --- 1074 ---- Mastering the Chrome UX Report on BigQuery
+[[Google Chrome Developers]] --- 1075 --- https://www.youtube.com/watch?v=MxBCPc7bQvM
+[[Google Chrome Developers]] --- 1075 ---- How to analyze your JavaScript bundles
+[[Google Chrome Developers]] --- 1076 --- https://www.youtube.com/watch?v=Wy1bTEFQyCc
+[[Google Chrome Developers]] --- 1076 ---- Welcome to Day One
+[[Google Chrome Developers]] --- 1077 --- https://www.youtube.com/watch?v=yDHfrhCGFQw
+[[Google Chrome Developers]] --- 1077 ---- What’s new in speed tooling
+[[Google Chrome Developers]] --- 1078 --- https://www.youtube.com/watch?v=AQqFZ5t8uNc
+[[Google Chrome Developers]] --- 1078 ---- Optimize for Core Web Vitals
+[[Google Chrome Developers]] --- 1079 --- https://www.youtube.com/watch?v=hBKZnaIMm4M
+[[Google Chrome Developers]] --- 1079 ---- Implementing structured data with JavaScript
+[[Google Chrome Developers]] --- 1080 --- https://www.youtube.com/watch?v=nOEXIcMdr_g
+[[Google Chrome Developers]] --- 1080 ---- Workerized JS made easy
+[[Google Chrome Developers]] --- 1081 --- https://www.youtube.com/watch?v=t8YBZLjL-KU
+[[Google Chrome Developers]] --- 1081 ---- Core Web Vitals in the DevTools timeline
+[[Google Chrome Developers]] --- 1082 --- https://www.youtube.com/watch?v=2QWO78U43FU
+[[Google Chrome Developers]] --- 1082 ---- AMP at your service
+[[Google Chrome Developers]] --- 1083 --- https://www.youtube.com/watch?v=himvKu12YCY
+[[Google Chrome Developers]] --- 1083 ---- Debugging JavaScript SEO issues
+[[Google Chrome Developers]] --- 1084 --- https://www.youtube.com/watch?v=6yrJZHqJe2k
+[[Google Chrome Developers]] --- 1084 ---- What’s new in DevTools
+[[Google Chrome Developers]] --- 1085 --- https://www.youtube.com/watch?v=ZO7XWLudGKI
+[[Google Chrome Developers]] --- 1085 ---- What’s new in Puppeteer
+[[Google Chrome Developers]] --- 1086 --- https://www.youtube.com/watch?v=SZb0KA5coQo
+[[Google Chrome Developers]] --- 1086 ---- Welcome to Day Two
+[[Google Chrome Developers]] --- 1087 --- https://www.youtube.com/watch?v=TPm-UhWkiq8
+[[Google Chrome Developers]] --- 1087 ---- What’s new in V8/JavaScript
+[[Google Chrome Developers]] --- 1088 --- https://www.youtube.com/watch?v=QJlbMfW3jPc
+[[Google Chrome Developers]] --- 1088 ---- Shipping a PWA as an Android app
+[[Google Chrome Developers]] --- 1089 --- https://www.youtube.com/watch?v=6R9pupbDXYw
+[[Google Chrome Developers]] --- 1089 ---- How to define your install strategy
+[[Google Chrome Developers]] --- 1090 --- https://www.youtube.com/watch?v=M0wPM8B6z5c
+[[Google Chrome Developers]] --- 1090 ---- Giving your PWA superpowers
+[[Google Chrome Developers]] --- 1091 --- https://www.youtube.com/watch?v=fhqCwDP69PI
+[[Google Chrome Developers]] --- 1091 ---- Advanced PWA patterns
+[[Google Chrome Developers]] --- 1092 --- https://www.youtube.com/watch?v=1XBUeaqjTA4
+[[Google Chrome Developers]] --- 1092 ---- New in Chrome 84: App Shortcuts, Web Animations, Wake Lock, and lots more!
+[[Google Chrome Developers]] --- 1093 --- https://www.youtube.com/watch?v=NXCT3htg9nk
+[[Google Chrome Developers]] --- 1093 ---- Progressively enhancing like it’s 2003
+[[Google Chrome Developers]] --- 1094 --- https://www.youtube.com/watch?v=J_t8c9HOjBc
+[[Google Chrome Developers]] --- 1094 ---- Quieter notifications permissions
+[[Google Chrome Developers]] --- 1095 --- https://www.youtube.com/watch?v=JvCn21Rax6c
+[[Google Chrome Developers]] --- 1095 ---- Chrome Developers Channel Trailer
+[[Google Chrome Developers]] --- 1096 --- https://www.youtube.com/watch?v=nhTxJBgTywc
+[[Google Chrome Developers]] --- 1096 ---- Zoom on Web: getting connected with advanced web technology
+[[Google Chrome Developers]] --- 1097 --- https://www.youtube.com/watch?v=NNuTV-gjlZQ
+[[Google Chrome Developers]] --- 1097 ---- Storage for the web
+[[Google Chrome Developers]] --- 1098 --- https://www.youtube.com/watch?v=Z-JpyC16bNc
+[[Google Chrome Developers]] --- 1098 ---- Welcome to Day Three
+[[Google Chrome Developers]] --- 1099 --- https://www.youtube.com/watch?v=vsMJiNtQWvw
+[[Google Chrome Developers]] --- 1099 ---- Building better in the world of build tools!
+[[Google Chrome Developers]] --- 1100 --- https://www.youtube.com/watch?v=qm0IfG1GyZU
+[[Google Chrome Developers]] --- 1100 ---- 10 modern layouts in 1 line of CSS
+[[Google Chrome Developers]] --- 1101 --- https://www.youtube.com/watch?v=F1kYBnY6mwg
+[[Google Chrome Developers]] --- 1101 ---- Image compression deep-dive
+[[Google Chrome Developers]] --- 1102 --- https://www.youtube.com/watch?v=mr67QkDfkoQ
+[[Google Chrome Developers]] --- 1102 ---- Writing build plugins
+[[Google Chrome Developers]] --- 1103 --- https://www.youtube.com/watch?v=8Tl0uQdVpxU
+[[Google Chrome Developers]] --- 1103 ---- Security and privacy for the open web
+[[Google Chrome Developers]] --- 1104 --- https://www.youtube.com/watch?v=B-lipaiZII8
+[[Google Chrome Developers]] --- 1104 ---- How to stay fast and fresh with Angular
+[[Google Chrome Developers]] --- 1105 --- https://www.youtube.com/watch?v=Fet6-IiX69E
+[[Google Chrome Developers]] --- 1105 ---- Cookie recipes - SameSite and beyond
+[[Google Chrome Developers]] --- 1106 --- https://www.youtube.com/watch?v=1TbkSxQb4bI
+[[Google Chrome Developers]] --- 1106 ---- Find and fix problems with the Chrome DevTools Issues tab
+[[Google Chrome Developers]] --- 1107 --- https://www.youtube.com/watch?v=XLNJYhjA-0c
+[[Google Chrome Developers]] --- 1107 ---- Prevent Info leaks and enable powerful features: COOP and COEP
+[[Google Chrome Developers]] --- 1108 --- https://www.youtube.com/watch?v=f0YY0o2OAKA
+[[Google Chrome Developers]] --- 1108 ---- Just the data you need
+[[Google Chrome Developers]] --- 1109 --- https://www.youtube.com/watch?v=alGcULGtiv8
+[[Google Chrome Developers]] --- 1109 ---- Sign-in form best practice
+[[Google Chrome Developers]] --- 1110 --- https://www.youtube.com/watch?v=ZXmKKV7R72c
+[[Google Chrome Developers]] --- 1110 ---- What’s new in Web Payments
+[[Google Chrome Developers]] --- 1111 --- https://www.youtube.com/watch?v=BbVzkuifyl8
+[[Google Chrome Developers]] --- 1111 ---- Socially Distant HTTP 203
+[[Google Chrome Developers]] --- 1112 --- https://www.youtube.com/watch?v=uuKBqHDnJ2k
+[[Google Chrome Developers]] --- 1112 ---- App-Like UX for PWAs
+[[Google Chrome Developers]] --- 1113 --- https://www.youtube.com/watch?v=G9PpImUEeUA
+[[Google Chrome Developers]] --- 1113 ---- Streaming requests with fetch - HTTP 203
+[[Google Chrome Developers]] --- 1114 --- https://www.youtube.com/watch?v=htAiPOarIwI
+[[Google Chrome Developers]] --- 1114 ---- New in Chrome 85: CSS Properties, content-visibility, getInstalledRelatedApps(), and lots more!
+[[Google Chrome Developers]] --- 1115 --- https://www.youtube.com/watch?v=NOal2gTzftI
+[[Google Chrome Developers]] --- 1115 ---- Chrome 85 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1116 --- https://www.youtube.com/watch?v=arMgwKY52Bs
+[[Google Chrome Developers]] --- 1116 ---- Semantic markup - Designing in the Browser
+[[Google Chrome Developers]] --- 1117 --- https://www.youtube.com/watch?v=uygxJ8Wxotc
+[[Google Chrome Developers]] --- 1117 ---- Weak JavaScript - HTTP 203
+[[Google Chrome Developers]] --- 1118 --- https://www.youtube.com/watch?v=sEDnmNtEaqQ
+[[Google Chrome Developers]] --- 1118 ---- Accessible Color Standards - Designing in the Browser
+[[Google Chrome Developers]] --- 1119 --- https://www.youtube.com/watch?v=qD7SecF8qWA
+[[Google Chrome Developers]] --- 1119 ---- Navigating Navigation - Designing in the Browser
+[[Google Chrome Developers]] --- 1120 --- https://www.youtube.com/watch?v=9UNwHmagedE
+[[Google Chrome Developers]] --- 1120 ---- 3.143 ways to synchronize data across documents - HTTP 203
+[[Google Chrome Developers]] --- 1121 --- https://www.youtube.com/watch?v=2I6pdlWJaBM
+[[Google Chrome Developers]] --- 1121 ---- Google Chrome Developers thanks you for reaching 500K subscribers!
+[[Google Chrome Developers]] --- 1122 --- https://www.youtube.com/watch?v=F9VCfA6JJ9U
+[[Google Chrome Developers]] --- 1122 ---- Working with Media - Designing in the Browser
+[[Google Chrome Developers]] --- 1123 --- https://www.youtube.com/watch?v=_ZdZh-ESOHY
+[[Google Chrome Developers]] --- 1123 ---- Accessible Animation - Designing in the Browser
+[[Google Chrome Developers]] --- 1124 --- https://www.youtube.com/watch?v=koUsK58dpNo
+[[Google Chrome Developers]] --- 1124 ---- Chrome 86 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1125 --- https://www.youtube.com/watch?v=GNuG-5m4Ud0
+[[Google Chrome Developers]] --- 1125 ---- New in Chrome 86: File System Access, WebHID, new CSS features, and more!
+[[Google Chrome Developers]] --- 1126 --- https://www.youtube.com/watch?v=MLNERCykDPg
+[[Google Chrome Developers]] --- 1126 ---- Chrome 83 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1127 --- https://www.youtube.com/watch?v=FFA-v-CIxJQ
+[[Google Chrome Developers]] --- 1127 ---- Slashing layout cost with content-visibility - HTTP 203
+[[Google Chrome Developers]] --- 1128 --- https://www.youtube.com/watch?v=7Kfh-Mem1b8
+[[Google Chrome Developers]] --- 1128 ---- Chrome Dev Summit 2020 - Save the date
+[[Google Chrome Developers]] --- 1129 --- https://www.youtube.com/watch?v=x9RP-M6q2Mg
+[[Google Chrome Developers]] --- 1129 ---- WebAssembly Threads - HTTP 203
+[[Google Chrome Developers]] --- 1130 --- https://www.youtube.com/watch?v=9-6CKCz58A8
+[[Google Chrome Developers]] --- 1130 ---- Web animation gotchas - HTTP 203
+[[Google Chrome Developers]] --- 1131 --- https://www.youtube.com/watch?v=bE3O6EhLjPc
+[[Google Chrome Developers]] --- 1131 ---- Chrome 87 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1132 --- https://www.youtube.com/watch?v=NCKMMzVn1c8
+[[Google Chrome Developers]] --- 1132 ---- New in Chrome 87: Camera PTZ, SW Range Requests, and more!
+[[Google Chrome Developers]] --- 1133 --- https://www.youtube.com/watch?v=PzvdREGR0Xw
+[[Google Chrome Developers]] --- 1133 ---- Thinking on ways to solve STORIES | GUI Challenges
+[[Google Chrome Developers]] --- 1134 --- https://www.youtube.com/watch?v=dgYAlcJonxo
+[[Google Chrome Developers]] --- 1134 ---- Chrome 84 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1135 --- https://www.youtube.com/watch?v=ozLuC0eAMbc
+[[Google Chrome Developers]] --- 1135 ---- Port forwarding on Chrome OS
+[[Google Chrome Developers]] --- 1136 --- https://www.youtube.com/watch?v=3bAQPnxLd4c
+[[Google Chrome Developers]] --- 1136 ---- Validating your Trusted Web Activity’s Digital Asset Links
+[[Google Chrome Developers]] --- 1137 --- https://www.youtube.com/watch?v=NkIi7h8NnS4
+[[Google Chrome Developers]] --- 1137 ---- Day 1: Chrome Dev Summit 2020
+[[Google Chrome Developers]] --- 1138 --- https://www.youtube.com/watch?v=SYdr7KjrHjo
+[[Google Chrome Developers]] --- 1138 ---- Keynote, Performance & Privacy highlights (CDS 2020)
+[[Google Chrome Developers]] --- 1139 --- https://www.youtube.com/watch?v=14pb8t1lHws
+[[Google Chrome Developers]] --- 1139 ---- Chrome and the web in 2020
+[[Google Chrome Developers]] --- 1140 --- https://www.youtube.com/watch?v=TOY8paDyv74
+[[Google Chrome Developers]] --- 1140 ---- Design, UX & Advanced PWAs highlights (CDS 2020)
+[[Google Chrome Developers]] --- 1141 --- https://www.youtube.com/watch?v=Nrm5G9A_dfs
+[[Google Chrome Developers]] --- 1141 ---- Partner spotlight: Experience Adobe Spark on Chromebooks
+[[Google Chrome Developers]] --- 1142 --- https://www.youtube.com/watch?v=kybyYwu9Mpw
+[[Google Chrome Developers]] --- 1142 ---- Extensions patterns for Manifest V3
+[[Google Chrome Developers]] --- 1143 --- https://www.youtube.com/watch?v=_G3X_IsozKk
+[[Google Chrome Developers]] --- 1143 ---- State of speed tooling
+[[Google Chrome Developers]] --- 1144 --- https://www.youtube.com/watch?v=IB3e8SAdBaE
+[[Google Chrome Developers]] --- 1144 ---- Fixing common Web Vitals issues
+[[Google Chrome Developers]] --- 1145 --- https://www.youtube.com/watch?v=EUxrBG_98hQ
+[[Google Chrome Developers]] --- 1145 ---- UX patterns optimized for Core Web Vitals
+[[Google Chrome Developers]] --- 1146 --- https://www.youtube.com/watch?v=FQVnaG7cWfs
+[[Google Chrome Developers]] --- 1146 ---- Chrome Dev Summit Adventure: How we built it
+[[Google Chrome Developers]] --- 1147 --- https://www.youtube.com/watch?v=iNfz9tg-wyg
+[[Google Chrome Developers]] --- 1147 ---- Exploring the future of Core Web Vitals
+[[Google Chrome Developers]] --- 1148 --- https://www.youtube.com/watch?v=ggpZA5U2rZk
+[[Google Chrome Developers]] --- 1148 ---- Core Web Vitals and SEO
+[[Google Chrome Developers]] --- 1149 --- https://www.youtube.com/watch?v=Z6wjUOSh9Tk
+[[Google Chrome Developers]] --- 1149 ---- Beyond fast with new performance features
+[[Google Chrome Developers]] --- 1150 --- https://www.youtube.com/watch?v=dDIk1Tmnj9A
+[[Google Chrome Developers]] --- 1150 ---- Superpowers for next gen web apps: Machine learning
+[[Google Chrome Developers]] --- 1151 --- https://www.youtube.com/watch?v=wMvJgHl7084
+[[Google Chrome Developers]] --- 1151 ---- Chrome OS Terminal
+[[Google Chrome Developers]] --- 1152 --- https://www.youtube.com/watch?v=0STgfjSA6T8
+[[Google Chrome Developers]] --- 1152 ---- Introducing the Privacy Budget
+[[Google Chrome Developers]] --- 1153 --- https://www.youtube.com/watch?v=D5DLVo_TlEA
+[[Google Chrome Developers]] --- 1153 ---- Enable and debug cross-origin isolated
+[[Google Chrome Developers]] --- 1154 --- https://www.youtube.com/watch?v=jcDfOoWwZcM
+[[Google Chrome Developers]] --- 1154 ---- A more private way to measure ad conversions
+[[Google Chrome Developers]] --- 1155 --- https://www.youtube.com/watch?v=WxYpdw5ELrU
+[[Google Chrome Developers]] --- 1155 ---- Optimize for interactivity using Web Vitals (FID/TBT)
+[[Google Chrome Developers]] --- 1156 --- https://www.youtube.com/watch?v=ncYzTvEMCyE
+[[Google Chrome Developers]] --- 1156 ---- Thinking on ways to solve CENTERING
+[[Google Chrome Developers]] --- 1157 --- https://www.youtube.com/watch?v=Ev2mCzJZLtY
+[[Google Chrome Developers]] --- 1157 ---- Sign-up form best practices
+[[Google Chrome Developers]] --- 1158 --- https://www.youtube.com/watch?v=sU4MpWYrGSI
+[[Google Chrome Developers]] --- 1158 ---- SMS OTP form best practices
+[[Google Chrome Developers]] --- 1159 --- https://www.youtube.com/watch?v=n2uhKBPf6OY
+[[Google Chrome Developers]] --- 1159 ---- Updating the way we work
+[[Google Chrome Developers]] --- 1160 --- https://www.youtube.com/watch?v=QsOF9SJJdAA
+[[Google Chrome Developers]] --- 1160 ---- What's new in DevTools
+[[Google Chrome Developers]] --- 1161 --- https://www.youtube.com/watch?v=LYVBO3l_FRU
+[[Google Chrome Developers]] --- 1161 ---- Submission shoutout for STORIES | GUI Challenges
+[[Google Chrome Developers]] --- 1162 --- https://www.youtube.com/watch?v=5eBar5TI71M
+[[Google Chrome Developers]] --- 1162 ---- Extending CSS with Houdini
+[[Google Chrome Developers]] --- 1163 --- https://www.youtube.com/watch?v=VBMHswhun-s
+[[Google Chrome Developers]] --- 1163 ---- Debugging WebAssembly with modern tools
+[[Google Chrome Developers]] --- 1164 --- https://www.youtube.com/watch?v=cLxNdLK--yI
+[[Google Chrome Developers]] --- 1164 ---- Transitioning to modern JavaScript
+[[Google Chrome Developers]] --- 1165 --- https://www.youtube.com/watch?v=iOHvm0FUvrg
+[[Google Chrome Developers]] --- 1165 ---- Next-level web apps on desktop
+[[Google Chrome Developers]] --- 1166 --- https://www.youtube.com/watch?v=hoEE39yB2Pg
+[[Google Chrome Developers]] --- 1166 ---- New logic to detect PWA offline support
+[[Google Chrome Developers]] --- 1167 --- https://www.youtube.com/watch?v=K_TTyg2wJWM
+[[Google Chrome Developers]] --- 1167 ---- What’s new for web apps in Play
+[[Google Chrome Developers]] --- 1168 --- https://www.youtube.com/watch?v=jR9-aDWZeSE
+[[Google Chrome Developers]] --- 1168 ---- Extending Workbox: Custom strategies and plugins
+[[Google Chrome Developers]] --- 1169 --- https://www.youtube.com/watch?v=ZIZqmXfrRLI
+[[Google Chrome Developers]] --- 1169 ---- Connecting hardware devices to the web
+[[Google Chrome Developers]] --- 1170 --- https://www.youtube.com/watch?v=bUwmHX_EPmw
+[[Google Chrome Developers]] --- 1170 ---- Structured data for developers
+[[Google Chrome Developers]] --- 1171 --- https://www.youtube.com/watch?v=mp6IUgUXJds
+[[Google Chrome Developers]] --- 1171 ---- Making the web more visual with Web Stories
+[[Google Chrome Developers]] --- 1172 --- https://www.youtube.com/watch?v=RDRcP1JX0TI
+[[Google Chrome Developers]] --- 1172 ---- The web ahead
+[[Google Chrome Developers]] --- 1173 --- https://www.youtube.com/watch?v=tprJYFkv4LU
+[[Google Chrome Developers]] --- 1173 ---- Love your cache: Optimize for the second load
+[[Google Chrome Developers]] --- 1174 --- https://www.youtube.com/watch?v=cmRqQJBIp_A
+[[Google Chrome Developers]] --- 1174 ---- PWA patterns for window and service worker communication
+[[Google Chrome Developers]] --- 1175 --- https://www.youtube.com/watch?v=DBcz_bGcHgk
+[[Google Chrome Developers]] --- 1175 ---- Design at scale with Web Components (and ducks)
+[[Google Chrome Developers]] --- 1176 --- https://www.youtube.com/watch?v=dfOKFSDG7IM
+[[Google Chrome Developers]] --- 1176 ---- Canvas2D is getting an update
+[[Google Chrome Developers]] --- 1177 --- https://www.youtube.com/watch?v=BHogHiiyuQk
+[[Google Chrome Developers]] --- 1177 ---- Upgrading DevTools' architecture to the modern web
+[[Google Chrome Developers]] --- 1178 --- https://www.youtube.com/watch?v=xfGKmvvyhdM
+[[Google Chrome Developers]] --- 1178 ---- Payment and address form best practices
+[[Google Chrome Developers]] --- 1179 --- https://www.youtube.com/watch?v=-U42RRPrOrM
+[[Google Chrome Developers]] --- 1179 ---- Patterns for privacy
+[[Google Chrome Developers]] --- 1180 --- https://www.youtube.com/watch?v=y1UzfahXfao
+[[Google Chrome Developers]] --- 1180 ---- 3x3 SEO tips for JavaScript web apps
+[[Google Chrome Developers]] --- 1181 --- https://www.youtube.com/watch?v=3H3gwUR5u3I
+[[Google Chrome Developers]] --- 1181 ---- The best of Chrome games | Chrome Developer Summit 2020
+[[Google Chrome Developers]] --- 1182 --- https://www.youtube.com/watch?v=Rzpm9VirtkE
+[[Google Chrome Developers]] --- 1182 ---- Submission shoutout for CENTERING
+[[Google Chrome Developers]] --- 1183 --- https://www.youtube.com/watch?v=3tUXV_n3yng
+[[Google Chrome Developers]] --- 1183 ---- Chrome 88 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1184 --- https://www.youtube.com/watch?v=cqAO2xR7lzM
+[[Google Chrome Developers]] --- 1184 ---- New in Chrome 88: Manifest v3, aspect-ratio, digital goods API, and more!
+[[Google Chrome Developers]] --- 1185 --- https://www.youtube.com/watch?v=uiZqDLqjGRY
+[[Google Chrome Developers]] --- 1185 ---- Thinking on ways to solve a SIDENAV
+[[Google Chrome Developers]] --- 1186 --- https://www.youtube.com/watch?v=wS0Gck00nDw
+[[Google Chrome Developers]] --- 1186 ---- Dithering - HTTP 203
+[[Google Chrome Developers]] --- 1187 --- https://www.youtube.com/watch?v=1omr0HzI_N0
+[[Google Chrome Developers]] --- 1187 ---- Submission shoutouts for SIDENAV
+[[Google Chrome Developers]] --- 1188 --- https://www.youtube.com/watch?v=MCi6AZMkxcU
+[[Google Chrome Developers]] --- 1188 ---- JavaScript counters the hard way - HTTP 203
+[[Google Chrome Developers]] --- 1189 --- https://www.youtube.com/watch?v=mMBcHcvxuuA
+[[Google Chrome Developers]] --- 1189 ---- Thinking on ways to solve TABS
+[[Google Chrome Developers]] --- 1190 --- https://www.youtube.com/watch?v=BgT-1-NgTsY
+[[Google Chrome Developers]] --- 1190 ---- Celebrating International Mother Language Day
+[[Google Chrome Developers]] --- 1191 --- https://www.youtube.com/watch?v=8eHInw9_U8k
+[[Google Chrome Developers]] --- 1191 ---- Scheduling Tasks - HTTP 203
+[[Google Chrome Developers]] --- 1192 --- https://www.youtube.com/watch?v=VtaRYSBIbU4
+[[Google Chrome Developers]] --- 1192 ---- Chrome 89 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1193 --- https://www.youtube.com/watch?v=msHeKmMEeHU
+[[Google Chrome Developers]] --- 1193 ---- [粤语] Chrome 89 - DevTools 的最新功能
+[[Google Chrome Developers]] --- 1194 --- https://www.youtube.com/watch?v=flf2vS0IoRs
+[[Google Chrome Developers]] --- 1194 ---- Writing Good Alt Text - HTTP 203
+[[Google Chrome Developers]] --- 1195 --- https://www.youtube.com/watch?v=O-gv6zLZHKw
+[[Google Chrome Developers]] --- 1195 ---- New in Chrome 89: Web Serial, HID, NFC, PWA installability changes, and more!
+[[Google Chrome Developers]] --- 1196 --- https://www.youtube.com/watch?v=rZm1YaMZkUU
+[[Google Chrome Developers]] --- 1196 ---- Заряженный микросовет: Веб-воркеры
+[[Google Chrome Developers]] --- 1197 --- https://www.youtube.com/watch?v=34iDTeCNTz4
+[[Google Chrome Developers]] --- 1197 ---- Simulating color vision deficiencies in the Blink Renderer (available in Flemish and English)
+[[Google Chrome Developers]] --- 1198 --- https://www.youtube.com/watch?v=dm7gnp6eh3Q
+[[Google Chrome Developers]] --- 1198 ---- Thinking on ways to solve SETTINGS
+[[Google Chrome Developers]] --- 1199 --- https://www.youtube.com/watch?v=wGT9s6NW6hg
+[[Google Chrome Developers]] --- 1199 ---- Core Web Vitals - Измеряйте важные показатели (Сербский с английскими субтитрами)
+[[Google Chrome Developers]] --- 1200 --- https://www.youtube.com/watch?v=W6lvQvdeF8U
+[[Google Chrome Developers]] --- 1200 ---- The big back button quiz - HTTP 203
+[[Google Chrome Developers]] --- 1201 --- https://www.youtube.com/watch?v=JZE6_nDVyIo
+[[Google Chrome Developers]] --- 1201 ---- Веб-приложения для Play Store с помощью Bubblewrap (На португальском с русскими субтитрами)
+[[Google Chrome Developers]] --- 1202 --- https://www.youtube.com/watch?v=UJ6YtvPLT8E
+[[Google Chrome Developers]] --- 1202 ---- Основные интернет-показатели: важные метрики работоспособности сайта (тамильский с английскими субти
+[[Google Chrome Developers]] --- 1203 --- https://www.youtube.com/watch?v=u0Jgz6QVJqg
+[[Google Chrome Developers]] --- 1203 ---- AssemblyScript - HTTP 203
+[[Google Chrome Developers]] --- 1204 --- https://www.youtube.com/watch?v=8ren54IMSf4
+[[Google Chrome Developers]] --- 1204 ---- Создайте свое первое приложение WebAuthn (японский с английскими субтитрами)
+[[Google Chrome Developers]] --- 1205 --- https://www.youtube.com/watch?v=kOodTLAjPsE
+[[Google Chrome Developers]] --- 1205 ---- Chrome 90 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1206 --- https://www.youtube.com/watch?v=UyXPdYLQVQk
+[[Google Chrome Developers]] --- 1206 ---- [华语] Chrome 90 - DevTools 的最新功能
+[[Google Chrome Developers]] --- 1207 --- https://www.youtube.com/watch?v=h3MONldIoNM
+[[Google Chrome Developers]] --- 1207 ---- New in Chrome 90: Overflow Clip, Permissions Policy, the Declarative Shadow DOM, and more!
+[[Google Chrome Developers]] --- 1208 --- https://www.youtube.com/watch?v=0qNbknHEt0Q
+[[Google Chrome Developers]] --- 1208 ---- Разработка сайтов для современных браузеров: прогрессивное улучшение как в 2003 году (на немецком с
+[[Google Chrome Developers]] --- 1209 --- https://www.youtube.com/watch?v=hFyQn5F5pc0
+[[Google Chrome Developers]] --- 1209 ---- Conducting tech interviews - HTTP 203
+[[Google Chrome Developers]] --- 1210 --- https://www.youtube.com/watch?v=3hvN7bkjZBk
+[[Google Chrome Developers]] --- 1210 ---- Thinking on ways to solve SPLIT TEXT
+[[Google Chrome Developers]] --- 1211 --- https://www.youtube.com/watch?v=khFus6YQi8w
+[[Google Chrome Developers]] --- 1211 ---- BFCache (индонезийский с английскими субтитрами)
+[[Google Chrome Developers]] --- 1212 --- https://www.youtube.com/watch?v=3pTm8M9Jbn8
+[[Google Chrome Developers]] --- 1212 ---- Tackling third-party web performance at The Telegraph
+[[Google Chrome Developers]] --- 1213 --- https://www.youtube.com/watch?v=A3KgZR8Fgic
+[[Google Chrome Developers]] --- 1213 ---- How to make an impact with Core Web Vitals
+[[Google Chrome Developers]] --- 1214 --- https://www.youtube.com/watch?v=Ar3py-W-osA
+[[Google Chrome Developers]] --- 1214 ---- Advertising on a privacy-first web
+[[Google Chrome Developers]] --- 1215 --- https://www.youtube.com/watch?v=WghNTLS8QIY
+[[Google Chrome Developers]] --- 1215 ---- What's happening on the Web?
+[[Google Chrome Developers]] --- 1216 --- https://www.youtube.com/watch?v=sInYS-EZ2Hg
+[[Google Chrome Developers]] --- 1216 ---- How Core Web Vitals and Lighthouse saved Zalando's release
+[[Google Chrome Developers]] --- 1217 --- https://www.youtube.com/watch?v=vzElR-thlCY
+[[Google Chrome Developers]] --- 1217 ---- Anti-tracking: What you need to know
+[[Google Chrome Developers]] --- 1218 --- https://www.youtube.com/watch?v=Es7Ab2VH_Vg
+[[Google Chrome Developers]] --- 1218 ---- Практическое введение в WebAssembly (украинский с русскими субтитрами)
+[[Google Chrome Developers]] --- 1219 --- https://www.youtube.com/watch?v=OEuPFrLCb0A
+[[Google Chrome Developers]] --- 1219 ---- Что такое PWA (на испанском с русскими субтитрами)
+[[Google Chrome Developers]] --- 1220 --- https://www.youtube.com/watch?v=jmLdZY_Lo1k
+[[Google Chrome Developers]] --- 1220 ---- Thinking on ways to solve a MEDIA SCROLLER
+[[Google Chrome Developers]] --- 1221 --- https://www.youtube.com/watch?v=8FQOseGuPak
+[[Google Chrome Developers]] --- 1221 ---- Советы по поисковой оптимизации сайтов на JavaScript (немецкий с английскими субтитрами)
+[[Google Chrome Developers]] --- 1222 --- https://www.youtube.com/watch?v=0UiaD059eqM
+[[Google Chrome Developers]] --- 1222 ---- What's new for the web platform | Keynote
+[[Google Chrome Developers]] --- 1223 --- https://www.youtube.com/watch?v=EK1AkxgQwro
+[[Google Chrome Developers]] --- 1223 ---- Excalidraw and Fugu: Improving core user journeys | Session
+[[Google Chrome Developers]] --- 1224 --- https://www.youtube.com/watch?v=1g2uQfP1Q3U
+[[Google Chrome Developers]] --- 1224 ---- Preparing for a more private web | Session
+[[Google Chrome Developers]] --- 1225 --- https://www.youtube.com/watch?v=baSiSIyTGSk
+[[Google Chrome Developers]] --- 1225 ---- 5 tips for your PWA | Session
+[[Google Chrome Developers]] --- 1226 --- https://www.youtube.com/watch?v=4QkuvwRftTw
+[[Google Chrome Developers]] --- 1226 ---- Page performance after load | Session
+[[Google Chrome Developers]] --- 1227 --- https://www.youtube.com/watch?v=jUQ2-C5ZNRc
+[[Google Chrome Developers]] --- 1227 ---- The new responsive: Web design in a component-driven world | Session
+[[Google Chrome Developers]] --- 1228 --- https://www.youtube.com/watch?v=df_QYkxfnfA
+[[Google Chrome Developers]] --- 1228 ---- Future-proof web apps with Angular and TensorFlow.js | Session
+[[Google Chrome Developers]] --- 1229 --- https://www.youtube.com/watch?v=4Ve2kw_AN84
+[[Google Chrome Developers]] --- 1229 ---- Effective password management | Session
+[[Google Chrome Developers]] --- 1230 --- https://www.youtube.com/watch?v=yNwwEu3Kcbs
+[[Google Chrome Developers]] --- 1230 ---- Chrome DevTools for designers | Session
+[[Google Chrome Developers]] --- 1231 --- https://www.youtube.com/watch?v=J6BZ9IQELNA
+[[Google Chrome Developers]] --- 1231 ---- From security as opt-in to security by default | Session
+[[Google Chrome Developers]] --- 1232 --- https://www.youtube.com/watch?v=XxvHY4wC8Co
+[[Google Chrome Developers]] --- 1232 ---- What's new in Web Vitals | Session
+[[Google Chrome Developers]] --- 1233 --- https://www.youtube.com/watch?v=nPmAE0YjGK0
+[[Google Chrome Developers]] --- 1233 ---- The business impact of Core Web Vitals | Session
+[[Google Chrome Developers]] --- 1234 --- https://www.youtube.com/watch?v=xg47r3Y6K8I
+[[Google Chrome Developers]] --- 1234 ---- Measure and debug performance with Google Analytics 4 and BigQuery | Session
+[[Google Chrome Developers]] --- 1235 --- https://www.youtube.com/watch?v=k60bVCtf17A
+[[Google Chrome Developers]] --- 1235 ---- Top 8 web things to know from Google I/O 2021
+[[Google Chrome Developers]] --- 1236 --- https://www.youtube.com/watch?v=a8kkzdOfAgU
+[[Google Chrome Developers]] --- 1236 ---- What's new in Chrome OS | Keynote
+[[Google Chrome Developers]] --- 1237 --- https://www.youtube.com/watch?v=23EnVczS0Ik
+[[Google Chrome Developers]] --- 1237 ---- Optimize your Android games and apps to run on Chrome OS | Session
+[[Google Chrome Developers]] --- 1238 --- https://www.youtube.com/watch?v=FPuaaYpUd5s
+[[Google Chrome Developers]] --- 1238 ---- Input matters for Chrome OS | Session
+[[Google Chrome Developers]] --- 1239 --- https://www.youtube.com/watch?v=Ge7VkPC2eM0
+[[Google Chrome Developers]] --- 1239 ---- Enable payments on your PWA with Play Billing using Digital Goods API | Session
+[[Google Chrome Developers]] --- 1240 --- https://www.youtube.com/watch?v=ddbHp8tGBwQ
+[[Google Chrome Developers]] --- 1240 ---- List your Progressive Web App in Google Play | Session
+[[Google Chrome Developers]] --- 1241 --- https://www.youtube.com/watch?v=500nh0LiIyU
+[[Google Chrome Developers]] --- 1241 ---- Chrome and Web | Q&A
+[[Google Chrome Developers]] --- 1242 --- https://www.youtube.com/watch?v=NQ-FQvsR-gY
+[[Google Chrome Developers]] --- 1242 ---- Building user-adaptive interfaces with preference media queries | Workshop
+[[Google Chrome Developers]] --- 1243 --- https://www.youtube.com/watch?v=VQlyOGkkHz0
+[[Google Chrome Developers]] --- 1243 ---- Progressive Web Applications and Fugu | Q&A
+[[Google Chrome Developers]] --- 1244 --- https://www.youtube.com/watch?v=HWm6WNkHs90
+[[Google Chrome Developers]] --- 1244 ---- Web Vitals | Q&A
+[[Google Chrome Developers]] --- 1245 --- https://www.youtube.com/watch?v=-87xT2uBbbQ
+[[Google Chrome Developers]] --- 1245 ---- Building a web application with Angular and Firebase | Workshop
+[[Google Chrome Developers]] --- 1246 --- https://www.youtube.com/watch?v=Gv2H3cUz_DM
+[[Google Chrome Developers]] --- 1246 ---- Privacy sandbox | Q&A
+[[Google Chrome Developers]] --- 1247 --- https://www.youtube.com/watch?v=5CLyAX2CTLc
+[[Google Chrome Developers]] --- 1247 ---- A whirlwind tour through Project Fugu APIs | Workshop
+[[Google Chrome Developers]] --- 1248 --- https://www.youtube.com/watch?v=b-osLoWii2M
+[[Google Chrome Developers]] --- 1248 ---- Web runtime performance | Q&A
+[[Google Chrome Developers]] --- 1249 --- https://www.youtube.com/watch?v=Givhtk3rObE
+[[Google Chrome Developers]] --- 1249 ---- Chrome 91 - What’s New in DevTools
+[[Google Chrome Developers]] --- 1250 --- https://www.youtube.com/watch?v=YCrEmhfwsgg
+[[Google Chrome Developers]] --- 1250 ---- [Bahasa Melayu] Chrome 91 - Fungsi-fungsi terbaru DevTools
+[[Google Chrome Developers]] --- 1251 --- https://www.youtube.com/watch?v=vy6FXa0n1r0
+[[Google Chrome Developers]] --- 1251 ---- New in Chrome 91: File System Access API improvements, Google IO, and more
+[[Google Chrome Developers]] --- 1252 --- https://www.youtube.com/watch?v=-7k3H2GxE5E
+[[Google Chrome Developers]] --- 1252 ---- Progressively loading images - HTTP 203
+[[Google Chrome Developers]] --- 1253 --- https://www.youtube.com/watch?v=d1SJL51FFxQ
+[[Google Chrome Developers]] --- 1253 ---- Angular DevTools | Demo
+[[Google Chrome Developers]] --- 1254 --- https://www.youtube.com/watch?v=MY8LZ49D76c
+[[Google Chrome Developers]] --- 1254 ---- Web Audio API | (На корейском с русскими субтитрами)
