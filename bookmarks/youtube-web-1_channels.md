@@ -65,7 +65,6 @@
 - [2020.08.30] [Garrett Love](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
-- [[DevTips]] --- https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos --- (2020.10.29)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
 https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
@@ -112,3 +111,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.05] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos)
 - [2021.05] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
 - [2021.05] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos)
+- [2021.05] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos)
