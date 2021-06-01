@@ -35,7 +35,6 @@
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [2014.04.13] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw/videos)
 - [2016.01.31] [Ruseller.com](https://www.youtube.com/channel/UCqp_CZbW5drSGH5AFflSfuA/videos)
-- [2016.03.31] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew/videos)
 - [2016.05.02] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw/videos)
 - [2016.07.05] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w/videos)
 - [2016.07.08] [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw/videos)
@@ -57,7 +56,6 @@
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 - [2020.05.17] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
-- [2020.07.06] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A/videos)
 - [2020.08.06] [Framework Television](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/videos)
 - [2020.08.16] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
 - [2020.08.20] [javannimon119](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg/videos)
@@ -103,7 +101,9 @@ https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
 https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA/videos)
+- [2016.03] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew/videos)
 - [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos)
+- [2020.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A/videos)
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos)
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos)
 - [2021.05] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)
