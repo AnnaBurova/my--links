@@ -112,5 +112,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.05] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)
 - [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
 - [2021.05] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos)
-
 - [2021.05] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
