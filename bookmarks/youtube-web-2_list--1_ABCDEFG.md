@@ -20714,6 +20714,112 @@
 [[GeekBrains]] --- 0847 ---- Как стать разработчиком игр | GeekBrains
 [[GeekBrains]] --- 0848 --- https://www.youtube.com/watch?v=VCm6yUg2QNM
 [[GeekBrains]] --- 0848 ---- Игры, которые помогут вам в изучении HTML и CSS
+[[GeekBrains]] --- 0849 --- https://www.youtube.com/watch?v=sXW1RnR4Rz0
+[[GeekBrains]] --- 0849 ---- Python-разработка. Как стать программистом | GeekBrains
+[[GeekBrains]] --- 0850 --- https://www.youtube.com/watch?v=zLT01g7ZZx4
+[[GeekBrains]] --- 0850 ---- Профессия разработчик iOS-приложений | GeekBrains
+[[GeekBrains]] --- 0851 --- https://www.youtube.com/watch?v=MeExbtpIPaw
+[[GeekBrains]] --- 0851 ---- Специалист по информационной безопасности — кто это и как им стать | GeekBrains
+[[GeekBrains]] --- 0852 --- https://www.youtube.com/watch?v=3axzUi4-X2g
+[[GeekBrains]] --- 0852 ---- DevOps-инженер — кто это и как им стать | GeekBrains
+[[GeekBrains]] --- 0853 --- https://www.youtube.com/watch?v=792WmP2B6fQ
+[[GeekBrains]] --- 0853 ---- Веб дизайнер - что за профессия | GeekBrains
+[[GeekBrains]] --- 0854 --- https://www.youtube.com/watch?v=7UZJheP97Hg
+[[GeekBrains]] --- 0854 ---- Кто такой Java-разработчик | GeekBrains
+[[GeekBrains]] --- 0855 --- https://www.youtube.com/watch?v=Q2ZMvcOKcwU
+[[GeekBrains]] --- 0855 ---- Тренируй мозг! 5 приложений для тренировки ума
+[[GeekBrains]] --- 0856 --- https://www.youtube.com/watch?v=O3jdnmf_RSQ
+[[GeekBrains]] --- 0856 ---- Golang-разработчик – кто это? | GeekBrains
+[[GeekBrains]] --- 0857 --- https://www.youtube.com/watch?v=3JRZlksZCSM
+[[GeekBrains]] --- 0857 ---- Хочу в IT: страхи новичков и советы о том, как попасть в индустрию
+[[GeekBrains]] --- 0858 --- https://www.youtube.com/watch?v=BkOI_sfzGR0
+[[GeekBrains]] --- 0858 ---- Как стать Android-разработчиком и создавать приложения | GeekBrains
+[[GeekBrains]] --- 0859 --- https://www.youtube.com/watch?v=kfIdtVhIX54
+[[GeekBrains]] --- 0859 ---- Собеседование на английском. Как подготовиться к собеседованию на английском? Советы от GeekBrains.
+[[GeekBrains]] --- 0860 --- https://www.youtube.com/watch?v=4XWwcP_ProE
+[[GeekBrains]] --- 0860 ---- Что такое искусственный интеллект и как его используют сегодня | GeekBrains
+[[GeekBrains]] --- 0861 --- https://www.youtube.com/watch?v=CB9qgYYhtpc
+[[GeekBrains]] --- 0861 ---- Ошибки начинающего фрилансера. 6 советов удалёнщику
+[[GeekBrains]] --- 0862 --- https://www.youtube.com/watch?v=fNNQEmA1JD0
+[[GeekBrains]] --- 0862 ---- Что такое Pet-project? Простые идеи собственного проекта в IT для начинающих
+[[GeekBrains]] --- 0863 --- https://www.youtube.com/watch?v=JonU7PiyONA
+[[GeekBrains]] --- 0863 ---- IT-алфавит GeekBrains. Премьера!
+[[GeekBrains]] --- 0864 --- https://www.youtube.com/watch?v=KwcndMiv6kA
+[[GeekBrains]] --- 0864 ---- Кем работать в IT? Обзор базовых профессий от GeekBrains
+[[GeekBrains]] --- 0865 --- https://www.youtube.com/watch?v=YSUGU6t7enk
+[[GeekBrains]] --- 0865 ---- IT-алфавит от GeekBrains. Backup, Буржунет и Баг
+[[GeekBrains]] --- 0866 --- https://www.youtube.com/watch?v=hZbJew790A4
+[[GeekBrains]] --- 0866 ---- Как выбрать надежный пароль и защитить личные данные? Советы от GeekBrains
+[[GeekBrains]] --- 0867 --- https://www.youtube.com/watch?v=1a2n4HznCAY
+[[GeekBrains]] --- 0867 ---- IT-алфавит от GeekBrains. Warning, Выкатить, Ветка
+[[GeekBrains]] --- 0868 --- https://www.youtube.com/watch?v=98HpnhUkV2g
+[[GeekBrains]] --- 0868 ---- Project и Product. В чем разница между менеджером проекта и менеджером продукта?
+[[GeekBrains]] --- 0869 --- https://www.youtube.com/watch?v=FcOOZuVfmHk
+[[GeekBrains]] --- 0869 ---- IT-алфавит GeekBrains. Буква Г
+[[GeekBrains]] --- 0870 --- https://www.youtube.com/watch?v=4012_cRE88g
+[[GeekBrains]] --- 0870 ---- Игры для программистов, о которых вы наверняка не слышали. GeekBrains
+[[GeekBrains]] --- 0871 --- https://www.youtube.com/watch?v=1o4HAKLROFA
+[[GeekBrains]] --- 0871 ---- Как я стала веб-разработчиком | История обучения Марии Гольдштейн
+[[GeekBrains]] --- 0872 --- https://www.youtube.com/watch?v=HDpY8_fmwcA
+[[GeekBrains]] --- 0872 ---- 10 лучших Youtube-каналов для веб-разработчиков | GeekBrains
+[[GeekBrains]] --- 0873 --- https://www.youtube.com/watch?v=zD9WQJJB9H8
+[[GeekBrains]] --- 0873 ---- 7 фильмов, мотивирующих учиться | GeekBrains
+[[GeekBrains]] --- 0874 --- https://www.youtube.com/watch?v=HKxYIZnU0jo
+[[GeekBrains]] --- 0874 ---- Типичные ошибки начинающего Android-разработчика | GeekBrains
+[[GeekBrains]] --- 0875 --- https://www.youtube.com/watch?v=mavtIye3mXs
+[[GeekBrains]] --- 0875 ---- Teamlead VS Techlead. Интервью с Deputy CTO AGIMA.
+[[GeekBrains]] --- 0876 --- https://www.youtube.com/watch?v=NOQDzpYb45c
+[[GeekBrains]] --- 0876 ---- Кто такой Product Manager и чем он занимается
+[[GeekBrains]] --- 0877 --- https://www.youtube.com/watch?v=7uli35gLSLc
+[[GeekBrains]] --- 0877 ---- Что такое Figma и для чего она нужна?
+[[GeekBrains]] --- 0878 --- https://www.youtube.com/watch?v=1qndnitXubQ
+[[GeekBrains]] --- 0878 ---- Тест на гика: как хорошо ты разбираешься в IT-терминах? | GeekBrains
+[[GeekBrains]] --- 0879 --- https://www.youtube.com/watch?v=apHlEDFjSFU
+[[GeekBrains]] --- 0879 ---- IT-алфавит GeekBrains. Буква Д
+[[GeekBrains]] --- 0880 --- https://www.youtube.com/watch?v=0IpnAODvGTQ
+[[GeekBrains]] --- 0880 ---- IT-алфавит GeekBrains. Буквы Ж, З
+[[GeekBrains]] --- 0881 --- https://www.youtube.com/watch?v=VCTEcxIuLRk
+[[GeekBrains]] --- 0881 ---- Какой бесплатный редактор кода выбрать для веб-разработки?
+[[GeekBrains]] --- 0882 --- https://www.youtube.com/watch?v=inwiowan9xY
+[[GeekBrains]] --- 0882 ---- Плюсы и минусы платных редакторов кода в веб-разработке
+[[GeekBrains]] --- 0883 --- https://www.youtube.com/watch?v=FvAUrzznlgw
+[[GeekBrains]] --- 0883 ---- Верстка адаптивной страницы с CSS Grid в Visual Studio Code
+[[GeekBrains]] --- 0884 --- https://www.youtube.com/watch?v=y2v7slim3ZI
+[[GeekBrains]] --- 0884 ---- Кто такие системный и бизнес-аналитик, и зачем они нужны?| Geekbrains
+[[GeekBrains]] --- 0885 --- https://www.youtube.com/watch?v=m9603WVNZzs
+[[GeekBrains]] --- 0885 ---- Калейдоскоп профессий: Аналитик Big Data | Geekbrains
+[[GeekBrains]] --- 0886 --- https://www.youtube.com/watch?v=FB_JQQpDf5s
+[[GeekBrains]] --- 0886 ---- Основы программирования. Переменные
+[[GeekBrains]] --- 0887 --- https://www.youtube.com/watch?v=2iKtbD_ICY8
+[[GeekBrains]] --- 0887 ---- WEEKLY ДАЙДЖЕСТ: запрет Zoom в России, конференция Google и жив ли Clubhouse | Geekbrains
+[[GeekBrains]] --- 0888 --- https://www.youtube.com/watch?v=C_hsbqqFdH8
+[[GeekBrains]] --- 0888 ---- Основы программирования | Ветвление
+[[GeekBrains]] --- 0889 --- https://www.youtube.com/watch?v=BAZThXNso5o
+[[GeekBrains]] --- 0889 ---- WEEKLY ДАЙДЖЕСТ: ФАС VS Яндекс, Презентации Apple и Samsung, Обновления PS5 | Geekbrains
+[[GeekBrains]] --- 0890 --- https://www.youtube.com/watch?v=CsqbPIXX_oY
+[[GeekBrains]] --- 0890 ---- Про IT - Что такое web-программирование? // Geekbrains
+[[GeekBrains]] --- 0891 --- https://www.youtube.com/watch?v=kaDRENZSxUs
+[[GeekBrains]] --- 0891 ---- WEEKLY ДАЙДЖЕСТ: Взлом Apple, Кислород на Марсе, Новая карта CoD: Warzone | Geekbrains
+[[GeekBrains]] --- 0892 --- https://www.youtube.com/watch?v=y5wxl4pBI_A
+[[GeekBrains]] --- 0892 ---- Про IT - Что такое Git? // Geekbrains
+[[GeekBrains]] --- 0893 --- https://www.youtube.com/watch?v=-xJ1IUlhqHw
+[[GeekBrains]] --- 0893 ---- WEEKLY ДАЙДЖЕСТ: Яндекс купил банк, Новая фича Netflix, Мясо из грибов // Geekbrains
+[[GeekBrains]] --- 0894 --- https://www.youtube.com/watch?v=eMTwSEl7zwA
+[[GeekBrains]] --- 0894 ---- Про IT - Как устроен процесс разработки? // Geekbrains
+[[GeekBrains]] --- 0895 --- https://www.youtube.com/watch?v=fY0Jy9hncZE
+[[GeekBrains]] --- 0895 ---- Основы программирования. Циклы
+[[GeekBrains]] --- 0896 --- https://www.youtube.com/watch?v=mvpDRH37IBQ
+[[GeekBrains]] --- 0896 ---- Про IT - Что такое базы данных? // Geekbrains
+[[GeekBrains]] --- 0897 --- https://www.youtube.com/watch?v=VB0bqg5U0xo
+[[GeekBrains]] --- 0897 ---- WEEKLY ДАЙДЖЕСТ: Илон Маск обвалил биткоин, турнир Dota 2, ГОСТ для ИИ // Geekbrains
+[[GeekBrains]] --- 0898 --- https://www.youtube.com/watch?v=AOkqEi4aJ6w
+[[GeekBrains]] --- 0898 ---- Про IT - Что такое нейронные сети? // Geekbrains
+[[GeekBrains]] --- 0899 --- https://www.youtube.com/watch?v=54OgmVJvBQo
+[[GeekBrains]] --- 0899 ---- WEEKLY ДАЙДЖЕСТ: Android 12, ИИ для COVID-19 от Сбера, Рекордная скорость Starlink // GeekBrains
+[[GeekBrains]] --- 0900 --- https://www.youtube.com/watch?v=qQYyDwGiaNQ
+[[GeekBrains]] --- 0900 ---- Про IT - Что такое валидация? // Geekbrains
+[[GeekBrains]] --- 0901 --- https://www.youtube.com/watch?v=-CjaBQen9MQ
+[[GeekBrains]] --- 0901 ---- WEEKLY ДАЙДЖЕСТ: Беспилотное такси от Сбера, TikTok даст 100 млн самым талантливым // Geekbrains
 [[Google Chrome Developers]] --- 0001 --- https://www.youtube.com/watch?v=Vp524yo0p44
 [[Google Chrome Developers]] --- 0001 ---- Chrome DevTools Timeline's new Frame Mode
 [[Google Chrome Developers]] --- 0002 --- https://www.youtube.com/watch?v=sR8Zy5VpnWU
