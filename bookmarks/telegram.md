@@ -27,6 +27,7 @@
 - [ ] Courses [Шаблоны Cайтов / Website Templates](https://t.me/templatesite/1)
 - [ ] News [DW Главное](https://t.me/dwglavnoe/1)
 - [ ] News [Not Boring Tech](https://t.me/notboring_tech/1)
+- [ ] News [TechSparks](https://t.me/techsparks/1)
 - [ ] News [TrendMedia](https://t.me/TrendMediaChannel/1)
 - [ ] News [Дуров позвонит](https://t.me/DurovTV/1)
 - [ ] News [Жека Эволюционирует](https://t.me/ono_tebya_sozhret/1)
