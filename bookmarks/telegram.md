@@ -10,7 +10,6 @@
     - [ ] Books [Flibusta Book — Книги](https://t.me/flibustafreebookbot/1)
 - [ ] Courses [BZD • Книги для программистов](https://t.me/bzd_channel/1)
 - [ ] Courses [CodeCamp](https://t.me/campcode)
-- [ ] Courses [Course Time Pro](https://t.me/CourseTimePro)
 - [ ] Courses [IT 1ess0ns](https://t.me/IT_1ess0ns/1)
 - [ ] Courses [My Archive](https://t.me/creative_archive/1)
 - [ ] Courses [Python Books](https://t.me/pythonbooks/1)
