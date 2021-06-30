@@ -99,7 +99,6 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2019.09] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw/videos)
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A/videos)
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos)
-- [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
 - [2021.05] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos)
 - [2021.05] [Coding with Glove](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
 - [2021.05] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw/videos)
@@ -112,4 +111,5 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 
 - [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) = <https://www.youtube.com/user/basixnick/videos>
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) = <https://www.youtube.com/c/AdamKhoury/videos>
+- [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) = <https://www.youtube.com/c/hussey17/videos>
 - [2021.06] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) = <https://www.youtube.com/c/Academind/videos>
