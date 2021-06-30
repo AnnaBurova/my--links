@@ -101,7 +101,6 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A/videos)
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/videos)
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/videos)
-- [2021.05] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)
 - [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/videos)
 - [2021.05] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos)
 - [2021.05] [Coding with Glove](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/videos)
@@ -112,3 +111,5 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.05] [Framework Tech Media](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/videos)
 - [2021.05] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ/videos)
 - [2021.05] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw/videos)
+
+- [2021.06] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) = <https://www.youtube.com/c/Academind/videos>
