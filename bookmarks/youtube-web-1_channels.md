@@ -98,7 +98,6 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos)
 - [2019.09] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw/videos)
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A/videos)
-- [2021.05] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos)
 - [2021.05] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q/videos)
 - [2021.05] [Framework Tech Media](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/videos)
 - [2021.05] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ/videos)
@@ -108,6 +107,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) = <https://www.youtube.com/c/AdamKhoury/videos>
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) = <https://www.youtube.com/user/realcsstricks/videos>
 - [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) = <https://www.youtube.com/c/hussey17/videos>
+- [2021.05] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) = <https://www.youtube.com/c/DevTipsForDesigners/videos>
 - [2021.06] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) = <https://www.youtube.com/c/Academind/videos>
 - [2021.06] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) = <https://www.youtube.com/c/codecourse/videos>
 - [2021.06] [Coding with Glove](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw) = <https://www.youtube.com/c/CodingwithGlove/videos>
