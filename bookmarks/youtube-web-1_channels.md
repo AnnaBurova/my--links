@@ -110,6 +110,6 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) = <https://www.youtube.com/c/AdamKhoury/videos>
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) = <https://www.youtube.com/user/realcsstricks/videos>
 - [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) = <https://www.youtube.com/c/hussey17/videos>
-- [2021.05] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) = <https://www.youtube.com/c/codecourse/videos>
 - [2021.06] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) = <https://www.youtube.com/c/Academind/videos>
 - [2021.06] [Coding with Glove](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw) = <https://www.youtube.com/c/CodingwithGlove/videos>
+- [2021.07] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) = <https://www.youtube.com/c/codecourse/videos>
