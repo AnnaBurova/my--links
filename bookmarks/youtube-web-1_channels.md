@@ -94,7 +94,6 @@ https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
 https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
 https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
-- [2019.09] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw/videos)
 - [2021.05] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q/videos)
 - [2021.05] [Framework Tech Media](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/videos)
 - [2021.05] [GeekBrains](https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ/videos)
@@ -104,6 +103,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) = <https://www.youtube.com/user/basixnick/videos>
 - [2016.03] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew) = <https://www.youtube.com/c/easylearntutorial/videos>
 - [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) = <https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos>
+- [2019.09] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw) = <https://www.youtube.com/c/easydevtuts/videos>
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A) = <https://www.youtube.com/c/DmitryTatarinov/videos>
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) = <https://www.youtube.com/c/AdamKhoury/videos>
 - [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) = <https://www.youtube.com/user/realcsstricks/videos>
