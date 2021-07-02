@@ -102,6 +102,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 ################################################################################
 
 - [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) = <https://www.youtube.com/user/basixnick/videos>
+- [2016.03] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew) = <https://www.youtube.com/c/easylearntutorial/videos>
 - [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) = <https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos>
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A) = <https://www.youtube.com/c/DmitryTatarinov/videos>
 - [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) = <https://www.youtube.com/c/AdamKhoury/videos>
@@ -113,4 +114,3 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.06] [Coding with Glove](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw) = <https://www.youtube.com/c/CodingwithGlove/videos>
 - [2021.06] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw) = <https://www.youtube.com/c/Darrelwilsonbug/videos>
 - [2021.06] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) = <https://www.youtube.com/c/DesignCourse/videos>
-- [2016.03] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew) = <https://www.youtube.com/c/easylearntutorial/videos>
