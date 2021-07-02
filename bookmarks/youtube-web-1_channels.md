@@ -94,7 +94,6 @@ https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
 https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
 https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
-- [2016.03] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew/videos)
 - [2019.09] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw/videos)
 - [2021.05] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q/videos)
 - [2021.05] [Framework Tech Media](https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/videos)
@@ -114,3 +113,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.06] [Coding with Glove](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw) = <https://www.youtube.com/c/CodingwithGlove/videos>
 - [2021.06] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw) = <https://www.youtube.com/c/Darrelwilsonbug/videos>
 - [2021.06] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) = <https://www.youtube.com/c/DesignCourse/videos>
+- [2016.03] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew) = <https://www.youtube.com/c/easylearntutorial/videos>
