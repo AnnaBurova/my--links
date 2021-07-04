@@ -52,7 +52,6 @@
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 - [2020.05.17] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
-- [2020.08.16] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
@@ -114,3 +113,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.06] [Framework Tech Media](https://www.youtube.com/c/FrameworkTechMedia/videos) = <https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg>
 - [2021.06] [GeekBrains](https://www.youtube.com/c/progliveru/videos) = <https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ>
 - [2021.06] [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers/videos) = <https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw>
+- [2021.06] [John Morris](https://www.youtube.com/c/JohnMorrisOnline/videos) = <https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA>
