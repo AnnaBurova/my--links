@@ -53,7 +53,6 @@
 - [2020.05.17] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
 - [2020.08.16] [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
-- [2020.08.20] [javannimon119](https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg/videos)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
@@ -102,6 +101,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2019.09] [easydevtips](https://www.youtube.com/c/easydevtuts/videos) = <https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw>
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/c/DmitryTatarinov/videos) = <https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A>
 - [2020.09] [Adam Khoury](https://www.youtube.com/c/AdamKhoury/videos) = <https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg>
+- [2020.12] [aNNiMON](https://www.youtube.com/c/JavaNNiMON119/videos) = <https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg>
 - [2021.03] [Chris Coyier](https://www.youtube.com/user/realcsstricks/videos) = <https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA>
 - [2021.05] [Brad Hussey](https://www.youtube.com/c/hussey17/videos) = <https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA>
 - [2021.05] [DevTips](https://www.youtube.com/c/DevTipsForDesigners/videos) = <https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
