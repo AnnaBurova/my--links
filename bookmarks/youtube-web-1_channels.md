@@ -94,7 +94,6 @@ https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
 https://www.youtube.com/watch?v=XO77Fib9tSI&ab_channel=TheCodingTrain
 https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
 https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
-- [2021.05] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw/videos)
 ################################################################################
 
 - [2011.01] [basixnick](https://www.youtube.com/user/basixnick/videos) = <https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA>
@@ -114,3 +113,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.06] [Envato Tuts+](https://www.youtube.com/c/tutsplus/videos) = <https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q>
 - [2021.06] [Framework Tech Media](https://www.youtube.com/c/FrameworkTechMedia/videos) = <https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg>
 - [2021.06] [GeekBrains](https://www.youtube.com/c/progliveru/videos) = <https://www.youtube.com/channel/UCN6geF_MsLDEp5ISxXKgAFQ>
+- [2021.06] [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers/videos) = <https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw>
