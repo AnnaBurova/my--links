@@ -99,18 +99,18 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.05] [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw/videos)
 ################################################################################
 
-- [2011.01] [basixnick](https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA) = <https://www.youtube.com/user/basixnick/videos>
-- [2016.03] [Easy Learn Tutorial](https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew) = <https://www.youtube.com/c/easylearntutorial/videos>
-- [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ) = <https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos>
-- [2019.09] [easydevtips](https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw) = <https://www.youtube.com/c/easydevtuts/videos>
-- [2020.07] [Dmitry Tatarinov](https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A) = <https://www.youtube.com/c/DmitryTatarinov/videos>
-- [2020.09] [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) = <https://www.youtube.com/c/AdamKhoury/videos>
-- [2021.03] [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) = <https://www.youtube.com/user/realcsstricks/videos>
-- [2021.05] [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA) = <https://www.youtube.com/c/hussey17/videos>
-- [2021.05] [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) = <https://www.youtube.com/c/DevTipsForDesigners/videos>
-- [2021.06] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) = <https://www.youtube.com/c/Academind/videos>
-- [2021.06] [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) = <https://www.youtube.com/c/codecourse/videos>
-- [2021.06] [Coding with Glove](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw) = <https://www.youtube.com/c/CodingwithGlove/videos>
-- [2021.06] [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw) = <https://www.youtube.com/c/Darrelwilsonbug/videos>
-- [2021.06] [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) = <https://www.youtube.com/c/DesignCourse/videos>
-- [2021.06] [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) = <https://www.youtube.com/c/tutsplus/videos>
+- [2011.01] [basixnick](https://www.youtube.com/user/basixnick/videos) = <https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA>
+- [2016.03] [Easy Learn Tutorial](https://www.youtube.com/c/easylearntutorial/videos) = <https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew>
+- [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos) = <https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ>
+- [2019.09] [easydevtips](https://www.youtube.com/c/easydevtuts/videos) = <https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw>
+- [2020.07] [Dmitry Tatarinov](https://www.youtube.com/c/DmitryTatarinov/videos) = <https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A>
+- [2020.09] [Adam Khoury](https://www.youtube.com/c/AdamKhoury/videos) = <https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg>
+- [2021.03] [Chris Coyier](https://www.youtube.com/user/realcsstricks/videos) = <https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA>
+- [2021.05] [Brad Hussey](https://www.youtube.com/c/hussey17/videos) = <https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA>
+- [2021.05] [DevTips](https://www.youtube.com/c/DevTipsForDesigners/videos) = <https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
+- [2021.06] [Academind](https://www.youtube.com/c/Academind/videos) = <https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w>
+- [2021.06] [Codecourse](https://www.youtube.com/c/codecourse/videos) = <https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g>
+- [2021.06] [Coding with Glove](https://www.youtube.com/c/CodingwithGlove/videos) = <https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw>
+- [2021.06] [Darrel Wilson](https://www.youtube.com/c/Darrelwilsonbug/videos) = <https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw>
+- [2021.06] [DesignCourse](https://www.youtube.com/c/DesignCourse/videos) = <https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow>
+- [2021.06] [Envato Tuts+](https://www.youtube.com/c/tutsplus/videos) = <https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q>
