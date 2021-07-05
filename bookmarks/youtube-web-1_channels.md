@@ -50,7 +50,6 @@
 - [2020.01.28] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/videos)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
-- [2020.05.17] [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
 - [2020.09.03] [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/videos)
 - [2020.09.06] [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA/videos)
@@ -98,6 +97,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2016.03] [Easy Learn Tutorial](https://www.youtube.com/c/easylearntutorial/videos) = <https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew>
 - [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos) = <https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ>
 - [2019.09] [easydevtips](https://www.youtube.com/c/easydevtuts/videos) = <https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw>
+- [2020.05] [Joseph Smith](https://www.youtube.com/c/TheHelpingDevelop/videos) = <https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw>
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/c/DmitryTatarinov/videos) = <https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A>
 - [2020.09] [Adam Khoury](https://www.youtube.com/c/AdamKhoury/videos) = <https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg>
 - [2020.12] [aNNiMON](https://www.youtube.com/c/JavaNNiMON119/videos) = <https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg>
