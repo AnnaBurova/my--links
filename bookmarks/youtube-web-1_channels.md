@@ -46,7 +46,6 @@
 - [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ/videos)
 - [2019.04.05] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
-- [2020.01.28] [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/videos)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 - [2020.05.18] [ProgrammingKnowledge2](https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ)
@@ -114,3 +113,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.06] [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers/videos) = <https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw>
 - [2021.06] [John Morris](https://www.youtube.com/c/JohnMorrisOnline/videos) = <https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA>
 - [2021.06] [JREAM](https://www.youtube.com/c/Jream/videos) = <https://www.youtube.com/channel/UCFfuK45zBZxhq0m1bxYP-Zw>
+- [2021.06] [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/videos) = <https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw>
