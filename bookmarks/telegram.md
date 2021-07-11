@@ -121,6 +121,6 @@
 - [ ] Web_IT [WebDev](https://t.me/web_dev_humor/1)
 - [ ] Web_IT [WebDEV](https://t.me/webb_dev/1)
 - [ ] Web_IT [Webdevblog](https://t.me/webdevblogru/1)
-- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/11095) - page-udemy.com.md
-- [x] Courses [Udemy Free Courses](https://t.me/CourseTime/3584) - page-udemy.com.md
+- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/11175) - page-udemy.com.md
+- [x] Courses [Udemy Free Courses](https://t.me/CourseTime/3733) - page-udemy.com.md
 - [x](DEAD) Courses [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
