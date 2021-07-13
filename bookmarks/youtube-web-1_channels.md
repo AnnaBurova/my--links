@@ -43,7 +43,6 @@
 - [2017.04.11] [O'Reilly - Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/videos)
 - [2018.06.25] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g/videos)
 - [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ/videos)
-- [2019.04.05] [Magisters | Обучение современным профессиям](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
@@ -98,6 +97,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2020.07] [Dmitry Tatarinov](https://www.youtube.com/c/DmitryTatarinov/videos) = <https://www.youtube.com/channel/UCqGmFw8wurbav1q8tf3Zi8A>
 - [2020.09] [Adam Khoury](https://www.youtube.com/c/AdamKhoury/videos) = <https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg>
 - [2020.12] [aNNiMON](https://www.youtube.com/c/JavaNNiMON119/videos) = <https://www.youtube.com/channel/UCe-2zBJGYQ2M9HaWb0IAoJg>
+- [2021.02] [Magisters | Обучение современным профессиям](https://www.youtube.com/c/webmagistersru/videos) = <https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA>
 - [2021.03] [Chris Coyier](https://www.youtube.com/user/realcsstricks/videos) = <https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA>
 - [2021.05] [Brad Hussey](https://www.youtube.com/c/hussey17/videos) = <https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA>
 - [2021.05] [DevTips](https://www.youtube.com/c/DevTipsForDesigners/videos) = <https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
