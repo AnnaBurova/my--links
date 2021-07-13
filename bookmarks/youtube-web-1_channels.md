@@ -35,7 +35,6 @@
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [2014.04.13] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw/videos)
 - [2016.01.31] [Ruseller.com](https://www.youtube.com/channel/UCqp_CZbW5drSGH5AFflSfuA/videos)
-- [2016.05.02] [Programmierung Tutorials](https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw/videos)
 - [2016.07.05] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w/videos)
 - [2016.07.08] [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw/videos)
 - [2016.10.30] [Sorax](https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog/videos)
@@ -88,6 +87,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 
 - [2011.01] [basixnick](https://www.youtube.com/user/basixnick/videos) = <https://www.youtube.com/channel/UC6hMTO-QhmYQvpNTkhha2dA>
 - [2016.03] [Easy Learn Tutorial](https://www.youtube.com/c/easylearntutorial/videos) = <https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew>
+- [2016.05] [Programmierung Tutorials](https://www.youtube.com/user/Programmier2torials/videos) = <https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw>
 - [2016.07] [LessonFirst](https://www.youtube.com/c/lessonfirst/videos) = <https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ>
 - [2017.01] [CodexWeb](https://www.youtube.com/c/CodexWeb/videos) = <https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg>
 - [2017.04] [O'Reilly - Video Training](https://www.youtube.com/c/ifskills/videos) = <https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg>
