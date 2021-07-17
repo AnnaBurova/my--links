@@ -8,6 +8,7 @@
     - [ ] Books [Юваль Ной Харари - Sapiens - Краткая история человечества](https://t.me/c/1368748858/1)
     - [ ] Books [Flibusta Book — Канал](https://t.me/flibustafreebook/1)
     - [ ] Books [Flibusta Book — Книги](https://t.me/flibustafreebookbot/1)
+- [ ] [Office Hacks](https://t.me/hacks_office)
 - [ ] Courses [Архив книг по frontend](https://t.me/frontendarchive/1)
 - [ ] Courses [Архив программиста](https://t.me/techrocksarchive/1)
 - [ ] Courses [Дизайн-Телега](https://t.me/design_telega/1)
@@ -96,7 +97,6 @@
 - [ ] Web_IT [GIT - полезные IT сервисы](https://t.me/gitservices/1) | (https://t.me/c/1177342537/1)
 - [ ] Web_IT [IT лекции](https://t.me/itlecture/1)
 - [ ] Web_IT [IT юмор | Кот программиста](https://t.me/cat_prog/1)
-- [ ] Web_IT [IT Юмор](https://t.me/ithumor/1)
 - [ ] Web_IT [Java задачки тесты](https://t.me/javaquize/1)
 - [ ] Web_IT [JavaScript](https://t.me/we_use_js/1)
 - [ ] Web_IT [loldev(); - программирование](https://t.me/loldev/1)
@@ -121,6 +121,7 @@
 - [ ] Web_IT [WebDev](https://t.me/web_dev_humor/1)
 - [ ] Web_IT [WebDEV](https://t.me/webb_dev/1)
 - [ ] Web_IT [Webdevblog](https://t.me/webdevblogru/1)
-- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/11175) - page-udemy.com.md
-- [x] Courses [Udemy Free Courses](https://t.me/CourseTime/3733) - page-udemy.com.md
+- [_] Humor Web_IT [IT Юмор](https://t.me/ithumor/112)
+- [x] Courses [Udemy Courses Free](https://t.me/udemycoursesfree/11241) - page-udemy.com.md
+- [x] Courses [Udemy Free Courses](https://t.me/CourseTime/3852) - page-udemy.com.md
 - [x](DEAD) Courses [UdemyGratis](https://t.me/UdemyGratis/19767) - page-udemy.com.md
