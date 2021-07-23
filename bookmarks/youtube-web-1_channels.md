@@ -37,7 +37,6 @@
 - [2018.06.25] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
-- [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
 https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw
 https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
@@ -113,3 +112,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.07] [ProgrammingKnowledge](https://www.youtube.com/c/ProgrammingKnowledge/videos) = <https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA>
 - [2021.07] [ProgrammingKnowledge2](https://www.youtube.com/c/ProgrammingKnowledge2/videos) = <https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ>
 - [2021.07] [thenewboston](https://www.youtube.com/user/thenewboston/videos) = <https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw>
+- [2021.07] [WebForMySelf](https://www.youtube.com/user/webformyself/videos) = <https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA>
