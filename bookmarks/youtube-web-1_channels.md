@@ -36,7 +36,6 @@
 - [2014.04.13] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw/videos)
 - [2016.07.05] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w/videos)
 - [2016.07.08] [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw/videos)
-- [2016.10.30] [Sorax](https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog/videos)
 - [2018.06.25] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g/videos)
 - [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
@@ -87,6 +86,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2016.03] [Easy Learn Tutorial](https://www.youtube.com/c/easylearntutorial/videos) = <https://www.youtube.com/channel/UCOmFcwNbdxxRXR6Xza0m4Ew>
 - [2016.05] [Programmierung Tutorials](https://www.youtube.com/user/Programmier2torials/videos) = <https://www.youtube.com/channel/UCbW1_N8jyA4-OTO428LTyjw>
 - [2016.07] [LessonFirst](https://www.youtube.com/c/lessonfirst/videos) = <https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ>
+- [2016.10] [Sorax](https://www.youtube.com/c/artsorax/videos) = <https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog>
 - [2017.01] [CodexWeb](https://www.youtube.com/c/CodexWeb/videos) = <https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg>
 - [2017.04] [O'Reilly - Video Training](https://www.youtube.com/c/ifskills/videos) = <https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg>
 - [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos) = <https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ>
