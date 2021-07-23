@@ -112,3 +112,4 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2021.06] [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/videos) = <https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg>
 - [2021.07] [ProgrammingKnowledge](https://www.youtube.com/c/ProgrammingKnowledge/videos) = <https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA>
 - [2021.07] [ProgrammingKnowledge2](https://www.youtube.com/c/ProgrammingKnowledge2/videos) = <https://www.youtube.com/channel/UC8aFE06Cti9OnQcKpl6rDvQ>
+- [2021.07] [thenewboston](https://www.youtube.com/user/thenewboston/videos) = <https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw>
