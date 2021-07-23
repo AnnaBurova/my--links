@@ -35,9 +35,7 @@
 - [ ] [Хауди Хо - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg)
 - [2014.04.13] [webtheory](https://www.youtube.com/channel/UCD15yBvmQElLP7EFL8vW6Yw/videos)
 - [2016.07.05] [WebDevMentors](https://www.youtube.com/channel/UCMqC6THcgjvDMbdxa7TaZ7w/videos)
-- [2016.07.08] [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw/videos)
 - [2018.06.25] [Видеоуроки PHP](https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g/videos)
-- [2018.07.10] [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ/videos)
 - [2019.12.18] [Школа веб-дизайна Максима Солдаткина](https://www.youtube.com/channel/UCD2oiYqLVHUocIDh9iiDFIg/videos)
 - [2020.05.14] [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
 - [2020.05.15] [WebForMySelf](https://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA)
@@ -48,7 +46,6 @@ https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w
 https://www.youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w
 https://www.youtube.com/channel/UCg1x1VDcSzviGGH995gHnjw
 https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw
-https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
 https://www.youtube.com/channel/UCk1D1aQhYKvsIYqHLUNgaqA
 https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA
 https://www.youtube.com/channel/UCNW7HDseZb6N3nKUEP6uLag
@@ -89,6 +86,7 @@ https://www.youtube.com/channel/UClPV0mIZbj2bh0GwDEnw_sg
 - [2016.10] [Sorax](https://www.youtube.com/c/artsorax/videos) = <https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog>
 - [2017.01] [CodexWeb](https://www.youtube.com/c/CodexWeb/videos) = <https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg>
 - [2017.04] [O'Reilly - Video Training](https://www.youtube.com/c/ifskills/videos) = <https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg>
+- [2018.07] [Udemy Tech](https://www.youtube.com/c/UdemyTech/videos) = <https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ>
 - [2019.09] [Dipankar Biswas](https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ/videos) = <https://www.youtube.com/channel/UCVmP2ZiGYCJT1cuFSiF8dNQ>
 - [2019.09] [easydevtips](https://www.youtube.com/c/easydevtuts/videos) = <https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw>
 - [2020.05] [Joseph Smith](https://www.youtube.com/c/TheHelpingDevelop/videos) = <https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw>
